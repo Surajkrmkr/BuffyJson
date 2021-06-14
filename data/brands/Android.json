@@ -1,0 +1,380 @@
+{
+    "Android": {
+      "Images": [
+        {
+          "size": "8.7Mb",
+          "name": "Android Marshmallow",
+          "id": 5,
+          "downloads": 5,
+          "heroID": "Android5",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/pj9c8w7r8ndpeeu/Android%20Marshmallow_resize_24.jpg?dl=0",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/pd6k15b25wsi41k/Android%20Marshmallow4191010100.png?dl=0",
+          "designer": "Android",
+          "__collections__": {}
+        },
+      {
+          "compressUrl": "https://dl.dropboxusercontent.com/s/ykqhh5dvqcvlwd1/Android%2010-2_resize_89.jpg?dl=0",
+          "downloads": 6,
+          "heroID": "Android31",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/8379t50sw3womb9/Android%201032541010100.png?dl=0",
+          "name": "Android 10",
+          "size": "342.1Kb",
+          "id": 31,
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "size": "1.1Mb",
+          "id": 16,
+          "heroID": "Android16",
+          "name": "Android Oreo",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/4qlrs9ypvggp9s3/Android%20Oreo_resize_20.jpg?dl=0",
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/3t3qpz3cvqxwdj5/Android-7.0-Nougat-Stock-Wallpapers-2-2880-x-2560.jpg?dl=0",
+          "downloads": 3,
+          "__collections__": {}
+        },
+    {
+          "name": "Android Oreo",
+          "id": 20,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/gsv2tc1minsflgn/Android%20Oreo-1_resize_3.jpg?dl=0",
+          "designer": "Android",
+          "downloads": 8,
+          "heroID": "Android20",
+          "size": "4.1Mb",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/mi26l1115q02gje/Android%20Oreo%20Earth5121010100.png?dl=0",
+          "__collections__": {}
+        },
+    {
+          "id": 10,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/sri1b4axki6s1j1/Android%20Marshmallow4131010100.png?dl=0",
+          "designer": "Android",
+          "downloads": 4,
+          "name": "Android Marshmallow",
+          "size": "8.5Mb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/1biskdpktn3s5ba/Android%20Marshmallow-1_resize_33.jpg?dl=0",
+          "heroID": "Android10",
+          "__collections__": {}
+        },
+    {
+          "compressUrl": "https://dl.dropboxusercontent.com/s/20xvaw9f9rs2a43/Android%20L%20Material_resize_71.jpg?dl=0",
+          "designer": "Android",
+          "heroID": "Android1",
+          "downloads": 2,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/9wie6arxa941s5k/Android%20L%20Material331010100.png?dl=0",
+          "name": "Android L Material",
+          "id": 1,
+          "size": "275Kb",
+          "__collections__": {}
+        },
+    {
+          "id": 22,
+          "size": "580Kb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/e2ga81vpksyu2ha/Android%20P%20%28Pie%29_resize_60.jpg?dl=0",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/q9yzymtbhc9qk4x/ispazio-47.jpg?dl=0",
+          "downloads": 6,
+          "name": "Android P (Pie)",
+          "heroID": "Android22",
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "heroID": "Android11",
+          "size": "11.3Mb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/vthsr4vx9y4djps/Android%20Marshmallow_resize_8.jpg?dl=0",
+          "name": "Android Marshmallow",
+          "downloads": 4,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/78s5b4e83dhpwej/Android%20Marshmallow4141010100.png?dl=0",
+          "id": 11,
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "name": "Android 10",
+          "downloads": 2,
+          "id": 28,
+          "heroID": "Android28",
+          "size": "326.5Kb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/q57zylhjfxg6luo/Android%2010-5_resize_28.jpg?dl=0",
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/nh7zlzvz4qknft4/Android%201032551010100.png?dl=0",
+          "__collections__": {}
+        },
+    {
+          "size": "147.5Kb",
+          "name": "Android 10",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/81si40plalodxpu/Android%2010-8_resize_54.jpg?dl=0",
+          "id": 25,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/no7wdcwi013bck2/Android%201032501010100.png?dl=0",
+          "heroID": "Android25",
+          "designer": "Android",
+          "downloads": 10,
+          "__collections__": {}
+        },
+    {
+          "heroID": "Android24",
+          "designer": "Android",
+          "name": "Android P (Pie)",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/canikhf1kq2qycx/Android%20P%20%28Pie%29-1_resize_98.jpg?dl=0",
+          "id": 24,
+          "size": "1.1Mb",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/tfjd56mwsbnprha/android-p-wallpaper-13.png?dl=0",
+          "downloads": 3,
+          "__collections__": {}
+        },
+    {
+          "compressUrl": "https://dl.dropboxusercontent.com/s/622cc52gr3xfulm/Android%20Marshmallow-2_resize_67.jpg?dl=0",
+          "id": 6,
+          "name": "Android Marshmallow",
+          "size": "11Mb",
+          "downloads": 3,
+          "heroID": "Android6",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/kyep55tbpir6jh7/Android%20Marshmallow4211010100.png?dl=0",
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "size": "4.3Mb",
+          "heroID": "Android8",
+          "downloads": 5,
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/ckjaiqccf7rk8p0/Android%20Marshmallow4151010100.png?dl=0",
+          "id": 8,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/9sv6gqt6k2b2ezh/Android%20Marshmallow-4_resize_3.jpg?dl=0",
+          "name": "Android Marshmallow",
+          "__collections__": {}
+        },
+    {
+          "compressUrl": "https://dl.dropboxusercontent.com/s/054u1bm8d664eys/Android%20Marshmallow-5_resize_90.jpg?dl=0",
+          "id": 4,
+          "heroID": "Android4",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/093g1c3o8txztd3/Android%20Marshmallow4201010100.png?dl=0",
+          "size": "8.9Mb",
+          "designer": "Android",
+          "name": "Android Marshmallow",
+          "downloads": 4,
+          "__collections__": {}
+        },
+    {
+          "heroID": "Android3",
+          "downloads": 8,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/usqrajwz388z0ps/Android%20Marshmallow-6_resize_30.jpg?dl=0",
+          "id": 3,
+          "name": "Android Marshmallow",
+          "size": "6.3Mb",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/ifoo2biuloj62fi/Android%20Marshmallow4181010100.png?dl=0",
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "downloads": 2,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/q9i8as6mmv4fttu/Android%20Nougat-1_resize_95.jpg?dl=0",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/7wwg045pc5bxrkq/Android-7.0-Nougat-Stock-Wallpapers-3-2880-x-2560.jpg?dl=0",
+          "heroID": "Android15",
+          "id": 15,
+          "size": "1.6Mb",
+          "name": "Android Nougat",
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "downloads": 1,
+          "id": 30,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/6t4700wwciy18yb/Android%201032491010100.png?dl=0",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/svb7cjbih092a34/Android%2010-3_resize_30.jpg?dl=0",
+          "heroID": "Android30",
+          "size": "348.4Kb",
+          "name": "Android 10",
+          "designer": "Android",
+          "__collections__": {}
+        },
+    {
+          "name": "Android Marshmallow",
+          "id": 13,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/4nnylj183ggravi/Android%20Marshmallow-7_resize_68.jpg?dl=0",
+          "designer": "Android",
+          "size": "4.1Mb",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/kluiiljyxvljda3/Android%20Marshmallow351010100.png?dl=0",
+          "downloads": 4,
+          "heroID": "Android13",
+          "__collections__": {}
+        },
+    {
+          "downloads": 4,
+          "name": "Android Oreo",
+          "size": "6.6Mb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/3doyyuyvsbjmgrb/Android%20Oreo-2_resize_16.jpg?dl=0",
+          "id": 19,
+          "heroID": "Android19",
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/92bu9w8s7hdeira/Android%20Oreo5131010100.png?dl=0",
+          "__collections__": {}
+        },
+    {
+          "compressUrl": "https://dl.dropboxusercontent.com/s/izsm9mhf8an058r/Android%20Oreo-3_resize_39.jpg?dl=0",
+          "downloads": 2,
+          "designer": "Android",
+          "heroID": "Android17",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/s2byhb6uzyh120n/Android-7.0-Nougat-Stock-Wallpapers-1-2880-x-2560.jpg?dl=0",
+          "size": "2.6Mb",
+          "id": 17,
+          "name": "Android Oreo",
+          "__collections__": {}
+        },
+    {
+          "downloads": 5,
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/johvklckglj1e85/Android%20P13451010100.png?dl=0",
+          "name": "Android P (Pie)",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/jsma5938e8w5g28/Android%20P%20%28Pie%29-2_resize_57.jpg?dl=0",
+          "heroID": "Android23",
+          "size": "2.0Mb",
+          "id": 23,
+          "__collections__": {}
+        },
+    {
+          "downloads": 2,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/xxq379cakbeoaim/Android%20Marshmallow-8_resize_28.jpg?dl=0",
+          "name": "Android Marshmallow",
+          "heroID": "Android12",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/tdwswn3hiuo0tqe/Android%20Marshmallow4161010100.png?dl=0",
+          "id": 12,
+          "designer": "Android",
+          "size": "4.2Mb",
+          "__collections__": {}
+        },
+    {
+          "size": "790Kb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/93wt8y5ixjvmh1i/Android%20Nougat-2_resize_71.jpg?dl=0",
+          "designer": "Android",
+          "name": "Android Nougat",
+          "heroID": "Android18",
+          "downloads": 6,
+          "id": 18,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/9zceafl7vcr1cx0/Android%20Nougat411010100.png?dl=0",
+          "__collections__": {}
+        },
+    {
+          "id": 26,
+          "name": "Android 10",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/zhcnj6llffavheg/Android%2010-7_resize_19.jpg?dl=0",
+          "downloads": 2,
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/zpe1k3vpfydm9d2/Android%201032481010100.png?dl=0",
+          "heroID": "Android26",
+          "size": "172Kb",
+          "__collections__": {}
+        },
+    {
+          "imageUrl": "https://dl.dropboxusercontent.com/s/zoiun1n42n21oph/Android%20Oreo5111010100.png?dl=0",
+          "id": 21,
+          "downloads": 2,
+          "heroID": "Android21",
+          "designer": "Android",
+          "size": "4.6Mb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/8jr9adfct6w7lq7/Android%20Oreo-4_resize_27.jpg?dl=0",
+          "name": "Android Oreo",
+          "__collections__": {}
+        },
+    {
+          "size": "2.7Mb",
+          "name": "Android L Lollipop",
+          "designer": "Android",
+          "downloads": 3,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/lia0tom2akwbg1e/Android%20L%20Lollipop_resize_2.jpg?dl=0",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/1ava4zhmzo7f11n/Android%20Lollipop341010100.png?dl=0",
+          "id": 2,
+          "heroID": "Android2",
+          "__collections__": {}
+        },
+    {
+          "id": 34,
+          "heroID": "Android34",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/o15vgsgd12tq53g/Android%2011%20Default%20Wallpaper.png?dl=0",
+          "designer": "Android",
+          "downloads": 25,
+          "name": "Android 11",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/o15vgsgd12tq53g/Android%2011%20Default%20Wallpaper.png?dl=0",
+          "size": "2.7Mb",
+          "__collections__": {}
+        },
+    {
+          "designer": "Android",
+          "size": "312.4Kb",
+          "id": 32,
+          "heroID": "Android32",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/pi38sa52i8c4xgx/Android%2010-1_resize_62.jpg?dl=0",
+          "name": "Android 10",
+          "downloads": 2,
+          "imageUrl": "https://dl.dropboxusercontent.com/s/v1qcjx9chhgl52u/Android%201032511010100.png?dl=0",
+          "__collections__": {}
+        },
+    {
+          "imageUrl": "https://dl.dropboxusercontent.com/s/ln6z0rp2e1dqnee/Android-7.0-Nougat-Stock-Wallpapers-4-2880-x-2560.jpg?dl=0",
+          "name": "Android Nougat",
+          "heroID": "Android14",
+          "size": "1.0Mb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/0vsjwrn39wjfuma/Android%20Nougat_resize_26.jpg?dl=0",
+          "id": 14,
+          "designer": "Android",
+          "downloads": 4,
+          "__collections__": {}
+        },
+    {
+          "id": 9,
+          "name": "Android Marshmallow",
+          "heroID": "Android9",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/u33q6mwjngdqbr0/Android%20Marshmallow-9_resize_16.jpg?dl=0",
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/pt9folnnko10o1p/Android%20Marshmallow4171010100.png?dl=0",
+          "downloads": 6,
+          "size": "5.3Mb",
+          "__collections__": {}
+        },
+    {
+          "designer": "Android",
+          "downloads": 7,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/ypoqnsw4ouy3yth/Android%20Marshmallow-10_resize_55.jpg?dl=0",
+          "heroID": "Android7",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/yk83whgrx8409fd/Android%20Marshmallow361010100.png?dl=0",
+          "name": "Android Marshmallow",
+          "size": "372Kb",
+          "id": 7,
+          "__collections__": {}
+        },
+    {
+          "imageUrl": "https://dl.dropboxusercontent.com/s/oudbskq13cbx2u0/Android%201032521010100.png?dl=0",
+          "id": 29,
+          "size": "169.4Kb",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/4xrx0riieg7wfey/Android%2010-4_resize_0.jpg?dl=0",
+          "designer": "Android",
+          "name": "Android 10",
+          "downloads": 2,
+          "heroID": "Android29",
+          "__collections__": {}
+        },
+    {
+          "imageUrl": "https://dl.dropboxusercontent.com/s/zzy48ckrk08p6ci/Android%201032561010100.png?dl=0",
+          "size": "326.8Kb",
+          "designer": "Android",
+          "id": 27,
+          "downloads": 3,
+          "name": "Android 10",
+          "heroID": "Android27",
+          "compressUrl": "https://dl.dropboxusercontent.com/s/64w9lg1t5xvdoa0/Android%2010-6_resize_53.jpg?dl=0",
+          "__collections__": {}
+        },
+    {
+          "designer": "Android",
+          "imageUrl": "https://dl.dropboxusercontent.com/s/tnda62ntmze6kzi/Android%201032531010100.png?dl=0",
+          "heroID": "Android33",
+          "downloads": 9,
+          "name": "Android 10",
+          "size": "342.8Kb",
+          "id": 33,
+          "compressUrl": "https://dl.dropboxusercontent.com/s/6cqklvaj62g5ett/Android%2010_resize_4.jpg?dl=0",
+          "__collections__": {}
+        }
+    ]
+}
+}
