@@ -19,7 +19,7 @@
       "__collections__": {}
     },
 {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/6rrdi75a2cwqhgv/fox-minimal-10k-tr-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/1qqdlpg1co2ud3v/Minimal.jpg",
       "id": 5,
       "name": "Minimal",
       "__collections__": {}
@@ -51,13 +51,13 @@
 {
       "id": 3,
       "name": "Animals",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/jjmq4epfnrib6te/the-deer-5a-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/0tidsqf7t49ksa8/Animals.jpg",
       "__collections__": {}
     },
 {
       "id": 4,
       "name": "Cartoon",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/5xndywft7yedaw6/darkwingduck-4k-am-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/b0gl7pk1k6g8wkj/Cartoon.jpg",
       "__collections__": {}
     },
 {
@@ -74,7 +74,7 @@
     },
 {
       "name": "Nature",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/f36psdzi1mf6k21/dark-night-beautiful-sky-nl-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/90uwozvm4h10bnb/Nature.jpg",
       "id": 6,
       "__collections__": {}
     },
@@ -93,7 +93,7 @@
 {
       "id": 2,
       "name": "Abstract",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/xw828dosc2tmuiz/abstract-purple-blue-cell-4k-nd-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/9f07nppbbuoumoi/Abstract.jpg",
       "__collections__": {}
     },
 {
@@ -110,7 +110,7 @@
     },
 {
       "name": "Horror",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/u4bz86t3wk61a70/vampire-beast-jw-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/yx7epjtiqoxkp3d/Horror.jpg",
       "id": 8,
       "__collections__": {}
     },
@@ -135,7 +135,7 @@
 {
       "name": "Amoled",
       "id": 1,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/vswitbsi8qi0ro7/goku-and-his-team-fe-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/51whck9ljbx6f6o/Amoled.jpg",
       "__collections__": {}
     }
 ]  
