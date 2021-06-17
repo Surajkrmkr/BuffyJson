@@ -9,11 +9,11 @@
 {
       "id": 12,
       "name": "Movies",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/vpkqn48z905cr96/IMG_20200530_202618.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/uo38dfe7g6p75o7/movie.jpg",
       "__collections__": {}
     },
 {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/3nng416bg8dw4la/football-stadium-4k-2v-320x480.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/odygce03br2o3n6/sports.jpg",
       "name": "Sports",
       "id": 11,
       "__collections__": {}
@@ -27,7 +27,7 @@
 {
       "id": 15,
       "name": "Anime",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/vs420kz7mhu4p23/IMG_20200530_202551.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/ywnkflf3ua56znr/anime.jpg",
       "__collections__": {}
     },
 {
@@ -39,12 +39,12 @@
 {
       "name": "Music",
       "id": 9,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/b7hd3bqels9fnmb/IMG_20200530_202410.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/c3ub4te51uls5ed/music.jpg",
       "__collections__": {}
     },
 {
       "id": 10,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/80yidc9gqi3630g/IMG_20200530_202436.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/vjm4e4xctdhxybg/flower.jpg",
       "name": "Flower",
       "__collections__": {}
     },
@@ -81,11 +81,11 @@
 {
       "name": "Series",
       "id": 18,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/xya81ir4z3nmdgm/IMG_20200530_202517.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/7bfu36i9iu7snqo/Series.jpg",
       "__collections__": {}
     },
 {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/h4y3z3nkqmv0w3w/IMG_20200530_202649.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/exl2kgkjtwt84ru/games.jpg",
       "name": "Games",
       "id": 16,
       "__collections__": {}
@@ -99,12 +99,12 @@
 {
       "id": 13,
       "name": "Love",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/ertjf5145oov8ux/IMG_20200530_202609.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/asckc73uf8lgs9n/love.jpg",
       "__collections__": {}
     },
 {
       "id": 14,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/0cw629jpvhbtndq/IMG_20200530_202540.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/if32ul5o87h73su/sci-fi.jpg",
       "name": "Sci-Fi",
       "__collections__": {}
     },
@@ -122,7 +122,7 @@
     },
 {
       "name": "Piyush KPV",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/sgvfsz05dotrwza/orsrc56972_resize_29.jpg?dl=0",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/2y1va453q1rxp76/piyush%20kpv.png",
       "id": 19,
       "__collections__": {}
     },
