@@ -1,292 +1,292 @@
 {
-"Samsung": {
-      "Images": [
-     {
-          "designer": "Samsung",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/csekaloba8gtz74/Samsung%20Galaxy%20S2040201010100.png?dl=0",
-          "downloads": 8,
-          "id": 11,
-          "name": "Galaxy S20",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/s7csig397xxry6j/Samsung%20Galaxy%20S2040201010100_resize_93.jpg?dl=0",
-          "heroID": "Samsung11",
-          "size": "7.2Mb",
-          "__collections__": {}
-        },
-    {
-          "size": "2.1Mb",
-          "designer": "Samsung",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/j9mfikqg2gl8xto/Samsung%20Galaxy%20Note%201031431010100_resize_11.jpg?dl=0",
-          "name": "Galaxy Note 10",
-          "heroID": "Samsung3",
-          "downloads": 9,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/ksqcf5zcxm6twu9/Samsung%20Galaxy%20Note%201031431010100.png?dl=0",
-          "id": 3,
-          "__collections__": {}
-        },
-    {
-          "name": "Galaxy S20",
-          "designer": "Samsung",
-          "heroID": "Samsung14",
-          "id": 14,
-          "size": "3.5Mb",
-          "downloads": 10,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/2fuea0lz6tglylm/Samsung%20Galaxy%20S2040151010100.png?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/k8jg2nfsbvtkf1u/Samsung%20Galaxy%20S2040151010100_resize_36.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "downloads": 2,
-          "designer": "Samsung",
-          "heroID": "Samsung18",
-          "id": 18,
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/yb6g77uea8qa8bk/01.jpg?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/8ww5r1fpesz2tps/01_resize_37.jpg?dl=0",
-          "size": "633.1Kb",
-          "__collections__": {}
-        },
-    {
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "size": "1.9Mb",
-          "designer": "Samsung",
-          "downloads": 9,
-          "id": 22,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/9qg5r8ycv716grb/05.jpg?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/o0s9b2qvc5jxww8/05_resize_27.jpg?dl=0",
-          "heroID": "Samsung22",
-          "__collections__": {}
-        },
-    {
-          "imageUrl": "https://dl.dropboxusercontent.com/s/bxzwwfc5gubvb1w/Samsung%20Galaxy%20Note%201031411010100.png?dl=0",
-          "name": "Galaxy Note 10",
-          "size": "4.9Mb",
-          "downloads": 3,
-          "id": 4,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/4d1tt3dzncld4l9/Samsung%20Galaxy%20Note%201031411010100_resize_24.jpg?dl=0",
-          "designer": "Samsung",
-          "heroID": "Samsung4",
-          "__collections__": {}
-        },
-    {
-          "size": "971.3Kb",
-          "id": 19,
-          "heroID": "Samsung19",
-          "downloads": 6,
-          "designer": "Samsung",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/rc176trn7vmuob0/02.jpg?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/t5lz1vbah83ms1u/02_resize_99.jpg?dl=0",
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "__collections__": {}
-        },
-    {
-          "imageUrl": "https://dl.dropboxusercontent.com/s/2vufnvag3ee16t5/Samsung%20Galaxy%20ZFlip40341010100.png?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/ihixujyaxufhlf4/Samsung%20Galaxy%20ZFlip40341010100_resize_50.jpg?dl=0",
-          "designer": "Samsung",
-          "name": "Galaxy Z Flip",
-          "heroID": "Samsung8",
-          "downloads": 15,
-          "size": "1.4Mb",
-          "id": 8,
-          "__collections__": {}
-        },
-    {
-          "designer": "Samsung",
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "size": "738.5Kb",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/2e4yqofuye1xgig/03_resize_65.jpg?dl=0",
-          "downloads": 7,
-          "id": 20,
-          "heroID": "Samsung20",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/jponfwfk11m6e8u/03.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "size": "1.8Mb",
-          "designer": "Samsung",
-          "heroID": "Samsung1",
-          "id": 1,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/h41en0ihc3ktspy/Samsung%20Galaxy%20Note%201031481010100.png?dl=0",
-          "downloads": 14,
-          "name": "Galaxy Note 10",
-          "compressUrl": "https://dl.dropbox.com/s/tutz5rgaaazyk1t/Samsung%20Galaxy%20Note%201031481010100_resize_67.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "heroID": "Samsung9",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/w3sbfy18cagkv0j/Samsung%20Galaxy%20ZFlip40331010100.png?dl=0",
-          "id": 9,
-          "name": "Galaxy Z Flip",
-          "size": "1.4Mb",
-          "designer": "Samsung",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/w49u6ky43dhgb7i/Samsung%20Galaxy%20ZFlip40331010100_resize_10.jpg?dl=0",
-          "downloads": 12,
-          "__collections__": {}
-        },
-    {
-          "downloads": 8,
-          "designer": "Samsung",
-          "id": 16,
-          "size": "6.9Mb",
-          "name": "Galaxy S20",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/xoaz5zkv07go4h3/Samsung%20Galaxy%20S2040211010100_resize_95.jpg?dl=0",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/q6v7xifvbjf3uw4/Samsung%20Galaxy%20S2040211010100.png?dl=0",
-          "heroID": "Samsung16",
-          "__collections__": {}
-        },
-    {
-          "id": 25,
-          "designer": "Samsung",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/o7dkjvw0bjvr5q5/01.png?dl=0",
-          "downloads": 4,
-          "name": "Galaxy Tab 2 10.1 (AT&T)",
-          "heroID": "Samsung25",
-          "size": "526.7Kb",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/y0nichcdgi3pfvu/01_resize_87.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "imageUrl": "https://dl.dropboxusercontent.com/s/rqrepc0ev7qs3bc/Samsung%20Galaxy%20Note%201031401010100.png?dl=0",
-          "downloads": 3,
-          "size": "4.7Mb",
-          "heroID": "Samsung7",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/kr6ez2n1szb1ey8/Samsung%20Galaxy%20Note%201031401010100_resize_27.jpg?dl=0",
-          "name": "Galaxy Note 10",
-          "designer": "Samsung",
-          "id": 7,
-          "__collections__": {}
-        },
-    {
-          "id": 21,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/0vjsmjxi0ie95as/04_resize_26.jpg?dl=0",
-          "heroID": "Samsung21",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/8aa0blge3o7p60v/04.jpg?dl=0",
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "designer": "Samsung",
-          "downloads": 5,
-          "size": "2.0Mb",
-          "__collections__": {}
-        },
-    {
-          "size": "2.6Mb",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/fd4tyiiak8c568t/Samsung%20Galaxy%20S2040191010100.png?dl=0",
-          "id": 10,
-          "name": "Galaxy S20",
-          "heroID": "Samsung10",
-          "downloads": 8,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/5z6ax3zqlbe3zzr/Samsung%20Galaxy%20S2040191010100_resize_82.jpg?dl=0",
-          "designer": "Samsung",
-          "__collections__": {}
-        },
-    {
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "designer": "Samsung",
-          "heroID": "Samsung23",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/ufforj0g9u6pqiu/06_resize_8.jpg?dl=0",
-          "downloads": 5,
-          "id": 23,
-          "size": "2.3Mb",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/ykev535mci4vdcv/06.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "size": "4.0Mb",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/f2adjbtkpx7nbfu/Samsung%20Galaxy%20Note%201031451010100.png?dl=0",
-          "designer": "Samsung",
-          "name": "Galaxy Note 10",
-          "downloads": 4,
-          "heroID": "Samsung5",
-          "id": 5,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/r8vi66nqlvg2gn5/Samsung%20Galaxy%20Note%201031451010100_resize_52.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "id": 6,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/h1b69jvpagalidm/Samsung%20Galaxy%20Note%201031421010100.png?dl=0",
-          "name": "Galaxy Note 10",
-          "downloads": 5,
-          "designer": "Samsung",
-          "heroID": "Samsung6",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/x9slj5oqq65uz9v/Samsung%20Galaxy%20Note%201031421010100_resize_30.jpg?dl=0",
-          "size": "1.3Mb",
-          "__collections__": {}
-        },
-    {
-          "id": 24,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/mceixx8jnbh4py5/07_resize_16.jpg?dl=0",
-          "heroID": "Samsung24",
-          "name": "Galaxy Tab 10.1 (DOCOMO)",
-          "downloads": 8,
-          "designer": "Samsung",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/yr2ynhc6krw0psb/07.jpg?dl=0",
-          "size": "2.0Mb",
-          "__collections__": {}
-        },
-    {
-          "heroID": "Samsung12",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/wx08haa3mhvstd3/Samsung%20Galaxy%20S2040181010100.png?dl=0",
-          "name": "Galaxy S20",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/b7upw4f3h0f1aen/Samsung%20Galaxy%20S2040181010100_resize_5.jpg?dl=0",
-          "downloads": 11,
-          "id": 12,
-          "designer": "Samsung",
-          "size": "4.5Mb",
-          "__collections__": {}
-        },
-    {
-          "compressUrl": "https://dl.dropboxusercontent.com/s/f7z5p0s69exzvuy/Samsung%20Galaxy%20S2040221010100_resize_23.jpg?dl=0",
-          "name": "Galaxy S20",
-          "designer": "Samsung",
-          "id": 13,
-          "heroID": "Samsung13",
-          "size": "7.2Mb",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/8790q0aytk2nz6g/Samsung%20Galaxy%20S2040221010100.png?dl=0",
-          "downloads": 13,
-          "__collections__": {}
-        },
-    {
-          "heroID": "Samsung26",
-          "size": "579.7Kb",
-          "downloads": 5,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/t33y2layd1zgt0m/02.png?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/jbk4hb7ucsbmvgm/02_resize_95.jpg?dl=0",
-          "designer": "Samsung",
-          "id": 26,
-          "name": "Galaxy Tab 2 10.1 (AT&T)",
-          "__collections__": {}
-        },
-    {
-          "compressUrl": "https://dl.dropboxusercontent.com/s/rgt7npaczfncpbj/Samsung%20Galaxy%20Note%201031471010100_resize_85.jpg?dl=0",
-          "downloads": 7,
-          "name": "Galaxy Note 10",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/lly0fzj2nd5emgd/Samsung%20Galaxy%20Note%201031471010100.png?dl=0",
-          "id": 2,
-          "designer": "Samsung",
-          "heroID": "Samsung2",
-          "size": "5.5Mb",
-          "__collections__": {}
-        },
-    {
-          "name": "Galaxy S20",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/3qf9u5hw88hjlgn/Samsung%20Galaxy%20S2040171010100.png?dl=0",
-          "downloads": 14,
-          "id": 17,
-          "size": "4.1Mb",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/b9v72x9nagta90l/Samsung%20Galaxy%20S2040171010100_resize_99.jpg?dl=0",
-          "designer": "Samsung",
-          "heroID": "Samsung17",
-          "__collections__": {}
-        },
-    {
-          "name": "Galaxy S20",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/zavs4h3y0v3k6cl/Samsung%20Galaxy%20S2040161010100.png?dl=0",
-          "id": 15,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/pv87xkb0agqvzi2/Samsung%20Galaxy%20S2040161010100_resize_80.jpg?dl=0",
-          "heroID": "Samsung15",
-          "size": "4.4Mb",
-          "designer": "Samsung",
-          "downloads": 12,
-          "__collections__": {}
-        }
+  "Samsung": {
+    "Images": [
+      {
+        "heroID": "Samsung26",
+        "size": "579.7Kb",
+        "downloads": 5,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/t33y2layd1zgt0m/02.png?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/jbk4hb7ucsbmvgm/02_resize_95.jpg?dl=0",
+        "designer": "Samsung",
+        "id": 26,
+        "name": "Galaxy Tab 2 10.1 (AT&T)",
+        "__collections__": {}
+      },
+      {
+        "id": 25,
+        "designer": "Samsung",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/o7dkjvw0bjvr5q5/01.png?dl=0",
+        "downloads": 4,
+        "name": "Galaxy Tab 2 10.1 (AT&T)",
+        "heroID": "Samsung25",
+        "size": "526.7Kb",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/y0nichcdgi3pfvu/01_resize_87.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "id": 24,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/mceixx8jnbh4py5/07_resize_16.jpg?dl=0",
+        "heroID": "Samsung24",
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "downloads": 8,
+        "designer": "Samsung",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/yr2ynhc6krw0psb/07.jpg?dl=0",
+        "size": "2.0Mb",
+        "__collections__": {}
+      },
+      {
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "designer": "Samsung",
+        "heroID": "Samsung23",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/ufforj0g9u6pqiu/06_resize_8.jpg?dl=0",
+        "downloads": 5,
+        "id": 23,
+        "size": "2.3Mb",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/ykev535mci4vdcv/06.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "size": "1.9Mb",
+        "designer": "Samsung",
+        "downloads": 9,
+        "id": 22,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/9qg5r8ycv716grb/05.jpg?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/o0s9b2qvc5jxww8/05_resize_27.jpg?dl=0",
+        "heroID": "Samsung22",
+        "__collections__": {}
+      },
+      {
+        "id": 21,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/0vjsmjxi0ie95as/04_resize_26.jpg?dl=0",
+        "heroID": "Samsung21",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/8aa0blge3o7p60v/04.jpg?dl=0",
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "designer": "Samsung",
+        "downloads": 5,
+        "size": "2.0Mb",
+        "__collections__": {}
+      },
+      {
+        "designer": "Samsung",
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "size": "738.5Kb",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/2e4yqofuye1xgig/03_resize_65.jpg?dl=0",
+        "downloads": 7,
+        "id": 20,
+        "heroID": "Samsung20",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/jponfwfk11m6e8u/03.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "size": "971.3Kb",
+        "id": 19,
+        "heroID": "Samsung19",
+        "downloads": 6,
+        "designer": "Samsung",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/rc176trn7vmuob0/02.jpg?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/t5lz1vbah83ms1u/02_resize_99.jpg?dl=0",
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "__collections__": {}
+      },
+      {
+        "downloads": 2,
+        "designer": "Samsung",
+        "heroID": "Samsung18",
+        "id": 18,
+        "name": "Galaxy Tab 10.1 (DOCOMO)",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/yb6g77uea8qa8bk/01.jpg?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/8ww5r1fpesz2tps/01_resize_37.jpg?dl=0",
+        "size": "633.1Kb",
+        "__collections__": {}
+      },
+      {
+        "name": "Galaxy S20",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/3qf9u5hw88hjlgn/Samsung%20Galaxy%20S2040171010100.png?dl=0",
+        "downloads": 14,
+        "id": 17,
+        "size": "4.1Mb",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/b9v72x9nagta90l/Samsung%20Galaxy%20S2040171010100_resize_99.jpg?dl=0",
+        "designer": "Samsung",
+        "heroID": "Samsung17",
+        "__collections__": {}
+      },
+      {
+        "downloads": 8,
+        "designer": "Samsung",
+        "id": 16,
+        "size": "6.9Mb",
+        "name": "Galaxy S20",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/xoaz5zkv07go4h3/Samsung%20Galaxy%20S2040211010100_resize_95.jpg?dl=0",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/q6v7xifvbjf3uw4/Samsung%20Galaxy%20S2040211010100.png?dl=0",
+        "heroID": "Samsung16",
+        "__collections__": {}
+      },
+      {
+        "name": "Galaxy S20",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/zavs4h3y0v3k6cl/Samsung%20Galaxy%20S2040161010100.png?dl=0",
+        "id": 15,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/pv87xkb0agqvzi2/Samsung%20Galaxy%20S2040161010100_resize_80.jpg?dl=0",
+        "heroID": "Samsung15",
+        "size": "4.4Mb",
+        "designer": "Samsung",
+        "downloads": 12,
+        "__collections__": {}
+      },
+      {
+        "name": "Galaxy S20",
+        "designer": "Samsung",
+        "heroID": "Samsung14",
+        "id": 14,
+        "size": "3.5Mb",
+        "downloads": 10,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/2fuea0lz6tglylm/Samsung%20Galaxy%20S2040151010100.png?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/k8jg2nfsbvtkf1u/Samsung%20Galaxy%20S2040151010100_resize_36.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://dl.dropboxusercontent.com/s/f7z5p0s69exzvuy/Samsung%20Galaxy%20S2040221010100_resize_23.jpg?dl=0",
+        "name": "Galaxy S20",
+        "designer": "Samsung",
+        "id": 13,
+        "heroID": "Samsung13",
+        "size": "7.2Mb",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/8790q0aytk2nz6g/Samsung%20Galaxy%20S2040221010100.png?dl=0",
+        "downloads": 13,
+        "__collections__": {}
+      },
+      {
+        "heroID": "Samsung12",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/wx08haa3mhvstd3/Samsung%20Galaxy%20S2040181010100.png?dl=0",
+        "name": "Galaxy S20",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/b7upw4f3h0f1aen/Samsung%20Galaxy%20S2040181010100_resize_5.jpg?dl=0",
+        "downloads": 11,
+        "id": 12,
+        "designer": "Samsung",
+        "size": "4.5Mb",
+        "__collections__": {}
+      },
+      {
+        "designer": "Samsung",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/csekaloba8gtz74/Samsung%20Galaxy%20S2040201010100.png?dl=0",
+        "downloads": 8,
+        "id": 11,
+        "name": "Galaxy S20",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/s7csig397xxry6j/Samsung%20Galaxy%20S2040201010100_resize_93.jpg?dl=0",
+        "heroID": "Samsung11",
+        "size": "7.2Mb",
+        "__collections__": {}
+      },
+      {
+        "size": "2.6Mb",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/fd4tyiiak8c568t/Samsung%20Galaxy%20S2040191010100.png?dl=0",
+        "id": 10,
+        "name": "Galaxy S20",
+        "heroID": "Samsung10",
+        "downloads": 8,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/5z6ax3zqlbe3zzr/Samsung%20Galaxy%20S2040191010100_resize_82.jpg?dl=0",
+        "designer": "Samsung",
+        "__collections__": {}
+      },
+      {
+        "heroID": "Samsung9",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/w3sbfy18cagkv0j/Samsung%20Galaxy%20ZFlip40331010100.png?dl=0",
+        "id": 9,
+        "name": "Galaxy Z Flip",
+        "size": "1.4Mb",
+        "designer": "Samsung",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/w49u6ky43dhgb7i/Samsung%20Galaxy%20ZFlip40331010100_resize_10.jpg?dl=0",
+        "downloads": 12,
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://dl.dropboxusercontent.com/s/2vufnvag3ee16t5/Samsung%20Galaxy%20ZFlip40341010100.png?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/ihixujyaxufhlf4/Samsung%20Galaxy%20ZFlip40341010100_resize_50.jpg?dl=0",
+        "designer": "Samsung",
+        "name": "Galaxy Z Flip",
+        "heroID": "Samsung8",
+        "downloads": 15,
+        "size": "1.4Mb",
+        "id": 8,
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://dl.dropboxusercontent.com/s/rqrepc0ev7qs3bc/Samsung%20Galaxy%20Note%201031401010100.png?dl=0",
+        "downloads": 3,
+        "size": "4.7Mb",
+        "heroID": "Samsung7",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/kr6ez2n1szb1ey8/Samsung%20Galaxy%20Note%201031401010100_resize_27.jpg?dl=0",
+        "name": "Galaxy Note 10",
+        "designer": "Samsung",
+        "id": 7,
+        "__collections__": {}
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/h1b69jvpagalidm/Samsung%20Galaxy%20Note%201031421010100.png?dl=0",
+        "name": "Galaxy Note 10",
+        "downloads": 5,
+        "designer": "Samsung",
+        "heroID": "Samsung6",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/x9slj5oqq65uz9v/Samsung%20Galaxy%20Note%201031421010100_resize_30.jpg?dl=0",
+        "size": "1.3Mb",
+        "__collections__": {}
+      },
+      {
+        "size": "4.0Mb",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/f2adjbtkpx7nbfu/Samsung%20Galaxy%20Note%201031451010100.png?dl=0",
+        "designer": "Samsung",
+        "name": "Galaxy Note 10",
+        "downloads": 4,
+        "heroID": "Samsung5",
+        "id": 5,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/r8vi66nqlvg2gn5/Samsung%20Galaxy%20Note%201031451010100_resize_52.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://dl.dropboxusercontent.com/s/bxzwwfc5gubvb1w/Samsung%20Galaxy%20Note%201031411010100.png?dl=0",
+        "name": "Galaxy Note 10",
+        "size": "4.9Mb",
+        "downloads": 3,
+        "id": 4,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/4d1tt3dzncld4l9/Samsung%20Galaxy%20Note%201031411010100_resize_24.jpg?dl=0",
+        "designer": "Samsung",
+        "heroID": "Samsung4",
+        "__collections__": {}
+      },
+      {
+        "size": "2.1Mb",
+        "designer": "Samsung",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/j9mfikqg2gl8xto/Samsung%20Galaxy%20Note%201031431010100_resize_11.jpg?dl=0",
+        "name": "Galaxy Note 10",
+        "heroID": "Samsung3",
+        "downloads": 9,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/ksqcf5zcxm6twu9/Samsung%20Galaxy%20Note%201031431010100.png?dl=0",
+        "id": 3,
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://dl.dropboxusercontent.com/s/rgt7npaczfncpbj/Samsung%20Galaxy%20Note%201031471010100_resize_85.jpg?dl=0",
+        "downloads": 7,
+        "name": "Galaxy Note 10",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/lly0fzj2nd5emgd/Samsung%20Galaxy%20Note%201031471010100.png?dl=0",
+        "id": 2,
+        "designer": "Samsung",
+        "heroID": "Samsung2",
+        "size": "5.5Mb",
+        "__collections__": {}
+      },
+      {
+        "size": "1.8Mb",
+        "designer": "Samsung",
+        "heroID": "Samsung1",
+        "id": 1,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/h41en0ihc3ktspy/Samsung%20Galaxy%20Note%201031481010100.png?dl=0",
+        "downloads": 14,
+        "name": "Galaxy Note 10",
+        "compressUrl": "https://dl.dropbox.com/s/tutz5rgaaazyk1t/Samsung%20Galaxy%20Note%201031481010100_resize_67.jpg?dl=0",
+        "__collections__": {}
+      }
     ]
-    }
   }
+}

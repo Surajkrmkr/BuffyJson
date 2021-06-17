@@ -1,100 +1,100 @@
 {
-    "Brands": [
+  "Brands": [
     {
-        "name": "ZTE",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/ofz9q4x8uaikj59/20200526_104240.png?dl=0",
-        "id": 16,
-        "__collections__": {}
-      },
+      "name": "ZTE",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/ofz9q4x8uaikj59/20200526_104240.png?dl=0",
+      "id": 16,
+      "__collections__": {}
+    },
     {
-        "id": 9,
-        "name": "Oppo",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/zk5shd78z5w5gzv/20200526_102328.jpg?dl=0",
-        "__collections__": {}
-      },
+      "imageUrl": "https://dl.dropboxusercontent.com/s/r5di98z3l5sqcmr/20200526_102138.jpg?dl=0",
+      "id": 15,
+      "name": "Xiaomi",
+      "__collections__": {}
+    },
     {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/r5di98z3l5sqcmr/20200526_102138.jpg?dl=0",
-        "id": 15,
-        "name": "Xiaomi",
-        "__collections__": {}
-      },
+      "name": "Vivo",
+      "id": 14,
+      "imageUrl": "https://dl.dropboxusercontent.com/s/gena9dy8gioy5aw/20200526_102209.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "name": "Android",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/3ep0vtajpidctst/Android.jpg?dl=0",
-        "id": 1,
-        "__collections__": {}
-      },
+      "imageUrl": "https://dl.dropboxusercontent.com/s/412h3bmxjkfw7v9/20200526_102221.jpg?dl=0",
+      "id": 13,
+      "name": "Sony",
+      "__collections__": {}
+    },
     {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/412h3bmxjkfw7v9/20200526_102221.jpg?dl=0",
-        "id": 13,
-        "name": "Sony",
-        "__collections__": {}
-      },
+      "id": 12,
+      "name": "Samsung",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/gvu8k7sotyvv49k/20200526_102233.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/bwpjb02ko3aa2f1/20200526_104217.jpg?dl=0",
-        "id": 7,
-        "name": "MIUI",
-        "__collections__": {}
-      },
+      "imageUrl": "https://dl.dropboxusercontent.com/s/0mgmfgroip1rdv0/20200526_102245.jpg?dl=0",
+      "name": "Realme",
+      "id": 11,
+      "__collections__": {}
+    },
     {
-        "id": 12,
-        "name": "Samsung",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/gvu8k7sotyvv49k/20200526_102233.jpg?dl=0",
-        "__collections__": {}
-      },
+      "imageUrl": "https://dl.dropboxusercontent.com/s/xa7o6nkc6tiws3h/20200526_104233.jpg?dl=0",
+      "id": 10,
+      "name": "OnePlus",
+      "__collections__": {}
+    },
     {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/xa7o6nkc6tiws3h/20200526_104233.jpg?dl=0",
-        "id": 10,
-        "name": "OnePlus",
-        "__collections__": {}
-      },
+      "id": 9,
+      "name": "Oppo",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/zk5shd78z5w5gzv/20200526_102328.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "id": 2,
-        "name": "Apple",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/b7zvubb0yvjcf0u/20200526_104132.jpg?dl=0",
-        "__collections__": {}
-      },
+      "name": "Motorola",
+      "id": 8,
+      "imageUrl": "https://dl.dropboxusercontent.com/s/3sm5y2j23mdyy32/20200526_104226.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "name": "Motorola",
-        "id": 8,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/3sm5y2j23mdyy32/20200526_104226.jpg?dl=0",
-        "__collections__": {}
-      },
+      "imageUrl": "https://dl.dropboxusercontent.com/s/bwpjb02ko3aa2f1/20200526_104217.jpg?dl=0",
+      "id": 7,
+      "name": "MIUI",
+      "__collections__": {}
+    },
     {
-        "id": 6,
-        "name": "Huawei",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/x3xysnp7d640jii/20200526_104200.jpg?dl=0",
-        "__collections__": {}
-      },
+      "id": 6,
+      "name": "Huawei",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/x3xysnp7d640jii/20200526_104200.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/0mgmfgroip1rdv0/20200526_102245.jpg?dl=0",
-        "name": "Realme",
-        "id": 11,
-        "__collections__": {}
-      },
+      "imageUrl": "https://dl.dropboxusercontent.com/s/lnnr3ve3yh27kia/20200526_102351.jpg?dl=0",
+      "id": 5,
+      "name": "HTC",
+      "__collections__": {}
+    },
     {
-        "name": "Vivo",
-        "id": 14,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/gena9dy8gioy5aw/20200526_102209.jpg?dl=0",
-        "__collections__": {}
-      },
+      "id": 4,
+      "name": "Google",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/dnz750n8pw8zhdk/20200526_104143.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "id": 4,
-        "name": "Google",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/dnz750n8pw8zhdk/20200526_104143.jpg?dl=0",
-        "__collections__": {}
-      },
+      "name": "Asus",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/ggnb6pavqbq3fsh/20200526_102358.jpg?dl=0",
+      "id": 3,
+      "__collections__": {}
+    },
     {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/lnnr3ve3yh27kia/20200526_102351.jpg?dl=0",
-        "id": 5,
-        "name": "HTC",
-        "__collections__": {}
-      },
+      "id": 2,
+      "name": "Apple",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/b7zvubb0yvjcf0u/20200526_104132.jpg?dl=0",
+      "__collections__": {}
+    },
     {
-        "name": "Asus",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/ggnb6pavqbq3fsh/20200526_102358.jpg?dl=0",
-        "id": 3,
-        "__collections__": {}
-      }
-    ]
+      "name": "Android",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/3ep0vtajpidctst/Android.jpg?dl=0",
+      "id": 1,
+      "__collections__": {}
     }
+  ]
+}

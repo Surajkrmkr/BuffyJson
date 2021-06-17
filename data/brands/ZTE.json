@@ -1,226 +1,226 @@
 {
-"ZTE": {
-      "Images": [
-    {
-          "name": "Red Magic 3",
-          "heroID": "ZTE13",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/vqqxrfzmqj2nrwt/ZTE%20Red%20Magic%20326371010100_resize_77.jpg?dl=0",
-          "downloads": 0,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/yym03g5y1pr84v3/ZTE%20Red%20Magic%20326371010100.png?dl=0",
-          "size": "1.3Mb",
-          "designer": "ZTE",
-          "id": 13,
-          "__collections__": {}
-        },
-    {
-          "compressUrl": "https://dl.dropboxusercontent.com/s/67n2qze7bi1sjlq/Red%20Magic%203-2_resize_6.jpg?dl=0",
-          "heroID": "ZTE14",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/iyzc2lbo1mo1n8a/ZTE%20Red%20Magic%20326391010100.png?dl=0",
-          "id": 14,
-          "size": "1.2Mb",
-          "downloads": 2,
-          "designer": "ZTE",
-          "name": "Red Magic 3",
-          "__collections__": {}
-        },
-    {
-          "downloads": 3,
-          "id": 15,
-          "size": "960Kb",
-          "name": "Red Magic 3",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/5jk07tlnioeu4j4/Red%20Magic%203-1_resize_32.jpg?dl=0",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/z2buml4e99l0rsw/ZTE%20Red%20Magic%20326401010100.png?dl=0",
-          "designer": "ZTE",
-          "heroID": "ZTE15",
-          "__collections__": {}
-        },
-    {
-          "downloads": 0,
-          "size": "2.0Mb",
-          "heroID": "ZTE10",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/0t8dm0n1h8nxpvz/Redmagic%205G_Wallpaper%2005.png?dl=0",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/fw0tfmgjdk9rry6/Red%20Magic%205G-1_resize_91.jpg?dl=0",
-          "name": "Red Magic 5G",
-          "designer": "ZTE",
-          "id": 10,
-          "__collections__": {}
-        },
-    {
-          "id": 7,
-          "designer": "ZTE",
-          "heroID": "ZTE7",
-          "size": "3.3Mb",
-          "downloads": 3,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/cvx6szqzzzktwcc/Red%20Magic%205G-2_resize_37.jpg?dl=0",
-          "name": "Red Magic 5G",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/4sl6uh5lglfg8qk/Redmagic%205G_Wallpaper%2002.png?dl=0",
-          "__collections__": {}
-        },
-    {
-          "downloads": 5,
-          "id": 17,
-          "heroID": "ZTE17",
-          "size": "1.4Mb",
-          "name": "Red Magic 3",
-          "designer": "ZTE",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/8k9v6059gic00qr/Red%20Magic%203_resize_71.jpg?dl=0",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/im3qstg6bukj3ya/ZTE%20Red%20Magic%20326411010100.png?dl=0",
-          "__collections__": {}
-        },
-    {
-          "size": "810Kb",
-          "heroID": "ZTE5",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/2rogdi1ou7bg8fk/Red%20Magic%203S_resize_26.jpg?dl=0",
-          "downloads": 9,
-          "designer": "ZTE",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/25wzsuq2lgk5xl4/Nubia%20Red%20Magic%203s_Default%20Wallpaper.png?dl=0",
-          "id": 5,
-          "name": "Red Magic 3S",
-          "__collections__": {}
-        },
-    {
-          "size": "400Kb",
-          "heroID": "ZTE11",
-          "downloads": 4,
-          "id": 11,
-          "name": "Red Magic Transparent Edition",
-          "designer": "ZTE",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/3vn9moc6hb5vx33/2_resize_28.jpg?dl=0",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/i17tvsxa6j4nb4o/2.jpg?dl=0",
-          "__collections__": {}
-        },
-    {
-          "id": 3,
-          "heroID": "ZTE3",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/x4sy5vnsw9c67mi/Nubia%20Play%205G-1_resize_4.jpg?dl=0",
-          "downloads": 5,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/bzgqw4f1k7k9irx/02.png?dl=0",
-          "size": "1.2Mb",
-          "name": "Nubia Play 5G",
-          "designer": "ZTE",
-          "__collections__": {}
-        },
-    {
-          "designer": "ZTE",
-          "downloads": 10,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/uw3ie27poetjz09/Nubia%20Play%205G-3_resize_85.jpg?dl=0",
-          "heroID": "Zte1",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/6d51bf4mo2dj5p6/03.png?dl=0",
-          "name": "Nubia Play 5G",
-          "size": "1.4Mb",
-          "id": 1,
-          "__collections__": {}
-        },
-    {
-          "compressUrl": "https://dl.dropboxusercontent.com/s/q6nbgx84e4c0315/1_resize_71.jpg?dl=0",
-          "name": "Red Magic Transparent Edition",
-          "id": 12,
-          "downloads": 5,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/yb2381joyfx7fbk/1.jpg?dl=0",
-          "designer": "ZTE",
-          "heroID": "ZTE12",
-          "size": "381Kb",
-          "__collections__": {}
-        },
-    {
-          "size": "3.7Mb",
-          "id": 2,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/225k8f5eiy6rzhe/Nubia%20Play%205G-2_resize_40.jpg?dl=0",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/qyb7txt2i7l1gjh/04.png?dl=0",
-          "heroID": "ZTE2",
-          "designer": "ZTE",
-          "downloads": 2,
-          "name": "Nubia Play 5G",
-          "__collections__": {}
-        },
-    {
-          "compressUrl": "https://dl.dropboxusercontent.com/s/2nz64ddmj0b0tyn/ZTE%20Red%20Magic%20326431010100_resize_17.jpg?dl=0",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/rz39ife05a3bsrr/ZTE%20Red%20Magic%20326431010100.png?dl=0",
-          "id": 19,
-          "heroID": "ZTE19",
-          "size": "1.9Mb",
-          "name": "Red Magic 3",
-          "downloads": 4,
-          "designer": "ZTE",
-          "__collections__": {}
-        },
-    {
-          "downloads": 16,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/kx4edrn51iu7o1y/ZTE%20Red%20Magic%20326381010100_resize_22.jpg?dl=0",
-          "heroID": "ZTE18",
-          "designer": "ZTE",
-          "id": 18,
-          "size": "1.8Mb",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/zhsuyj1q6m8u59x/ZTE%20Red%20Magic%20326381010100.png?dl=0",
-          "name": "Red Magic 3",
-          "__collections__": {}
-        },
-    {
-          "downloads": 5,
-          "designer": "ZTE",
-          "name": "Nubia Play 5G",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/10bc2124xn9uhoq/Nubia%20Play%205G_resize_1.jpg?dl=0",
-          "heroID": "ZTE4",
-          "id": 4,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/1uf1y1eqs03y7nt/01.png?dl=0",
-          "size": "2.4Mb",
-          "__collections__": {}
-        },
-    {
-          "imageUrl": "https://dl.dropboxusercontent.com/s/s3zl2uqlhm9hot9/Redmagic%205G_Wallpaper%2001.png?dl=0",
-          "name": "Red Magic 5G",
-          "id": 6,
-          "compressUrl": "https://dl.dropboxusercontent.com/s/lzd92ftb9nn83nf/Red%20Magic%205G-3_resize_64.jpg?dl=0",
-          "size": "1.0Mb",
-          "designer": "ZTE",
-          "downloads": 7,
-          "heroID": "ZTE6",
-          "__collections__": {}
-        },
-    {
-          "compressUrl": "https://dl.dropboxusercontent.com/s/ia5ts1jed2n050i/Red%20Magic%205G-2_resize_62.jpg?dl=0",
-          "heroID": "ZTE8",
-          "designer": "ZTE",
-          "name": "Red Magic 5G",
-          "id": 8,
-          "size": "2.1Mb",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/sqonn8du3kyjqig/Redmagic%205G_Wallpaper%2003.png?dl=0",
-          "downloads": 0,
-          "__collections__": {}
-        },
-    {
-          "heroID": "ZTE20",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/pg9xrewj6p819eb/ZTE%20Red%20Magic%20326421010100.png?dl=0",
-          "name": "Red Magic 3",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/dnrbbgbbre202h0/ZTE%20Red%20Magic%20326421010100_resize_27.jpg?dl=0",
-          "designer": "ZTE",
-          "size": "953.5Kb",
-          "downloads": 24,
-          "id": 20,
-          "__collections__": {}
-        },
-    {
-          "downloads": 4,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/9s9mjjtow3ezqsy/ZTE%20Red%20Magic%20326361010100.png?dl=0",
-          "name": "Red Magic 3",
-          "designer": "ZTE",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/hlslebi8vodzxwa/ZTE%20Red%20Magic%20326361010100_resize_66.jpg?dl=0",
-          "heroID": "ZTE16",
-          "size": "427.4Kb",
-          "id": 16,
-          "__collections__": {}
-        },
-    {
-          "id": 9,
-          "designer": "ZTE",
-          "imageUrl": "https://dl.dropboxusercontent.com/s/qzdhjy82hs6kmif/Redmagic%205G_Wallpaper%2004.png?dl=0",
-          "downloads": 2,
-          "size": "2.5Mb",
-          "heroID": "ZTE9",
-          "name": "Red Magic 5G",
-          "compressUrl": "https://dl.dropboxusercontent.com/s/elhg723amrhzjdo/Red%20Magic%205G_resize_87.jpg?dl=0",
-          "__collections__": {}
-        }
+  "ZTE": {
+    "Images": [
+      {
+        "heroID": "ZTE20",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/pg9xrewj6p819eb/ZTE%20Red%20Magic%20326421010100.png?dl=0",
+        "name": "Red Magic 3",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/dnrbbgbbre202h0/ZTE%20Red%20Magic%20326421010100_resize_27.jpg?dl=0",
+        "designer": "ZTE",
+        "size": "953.5Kb",
+        "downloads": 24,
+        "id": 20,
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://dl.dropboxusercontent.com/s/2nz64ddmj0b0tyn/ZTE%20Red%20Magic%20326431010100_resize_17.jpg?dl=0",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/rz39ife05a3bsrr/ZTE%20Red%20Magic%20326431010100.png?dl=0",
+        "id": 19,
+        "heroID": "ZTE19",
+        "size": "1.9Mb",
+        "name": "Red Magic 3",
+        "downloads": 4,
+        "designer": "ZTE",
+        "__collections__": {}
+      },
+      {
+        "downloads": 16,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/kx4edrn51iu7o1y/ZTE%20Red%20Magic%20326381010100_resize_22.jpg?dl=0",
+        "heroID": "ZTE18",
+        "designer": "ZTE",
+        "id": 18,
+        "size": "1.8Mb",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/zhsuyj1q6m8u59x/ZTE%20Red%20Magic%20326381010100.png?dl=0",
+        "name": "Red Magic 3",
+        "__collections__": {}
+      },
+      {
+        "downloads": 5,
+        "id": 17,
+        "heroID": "ZTE17",
+        "size": "1.4Mb",
+        "name": "Red Magic 3",
+        "designer": "ZTE",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/8k9v6059gic00qr/Red%20Magic%203_resize_71.jpg?dl=0",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/im3qstg6bukj3ya/ZTE%20Red%20Magic%20326411010100.png?dl=0",
+        "__collections__": {}
+      },
+      {
+        "downloads": 4,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/9s9mjjtow3ezqsy/ZTE%20Red%20Magic%20326361010100.png?dl=0",
+        "name": "Red Magic 3",
+        "designer": "ZTE",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/hlslebi8vodzxwa/ZTE%20Red%20Magic%20326361010100_resize_66.jpg?dl=0",
+        "heroID": "ZTE16",
+        "size": "427.4Kb",
+        "id": 16,
+        "__collections__": {}
+      },
+      {
+        "downloads": 3,
+        "id": 15,
+        "size": "960Kb",
+        "name": "Red Magic 3",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/5jk07tlnioeu4j4/Red%20Magic%203-1_resize_32.jpg?dl=0",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/z2buml4e99l0rsw/ZTE%20Red%20Magic%20326401010100.png?dl=0",
+        "designer": "ZTE",
+        "heroID": "ZTE15",
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://dl.dropboxusercontent.com/s/67n2qze7bi1sjlq/Red%20Magic%203-2_resize_6.jpg?dl=0",
+        "heroID": "ZTE14",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/iyzc2lbo1mo1n8a/ZTE%20Red%20Magic%20326391010100.png?dl=0",
+        "id": 14,
+        "size": "1.2Mb",
+        "downloads": 2,
+        "designer": "ZTE",
+        "name": "Red Magic 3",
+        "__collections__": {}
+      },
+      {
+        "name": "Red Magic 3",
+        "heroID": "ZTE13",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/vqqxrfzmqj2nrwt/ZTE%20Red%20Magic%20326371010100_resize_77.jpg?dl=0",
+        "downloads": 0,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/yym03g5y1pr84v3/ZTE%20Red%20Magic%20326371010100.png?dl=0",
+        "size": "1.3Mb",
+        "designer": "ZTE",
+        "id": 13,
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://dl.dropboxusercontent.com/s/q6nbgx84e4c0315/1_resize_71.jpg?dl=0",
+        "name": "Red Magic Transparent Edition",
+        "id": 12,
+        "downloads": 5,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/yb2381joyfx7fbk/1.jpg?dl=0",
+        "designer": "ZTE",
+        "heroID": "ZTE12",
+        "size": "381Kb",
+        "__collections__": {}
+      },
+      {
+        "size": "400Kb",
+        "heroID": "ZTE11",
+        "downloads": 4,
+        "id": 11,
+        "name": "Red Magic Transparent Edition",
+        "designer": "ZTE",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/3vn9moc6hb5vx33/2_resize_28.jpg?dl=0",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/i17tvsxa6j4nb4o/2.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "downloads": 0,
+        "size": "2.0Mb",
+        "heroID": "ZTE10",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/0t8dm0n1h8nxpvz/Redmagic%205G_Wallpaper%2005.png?dl=0",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/fw0tfmgjdk9rry6/Red%20Magic%205G-1_resize_91.jpg?dl=0",
+        "name": "Red Magic 5G",
+        "designer": "ZTE",
+        "id": 10,
+        "__collections__": {}
+      },
+      {
+        "id": 9,
+        "designer": "ZTE",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/qzdhjy82hs6kmif/Redmagic%205G_Wallpaper%2004.png?dl=0",
+        "downloads": 2,
+        "size": "2.5Mb",
+        "heroID": "ZTE9",
+        "name": "Red Magic 5G",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/elhg723amrhzjdo/Red%20Magic%205G_resize_87.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://dl.dropboxusercontent.com/s/ia5ts1jed2n050i/Red%20Magic%205G-2_resize_62.jpg?dl=0",
+        "heroID": "ZTE8",
+        "designer": "ZTE",
+        "name": "Red Magic 5G",
+        "id": 8,
+        "size": "2.1Mb",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/sqonn8du3kyjqig/Redmagic%205G_Wallpaper%2003.png?dl=0",
+        "downloads": 0,
+        "__collections__": {}
+      },
+      {
+        "id": 7,
+        "designer": "ZTE",
+        "heroID": "ZTE7",
+        "size": "3.3Mb",
+        "downloads": 3,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/cvx6szqzzzktwcc/Red%20Magic%205G-2_resize_37.jpg?dl=0",
+        "name": "Red Magic 5G",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/4sl6uh5lglfg8qk/Redmagic%205G_Wallpaper%2002.png?dl=0",
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://dl.dropboxusercontent.com/s/s3zl2uqlhm9hot9/Redmagic%205G_Wallpaper%2001.png?dl=0",
+        "name": "Red Magic 5G",
+        "id": 6,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/lzd92ftb9nn83nf/Red%20Magic%205G-3_resize_64.jpg?dl=0",
+        "size": "1.0Mb",
+        "designer": "ZTE",
+        "downloads": 7,
+        "heroID": "ZTE6",
+        "__collections__": {}
+      },
+      {
+        "size": "810Kb",
+        "heroID": "ZTE5",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/2rogdi1ou7bg8fk/Red%20Magic%203S_resize_26.jpg?dl=0",
+        "downloads": 9,
+        "designer": "ZTE",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/25wzsuq2lgk5xl4/Nubia%20Red%20Magic%203s_Default%20Wallpaper.png?dl=0",
+        "id": 5,
+        "name": "Red Magic 3S",
+        "__collections__": {}
+      },
+      {
+        "downloads": 5,
+        "designer": "ZTE",
+        "name": "Nubia Play 5G",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/10bc2124xn9uhoq/Nubia%20Play%205G_resize_1.jpg?dl=0",
+        "heroID": "ZTE4",
+        "id": 4,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/1uf1y1eqs03y7nt/01.png?dl=0",
+        "size": "2.4Mb",
+        "__collections__": {}
+      },
+      {
+        "id": 3,
+        "heroID": "ZTE3",
+        "compressUrl": "https://dl.dropboxusercontent.com/s/x4sy5vnsw9c67mi/Nubia%20Play%205G-1_resize_4.jpg?dl=0",
+        "downloads": 5,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/bzgqw4f1k7k9irx/02.png?dl=0",
+        "size": "1.2Mb",
+        "name": "Nubia Play 5G",
+        "designer": "ZTE",
+        "__collections__": {}
+      },
+      {
+        "size": "3.7Mb",
+        "id": 2,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/225k8f5eiy6rzhe/Nubia%20Play%205G-2_resize_40.jpg?dl=0",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/qyb7txt2i7l1gjh/04.png?dl=0",
+        "heroID": "ZTE2",
+        "designer": "ZTE",
+        "downloads": 2,
+        "name": "Nubia Play 5G",
+        "__collections__": {}
+      },
+      {
+        "designer": "ZTE",
+        "downloads": 10,
+        "compressUrl": "https://dl.dropboxusercontent.com/s/uw3ie27poetjz09/Nubia%20Play%205G-3_resize_85.jpg?dl=0",
+        "heroID": "Zte1",
+        "imageUrl": "https://dl.dropboxusercontent.com/s/6d51bf4mo2dj5p6/03.png?dl=0",
+        "name": "Nubia Play 5G",
+        "size": "1.4Mb",
+        "id": 1,
+        "__collections__": {}
+      }
     ]
-    }
   }
+}
