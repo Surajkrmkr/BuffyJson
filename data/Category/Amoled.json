@@ -2,6 +2,66 @@
     "Amoled": {
         "Images": [
             {
+                "id": 93,
+                "heroID": "Amoled93",
+                "downloads": 0,
+                "name": "Doctor stranger",
+                "designer": "Buffy",
+                "size": "474KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/1t1vku7j0yzjf1f/doctor-strange-minimal-5k-5m-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/8ri9plw79fx29u6/doctor-strange-minimal-5k-5m-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 92,
+                "heroID": "Amoled92",
+                "downloads": 0,
+                "name": "Marshmello",
+                "designer": "Buffy",
+                "size": "254KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/cch664er6z8llwe/marshmello-dark-minimal-5k-81-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/nsce75anwzrgds8/marshmello-dark-minimal-5k-81-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 91,
+                "heroID": "Amoled91",
+                "downloads": 0,
+                "name": "Joker Dark",
+                "designer": "Buffy",
+                "size": "397KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/gb68ff5z9zjor3o/joker-dark-minimalist-3n-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/ddn2p4pnaa31ooz/joker-dark-minimalist-3n-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 90,
+                "heroID": "Amoled90",
+                "downloads": 0,
+                "name": "reindeer-justin-maller",
+                "designer": "Buffy",
+                "size": "485KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/rfs07n1pim5lh9e/reindeer-justin-maller-4k-zu-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/zdrwstwnnuhghcl/reindeer-justin-maller-4k-zu-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 89,
+                "heroID": "Amoled89",
+                "downloads": 0,
+                "name": "Owl minimal",
+                "designer": "Buffy",
+                "size": "278KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/i4wc80oa6klo2qn/owl-minimal-justin-maller-4k-57-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/bjybquvc0gkny7z/owl-minimal-justin-maller-4k-57-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 88,
+                "heroID": "Amoled88",
+                "downloads": 0,
+                "name": "Mortal combat",
+                "designer": "Buffy",
+                "size": "694KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/a1yxji4qhaoq6xk/mortal-kombat-movie-logo-4k-xq-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/jny6s3tat60mz5v/mortal-kombat-movie-logo-4k-xq-1080x2280-small.png?dl=0"
+            },
+            {
                 "id": 87,
                 "heroID": "Amoled87",
                 "downloads": 0,

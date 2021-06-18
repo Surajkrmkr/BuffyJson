@@ -57,7 +57,7 @@ def addData(name):
     # imageData["category"] = input("category : ")
     imageData["size"] = input("size : ")
     imageData["imageUrl"] = input("imageUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent')
-    imageData["compressUrl"] = input("compressUrl : ")
+    imageData["compressUrl"] = input("compressUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent')
     
     temp[name]['Images'].insert(0,imageData)
     with open(path+name+".json","w") as f:
