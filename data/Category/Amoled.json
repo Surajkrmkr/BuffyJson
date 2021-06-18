@@ -2,6 +2,66 @@
     "Amoled": {
         "Images": [
             {
+                "id": 99,
+                "heroID": "Amoled99",
+                "downloads": 0,
+                "name": "Scorpion",
+                "designer": "Buffy",
+                "size": "126KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/58khg7hn54cr9ti/scorpion-mortal-kombat-dark-minimal-5k-cj-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/axok59ndkbpctd6/scorpion-mortal-kombat-dark-minimal-5k-cj-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 98,
+                "heroID": "Amoled98",
+                "downloads": 0,
+                "name": "Rocket space mini",
+                "designer": "Buffy",
+                "size": "218KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/vte7fosuzgzgntk/rocket-space-minimal-5k-7b-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/2ezupazm32rhgv0/rocket-space-minimal-5k-7b-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 97,
+                "heroID": "Amoled97",
+                "downloads": 0,
+                "name": "Venom",
+                "designer": "Buffy",
+                "size": "378KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/hvy8d0udmptzs8l/venom-amoled-4k-k4-1080x2160-small.png?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/hvy8d0udmptzs8l/venom-amoled-4k-k4-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 96,
+                "heroID": "Amoled96",
+                "downloads": 0,
+                "name": "Wolf",
+                "designer": "Justin maller",
+                "size": "485KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/zklnrw41mg86w6o/wolf-minimal-justin-maller-4k-at-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/402u56e1pkau9is/wolf-minimal-justin-maller-4k-at-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 95,
+                "heroID": "Amoled95",
+                "downloads": 0,
+                "name": "Bear",
+                "designer": "Justin maller",
+                "size": "468KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/egb18bpapl64vht/bear-justin-maller-4k-f1-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/ayaeuouihgwoubn/bear-justin-maller-4k-f1-1080x2160-small.png?dl=0"
+            },
+            {
+                "id": 94,
+                "heroID": "Amoled94",
+                "downloads": 0,
+                "name": "Batman",
+                "designer": "Buffy",
+                "size": "174KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/icl3rtp0jw553ts/batman-amoled-0a-1080x2160.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/q7aeqmgyr6z1222/batman-amoled-0a-1080x2160-small.png?dl=0"
+            },
+            {
                 "id": 93,
                 "heroID": "Amoled93",
                 "downloads": 0,
