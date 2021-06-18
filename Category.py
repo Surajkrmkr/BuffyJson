@@ -1,5 +1,6 @@
 import json
 
+path0 = "data/"
 path = "data/Category/"
 
 def choices():
@@ -44,6 +45,28 @@ def switch(choice):
         exit() 
     return switcher.get(choice)
 
+def addToPopular(imageName,designer,category,size,imageUrl,compressUrl):
+    popularData = {}
+    with open(path0+"popular.json","r") as f:
+        temp = json.load(f)
+
+    popularData["id"] = len(temp['popular'])+1
+    popularData["heroID"] = 'popular'+str(len(temp['popular'])+1)
+    popularData["downloads"] = 0
+    popularData["name"] = imageName
+    popularData["designer"] = designer
+    popularData["category"] = category
+    popularData["size"] = size
+    popularData["imageUrl"] = imageUrl
+    popularData["compressUrl"] = compressUrl
+    
+    temp['popular'].insert(0,popularData)
+    with open(path0+"popular.json","w") as f:
+        json.dump(temp,f,indent=4);  
+
+    print("\n------------------Data also added to Popular-------------------") 
+
+
 def addData(name):
     imageData = {}
     with open(path+name+".json","r") as f:
@@ -63,7 +86,17 @@ def addData(name):
     with open(path+name+".json","w") as f:
         json.dump(temp,f,indent=4);  
 
-    print("\n------------------Data added to "+name+"-------------------") 
+    print("\n------------------Data added to "+name+"-------------------")
+    add = input("want to add this to popular enter y/n : ") 
+    if add == 'y':
+        addToPopular(
+            imageName=imageData["name"],
+            designer=imageData["designer"],
+            category=name,
+            size=imageData["size"],
+            imageUrl=imageData["imageUrl"],
+            compressUrl=imageData["compressUrl"]
+            )
 
 while True:
     choice = choices()
