@@ -1,8 +1,32 @@
 {
-"Trending": [
-{
+  "Trending": [
+    {
+      "designer": "BuffyWalls",
+      "downloads": 11,
       "size": "1.4Mb",
-      "name": "Desert 1",
+      "id": 3,
+      "name": "Desert 3",
+      "category": "Minimal Illustration",
+      "heroID": "Trending3",
+      "imageUrl": "https://dl.dropboxusercontent.com/s/5i58qk9t44lx9aj/Desert%203.jpg",
+      "compressUrl": "https://dl.dropboxusercontent.com/s/3bgu7b1auk2zo47/desert3.jpg",
+      "__collections__": {}
+    },
+    {
+      "size": "782.8Kb",
+      "downloads": 8,
+      "imageUrl": "https://dl.dropboxusercontent.com/s/cdvjrz85nnl4q7o/Desert%202.jpg",
+      "name": "Trending2",
+      "designer": "BuffyWalls",
+      "heroID": "New2",
+      "id": 2,
+      "category": "Minimal Illustration",
+      "compressUrl": "https://dl.dropboxusercontent.com/s/k0d8crtmpauncpv/desert2.jpg",
+      "__collections__": {}
+    },
+    {
+      "size": "1.4Mb",
+      "name": "Trending1",
       "designer": " BuffyWalls",
       "heroID": "New1",
       "id": 1,
@@ -11,30 +35,6 @@
       "compressUrl": "https://dl.dropboxusercontent.com/s/az4nf8ew2ppba0q/desert1.jpg",
       "downloads": 9,
       "__collections__": {}
-    },
-{
-      "size": "782.8Kb",
-      "downloads": 8,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/cdvjrz85nnl4q7o/Desert%202.jpg",
-      "name": "Desert 2",
-      "designer": "BuffyWalls",
-      "heroID": "New2",
-      "id": 2,
-      "category": "Minimal Illustration",
-      "compressUrl": "https://dl.dropboxusercontent.com/s/k0d8crtmpauncpv/desert2.jpg",
-      "__collections__": {}
-    },
-{
-      "designer": "BuffyWalls",
-      "downloads": 11,
-      "size": "1.4Mb",
-      "id": 3,
-      "name": "Desert 3",
-      "category": "Minimal Illustration",
-      "heroID": "New3",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/5i58qk9t44lx9aj/Desert%203.jpg",
-      "compressUrl": "https://dl.dropboxusercontent.com/s/3bgu7b1auk2zo47/desert3.jpg",
-      "__collections__": {}
     }
-]
-  }
+  ]
+}
