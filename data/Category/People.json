@@ -1,26 +1,26 @@
 {
-"People": {
-      "Images": [
-     {
-          "heroID": "People1",
-          "downloads": 0,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/bu6q8y648s3ulwm/orsrc56572.jpg?dl=0",
-          "size": "2.0Mb",
-          "id": 1,
-          "name": "Astronaut",
-          "designer": "People",
-          "__collections__": {}
-        },
-    {
-          "name": "Mask Man",
-          "heroID": "People2",
-          "id": 2,
-          "size": "888.6Kb",
-          "designer": "People",
-          "downloads": 0,
-          "imageUrl": "https://dl.dropboxusercontent.com/s/s1m0q2d0plagg88/orsrc54352.jpg?dl=0",
-          "__collections__": {}
-        }
+  "People": {
+    "Images": [
+      {
+        "name": "Mask Man",
+        "heroID": "People2",
+        "id": 2,
+        "size": "888.6Kb",
+        "designer": "People",
+        "downloads": 0,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/s1m0q2d0plagg88/orsrc54352.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "heroID": "People1",
+        "downloads": 0,
+        "imageUrl": "https://dl.dropboxusercontent.com/s/bu6q8y648s3ulwm/orsrc56572.jpg?dl=0",
+        "size": "2.0Mb",
+        "id": 1,
+        "name": "Astronaut",
+        "designer": "People",
+        "__collections__": {}
+      }
     ]
-    }
   }
+}
