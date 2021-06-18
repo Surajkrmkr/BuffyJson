@@ -56,7 +56,7 @@ def addData(name):
     imageData["designer"] = input("designer : ")
     # imageData["category"] = input("category : ")
     imageData["size"] = input("size : ")
-    imageData["imageUrl"] = input("imageUrl : ")
+    imageData["imageUrl"] = input("imageUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent')
     imageData["compressUrl"] = input("compressUrl : ")
     
     temp[name]['Images'].insert(0,imageData)
