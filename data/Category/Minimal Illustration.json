@@ -2,6 +2,26 @@
     "Minimal Illustration": {
         "Images": [
             {
+                "id": 17,
+                "heroID": "Minimal Illustration17",
+                "downloads": 0,
+                "name": "Night Door Illustration",
+                "designer": "Buffy",
+                "size": "2.2Mb",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/013fjw0ws6znjdn/Night%20Door%20Illustration.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/wqlu5sqxbmatqln/20210619_171428_resize_66.jpg?dl=0"
+            },
+            {
+                "id": 16,
+                "heroID": "Minimal Illustration16",
+                "downloads": 0,
+                "name": "Night Desert",
+                "designer": "Buffy",
+                "size": "1.4Mb",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/5qeksbc0h6on8j4/Night%20Desert.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/unj5mexlj5pq3zz/20210619_171258_resize_17.jpg?dl=0"
+            },
+            {
                 "id": 15,
                 "heroID": "Minimal Illustration15",
                 "downloads": 0,
