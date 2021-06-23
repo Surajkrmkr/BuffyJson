@@ -1,6 +1,50 @@
 {
     "popular": [
         {
+            "id": 347,
+            "heroID": "popular347",
+            "downloads": 0,
+            "name": "Amoled Mask",
+            "designer": "BuffyWalls",
+            "category": "Amoled",
+            "size": "1.41Mb",
+            "imageUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232301.png",
+            "compressUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232301_resize_59.jpg"
+        },
+        {
+            "id": 346,
+            "heroID": "popular346",
+            "downloads": 0,
+            "name": "Amoled Apple",
+            "designer": "BuffyWalls",
+            "category": "Amoled",
+            "size": "400Kb",
+            "imageUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232223.png",
+            "compressUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232223_resize_69.jpg"
+        },
+        {
+            "id": 345,
+            "heroID": "popular345",
+            "downloads": 0,
+            "name": "Amoled Thought",
+            "designer": "BuffyWalls",
+            "category": "Amoled",
+            "size": "6.5Mb",
+            "imageUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232059.png",
+            "compressUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232059_resize_17.jpg"
+        },
+        {
+            "id": 344,
+            "heroID": "popular344",
+            "downloads": 0,
+            "name": "Amoled Car",
+            "designer": "BuffyWalls",
+            "category": "Amoled",
+            "size": "10.6Mb",
+            "imageUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232328.png",
+            "compressUrl": "https://github.com/piyushkpv/Amoled/raw/main/20210622_232328_resize_9.jpg"
+        },
+        {
             "id": 343,
             "heroID": "popular343",
             "downloads": 0,
