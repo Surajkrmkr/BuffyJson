@@ -2,6 +2,56 @@
     "Minimal": {
         "Images": [
             {
+                "id": 96,
+                "heroID": "Minimal96",
+                "downloads": 0,
+                "name": "Minimal Bear 2",
+                "designer": "BuffyWals",
+                "size": "352Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(2).jpg"
+            },
+            {
+                "id": 95,
+                "heroID": "Minimal95",
+                "downloads": 0,
+                "name": "Minimal Bear",
+                "designer": "BuffyWalls",
+                "size": "2.38Mb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(4).jpg"
+            },
+            {
+                "id": 94,
+                "heroID": "Minimal94",
+                "downloads": 0,
+                "name": "Minimal Kitty",
+                "designer": "BuffyWalls",
+                "size": "434Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(1).jpg"
+            },
+            {
+                "id": 93,
+                "heroID": "Minimal93",
+                "downloads": 0,
+                "name": "Minimal Desert",
+                "designer": "BuffyWalls",
+                "size": "435Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(1).png",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(3).jpg"
+            },
+            {
+                "id": 92,
+                "heroID": "Minimal92",
+                "downloads": 0,
+                "name": "Minimal Waves",
+                "designer": "BuffyWalls",
+                "size": "7.1Mb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(5).jpg"
+            },
+            {
                 "id": 91,
                 "heroID": "Minimal91",
                 "downloads": 0,
