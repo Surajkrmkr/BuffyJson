@@ -1,7 +1,5 @@
 {
-  "Quote":"The way to get started is to quit talking and begin doing",
-    "FeaturedWalls": {
-      "Images": [
+    "FeaturedWalls": [
         {
             "size": "1.6Mb",
             "downloads": 11,
@@ -104,4 +102,3 @@
           }
       ]
       }
-    }
