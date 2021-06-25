@@ -1,5 +1,5 @@
 {
-  "Setup": [
+  "setup": [
     {
       "name":"Minimal Farming",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Minimal%20Farming.jpg",
