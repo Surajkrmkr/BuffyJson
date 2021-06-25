@@ -1,6 +1,8 @@
 {
   "Setup": [
     {
+      "name":"",
+      "setupImageLink": "",
       "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
       "author": "KustomBee",
       "authorLink": "https://twitter.com/iammrbhaskar",
