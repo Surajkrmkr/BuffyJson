@@ -1,7 +1,8 @@
 {
   "setup": [
     {
-      "name":"Minimal Farming",
+      "id": 1,
+      "name": "Minimal Farming",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Minimal%20Farming.jpg",
       "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
       "author": "KustomBee",
@@ -15,7 +16,8 @@
       "iconpackLink": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_SG&gl=US"
     },
     {
-      "name":"Crispy Baloons",
+      "id": 2,
+      "name": "Crispy Baloons",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Crispy%20Baloons.jpg",
       "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
       "author": "KustomBee",
@@ -29,7 +31,8 @@
       "iconpackLink": "https://play.google.com/store/apps/details?id=com.b16h22.fruti"
     },
     {
-      "name":"Abstract Lights",
+      "id": 3,
+      "name": "Abstract Lights",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Abstract%20Lights.jpg",
       "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
       "author": "KustomBee",
@@ -43,7 +46,8 @@
       "iconpackLink": ""
     },
     {
-      "name":"Gradient Hot",
+      "id": 4,
+      "name": "Gradient Hot",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Gradient%20Hot.jpg",
       "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
       "author": "KustomBee",
