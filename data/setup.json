@@ -13,6 +13,48 @@
       "kwgtLink": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack&hl=en_SG&gl=US",
       "iconpack": "Caelus Black Icon Pack",
       "iconpackLink": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_SG&gl=US"
+    },
+    {
+      "name":"Crispy Baloons",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Crispy%20Baloons.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+      "author": "KustomBee",
+      "authorLink": "https://twitter.com/iammrbhaskar",
+      "launcher": "Nova Launcher",
+      "image": "Minimal Illustration/1",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Mini-ism KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack",
+      "iconpack": "Fruti Icon Pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.b16h22.fruti"
+    },
+    {
+      "name":"Abstract Lights",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Abstract%20Lights.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+      "author": "KustomBee",
+      "authorLink": "https://twitter.com/iammrbhaskar",
+      "launcher": "Nova Launcher",
+      "image": "ZTE/Nubia Red Magic",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "DUSK KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=dusk.kustom.pack",
+      "iconpack": "",
+      "iconpackLink": ""
+    },
+    {
+      "name":"Gradient Hot",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Gradient%20Hot.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+      "author": "KustomBee",
+      "authorLink": "https://twitter.com/iammrbhaskar",
+      "launcher": "Nova Launcher",
+      "image": "Infinix Smart 5",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Flamingo KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=flamingokwgt.kustom.pack",
+      "iconpack": "Graby-Icon Pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.anticor.graby"
     }
   ]
 }
