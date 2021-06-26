@@ -6,9 +6,9 @@
             "size": "1.6Mb",
             "downloads": 11,
             "name": "Feature 7",
-            "heroID": "Feature7",
+            "heroID": "Feature1",
             "designer": "Feature",
-            "id": 7,
+            "id": 1,
             "imageUrl": "https://dl.dropboxusercontent.com/s/jhsrtc19lktvjxh/orsrc57015.jpg?dl=0",
             "__collections__": {}
           },
@@ -20,8 +20,8 @@
             "designer": "Feature",
             "downloads": 12,
             "name": "Feature 1",
-            "heroID": "Feature13",
-            "id": 13,
+            "heroID": "Feature2",
+            "id": 2,
             "__collections__": {}
           },
         {
@@ -30,9 +30,9 @@
             "imageUrl": "https://dl.dropboxusercontent.com/s/6y8jxp8nr97fbc1/orsrc51992.jpg?dl=0",
             "size": "1.7Mb",
             "designer": "Feature",
-            "heroID": "Feature10",
+            "heroID": "Feature3",
             "name": "Feature 4",
-            "id": 10,
+            "id": 3,
             "downloads": 9,
             "__collections__": {}
           },
