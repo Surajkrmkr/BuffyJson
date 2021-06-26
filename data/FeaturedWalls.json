@@ -1,7 +1,6 @@
 {
     "FeaturedWalls": [
         {
-            "name": "name1",
             "compressUrl": "",
             "size": "1.6Mb",
             "downloads": 11,
@@ -13,7 +12,6 @@
             "__collections__": {}
           },
         {
-            "name": "name2",
             "compressUrl": "",
             "size": "2.2Mb",
             "imageUrl": "https://dl.dropboxusercontent.com/s/kvif4rg0ajifu12/orsrc47355.jpg?dl=0",
@@ -25,7 +23,6 @@
             "__collections__": {}
           },
         {
-            "name": "name3",
             "compressUrl": "",
             "imageUrl": "https://dl.dropboxusercontent.com/s/6y8jxp8nr97fbc1/orsrc51992.jpg?dl=0",
             "size": "1.7Mb",
@@ -35,6 +32,6 @@
             "id": 3,
             "downloads": 9,
             "__collections__": {}
-          },
+          }
       ]
       }
