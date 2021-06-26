@@ -1,6 +1,8 @@
 {
     "FeaturedWalls": [
         {
+            "name": "name1",
+            "compressUrl": "",
             "size": "1.6Mb",
             "downloads": 11,
             "name": "Feature 7",
@@ -11,6 +13,8 @@
             "__collections__": {}
           },
         {
+            "name": "name2",
+            "compressUrl": "",
             "size": "2.2Mb",
             "imageUrl": "https://dl.dropboxusercontent.com/s/kvif4rg0ajifu12/orsrc47355.jpg?dl=0",
             "designer": "Feature",
@@ -21,6 +25,8 @@
             "__collections__": {}
           },
         {
+            "name": "name3",
+            "compressUrl": "",
             "imageUrl": "https://dl.dropboxusercontent.com/s/6y8jxp8nr97fbc1/orsrc51992.jpg?dl=0",
             "size": "1.7Mb",
             "designer": "Feature",
@@ -30,75 +36,5 @@
             "downloads": 9,
             "__collections__": {}
           },
-        {
-            "size": "1.0Mb",
-            "downloads": 8,
-            "designer": "Feature",
-            "id": 6,
-            "imageUrl": "https://dl.dropboxusercontent.com/s/pithhkkpofkoepm/orsrc34534.jpg?dl=0",
-            "heroID": "Feature6",
-            "name": "Feature 8",
-            "__collections__": {}
-          },
-        {
-            "name": "Feature 9",
-            "id": 5,
-            "designer": "Feature",
-            "downloads": 14,
-            "heroID": "Feature5",
-            "size": "839.9Kb",
-            "imageUrl": "https://dl.dropboxusercontent.com/s/t47iktr0lze6s9s/orsrc34976.jpg?dl=0",
-            "__collections__": {}
-          },
-        {
-            "designer": "Feature",
-            "imageUrl": "https://dl.dropboxusercontent.com/s/orba1wrrlg9eq5v/orsrc57027.jpg?dl=0",
-            "id": 9,
-            "heroID": "Feature9",
-            "size": "1.5Mb",
-            "downloads": 6,
-            "name": "Feature 5",
-            "__collections__": {}
-          },
-        {
-            "heroID": "Feature11",
-            "imageUrl": "https://dl.dropboxusercontent.com/s/kdtylb23f66ntu6/orsrc211.jpg?dl=0",
-            "downloads": 10,
-            "name": "Feature 3",
-            "id": 11,
-            "size": "478.7Kb",
-            "designer": "Feature",
-            "__collections__": {}
-          },
-        {
-            "imageUrl": "https://dl.dropboxusercontent.com/s/f4bjxozz2ae42do/orsrc53402.jpg?dl=0",
-            "heroID": "Feature8",
-            "downloads": 7,
-            "id": 8,
-            "size": "1.6Mb",
-            "designer": "Feature",
-            "name": "Feature 6",
-            "__collections__": {}
-          },
-        {
-            "size": "1.1Mb",
-            "id": 12,
-            "name": "Feature 2",
-            "designer": "Feature",
-            "downloads": 13,
-            "imageUrl": "https://dl.dropboxusercontent.com/s/ihc0h7diz6l31y7/orsrc52825.jpg?dl=0",
-            "heroID": "Feature12",
-            "__collections__": {}
-          },
-        {
-            "designer": "Feature",
-            "heroID": "Feature4",
-            "id": 4,
-            "name": "Feature 10",
-            "downloads": 37,
-            "size": "1.8Mb",
-            "imageUrl": "https://dl.dropboxusercontent.com/s/v11s2eimcwx6t1s/orsrc47067.jpg?dl=0",
-            "__collections__": {}
-          }
       ]
       }
