@@ -1,36 +1,36 @@
 {
     "FeaturedWalls": [
         {
-            "compressUrl": "",
-            "size": "1.6Mb",
+            "compressUrl": "https://dl.dropboxusercontent.com/s/8f453rv4mewq4z1/Windows%2011%20Wallpaper%201-small.png?dl=0",
+            "size": "1.52MB",
             "downloads": 11,
-            "name": "Feature 7",
+            "name": "Windows 11",
             "heroID": "Feature1",
-            "designer": "Feature",
+            "designer": "Windows",
             "id": 1,
-            "imageUrl": "https://dl.dropboxusercontent.com/s/jhsrtc19lktvjxh/orsrc57015.jpg?dl=0",
+            "imageUrl": "https://dl.dropboxusercontent.com/s/4v30b74e2lejd2l/Windows%2011%20Wallpaper%201.jpg?dl=0",
             "__collections__": {}
           },
-        {
-            "compressUrl": "",
-            "size": "2.2Mb",
-            "imageUrl": "https://dl.dropboxusercontent.com/s/kvif4rg0ajifu12/orsrc47355.jpg?dl=0",
-            "designer": "Feature",
-            "downloads": 12,
-            "name": "Feature 1",
+          {
+            "compressUrl": "https://dl.dropboxusercontent.com/s/ftpaltq79os4801/Windows%2011%20Wallpaper%202%20%281%29-small.png?dl=0",
+            "size": "1.31MB",
+            "downloads": 11,
+            "name": "Windows 11",
             "heroID": "Feature2",
+            "designer": "Windows",
             "id": 2,
+            "imageUrl": "https://dl.dropboxusercontent.com/s/vtaq2nizg1m9801/Windows%2011%20Wallpaper%202%20%281%29.jpg?dl=0",
             "__collections__": {}
           },
-        {
-            "compressUrl": "",
-            "imageUrl": "https://dl.dropboxusercontent.com/s/6y8jxp8nr97fbc1/orsrc51992.jpg?dl=0",
-            "size": "1.7Mb",
-            "designer": "Feature",
+          {
+            "compressUrl": "https://dl.dropboxusercontent.com/s/i1xnquj0jekqcv5/Windows%2011%20Wallpaper%2018-small.png?dl=0",
+            "size": "900KB",
+            "downloads": 11,
+            "name": "Windows 11",
             "heroID": "Feature3",
-            "name": "Feature 4",
+            "designer": "Windows",
             "id": 3,
-            "downloads": 9,
+            "imageUrl": "https://dl.dropboxusercontent.com/s/yqheqg8dd25l87c/Windows%2011%20Wallpaper%2018.jpg?dl=0",
             "__collections__": {}
           }
       ]
