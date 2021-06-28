@@ -1,64 +1,97 @@
 {
-  "Trending": [
-    {
-      "designer": "BuffyWalls",
-      "downloads": 11,
-      "size": "453Kb",
-      "id": 5,
-      "name": "Minimal Bear 2",
-      "category": "Minimal",
-      "heroID": "Trending5",
-      "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(1).jpg",
-      "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(2).jpg",
-      "__collections__": {}
-    },
-    {
-      "designer": "BuffyWalls",
-      "downloads": 11,
-      "size": "2.8Mb",
-      "id": 4,
-      "name": "Minimal Bear",
-      "category": "MinimaL",
-      "heroID": "Trending4",
-      "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(2).jpg",
-      "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(4).jpg",
-      "__collections__": {}
-    },
-    {
-      "designer": "BuffyWalls",
-      "downloads": 11,
-      "size": "434Kb",
-      "id": 3,
-      "name": "Minimal Kitty",
-      "category": "Minimal",
-      "heroID": "Trending3",
-      "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(4).jpg",
-      "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(1).jpg",
-      "__collections__": {}
-    },
-    {
-      "size": "435Kb",
-      "downloads": 8,
-      "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(1).png",
-      "name": "Minimal Desert",
-      "designer": "BuffyWalls",
-      "heroID": "New2",
-      "id": 2,
-      "category": "Minimal",
-      "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(3).jpg",
-      "__collections__": {}
-    },
-    {
-      "size": "7.1Mb",
-      "name": "Minimal Waves",
-      "designer": " BuffyWalls",
-      "heroID": "New1",
-      "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(3).jpg",
-      "category": "Minimal",
-      "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(5).jpg",
-      "downloads": 9,
-      "__collections__": {}
-    }
-  ]
+    "Trending": [
+        {
+            "id": 8,
+            "heroID": "Trending8",
+            "downloads": 0,
+            "name": "Skull Neon",
+            "designer": "Buffy",
+            "category": "Neon",
+            "size": "397KB",
+            "imageUrl": "https://dl.dropboxusercontent.com/s/72d4znqnsdn4lrc/skull-neon-minimal-logo-5k-dq-1080x2280.jpg?dl=0",
+            "compressUrl": "https://dl.dropboxusercontent.com/s/cmnmvi61q9muzkz/skull-neon-minimal-logo-5k-dq-1080x2280-small.png?dl=0"
+        },
+        {
+            "id": 7,
+            "heroID": "Trending7",
+            "downloads": 0,
+            "name": "Bike Rider",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "215KB",
+            "imageUrl": "https://dl.dropboxusercontent.com/s/5bgy0bb61alisel/bike-rider-with-gears-on-minimal-5k-k3-1080x2280.jpg?dl=0",
+            "compressUrl": "https://dl.dropboxusercontent.com/s/j705q0qmkhrzmzk/bike-rider-with-gears-on-minimal-5k-k3-1080x2280-small.png?dl=0"
+        },
+        {
+            "id": 6,
+            "heroID": "Trending6",
+            "downloads": 0,
+            "name": "Material Design",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "436KB",
+            "imageUrl": "https://dl.dropboxusercontent.com/s/764lhf4p51zxf7s/material-designs-minimal-5k-lj-1080x2280.jpg?dl=0",
+            "compressUrl": "https://dl.dropboxusercontent.com/s/ptqni80g6t4of32/material-designs-minimal-5k-lj-1080x2280-small.png?dl=0"
+        },
+        {
+            "designer": "BuffyWalls",
+            "downloads": 11,
+            "size": "453Kb",
+            "id": 5,
+            "name": "Minimal Bear 2",
+            "category": "Minimal",
+            "heroID": "Trending5",
+            "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(1).jpg",
+            "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(2).jpg",
+            "__collections__": {}
+        },
+        {
+            "designer": "BuffyWalls",
+            "downloads": 11,
+            "size": "2.8Mb",
+            "id": 4,
+            "name": "Minimal Bear",
+            "category": "MinimaL",
+            "heroID": "Trending4",
+            "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(2).jpg",
+            "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(4).jpg",
+            "__collections__": {}
+        },
+        {
+            "designer": "BuffyWalls",
+            "downloads": 11,
+            "size": "434Kb",
+            "id": 3,
+            "name": "Minimal Kitty",
+            "category": "Minimal",
+            "heroID": "Trending3",
+            "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(4).jpg",
+            "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(1).jpg",
+            "__collections__": {}
+        },
+        {
+            "size": "435Kb",
+            "downloads": 8,
+            "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(1).png",
+            "name": "Minimal Desert",
+            "designer": "BuffyWalls",
+            "heroID": "New2",
+            "id": 2,
+            "category": "Minimal",
+            "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(3).jpg",
+            "__collections__": {}
+        },
+        {
+            "size": "7.1Mb",
+            "name": "Minimal Waves",
+            "designer": " BuffyWalls",
+            "heroID": "New1",
+            "id": 1,
+            "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(3).jpg",
+            "category": "Minimal",
+            "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(5).jpg",
+            "downloads": 9,
+            "__collections__": {}
+        }
+    ]
 }
