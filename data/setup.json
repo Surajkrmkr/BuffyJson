@@ -59,6 +59,21 @@
       "kwgtLink": "https://play.google.com/store/apps/details?id=flamingokwgt.kustom.pack",
       "iconpack": "Graby-Icon Pack",
       "iconpackLink": "https://play.google.com/store/apps/details?id=com.anticor.graby"
+    },
+    {
+      "id": 4,
+      "name": "Ineclectic Mi",
+      "setupImageLink": "https://firebasestorage.googleapis.com/v0/b/buffywalls.appspot.com/o/Ash%2Fimage_picker5286338519646846646.jpg?alt=media&token=fed7584f-4ffe-4b23-82ed-82390f79dbae",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+      "author": "Ash",
+      "authorLink": "https://twitter.com/_GalaxyAsh?s=09",
+      "launcher": "Nova Launcher",
+      "image": "DreamOn",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "MIUI Widgets For KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=miuiwidgetforkwgt.kustom.pack",
+      "iconpack": "ThemesOnFire",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.eclectic_icons.paid"
     }
   ]
 }
