@@ -89,6 +89,51 @@
       "kwgtLink": "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack",
       "iconpack": "Caelus Black icon pack",
       "iconpackLink": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack"
+    },
+    {
+      "id": 7,
+      "name": "Niagara",
+      "setupImageLink": "https://firebasestorage.googleapis.com/v0/b/buffywalls.appspot.com/o/Ash%2Fimage_picker1859328879416381267.jpg?alt=media&token=98ac39ee-a2b1-41c1-913c-da0f7c95b002",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "author": "Ash",
+      "authorLink": "https://twitter.com/_GalaxyAsh?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Wallipop",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Style KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=stylekwgt.kustom.pack",
+      "iconpack": "Worst Lust ( PNG ) ",
+      "iconpackLink": "https://twitter.com/kurapzs?s=09"
+    },
+    {
+      "id": 8,
+      "name": "Niagara 2",
+      "setupImageLink": "https://firebasestorage.googleapis.com/v0/b/buffywalls.appspot.com/o/Ash%2Fimage_picker3909123071762764264.jpg?alt=media&token=5479ff6b-f5cc-43b2-9c08-6ee3ba5bbf22",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.badboy.spwp",
+      "author": "Ash",
+      "authorLink": "https://twitter.com/_GalaxyAsh?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Spaghetti Wallpapers 58",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.badboy.spwp",
+      "kwgt": "Floral KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=floralkwgt.kustom.pack",
+      "iconpack": "Chic icon pack",
+      "iconpackLink": "https://play.google.com/store/apps/dev?id=6814879947646523419"
+    },
+    {
+      "id": 9,
+      "name": "love pearl",
+      "setupImageLink": "https://firebasestorage.googleapis.com/v0/b/buffywalls.appspot.com/o/Najeer%20Kopparapu%2Fimage_picker1556374671240666293.png?alt=media&token=624bd132-4349-483c-b751-981bcd818530",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.material.wallrox",
+      "author": "Najeer Kopparapu",
+      "authorLink": "https://www.instagram.com/kustom_freak_6029",
+      "launcher": "Nova Launcher",
+      "image": "Spaghetti Wallpapers 58",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.badboy.spwp",
+      "kwgt": "Floral KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=evekwgt.kustom.pack",
+      "iconpack": "Chic icon pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
     }
   ]
 }
