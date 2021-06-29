@@ -61,7 +61,7 @@
       "iconpackLink": "https://play.google.com/store/apps/details?id=com.anticor.graby"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Ineclectic Mi",
       "setupImageLink": "https://firebasestorage.googleapis.com/v0/b/buffywalls.appspot.com/o/Ash%2Fimage_picker5286338519646846646.jpg?alt=media&token=fed7584f-4ffe-4b23-82ed-82390f79dbae",
       "imageLink": "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
@@ -74,6 +74,21 @@
       "kwgtLink": "https://play.google.com/store/apps/details?id=miuiwidgetforkwgt.kustom.pack",
       "iconpack": "ThemesOnFire",
       "iconpackLink": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.eclectic_icons.paid"
+    },
+    {
+      "id": 6,
+      "name": "Beautifully Bright",
+      "setupImageLink": "https://firebasestorage.googleapis.com/v0/b/buffywalls.appspot.com/o/Ash%2Fimage_picker7848389860157674148.jpg?alt=media&token=f10fe5df-8e78-4d08-933c-9e4690896dd8",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.badboy.spwp",
+      "author": "Ash",
+      "authorLink": "https://twitter.com/_GalaxyAsh?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Spaghetti Wallpapers",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Flawless KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack",
+      "iconpack": "Caelus Black icon pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack"
     }
   ]
 }
