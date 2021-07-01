@@ -199,6 +199,7 @@
       "id": 14,
       "name": "Lux Red",
       "setupImageLink": "https://dl.dropboxusercontent.com/s/5536ai35o6stv1o/image_picker7629336698726705115.jpg?dl=0",
+      "imageLink": "https://t.me/NothingButWalls",
       "author": "Ash",
       "authorLink": "https://twitter.com/_GalaxyAsh?s=09",
       "launcher": "Nova Launcher",
@@ -208,6 +209,51 @@
       "kwgtLink": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
       "iconpack": "Lux Red",
       "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.lux.red.iconpack"
+    },
+    {
+      "id": 15,
+      "name": "Amoled",
+      "setupImageLink": "https://dl.dropboxusercontent.com/s/7tgit4wqj8v5u14/image_picker838971147566732305.jpg?dl=0",
+      "imageLink": "https://play.google.com/store/apps/details?id=in.amoled.darkawallpapers",
+      "author": "Najeer Kopparapu",
+      "authorLink": "https://www.instagram.com/kustom_freak_6029",
+      "launcher": "Nova Launcher",
+      "image": "4K Amoled Wallpapers",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "kwgt": "Dot KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=dotkwgt.kustom.pack",
+      "iconpack": "Pixel Black",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.hexoline.flatpixelblack"
+    },
+    {
+      "id": 16,
+      "name": "Gills",
+      "setupImageLink": "https://dl.dropboxusercontent.com/s/v18ryhm0syd5k6o/image_picker5922224153866915466.jpg?dl=0",
+      "imageLink": "https://play.google.com/store/apps/details?id=pl.mhcharlee.mystiqwalls",
+      "author": "Raghav Khurana ",
+      "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Mystiq Walls - Gills",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "kwgt": "Floral 54",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=floralkwgt.kustom.pack&hl=en_AU&gl=US",
+      "iconpack": "Dark Void Icon Pack ",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.natewren.darkvoidfree"
+    },
+    {
+      "id": 17,
+      "name": "Ura",
+      "setupImageLink": "https://dl.dropboxusercontent.com/s/2bajabosvbk4796/image_picker91926646147691073.jpg?dl=0",
+      "imageLink": "https://play.google.com/store/apps/details?id=pl.mhcharlee.mystiqwalls",
+      "author": "Raghav Khurana ",
+      "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Mystiq Walls - Gills",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "kwgt": "Blended KWGT - 14",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack&hl=en_IN&gl=US",
+      "iconpack": "Phosphor Icon Pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.mercury"
     }
   ]
 }
