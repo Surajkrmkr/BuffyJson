@@ -1,6 +1,21 @@
 {
   "setup": [
     {
+      "id": 18,
+      "name": "Minimal Desert",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker8620639554118887981.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallspaid",
+      "author": "Raghav Khurana ",
+      "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+      "launcher": "Nova Launcher",
+      "image": "BuffyWalls Pro",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "kwgt": "Mizu KWGT - 14",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack&hl=en_IN&gl=US",
+      "iconpack": "Bliss Icon Pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Bliss"
+    },
+    {
       "id": 17,
       "name": "Ura",
       "setupImageLink": "https://dl.dropboxusercontent.com/s/2bajabosvbk4796/image_picker91926646147691073.jpg?dl=0",
