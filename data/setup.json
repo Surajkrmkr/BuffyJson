@@ -1,6 +1,21 @@
 {
   "setup": [
     {
+      "id": 22,
+      "name": "IronMan",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker307600966849847095.png",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallspaid",
+      "author": "IzzyDroid",
+      "authorLink": "https://t.me/izzydroidWITHizza",
+      "launcher": "Nova Launcher",
+      "image": "Buffywalls Pro",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": " DUSK/MINI-ISM KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack",
+      "iconpack": "Crayon Icon Pack",
+      "iconpackLink": "hhttps://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack"
+    },
+    {
       "id": 21,
       "name": "Skinny Nature",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Skinny%20Nature.jpg",
