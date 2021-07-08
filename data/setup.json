@@ -1,6 +1,51 @@
 {
   "setup": [
     {
+      "id": 25,
+      "name": "Triangles in space ",
+      "setupImageLink": "https://www.dropbox.com/s/qq78c9j820kepqs/image_picker4566935755591661576.png?dl=0",
+      "imageLink": "https://t.me/Yourswallpapars",
+      "author": "Ekta khatarkar😉",
+      "authorLink": "https://twitter.com/EKhatarkar?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Your wall",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Outline kwgt ",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=outlinewidget.kustom.pack",
+      "iconpack": "",
+      "iconpackLink": ""
+    },
+    {
+      "id": 24,
+      "name": "Wild flower 🌷",
+      "setupImageLink": "https://dl.dropboxusercontent.com/s/38oahhqekpi7xe9/image_picker3308408566084646252.png?dl=0",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.esethnet.mywallapp",
+      "author": "Ekta khatarkar😉",
+      "authorLink": "https://twitter.com/EKhatarkar?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Mywallapp",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Oreo kwgt",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=oreokwgt.kustom.pack",
+      "iconpack": "",
+      "iconpackLink": ""
+    },
+    {
+      "id": 23,
+      "name": "Wild leaves",
+      "setupImageLink": "https://dl.dropboxusercontent.com/s/qq78c9j820kepqs/image_picker4566935755591661576.png?dl=0",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallspaid",
+      "author": "Ekta khatarkar😉",
+      "authorLink": "https://twitter.com/EKhatarkar?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Buffywalls Pro",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Thirty kwgt and Modern ui kwgt",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=modernuiforkwgt.kustom.pack&hl=en_IN&gl=US",
+      "iconpack": "",
+      "iconpackLink": ""
+    },
+    {
       "id": 22,
       "name": "IronMan",
       "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker307600966849847095.png",
@@ -13,7 +58,7 @@
       "kwgt": " DUSK/MINI-ISM KWGT",
       "kwgtLink": "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack",
       "iconpack": "Crayon Icon Pack",
-      "iconpackLink": "hhttps://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack"
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack"
     },
     {
       "id": 21,
