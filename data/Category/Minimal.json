@@ -2,6 +2,56 @@
     "Minimal": {
         "Images": [
             {
+                "id": 106,
+                "heroID": "Minimal106",
+                "downloads": 0,
+                "name": "Sunset",
+                "designer": "Buffy",
+                "size": "992KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/x3386quz64nvbhv/sunset-in-desert-dark-evening-5k-e3-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/l1pzi8esk1n2w2f/sunset-in-desert-dark-evening-5k-e3-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 105,
+                "heroID": "Minimal105",
+                "downloads": 0,
+                "name": "Looking at Sun",
+                "designer": "Buffy",
+                "size": "526KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/sb1nlbxk8tq0ydt/looking-at-sun-in-desert-5k-e9-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/102iu0nfx9gfwvc/looking-at-sun-in-desert-5k-e9-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 104,
+                "heroID": "Minimal104",
+                "downloads": 0,
+                "name": "Cap America",
+                "designer": "Buffy",
+                "size": "912KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/7m2n77v7orht65j/captain-america-marvel-shield-5k-qp-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/9n01ajzstqk7adg/captain-america-marvel-shield-5k-qp-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 103,
+                "heroID": "Minimal103",
+                "downloads": 0,
+                "name": "Spiderman",
+                "designer": "Buffy",
+                "size": "269KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/8apcbhulof6mqxr/spiderman-vector-dark-5k-sk-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/wy9wu3lrljfy090/spiderman-vector-dark-5k-sk-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 102,
+                "heroID": "Minimal102",
+                "downloads": 0,
+                "name": "Marshmallow",
+                "designer": "Buffy",
+                "size": "282KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/qonikgvmbdxwvro/marshmello-dark-5k-qx-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/6k21brn1bm9yopc/marshmello-dark-5k-qx-1080x2280-small.png?dl=0"
+            },
+            {
                 "id": 101,
                 "heroID": "Minimal101",
                 "downloads": 0,
