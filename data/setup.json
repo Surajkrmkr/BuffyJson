@@ -1,6 +1,51 @@
 {
   "setup": [
     {
+      "id": 29,
+      "name": "Amoled Beach",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Amoled%20Beach.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+      "author": "KustomBee",
+      "authorLink": "https://twitter.com/iammrbhaskar",
+      "launcher": "Nova Launcher",
+      "image": "Sunview",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Radish KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
+      "iconpack": "Beeline White",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.white.iconpack"
+    },
+    {
+      "id": 28,
+      "name": "Earth View",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Earth%20View.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+      "author": "KustomBee",
+      "authorLink": "https://twitter.com/iammrbhaskar",
+      "launcher": "Nova Launcher",
+      "image": "Sci-Fi",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Wolfie KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=wolfieforkwgt.kustom.pack",
+      "iconpack": "Beeline White",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.white.iconpack"
+    },
+    {
+      "id": 27,
+      "name": "Mickey Yoo",
+      "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Micky%20YOO.jpg",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+      "author": "KustomBee",
+      "authorLink": "https://twitter.com/iammrbhaskar",
+      "launcher": "Nova Launcher",
+      "image": "Cartoon",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+      "kwgt": "Smoke KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=smoke.kustom.pack",
+      "iconpack": "Sagon Icon Pack",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.bandot.sagon.dark.iconpack"
+    },
+    {
       "id": 26,
       "name": "Heartily",
       "setupImageLink": "https://dl.dropboxusercontent.com/s/ilobe5vzgleadhp/image_picker1065858947847529066.jpg?dl=0",
