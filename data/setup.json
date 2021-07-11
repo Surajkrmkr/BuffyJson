@@ -1,6 +1,21 @@
 {
   "setup": [
     {
+      "id": 26,
+      "name": "Heartily",
+      "setupImageLink": "https://dl.dropboxusercontent.com/s/ilobe5vzgleadhp/image_picker1065858947847529066.jpg?dl=0",
+      "imageLink": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "author": "Raghav Khurana ",
+      "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+      "launcher": "Nova Launcher",
+      "image": "Pixurr Wallpapers ",
+      "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "kwgt": "Blended KWGT",
+      "kwgtLink": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack&hl=en_IN&gl=US",
+      "iconpack": "Pix Material You ",
+      "iconpackLink": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack"
+    },
+    {
       "id": 25,
       "name": "Triangles in space ",
       "setupImageLink": "https://dl.dropboxusercontent.com/s/7azbcixtc5jed2c/image_picker750414929640351497.png?dl=0",
