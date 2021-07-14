@@ -2,6 +2,36 @@
     "Amoled": {
         "Images": [
             {
+                "id": 106,
+                "heroID": "Amoled106",
+                "downloads": 0,
+                "name": "Cube Floater",
+                "designer": "Buffy",
+                "size": "654KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/oet4qimaz6ybsam/cube-floater-5k-g2-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/u6xus6at41tcyla/cube-floater-5k-g2-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 105,
+                "heroID": "Amoled105",
+                "downloads": 0,
+                "name": "Plane Crossing",
+                "designer": "Buffy",
+                "size": "865KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/fdnu116mkag5op1/planes-crossing-minimal-5k-fm-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/lri25y780x9hnwx/planes-crossing-minimal-5k-fm-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 104,
+                "heroID": "Amoled104",
+                "downloads": 0,
+                "name": "Spiderman Homemade",
+                "designer": "Aniket Jatav",
+                "size": "406KB",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/2ayty61n6x2tylc/spiderman-homemade-suit-neon-5k-um-1080x2280.jpg?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/vqsv7wxokt6q25l/spiderman-homemade-suit-neon-5k-um-1080x2280-small.png?dl=0"
+            },
+            {
                 "id": 103,
                 "heroID": "Amoled103",
                 "downloads": 0,
