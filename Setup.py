@@ -22,7 +22,7 @@ def addData(choice):
     imageData["imageLink"] = input("imageLink : ")
     imageData["launcherLink"] = input("launcherLink : ")
     imageData["name"] = input("name : ")
-    imageData["setupImageLink"] = input("setupImageLink : ").replace('www','dl').replace('dropbox','dropboxusercontent').replace('github.com','raw.githubusercontent.com').replace('/blob/','/')
+    imageData["setupImageLink"] = input("setupImageLink : ").replace('www','dl').replace('dropbox','dropboxusercontent').replace('/blob/','/raw/')
     
     
     temp[choice].insert(0,imageData)

@@ -79,8 +79,8 @@ def addData(name):
     imageData["designer"] = input("designer : ")
     # imageData["category"] = input("category : ")
     imageData["size"] = input("size : ")
-    imageData["imageUrl"] = input("imageUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent').replace('github.com','raw.githubusercontent.com').replace('/blob/','/')
-    imageData["compressUrl"] = input("compressUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent').replace('github.com','raw.githubusercontent.com').replace('/blob/','/')
+    imageData["imageUrl"] = input("imageUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent').replace('/blob/','/raw/')
+    imageData["compressUrl"] = input("compressUrl : ").replace('www','dl').replace('dropbox','dropboxusercontent').replace('/blob/','/raw/')
     
     temp[name]['Images'].insert(0,imageData)
     with open(path+name+".json","w") as f:
