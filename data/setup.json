@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 30,
+            "author": "Raghav Khurana ",
+            "kwgt": "Floral KWGT ",
+            "image": "Crimson - Hymn",
+            "launcher": "Nova Launcher ",
+            "iconpack": "Reev Pro Icon Pack ",
+            "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.hash.crimson",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=floralkwgt.kustom.pack",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "name": "Hymn",
+            "setupImageLink": "https://github.com/piyushkpv/BuffyData/raw/main/Setups/July%2019/image_picker6898605119705938982.jpg"
+        },
+        {
             "id": 29,
             "name": "Amoled Beach",
             "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Amoled%20Beach.jpg",
