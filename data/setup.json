@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 33,
+            "name": "Pine",
+            "setupImageLink": "https://github.com/piyushkpv/setups/blob/main/image_picker7814825138290253238.jpg",
+            "imageLink": "https://play.google.com/store/apps/details?id=pl.mhcharlee.mystiqwalls",
+            "author": "Raghav Khurana ",
+            "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+            "launcher": "Nova Launcher",
+            "image": "Mystiq Wallpapers ",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+            "kwgt": "Blended KWGT",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=blendedkwgt.kustom.pack&hl=en_IN&gl=US",
+            "iconpack": "Reev Pro Icon Pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios"
+        },
+        {
             "id": 32,
             "name": "Blossoms",
             "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker7654149293641881536.png",
