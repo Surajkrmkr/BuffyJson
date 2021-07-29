@@ -1,92 +1,70 @@
 {
     "Trending": [
         {
-            "id": 8,
-            "heroID": "Trending8",
-            "downloads": 0,
-            "name": "Village Street",
-            "designer": "Buffy",
-            "category": "Neon",
-            "size": "908KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/village-street-neon-girl-umbrella-y6-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/village-street-neon-girl-umbrella-y6-1080x2280-small.png"
-        },
-        {
-            "id": 7,
-            "heroID": "Trending7",
-            "downloads": 0,
-            "name": "Syth neon",
-            "designer": "Buffy",
-            "category": "Neon",
-            "size": "1.43MB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/syth-neon-sunset-4k-10-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/syth-neon-sunset-4k-10-1080x2280-small.png"
-        },
-        {
             "id": 6,
             "heroID": "Trending6",
             "downloads": 0,
-            "name": "Neon Guy",
+            "name": "Watch Dogs-Legion",
             "designer": "Buffy",
-            "category": "Neon",
-            "size": "907KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/neon-guy-mask-smiling-4k-oa-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/neon-guy-mask-smiling-4k-oa-1080x2280-small.png"
+            "category": "Games",
+            "size": "1.7MB",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/watch%20dogs%20-%20Legion.jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/1%20(3).jpg"
         },
         {
             "id": 5,
             "heroID": "Trending5",
             "downloads": 0,
-            "name": "Ligths Green",
+            "name": "Halo Infinite",
             "designer": "Buffy",
-            "category": "Neon",
-            "size": "512KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/ligths-green-neon-5k-39-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/ligths-green-neon-5k-39-1080x2280-small.png"
+            "category": "Games",
+            "size": "1.85Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/halo%20infinite.jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/1%20(2).jpg"
         },
         {
             "id": 4,
             "heroID": "Trending4",
             "downloads": 0,
-            "name": "Glowing Triangle",
+            "name": "Scorpian",
             "designer": "Buffy",
-            "category": "Neon",
-            "size": "618KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/glowing-triangle-neon-pq-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/glowing-triangle-neon-pq-1080x2280-small.png"
+            "category": "Games",
+            "size": "1.46Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/scorpian.jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/1%20(1).jpg"
         },
         {
             "id": 3,
             "heroID": "Trending3",
             "downloads": 0,
-            "name": "City Futuristic",
+            "name": "The Story",
             "designer": "Buffy",
-            "category": "Neon",
-            "size": "699KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/city-futuristic-retro-8k-uz-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/city-futuristic-retro-8k-uz-1080x2280-small.png"
+            "category": "Love",
+            "size": "1.58Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/the%20story.jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/1%20(6).jpg"
         },
         {
             "id": 2,
             "heroID": "Trending2",
             "downloads": 0,
-            "name": "Cat Glasses",
+            "name": "BGMI",
             "designer": "Buffy",
-            "category": "Neon",
-            "size": "1.28MB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/cat-glasses-neon-purple-nights-4k-ob-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/cat-glasses-neon-purple-nights-4k-ob-1080x2280-small.png"
+            "category": "Games",
+            "size": "1.29MB",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/bgmi.jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/1%20(4).jpg"
         },
         {
             "id": 1,
             "heroID": "Trending1",
             "downloads": 0,
-            "name": "Alone Nights",
+            "name": "Mask Man",
             "designer": "Buffy",
-            "category": "Neon",
-            "size": "1.69MB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/alone-nights-of-astronaut-5k-th-1080x2280.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/July%2015/alone-nights-of-astronaut-5k-th-1080x2280-small.png"
+            "category": "Amoled",
+            "size": "246Kb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/mask%20man.jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/1%20(5).jpg"
         }
     ]
 }
