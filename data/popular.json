@@ -1,6 +1,72 @@
 {
     "popular": [
         {
+            "id": 372,
+            "heroID": "popular372",
+            "downloads": 0,
+            "name": "Curls 6",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "879Kb",
+            "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(6).jpg",
+            "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/banner%206.jpg"
+        },
+        {
+            "id": 371,
+            "heroID": "popular371",
+            "downloads": 0,
+            "name": "Curls 5",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "695Kb",
+            "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(5).jpg",
+            "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/banner%205.jpg"
+        },
+        {
+            "id": 370,
+            "heroID": "popular370",
+            "downloads": 0,
+            "name": "Curls 4",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "552Kb",
+            "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(4).jpg",
+            "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/banner%204.jpg"
+        },
+        {
+            "id": 369,
+            "heroID": "popular369",
+            "downloads": 0,
+            "name": "Curls 3",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "1.3Mb",
+            "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(3).jpg",
+            "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/banner%203.jpg"
+        },
+        {
+            "id": 368,
+            "heroID": "popular368",
+            "downloads": 0,
+            "name": "Curls 2",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "789Kb",
+            "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(2).jpg",
+            "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/banner%202.jpg"
+        },
+        {
+            "id": 367,
+            "heroID": "popular367",
+            "downloads": 0,
+            "name": "Curls",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "763Kb",
+            "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(1).jpg",
+            "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/Buffy%20update%20(1).jpg"
+        },
+        {
             "id": 366,
             "heroID": "popular366",
             "downloads": 0,
