@@ -2,12 +2,12 @@
   "Brands": [
     {
       "name": "ZTE",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/ofz9q4x8uaikj59/20200526_104240.png?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/zte.jpg",
       "id": 16,
       "__collections__": {}
     },
     {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/r5di98z3l5sqcmr/20200526_102138.jpg?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/xi.jpg",
       "id": 15,
       "name": "Xiaomi",
       "__collections__": {}
@@ -15,11 +15,11 @@
     {
       "name": "Vivo",
       "id": 14,
-      "imageUrl": "https://dl.dropboxusercontent.com/s/gena9dy8gioy5aw/20200526_102209.jpg?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/vi.jpg",
       "__collections__": {}
     },
     {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/412h3bmxjkfw7v9/20200526_102221.jpg?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/so.jpg",
       "id": 13,
       "name": "Sony",
       "__collections__": {}
@@ -27,17 +27,17 @@
     {
       "id": 12,
       "name": "Samsung",
-      "imageUrl": "https://dl.dropboxusercontent.com/s/gvu8k7sotyvv49k/20200526_102233.jpg?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/sa.jpg",
       "__collections__": {}
     },
     {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/0mgmfgroip1rdv0/20200526_102245.jpg?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/re.jpg",
       "name": "Realme",
       "id": 11,
       "__collections__": {}
     },
     {
-      "imageUrl": "https://dl.dropboxusercontent.com/s/xa7o6nkc6tiws3h/20200526_104233.jpg?dl=0",
+      "imageUrl": "https://github.com/piyushkpv/Stock-Banners/raw/main/op.jpg",
       "id": 10,
       "name": "OnePlus",
       "__collections__": {}
@@ -98,3 +98,4 @@
     }
   ]
 }
+
