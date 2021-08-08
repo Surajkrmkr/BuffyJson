@@ -1,6 +1,83 @@
 {
     "popular": [
         {
+            "id": 379,
+            "heroID": "popular379",
+            "downloads": 0,
+            "name": "Lake From Desert",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "469KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/lake-from-dreamy-mountains-5k-eu-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/lake-from-dreamy-mountains-5k-eu-1080x2280-small.png"
+        },
+        {
+            "id": 378,
+            "heroID": "popular378",
+            "downloads": 0,
+            "name": "Black Widow",
+            "designer": "Buffy",
+            "category": "Super Heroes",
+            "size": "535KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/black-widow-minimal-movie-poster-5k-jh-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/black-widow-minimal-movie-poster-5k-jh-1080x2280-small.png"
+        },
+        {
+            "id": 377,
+            "heroID": "popular377",
+            "downloads": 0,
+            "name": "Spiderman Minimal",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "132KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/spiderman-minimal-8k-i5-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/spiderman-minimal-8k-i5-1080x2280-small.png"
+        },
+        {
+            "id": 376,
+            "heroID": "popular376",
+            "downloads": 0,
+            "name": "Batman Minimal",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "138KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/batman-minimal-8k-52-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/batman-minimal-8k-52-1080x2280-small.png"
+        },
+        {
+            "id": 375,
+            "heroID": "popular375",
+            "downloads": 0,
+            "name": "Duck Minimal",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "197KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/duck-minimal-4k-o8-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/courage-the-cowardly-dog-minimal-4k-4g-1080x2280-small.png"
+        },
+        {
+            "id": 374,
+            "heroID": "popular374",
+            "downloads": 0,
+            "name": "Courage The Cow",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "343KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/courage-the-cowardly-dog-minimal-4k-4g-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/courage-the-cowardly-dog-minimal-4k-4g-1080x2280-small.png"
+        },
+        {
+            "id": 373,
+            "heroID": "popular373",
+            "downloads": 0,
+            "name": "Angry Bird",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "127KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/angry-bird-minimal-8k-6s-1080x2280-small.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/angry-bird-minimal-8k-6s-1080x2280-small.png"
+        },
+        {
             "id": 372,
             "heroID": "popular372",
             "downloads": 0,
