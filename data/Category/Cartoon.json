@@ -2,18 +2,8 @@
     "Cartoon": {
         "Images": [
             {
-                "id": 117,
-                "heroID": "Cartoon117",
-                "downloads": 0,
-                "name": "Batman Minimal",
-                "designer": "Buffy",
-                "size": "138KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/batman-minimal-8k-52-1080x2280.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/batman-minimal-8k-52-1080x2280-small.png"
-            },
-            {
-                "id": 116,
-                "heroID": "Cartoon116",
+                "id": 115,
+                "heroID": "Cartoon115",
                 "downloads": 0,
                 "name": "Duck Minimal",
                 "designer": "Buffy",
@@ -22,24 +12,14 @@
                 "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/duck-minimal-4k-o8-1080x2280-small.png"
             },
             {
-                "id": 115,
-                "heroID": "Cartoon115",
+                "id": 114,
+                "heroID": "Cartoon114",
                 "downloads": 0,
                 "name": "Courage The Cow",
                 "designer": "Buffy",
                 "size": "343KB",
                 "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/courage-the-cowardly-dog-minimal-4k-4g-1080x2280.jpg",
                 "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/courage-the-cowardly-dog-minimal-4k-4g-1080x2280-small.png"
-            },
-            {
-                "id": 114,
-                "heroID": "Cartoon114",
-                "downloads": 0,
-                "name": "Angry Bird",
-                "designer": "Buffy",
-                "size": "127KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/angry-bird-minimal-8k-6s-1080x2280.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/angry-bird-minimal-8k-6s-1080x2280-small.png"
             },
             {
                 "size": "4.2MB",

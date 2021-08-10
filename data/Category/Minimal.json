@@ -2,24 +2,14 @@
     "Minimal": {
         "Images": [
             {
-                "id": 108,
-                "heroID": "Minimal108",
+                "id": 107,
+                "heroID": "Minimal107",
                 "downloads": 0,
                 "name": "Lake From Desert",
                 "designer": "Buffy",
                 "size": "469KB",
                 "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/lake-from-dreamy-mountains-5k-eu-1080x2280.jpg",
                 "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/lake-from-dreamy-mountains-5k-eu-1080x2280-small.png"
-            },
-            {
-                "id": 107,
-                "heroID": "Minimal107",
-                "downloads": 0,
-                "name": "Spiderman Minimal",
-                "designer": "Buffy",
-                "size": "132KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/spiderman-minimal-8k-i5-1080x2280.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/spiderman-minimal-8k-i5-1080x2280-small.png"
             },
             {
                 "id": 106,
