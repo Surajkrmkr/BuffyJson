@@ -2,6 +2,116 @@
     "Minimal": {
         "Images": [
             {
+                "id": 118,
+                "heroID": "Minimal118",
+                "downloads": 0,
+                "name": "Buildings 10",
+                "designer": "Buffy",
+                "size": "184Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(10).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(10).jpg"
+            },
+            {
+                "id": 117,
+                "heroID": "Minimal117",
+                "downloads": 0,
+                "name": "Buildings 09",
+                "designer": "Buffy",
+                "size": "916Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(9).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(9).jpg"
+            },
+            {
+                "id": 116,
+                "heroID": "Minimal116",
+                "downloads": 0,
+                "name": "Buildings 08",
+                "designer": "Buffy",
+                "size": "999Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(8).jpg"
+            },
+            {
+                "id": 115,
+                "heroID": "Minimal115",
+                "downloads": 0,
+                "name": "Buildings 07",
+                "designer": "Buffy",
+                "size": "773Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(7).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(7).jpg"
+            },
+            {
+                "id": 114,
+                "heroID": "Minimal114",
+                "downloads": 0,
+                "name": "Buildings 06",
+                "designer": "Buffy",
+                "size": "1.6Mb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(6).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(6).jpg"
+            },
+            {
+                "id": 113,
+                "heroID": "Minimal113",
+                "downloads": 0,
+                "name": "Buildings 05",
+                "designer": "Buffy",
+                "size": "386Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(5).jpg"
+            },
+            {
+                "id": 112,
+                "heroID": "Minimal112",
+                "downloads": 0,
+                "name": "386Kb",
+                "designer": "30",
+                "size": "& \"C:/Users/Piyush KPV/AppData/Local/Programs/Python/Python39/python.exe\" \"d:/Bufywalls json data/BuffyJson/Category.py\"",
+                "imageUrl": "",
+                "compressUrl": ""
+            },
+            {
+                "id": 111,
+                "heroID": "Minimal111",
+                "downloads": 0,
+                "name": "Buildings 04",
+                "designer": "Buffy",
+                "size": "701Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(4).jpg"
+            },
+            {
+                "id": 110,
+                "heroID": "Minimal110",
+                "downloads": 0,
+                "name": "Buildings 03",
+                "designer": "Buffy",
+                "size": "693Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(3).jpg"
+            },
+            {
+                "id": 109,
+                "heroID": "Minimal109",
+                "downloads": 0,
+                "name": "Buildings 02",
+                "designer": "Buffy",
+                "size": "805Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(2).jpg"
+            },
+            {
+                "id": 108,
+                "heroID": "Minimal108",
+                "downloads": 0,
+                "name": "Buildings 01",
+                "designer": "Buffy",
+                "size": "354Kb",
+                "imageUrl": "https://github.com/piyushkpv/Minimal/raw/main/arc%20mini%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/Minimal/raw/main/thumb%20(1).jpg"
+            },
+            {
                 "id": 107,
                 "heroID": "Minimal107",
                 "downloads": 0,
