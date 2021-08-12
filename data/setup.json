@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 41,
+            "author": "Aman Jangir",
+            "kwgt": "SugerCubes",
+            "iconpack": "Dove Drak- Icon Pack ",
+            "image": "MiniWalls",
+            "launcher": "Nova Launcher ",
+            "authorLink": "",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=sugarcubes.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.dove.dark.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.miniwall",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "name": "Sweet Home",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/sweet%20home.jpg"
+        },
+        {
             "id": 40,
             "author": "Aman Jangir",
             "kwgt": "",
