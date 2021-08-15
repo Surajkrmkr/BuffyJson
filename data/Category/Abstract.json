@@ -2,6 +2,16 @@
     "Abstract": {
         "Images": [
             {
+                "id": 92,
+                "heroID": "Abstract92",
+                "downloads": 0,
+                "name": "Last color shine",
+                "designer": "Buffy",
+                "size": "276KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/last-color-shine-8k-aa-720x1280.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/last-color-shine-8k-aa-720x1280-small.png"
+            },
+            {
                 "id": 91,
                 "heroID": "Abstract91",
                 "downloads": 0,

@@ -1,6 +1,61 @@
 {
     "popular": [
         {
+            "id": 394,
+            "heroID": "popular394",
+            "downloads": 0,
+            "name": "Green Minimal",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "150KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/green-nature-minimal-fox-4k-mq-540x960.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/green-nature-minimal-fox-4k-mq-540x960-small.png"
+        },
+        {
+            "id": 393,
+            "heroID": "popular393",
+            "downloads": 0,
+            "name": "Glowing With Neon",
+            "designer": "Buffy",
+            "category": "Sci-Fi",
+            "size": "1.17MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/glowing-with-neon-ye-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/glowing-with-neon-ye-1080x2280-small.png"
+        },
+        {
+            "id": 392,
+            "heroID": "popular392",
+            "downloads": 0,
+            "name": "Train Neon",
+            "designer": "Buffy",
+            "category": "Sci-Fi",
+            "size": "351KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/train-neon-synthwave-buildings-5k-5t-540x960.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/train-neon-synthwave-buildings-5k-5t-540x960-small.png"
+        },
+        {
+            "id": 391,
+            "heroID": "popular391",
+            "downloads": 0,
+            "name": "Outrun",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "204KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/outrun-solus-14-540x960.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/outrun-solus-14-540x960-small.png"
+        },
+        {
+            "id": 390,
+            "heroID": "popular390",
+            "downloads": 0,
+            "name": "Last color shine",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "276KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/last-color-shine-8k-aa-720x1280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/last-color-shine-8k-aa-720x1280-small.png"
+        },
+        {
             "id": 389,
             "heroID": "popular389",
             "downloads": 0,
