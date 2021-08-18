@@ -2,6 +2,46 @@
     "Abstract": {
         "Images": [
             {
+                "id": 99,
+                "heroID": "Abstract99",
+                "downloads": 0,
+                "name": "Abstract Glow Kid",
+                "designer": "Buffy",
+                "size": "943Kb",
+                "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/20210818_055832.jpg",
+                "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/r%20(4).jpg"
+            },
+            {
+                "id": 98,
+                "heroID": "Abstract98",
+                "downloads": 0,
+                "name": "Abstract Pattern",
+                "designer": "Buffy",
+                "size": "618Kb",
+                "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/20210818_055825.jpg",
+                "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/r%20(3).jpg"
+            },
+            {
+                "id": 97,
+                "heroID": "Abstract97",
+                "downloads": 0,
+                "name": "Abstract",
+                "designer": "Buffy",
+                "size": "1.65Mb",
+                "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/20210818_055808.jpg",
+                "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/r%20(2).jpg"
+            },
+            {
+                "id": 96,
+                "heroID": "Abstract96",
+                "downloads": 0,
+                "name": "Abstract Buildo",
+                "designer": "Buffy",
+                "size": "1.4Mb",
+                "imageUrl": "https://github.com/piyushkpv/abstract/raw/main/20210818_055758.jpg",
+                "compressUrl": "https://github.com/piyushkpv/abstract/raw/main/r%20(1).jpg"
+            },
+            {
                 "id": 95,
                 "heroID": "Abstract95",
                 "downloads": 0,
