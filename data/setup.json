@@ -1,51 +1,6 @@
 {
     "setup": [
         {
-            "id": 44,
-            "author": "Paritosh",
-            "kwgt": "Bonsai KWGT",
-            "iconpack": "Beeline green",
-            "image": "",
-            "launcher": "Lawnchair launcher",
-            "authorLink": "",
-            "kwgtLink": "https://play.google.com/store/apps/details?id=bonsaikwgt.kustom.pack",
-            "iconpackLink": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.green.iconpack",
-            "imageLink": "",
-            "launcherLink": "",
-            "name": "Sailing boat",
-            "setupImageLink": "https://github.com/piyushkpv/BuffyData/raw/main/Setups/Aug%2015/3.jpg"
-        },
-        {
-            "id": 43,
-            "author": "Aman Jangir ",
-            "kwgt": "Borrowed from Dropbox",
-            "iconpack": "Crayon Icon Pack",
-            "image": "Pixurr",
-            "launcher": "Nova Launcher ",
-            "authorLink": "",
-            "kwgtLink": "https://www.dropbox.com/s/j6l6d3k9o083zto/Crayon_widget.kwgt?dl=0",
-            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
-            "imageLink": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
-            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-            "name": "Minimal Shop",
-            "setupImageLink": "https://github.com/piyushkpv/BuffyData/raw/main/Setups/Aug%2015/2.jpg"
-        },
-        {
-            "id": 42,
-            "author": "ShonenHero",
-            "kwgt": "neumorphic dark kwgt",
-            "iconpack": "phantom icons",
-            "image": "homemade Spiderman ",
-            "launcher": "one ui (default)",
-            "authorLink": "",
-            "kwgtLink": "",
-            "iconpackLink": "",
-            "imageLink": "",
-            "launcherLink": "",
-            "name": "Glowing spider man ",
-            "setupImageLink": "https://github.com/piyushkpv/BuffyData/raw/main/Setups/Aug%2015/1%20(Custom).png"
-        },
-        {
             "id": 41,
             "author": "Aman Jangir",
             "kwgt": "SugerCubes",

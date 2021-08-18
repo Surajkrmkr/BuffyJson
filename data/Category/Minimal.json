@@ -2,26 +2,6 @@
     "Minimal": {
         "Images": [
             {
-                "id": 113,
-                "heroID": "Minimal113",
-                "downloads": 0,
-                "name": "Green Minimal",
-                "designer": "Buffy",
-                "size": "150KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/green-nature-minimal-fox-4k-mq-540x960.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/green-nature-minimal-fox-4k-mq-540x960-small.png"
-            },
-            {
-                "id": 112,
-                "heroID": "Minimal112",
-                "downloads": 0,
-                "name": "Outrun",
-                "designer": "Buffy",
-                "size": "204KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/outrun-solus-14-540x960.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%2015/outrun-solus-14-540x960-small.png"
-            },
-            {
                 "id": 111,
                 "heroID": "Minimal111",
                 "downloads": 0,
