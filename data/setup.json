@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 46,
+            "author": "Paritosh",
+            "kwgt": "Desaturate PRO KWGT",
+            "iconpack": "Reev Pro Icon pack",
+            "image": "Wallcentre",
+            "launcher": "Launchair launcher",
+            "authorLink": "https://twitter.com/sonu26sahu?s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=desaturateprokwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+            "imageLink": "https://t.me/wallcentre",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+            "name": "Rings",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker4407871710846147847.jpg"
+        },
+        {
             "id": 45,
             "author": "Hendrix's",
             "kwgt": "Shadow KWGT",
