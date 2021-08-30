@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 49,
+            "name": "Lux Black",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker6848412517820579085.png",
+            "imageLink": "https://play.google.com/store/apps/details?id=my.walls.app",
+            "author": "Ekta khatarkar",
+            "authorLink": "https://twitter.com/EKhatarkar?s=09",
+            "launcher": "Nova Launcher",
+            "image": "Wallsy",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "kwgt": "",
+            "kwgtLink": "",
+            "iconpack": "Lux black icon pack ",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.lux.black.iconpack"
+        },
+        {
+            "id": 48,
+            "name": "Dreamy window ",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker6614880840594940013.png",
+            "imageLink": "",
+            "author": "Ekta khatarkar",
+            "authorLink": "https://twitter.com/EKhatarkar?s=09",
+            "launcher": "Nova Launcher",
+            "image": "Pinterest",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "kwgt": "Android 12 for KWGT",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=android12widget.kustom.pack",
+            "iconpack": "",
+            "iconpackLink": ""
+        },
+        {
+            "id": 47,
+            "name": "Lucid Green",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker863756601349467005.png",
+            "imageLink": "",
+            "author": "Ekta khatarkar",
+            "authorLink": "https://twitter.com/EKhatarkar?s=09",
+            "launcher": "Nova Launcher",
+            "image": "Galaxies",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "kwgt": "Lucid For KWGT",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=kggmlucid.kustom.pack",
+            "iconpack": "",
+            "iconpackLink": ""
+        },
+        {
             "id": 46,
             "author": "Paritosh",
             "kwgt": "Desaturate PRO KWGT",
