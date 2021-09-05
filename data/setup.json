@@ -1,6 +1,36 @@
 {
     "setup": [
         {
+            "id": 51,
+            "name": "Unseen flower",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/unseen%20flower.png",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.amaan.wallfever",
+            "author": "Ekta khatarkar",
+            "authorLink": "https://twitter.com/EKhatarkar?s=09",
+            "launcher": "Smart Launcher",
+            "image": "WallFever",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
+            "kwgt": "KGGM Material [Edited]",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=android12kggm.kustom.pack",
+            "iconpack": "Ghost Icon Pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.ghost.glyph.iconpack"
+        },
+        {
+            "id": 50,
+            "name": "Red Rose",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Red%20Rose.png",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallspaid",
+            "author": "Ekta khatarkar",
+            "authorLink": "https://twitter.com/EKhatarkar?s=09",
+            "launcher": "Smart Launcher",
+            "image": "BuffyWalls",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
+            "kwgt": "KGGM Material [Edited]",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=android12kggm.kustom.pack",
+            "iconpack": "Ghost Icon Pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.ghost.glyph.iconpack"
+        },
+        {
             "id": 49,
             "name": "Lux Black",
             "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker6848412517820579085.png",
