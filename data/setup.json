@@ -1,6 +1,36 @@
 {
     "setup": [
         {
+            "id": 53,
+            "name": "Pastel Black",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/pastel%20black.jpg",
+            "imageLink": "http://t.me/ripplehood",
+            "author": "Garrix",
+            "authorLink": "",
+            "launcher": "Nova Launcher",
+            "image": "Ripple",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "kwgt": "Flawless",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack",
+            "iconpack": "Reev Dark",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevdark.grabsterstudios"
+        },
+        {
+            "id": 52,
+            "name": "Ganpati bappa ",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/ganpati.png",
+            "imageLink": "https://play.google.com/store/apps/details?id=net.zedge.android",
+            "author": "Ekta khatarkar",
+            "authorLink": "https://twitter.com/EKhatarkar?s=09",
+            "launcher": "Nova Launcher",
+            "image": "Zedge",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "kwgt": "Sneak KWGT",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=sneak.kustom.kwgt",
+            "iconpack": "Reev Pro Icon pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios"
+        },
+        {
             "id": 51,
             "name": "Unseen flower",
             "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/unseen%20flower.png",
