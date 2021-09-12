@@ -10,6 +10,7 @@ def choices():
     print("13 . Movies       14 . Music     15 . Nature                16 . Night Life")
     print("17 . Pathways     18 . People    19 . Piyush KPV            20 . Sci-Fi")
     print("21 . Series       22 . Sports    23 . Sunview               24 . Super Heroes")
+    print("25 . Creative")
     print("-------------------------Any other number to exit---------------------------")
 
     return int(input("\nEnter a number to add data in Category\n"))
@@ -39,7 +40,8 @@ def switch(choice):
         21: "Series",
         22: "Sports",
         23: "Sunview",
-        24: "Super Heroes"
+        24: "Super Heroes",
+        25: "Creative"
     }
     if(switcher.get(choice, '0')=='0'):
         exit() 
