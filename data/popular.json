@@ -1,6 +1,17 @@
 {
     "popular": [
         {
+            "id": 417,
+            "heroID": "popular417",
+            "downloads": 0,
+            "name": "Among Trees",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "576KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/among-trees-f3-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/among-trees-f3-1080x2280-small.png"
+        },
+        {
             "id": 416,
             "heroID": "popular416",
             "downloads": 0,
