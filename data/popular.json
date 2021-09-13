@@ -1,6 +1,61 @@
 {
     "popular": [
         {
+            "id": 422,
+            "heroID": "popular422",
+            "downloads": 0,
+            "name": "Wild Animal",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "1.47MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/wild-animals-forest-pink-minimalism-5k-4y-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/wild-animals-forest-pink-minimalism-5k-4y-1080x2280-small.png"
+        },
+        {
+            "id": 421,
+            "heroID": "popular421",
+            "downloads": 0,
+            "name": "Reindeer Foggy",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "911KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reinnder-forest-foggy-morning-5k-o0-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reinnder-forest-foggy-morning-5k-o0-1080x2280-small.png"
+        },
+        {
+            "id": 420,
+            "heroID": "popular420",
+            "downloads": 0,
+            "name": "Reindeer minimal",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "0.98MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reindeer-minimal-sky-5k-9x-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reindeer-minimal-sky-5k-9x-1080x2280-small.png"
+        },
+        {
+            "id": 419,
+            "heroID": "popular419",
+            "downloads": 0,
+            "name": "Reindeer Forest",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "399KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reindeer-forest-of-serenity-4k-hy-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reindeer-forest-of-serenity-4k-hy-1080x2280-small.png"
+        },
+        {
+            "id": 418,
+            "heroID": "popular418",
+            "downloads": 0,
+            "name": "Reindeer Digital",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "2.1MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reindeer-digital-art-fq-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Sep%2013/reindeer-digital-art-fq-1080x2280-small.png"
+        },
+        {
             "id": 417,
             "heroID": "popular417",
             "downloads": 0,
