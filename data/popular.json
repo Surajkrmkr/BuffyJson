@@ -1,6 +1,50 @@
 {
     "popular": [
         {
+            "id": 429,
+            "heroID": "popular429",
+            "downloads": 0,
+            "name": "ZTE Axon",
+            "designer": "ZTE",
+            "category": "ZTE",
+            "size": "64KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-23.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-23-small.png"
+        },
+        {
+            "id": 428,
+            "heroID": "popular428",
+            "downloads": 0,
+            "name": "ZTE Axon",
+            "designer": "ZTE",
+            "category": "ZTE",
+            "size": "63KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-22.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-22-small.png"
+        },
+        {
+            "id": 427,
+            "heroID": "popular427",
+            "downloads": 0,
+            "name": "ZTE Axon",
+            "designer": "ZTE",
+            "category": "ZTE",
+            "size": "69KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-10.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-10-small.png"
+        },
+        {
+            "id": 426,
+            "heroID": "popular426",
+            "downloads": 0,
+            "name": "ZTE Axon",
+            "designer": "ZTE",
+            "category": "ZTE",
+            "size": "86KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-01.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Zte/ZTE-Axon-30-Stock-Wallpaper-01-small.png"
+        },
+        {
             "id": 425,
             "heroID": "popular425",
             "downloads": 0,
