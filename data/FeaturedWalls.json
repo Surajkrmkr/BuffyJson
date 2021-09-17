@@ -1,40 +1,59 @@
 {
   "FeaturedWalls": [
     {
-      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/Microsoft%20Surface%20Laptop%20Go%20Wallpaper%201_resize_45.jpg",
-      "size": "597Kb",
+      "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-01.jpg",
+      "size": "79KB",
       "downloads": 11,
-      "name": "Microsoft Surface Go",
+      "name": "Samsung Galaxy Z Flip",
       "heroID": "Feature1",
-      "designer": "Microsoft",
-      "category": "Microsoft",
+      "designer": "Samsung",
+      "category": "Samsung",
       "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/Microsoft%20Surface%20Laptop%20Go%20Wallpaper%201.jpg",
-      "__collections__": {}
+      "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-01.jpg"
     },
     {
-      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/Microsoft%20Surface%20Laptop%20Go%20Wallpaper%202_resize_50.jpg",
-      "size": "1.02Mb",
+      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-03.jpg?raw=true",
+      "size": "21KB",
       "downloads": 11,
-      "name": "Microsoft Surface Go",
+      "name": "Samsung Galaxy Z Flip",
       "heroID": "Feature2",
-      "category": "Microsoft",
-      "designer": "Microsoft",
+      "category": "Samsung",
+      "designer": "Samsung",
       "id": 2,
-      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/Microsoft%20Surface%20Laptop%20Go%20Wallpaper%202.jpg",
-      "__collections__": {}
+      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-03.jpg?raw=true"
     },
     {
-      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/Microsoft%20Surface%20Laptop%20Go%20Wallpaper%203_resize_70.jpg",
-      "size": "595Kb",
+      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-04.jpg?raw=true",
+      "size": "10KB",
       "downloads": 11,
-      "name": "Microsoft Surface Go",
-      "category": "Microsoft",
+      "name": "Samsung Galaxy Z Flip",
+      "category": "Samsung",
       "heroID": "Feature3",
-      "designer": "Microsoft",
+      "designer": "Samsung",
       "id": 3,
-      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/Microsoft%20Surface%20Laptop%20Go%20Wallpaper%203.jpg",
-      "__collections__": {}
+      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-04.jpg?raw=true"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-05.jpg?raw=true",
+      "size": "16KB",
+      "downloads": 11,
+      "name": "Samsung Galaxy Z Flip",
+      "category": "Samsung",
+      "heroID": "Feature4",
+      "designer": "Samsung",
+      "id": 4,
+      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-05.jpg?raw=true"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-06.jpg?raw=true",
+      "size": "11KB",
+      "downloads": 11,
+      "name": "Samsung Galaxy Z Flip",
+      "category": "Samsung",
+      "heroID": "Feature5",
+      "designer": "Samsung",
+      "id": 5,
+      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-06.jpg?raw=true"
     }
   ]
 }
