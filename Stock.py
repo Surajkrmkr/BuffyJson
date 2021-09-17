@@ -65,7 +65,8 @@ def addData(name):
     imageData["id"] = len(temp[name]['Images'])+1
     imageData["heroID"] = name+str(len(temp[name]['Images'])+1)
     imageData["downloads"] = 0
-    imageData["name"] = input("name : ")
+    # imageData["name"] = input("name : ")
+    imageData["name"] = 'MI MIX 4'
     imageData["designer"] = name
     # imageData["category"] = input("category : ")
     imageData["size"] = input("size : ")

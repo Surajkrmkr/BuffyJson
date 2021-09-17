@@ -2,6 +2,86 @@
     "MIUI": {
         "Images": [
             {
+                "id": 31,
+                "heroID": "MIUI31",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "111KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-09.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-09-small.png"
+            },
+            {
+                "id": 30,
+                "heroID": "MIUI30",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "138Kb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-08.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-08-small.png"
+            },
+            {
+                "id": 29,
+                "heroID": "MIUI29",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "43KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-07.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-07-small.png"
+            },
+            {
+                "id": 28,
+                "heroID": "MIUI28",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "547KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-06.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-06-small.png"
+            },
+            {
+                "id": 27,
+                "heroID": "MIUI27",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "111KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-05.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-05-small.png"
+            },
+            {
+                "id": 26,
+                "heroID": "MIUI26",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "580KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-04.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-04-small.png"
+            },
+            {
+                "id": 25,
+                "heroID": "MIUI25",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "119KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-03.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-03-small.png"
+            },
+            {
+                "id": 24,
+                "heroID": "MIUI24",
+                "downloads": 0,
+                "name": "MI MIX 4",
+                "designer": "MIUI",
+                "size": "96KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-02.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-02-small.png"
+            },
+            {
                 "id": 23,
                 "heroID": "MIUI23",
                 "downloads": 0,
