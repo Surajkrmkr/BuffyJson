@@ -1,6 +1,17 @@
 {
     "popular": [
         {
+            "id": 425,
+            "heroID": "popular425",
+            "downloads": 0,
+            "name": "Galaxy Z Flip",
+            "designer": "Samsung",
+            "category": "Samsung",
+            "size": "269KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Samsung/Samsung-Galaxy-Z-Flip-3-Stock-Wallpaper-12-scaled%20(Custom).jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Samsung/Samsung-Galaxy-Z-Flip-3-Stock-Wallpaper-12-scaled%20(Custom)-small.png"
+        },
+        {
             "id": 424,
             "heroID": "popular424",
             "downloads": 0,
