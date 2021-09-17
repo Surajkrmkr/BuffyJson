@@ -1,6 +1,28 @@
 {
     "popular": [
         {
+            "id": 431,
+            "heroID": "popular431",
+            "downloads": 0,
+            "name": "iPhone 13 pro max",
+            "designer": "Apple",
+            "category": "Apple",
+            "size": "271KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/9.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/9-small.png"
+        },
+        {
+            "id": 430,
+            "heroID": "popular430",
+            "downloads": 0,
+            "name": "iPhone 13 pro max",
+            "designer": "Apple",
+            "category": "Apple",
+            "size": "835KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/4.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/4-small.png"
+        },
+        {
             "id": 429,
             "heroID": "popular429",
             "downloads": 0,
