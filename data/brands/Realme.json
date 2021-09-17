@@ -1,138 +1,228 @@
 {
-  "Realme": {
-    "Images": [
-      {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/hlggcg4vif3cti2/Realme%20X50%20Pro40991010100.png?dl=0",
-        "designer": "Realme",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/awr2nnvzk8g69id/Realme%20X50%20Pro40991010100_resize_41.jpg?dl=0",
-        "heroID": "Realme12",
-        "size": "1.3Mb",
-        "name": "Realme X50 Pro",
-        "downloads": 10,
-        "id": 12,
-        "__collections__": {}
-      },
-      {
-        "downloads": 5,
-        "id": 11,
-        "name": "Realme X50 Pro",
-        "heroID": "Realme11",
-        "size": "1.8Mb",
-        "designer": "Realme",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/dcuykmkf2g5l292/Realme%20X50%20Pro40951010100_resize_33.jpg?dl=0",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/hp6wdbgn9nckcm5/Realme%20X50%20Pro40951010100.png?dl=0",
-        "__collections__": {}
-      },
-      {
-        "designer": "Realme",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/2c3eslwz3it608r/Realme%20X50%20Pro40941010100_resize_10.jpg?dl=0",
-        "size": "4.6Mb",
-        "name": "Realme X50 Pro",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/kv72kcaw3tuh3ir/Realme%20X50%20Pro40941010100.png?dl=0",
-        "id": 10,
-        "heroID": "Realme10",
-        "downloads": 5,
-        "__collections__": {}
-      },
-      {
-        "name": "Realme X50 Pro",
-        "id": 9,
-        "heroID": "Realme9",
-        "downloads": 12,
-        "designer": "Realme",
-        "size": "257.5Kb",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/h4qduboykjzt0ak/Realme%20X50%20Pro40911010100_resize_37.jpg?dl=0",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/4xb4mog5eqlyq9o/Realme%20X50%20Pro40911010100.png?dl=0",
-        "__collections__": {}
-      },
-      {
-        "name": "Realme X50 Pro",
-        "size": "1.5Mb",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/yv97s2qwsff26au/Realme%20X50%20Pro40861010100_resize_78.jpg?dl=0",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/xo64eil2e6nd0h4/Realme%20X50%20Pro40861010100.png?dl=0",
-        "id": 8,
-        "designer": "Realme",
-        "heroID": "Realme8",
-        "downloads": 4,
-        "__collections__": {}
-      },
-      {
-        "downloads": 5,
-        "name": "Realme X50 Pro",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/ofd787q4xz3d7wg/Realme%20X50%20Pro40851010100.png?dl=0",
-        "size": "3.2Mb",
-        "id": 7,
-        "heroID": "Realme7",
-        "designer": "Realme",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/4g8rsze1mz93k3p/Realme%20X50%20Pro40851010100_resize_88.jpg?dl=0",
-        "__collections__": {}
-      },
-      {
-        "name": "Realme X50 Pro",
-        "id": 6,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/62mc6sodfr1t0md/Realme%20X50%20Pro40971010100.png?dl=0",
-        "heroID": "Realme6",
-        "designer": "Realme",
-        "downloads": 4,
-        "compressUrl": "https://dl.dropboxusercontent.com/s/6sseee8hkmp58hp/Realme%20X50%20Pro40971010100_resize_47.jpg?dl=0",
-        "size": "3.3Mb",
-        "__collections__": {}
-      },
-      {
-        "id": 5,
-        "name": "Realme X50 Pro",
-        "size": "3.7Mb",
-        "downloads": 5,
-        "heroID": "Realme5",
-        "designer": "Realme",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/5fak12tfldcm1e8/Realme%20X50%20Pro40901010100.png?dl=0",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/bmhcmx5h00g5bga/Realme%20X50%20Pro40901010100_resize_83.jpg?dl=0",
-        "__collections__": {}
-      },
-      {
-        "designer": "Realme",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/nn3pt20e9ut8e82/Realme%20X27971010100_resize_24.jpg?dl=0",
-        "imageUrl": "https://dl.dropboxusercontent.com/s/wiezn3k1hbgyowa/Realme%20X27971010100.png?dl=0",
-        "heroID": "Realme4",
-        "name": "Realme X2",
-        "size": "2.2Mb",
-        "id": 4,
-        "downloads": 3,
-        "__collections__": {}
-      },
-      {
-        "name": "Realme X2",
-        "designer": "Realme",
-        "size": "1.9Mb",
-        "downloads": 2,
-        "heroID": "Realme3",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/9f3cenl2tcj7wff/Realme%20X27961010100_resize_13.jpg?dl=0",
-        "id": 3,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/1r2hxq4rqn614hj/Realme%20X27961010100.png?dl=0",
-        "__collections__": {}
-      },
-      {
-        "compressUrl": "https://dl.dropboxusercontent.com/s/v1ci8zagnd9qf3p/Realme%205%20Pro32061010100_resize_22.jpg?dl=0",
-        "designer": "Realme",
-        "id": 2,
-        "size": "2.1Mb",
-        "downloads": 5,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/wh950246ckvuj5q/Realme%205%20Pro32061010100.png?dl=0",
-        "name": "Realme 5 Pro",
-        "heroID": "Realme2",
-        "__collections__": {}
-      },
-      {
-        "imageUrl": "https://dl.dropboxusercontent.com/s/f11zmvjcwx7sdtf/Realme%205%20Pro32051010100.png?dl=0",
-        "size": "2.1Mb",
-        "downloads": 6,
-        "name": "Realme 5 Pro",
-        "designer": "Realme",
-        "heroID": "Realme1",
-        "compressUrl": "https://dl.dropboxusercontent.com/s/okfbg8544418mx8/Realme%205%20Pro32051010100_resize_14.jpg?dl=0",
-        "id": 1,
-        "__collections__": {}
-      }
-    ]
-  }
+    "Realme": {
+        "Images": [
+            {
+                "id": 21,
+                "heroID": "Realme21",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "156KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-009-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-009-scaled-small.png"
+            },
+            {
+                "id": 20,
+                "heroID": "Realme20",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "199KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-008-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-008-scaled-small.png"
+            },
+            {
+                "id": 19,
+                "heroID": "Realme19",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "140KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-007-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-007-scaled-small.png"
+            },
+            {
+                "id": 18,
+                "heroID": "Realme18",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "92KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-006-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-006-scaled-small.png"
+            },
+            {
+                "id": 17,
+                "heroID": "Realme17",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "139KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-005-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-005-scaled-small.png"
+            },
+            {
+                "id": 16,
+                "heroID": "Realme16",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "91KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-004-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-004-scaled-small.png"
+            },
+            {
+                "id": 15,
+                "heroID": "Realme15",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "235KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-003-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-003-scaled-small.png"
+            },
+            {
+                "id": 14,
+                "heroID": "Realme14",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "129KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-002-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-002-scaled-small.png"
+            },
+            {
+                "id": 13,
+                "heroID": "Realme13",
+                "downloads": 0,
+                "name": "ColorOS 12",
+                "designer": "Realme",
+                "size": "108KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-001-scaled.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-001-scaled-small.png"
+            },
+            {
+                "imageUrl": "https://dl.dropboxusercontent.com/s/hlggcg4vif3cti2/Realme%20X50%20Pro40991010100.png?dl=0",
+                "designer": "Realme",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/awr2nnvzk8g69id/Realme%20X50%20Pro40991010100_resize_41.jpg?dl=0",
+                "heroID": "Realme12",
+                "size": "1.3Mb",
+                "name": "Realme X50 Pro",
+                "downloads": 10,
+                "id": 12,
+                "__collections__": {}
+            },
+            {
+                "downloads": 5,
+                "id": 11,
+                "name": "Realme X50 Pro",
+                "heroID": "Realme11",
+                "size": "1.8Mb",
+                "designer": "Realme",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/dcuykmkf2g5l292/Realme%20X50%20Pro40951010100_resize_33.jpg?dl=0",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/hp6wdbgn9nckcm5/Realme%20X50%20Pro40951010100.png?dl=0",
+                "__collections__": {}
+            },
+            {
+                "designer": "Realme",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/2c3eslwz3it608r/Realme%20X50%20Pro40941010100_resize_10.jpg?dl=0",
+                "size": "4.6Mb",
+                "name": "Realme X50 Pro",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/kv72kcaw3tuh3ir/Realme%20X50%20Pro40941010100.png?dl=0",
+                "id": 10,
+                "heroID": "Realme10",
+                "downloads": 5,
+                "__collections__": {}
+            },
+            {
+                "name": "Realme X50 Pro",
+                "id": 9,
+                "heroID": "Realme9",
+                "downloads": 12,
+                "designer": "Realme",
+                "size": "257.5Kb",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/h4qduboykjzt0ak/Realme%20X50%20Pro40911010100_resize_37.jpg?dl=0",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/4xb4mog5eqlyq9o/Realme%20X50%20Pro40911010100.png?dl=0",
+                "__collections__": {}
+            },
+            {
+                "name": "Realme X50 Pro",
+                "size": "1.5Mb",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/yv97s2qwsff26au/Realme%20X50%20Pro40861010100_resize_78.jpg?dl=0",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/xo64eil2e6nd0h4/Realme%20X50%20Pro40861010100.png?dl=0",
+                "id": 8,
+                "designer": "Realme",
+                "heroID": "Realme8",
+                "downloads": 4,
+                "__collections__": {}
+            },
+            {
+                "downloads": 5,
+                "name": "Realme X50 Pro",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/ofd787q4xz3d7wg/Realme%20X50%20Pro40851010100.png?dl=0",
+                "size": "3.2Mb",
+                "id": 7,
+                "heroID": "Realme7",
+                "designer": "Realme",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/4g8rsze1mz93k3p/Realme%20X50%20Pro40851010100_resize_88.jpg?dl=0",
+                "__collections__": {}
+            },
+            {
+                "name": "Realme X50 Pro",
+                "id": 6,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/62mc6sodfr1t0md/Realme%20X50%20Pro40971010100.png?dl=0",
+                "heroID": "Realme6",
+                "designer": "Realme",
+                "downloads": 4,
+                "compressUrl": "https://dl.dropboxusercontent.com/s/6sseee8hkmp58hp/Realme%20X50%20Pro40971010100_resize_47.jpg?dl=0",
+                "size": "3.3Mb",
+                "__collections__": {}
+            },
+            {
+                "id": 5,
+                "name": "Realme X50 Pro",
+                "size": "3.7Mb",
+                "downloads": 5,
+                "heroID": "Realme5",
+                "designer": "Realme",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/5fak12tfldcm1e8/Realme%20X50%20Pro40901010100.png?dl=0",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/bmhcmx5h00g5bga/Realme%20X50%20Pro40901010100_resize_83.jpg?dl=0",
+                "__collections__": {}
+            },
+            {
+                "designer": "Realme",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/nn3pt20e9ut8e82/Realme%20X27971010100_resize_24.jpg?dl=0",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/wiezn3k1hbgyowa/Realme%20X27971010100.png?dl=0",
+                "heroID": "Realme4",
+                "name": "Realme X2",
+                "size": "2.2Mb",
+                "id": 4,
+                "downloads": 3,
+                "__collections__": {}
+            },
+            {
+                "name": "Realme X2",
+                "designer": "Realme",
+                "size": "1.9Mb",
+                "downloads": 2,
+                "heroID": "Realme3",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/9f3cenl2tcj7wff/Realme%20X27961010100_resize_13.jpg?dl=0",
+                "id": 3,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/1r2hxq4rqn614hj/Realme%20X27961010100.png?dl=0",
+                "__collections__": {}
+            },
+            {
+                "compressUrl": "https://dl.dropboxusercontent.com/s/v1ci8zagnd9qf3p/Realme%205%20Pro32061010100_resize_22.jpg?dl=0",
+                "designer": "Realme",
+                "id": 2,
+                "size": "2.1Mb",
+                "downloads": 5,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/wh950246ckvuj5q/Realme%205%20Pro32061010100.png?dl=0",
+                "name": "Realme 5 Pro",
+                "heroID": "Realme2",
+                "__collections__": {}
+            },
+            {
+                "imageUrl": "https://dl.dropboxusercontent.com/s/f11zmvjcwx7sdtf/Realme%205%20Pro32051010100.png?dl=0",
+                "size": "2.1Mb",
+                "downloads": 6,
+                "name": "Realme 5 Pro",
+                "designer": "Realme",
+                "heroID": "Realme1",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/okfbg8544418mx8/Realme%205%20Pro32051010100_resize_14.jpg?dl=0",
+                "id": 1,
+                "__collections__": {}
+            }
+        ]
+    }
 }

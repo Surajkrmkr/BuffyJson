@@ -1,6 +1,17 @@
 {
     "popular": [
         {
+            "id": 423,
+            "heroID": "popular423",
+            "downloads": 0,
+            "name": "ColorOS 12",
+            "designer": "Realme",
+            "category": "Realme",
+            "size": "108KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-001-scaled.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Real%20Me/ColorOS-12-Stock-Wallpaper-001-scaled-small.png"
+        },
+        {
             "id": 422,
             "heroID": "popular422",
             "downloads": 0,
