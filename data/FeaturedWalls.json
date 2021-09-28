@@ -1,59 +1,37 @@
 {
   "FeaturedWalls": [
     {
-      "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-01.jpg",
-      "size": "79KB",
+      "compressUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/resize%203.jpg",
+      "size": "903KB",
       "downloads": 11,
-      "name": "Samsung Galaxy Z Flip",
-      "heroID": "Feature1",
-      "designer": "Samsung",
-      "category": "Samsung",
-      "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-01.jpg"
-    },
-    {
-      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-03.jpg?raw=true",
-      "size": "21KB",
-      "downloads": 11,
-      "name": "Samsung Galaxy Z Flip",
-      "heroID": "Feature2",
-      "category": "Samsung",
-      "designer": "Samsung",
-      "id": 2,
-      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-03.jpg?raw=true"
-    },
-    {
-      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-04.jpg?raw=true",
-      "size": "10KB",
-      "downloads": 11,
-      "name": "Samsung Galaxy Z Flip",
-      "category": "Samsung",
+      "name": "Mi Pad 5 Pro",
       "heroID": "Feature3",
-      "designer": "Samsung",
+      "category": "Xiaomi",
+      "designer": "Xiaomi",
       "id": 3,
-      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-04.jpg?raw=true"
+      "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/mi%20pad%205%20pro%203.jpg"
     },
     {
-      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-05.jpg?raw=true",
-      "size": "16KB",
+      "compressUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/resize%202.jpg",
+      "size": "930KB",
       "downloads": 11,
-      "name": "Samsung Galaxy Z Flip",
-      "category": "Samsung",
-      "heroID": "Feature4",
-      "designer": "Samsung",
-      "id": 4,
-      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-05.jpg?raw=true"
+      "name": "Mi Pad 5 Pro",
+      "heroID": "Feature2",
+      "category": "Xiaomi",
+      "designer": "Xiaomi",
+      "id": 2,
+      "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/mi%20pad%205%20pro%202.jpg"
     },
     {
-      "compressUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-06.jpg?raw=true",
-      "size": "11KB",
+      "compressUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/resize%201.jpg",
+      "size": "103KB",
       "downloads": 11,
-      "name": "Samsung Galaxy Z Flip",
-      "category": "Samsung",
-      "heroID": "Feature5",
-      "designer": "Samsung",
-      "id": 5,
-      "imageUrl": "https://github.com/piyushkpv/BuffyData/blob/main/Featured/Sep%2017/Samsung-Galaxy-Z-Flip-3-Cover-Stock-Wallpaper-06.jpg?raw=true"
+      "name": "Mi Pad 5 Pro",
+      "heroID": "Feature1",
+      "category": "Xiaomi",
+      "designer": "Xiaomi",
+      "id": 1,
+      "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/mi%20pad%205%20pro%201.jpg"
     }
   ]
 }
