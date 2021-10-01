@@ -1,6 +1,36 @@
 {
     "setup": [
         {
+            "id": 74,
+            "author": "Raghav Khurana ",
+            "kwgt": "Gem KWGT ",
+            "iconpack": "Phantom Icons ",
+            "image": "Radia Walls",
+            "launcher": "Nova ",
+            "authorLink": "https://twitter.com/RaghavK39903778?s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.gemkwgtbyahmad.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=dev.lknninex.phantom",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.radiawalls.yudha",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "name": "Shine ",
+            "setupImageLink": "https://github.com/Surajkrmkr/BuffyData/raw/main/Setups/Oct%201/image_picker4039132968452359509.jpg"
+        },
+        {
+            "id": 73,
+            "author": "Shanto",
+            "kwgt": "Lux Yellow icon pack & Square Kwgt",
+            "iconpack": "Lux Yellow icon pack",
+            "image": "Miniwall Wallpaper",
+            "launcher": "Lawnchair launcher 2",
+            "authorLink": "https://bio.link/firelordshanto",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.lux.yellow.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.miniwall",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_SG&gl=US",
+            "name": "Delicious Breakfast",
+            "setupImageLink": "https://github.com/Surajkrmkr/BuffyData/raw/main/Setups/Oct%201/image_picker45237805526019408.jpg"
+        },
+        {
             "id": 72,
             "author": "Karthik",
             "kwgt": "Android 12 widget 005",
