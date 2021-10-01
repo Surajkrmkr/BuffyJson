@@ -1,6 +1,116 @@
 {
     "popular": [
         {
+            "id": 447,
+            "heroID": "popular447",
+            "downloads": 0,
+            "name": "Tech World",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "3.4MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
+        },
+        {
+            "id": 446,
+            "heroID": "popular446",
+            "downloads": 0,
+            "name": "Blue Scene",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "147KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjlym7_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjlym7_1080x2340-min.png"
+        },
+        {
+            "id": 445,
+            "heroID": "popular445",
+            "downloads": 0,
+            "name": "Lens",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "521KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjll33_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjll33_1080x2340-min.png"
+        },
+        {
+            "id": 444,
+            "heroID": "popular444",
+            "downloads": 0,
+            "name": "Scene",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "1.0MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-969kvd_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-969kvd_1080x2340-min.png"
+        },
+        {
+            "id": 443,
+            "heroID": "popular443",
+            "downloads": 0,
+            "name": "Snow Minimal",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "1.0MB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-739woo_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-739woo_1080x2340-min.png"
+        },
+        {
+            "id": 442,
+            "heroID": "popular442",
+            "downloads": 0,
+            "name": "Minimal Day",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "287KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83qdy1_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83qdy1_1080x2340-min.png"
+        },
+        {
+            "id": 441,
+            "heroID": "popular441",
+            "downloads": 0,
+            "name": "Deer Minimal",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "811KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83ow2y_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83ow2y_1080x2340-min.png"
+        },
+        {
+            "id": 440,
+            "heroID": "popular440",
+            "downloads": 0,
+            "name": "Moon Night",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "298KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-5wr3m7_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-5wr3m7_1080x2340-min.png"
+        },
+        {
+            "id": 439,
+            "heroID": "popular439",
+            "downloads": 0,
+            "name": "WallHeaven",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "544KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-3k85w6_1080x2340.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-3k85w6_1080x2340-min.png"
+        },
+        {
+            "id": 438,
+            "heroID": "popular438",
+            "downloads": 0,
+            "name": "Beautiful Evening",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "179KB",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/beautiful-evening-landscape-minimal-8k-ag-1080x2280.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/beautiful-evening-landscape-minimal-8k-ag-1080x2280-min.jpg"
+        },
+        {
             "id": 437,
             "heroID": "popular437",
             "downloads": 0,
