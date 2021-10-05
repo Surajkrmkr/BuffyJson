@@ -2,6 +2,16 @@
     "Amoled": {
         "Images": [
             {
+                "id": 107,
+                "heroID": "Amoled107",
+                "downloads": 0,
+                "name": "L Letter",
+                "designer": "Buffy",
+                "size": "563Kb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/6.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(6).jpg"
+            },
+            {
                 "id": 106,
                 "heroID": "Amoled106",
                 "downloads": 0,
