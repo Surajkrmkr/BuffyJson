@@ -4,7 +4,7 @@ path0 = "data/"
 path = "data/Category/"
 
 def choices():
-    print(" 1 . Abstract      2 . Amoled     3 . Animal                 4 . Anime")
+    print(" 1 . Abstract      2 . Amoled     3 . Animals                 4 . Anime")
     print(" 5 . Cars & Bike   6 . Cartoon    7 . Flower                 8 . Games")
     print(" 9 . Horror       10 . Love      11 . Minimal Illustration  12 . Minimal")
     print("13 . Movies       14 . Music     15 . Nature                16 . Night Life")
@@ -19,7 +19,7 @@ def switch(choice):
     switcher = {
         1: "Abstract",
         2: "Amoled",
-        3: "Animal",
+        3: "Animals",
         4: "Anime",
         5: "Cars & Bike",
         6: "Cartoon",
