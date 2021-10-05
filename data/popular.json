@@ -1,6 +1,83 @@
 {
     "popular": [
         {
+            "id": 454,
+            "heroID": "popular454",
+            "downloads": 0,
+            "name": "Elephant View",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "905Kb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/1.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(1).jpg"
+        },
+        {
+            "id": 453,
+            "heroID": "popular453",
+            "downloads": 0,
+            "name": "Puffy",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "1.43Mb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/3.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(3).jpg"
+        },
+        {
+            "id": 452,
+            "heroID": "popular452",
+            "downloads": 0,
+            "name": "Love",
+            "designer": "Buffy",
+            "category": "Love",
+            "size": "402Kb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/4.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(4).jpg"
+        },
+        {
+            "id": 451,
+            "heroID": "popular451",
+            "downloads": 0,
+            "name": "Victory",
+            "designer": "Buffy",
+            "category": "Sports",
+            "size": "1.84Mb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/5.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(5).jpg"
+        },
+        {
+            "id": 450,
+            "heroID": "popular450",
+            "downloads": 0,
+            "name": "L Letter",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "563Kb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/6.png",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(6).jpg"
+        },
+        {
+            "id": 449,
+            "heroID": "popular449",
+            "downloads": 0,
+            "name": "COD Vanguard",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "1.71Mb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/2.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(2).jpg"
+        },
+        {
+            "id": 448,
+            "heroID": "popular448",
+            "downloads": 0,
+            "name": "Fear",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "1.65Mb",
+            "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/7.jpg",
+            "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(7).jpg"
+        },
+        {
             "id": 447,
             "heroID": "popular447",
             "downloads": 0,
