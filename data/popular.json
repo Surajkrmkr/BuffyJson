@@ -1,6 +1,28 @@
 {
     "popular": [
         {
+            "id": 481,
+            "heroID": "popular481",
+            "downloads": 0,
+            "name": "The Search",
+            "designer": "Buffy",
+            "category": "Sci-Fi",
+            "size": "1.39KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/SCi%20fi/Oct%2014/the-search-5k-qg-1080x2280.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/SCi%20fi/Oct%2014/the-search-5k-qg-1080x2280-small.png"
+        },
+        {
+            "id": 480,
+            "heroID": "popular480",
+            "downloads": 0,
+            "name": "PowerGirls",
+            "designer": "Buffy",
+            "category": "Sci-Fi",
+            "size": "1.27Kb",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/SCi%20fi/Oct%2014/power-girls-vs-scifi-4k-6q-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/SCi%20fi/Oct%2014/power-girls-vs-scifi-4k-6q-1080x2160-small.png"
+        },
+        {
             "id": 479,
             "heroID": "popular479",
             "downloads": 0,
