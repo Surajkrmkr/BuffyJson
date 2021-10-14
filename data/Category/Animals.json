@@ -2,6 +2,106 @@
     "Animals": {
         "Images": [
             {
+                "id": 35,
+                "heroID": "Animals35",
+                "downloads": 0,
+                "name": "Pink JellyFish",
+                "designer": "Buffy",
+                "size": "578KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/pink-jellyfish-dark-8k-2s-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/pink-jellyfish-dark-8k-2s-1080x2280-small.png"
+            },
+            {
+                "id": 34,
+                "heroID": "Animals34",
+                "downloads": 0,
+                "name": "pennant",
+                "designer": "Buffy",
+                "size": "1.91MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/pennant-coralfish-5k-vj-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/pennant-coralfish-5k-vj-1080x2280-small.png"
+            },
+            {
+                "id": 33,
+                "heroID": "Animals33",
+                "downloads": 0,
+                "name": "Owl",
+                "designer": "Buffy",
+                "size": "825KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/owl-glowing-eyes-s0-1536x864.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/owl-glowing-eyes-s0-1536x864-small.png"
+            },
+            {
+                "id": 32,
+                "heroID": "Animals32",
+                "downloads": 0,
+                "name": "Tiger",
+                "designer": "Buffy",
+                "size": "885KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/lynxes-4k-nj-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/lynxes-4k-nj-1080x2160-small.png"
+            },
+            {
+                "id": 31,
+                "heroID": "Animals31",
+                "downloads": 0,
+                "name": "Horses",
+                "designer": "Buffy",
+                "size": "678KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/horses-dawn-minimal-4k-b6-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/horses-dawn-minimal-4k-b6-1080x2280-small.png"
+            },
+            {
+                "id": 30,
+                "heroID": "Animals30",
+                "downloads": 0,
+                "name": "Desert",
+                "designer": "Buffy",
+                "size": "814KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/desert-camels-minimal-5k-d0-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/desert-camels-minimal-5k-d0-1080x2280-small.png"
+            },
+            {
+                "id": 29,
+                "heroID": "Animals29",
+                "downloads": 0,
+                "name": "Deer Silhouette",
+                "designer": "Buffy",
+                "size": "839KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/deer-silhouette-evening-5k-ju-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/deer-silhouette-evening-5k-ju-1080x2280-small.png"
+            },
+            {
+                "id": 28,
+                "heroID": "Animals28",
+                "downloads": 0,
+                "name": "Bird",
+                "designer": "Buffy",
+                "size": "593KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/cute-little-bird-4k-3s-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/cute-little-bird-4k-3s-1080x2280-small.png"
+            },
+            {
+                "id": 27,
+                "heroID": "Animals27",
+                "downloads": 0,
+                "name": "Cats",
+                "designer": "Buffy",
+                "size": "596KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/cute-kitten-4k-im-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/cute-kitten-4k-im-1080x2160-small.png"
+            },
+            {
+                "id": 26,
+                "heroID": "Animals26",
+                "downloads": 0,
+                "name": "Cats",
+                "designer": "Buffy",
+                "size": "99KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/cats-like-the-night-ab.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2014/cats-like-the-night-ab-small.png"
+            },
+            {
                 "id": 25,
                 "heroID": "Animals25",
                 "downloads": 0,
