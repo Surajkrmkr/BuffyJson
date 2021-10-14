@@ -1,281 +1,281 @@
 {
-    "Super Heroes": {
-        "Images": [
-            {
-                "id": 26,
-                "heroID": "Super Heroes26",
-                "downloads": 0,
-                "name": "Wonder Woman",
-                "designer": "Buffy",
-                "size": "1.41Mb",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/wonder-woman-justice-league-2020-4k-7e-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/wonder-woman-justice-league-2020-4k-7e-1080x2160-small.png"
-            },
-            {
-                "id": 25,
-                "heroID": "Super Heroes25",
-                "downloads": 0,
-                "name": "SPderAmna",
-                "designer": "Buffy",
-                "size": "1.41MB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/spiderman-2099-neon-lights-4k-gc-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/spiderman-2099-neon-lights-4k-gc-1080x2160-small.png"
-            },
-            {
-                "id": 24,
-                "heroID": "Super Heroes24",
-                "downloads": 0,
-                "name": "Infinity Panther",
-                "designer": "Buffy",
-                "size": "0.99MB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/infinity-panther-d0-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/infinity-panther-d0-1080x2160-small.png"
-            },
-            {
-                "id": 23,
-                "heroID": "Super Heroes23",
-                "downloads": 0,
-                "name": "Halftone",
-                "designer": "Buffy",
-                "size": "1MB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/halftone-heroes-winter-soldier-black-panther-c4-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/halftone-heroes-winter-soldier-black-panther-c4-1080x2160-small.png"
-            },
-            {
-                "id": 22,
-                "heroID": "Super Heroes22",
-                "downloads": 0,
-                "name": "Black Panther",
-                "designer": "Buffy",
-                "size": "272KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/black-panther-minimal-5k-uz-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/black-panther-minimal-5k-uz-1080x2160-small.png"
-            },
-            {
-                "id": 21,
-                "heroID": "Super Heroes21",
-                "downloads": 0,
-                "name": "Batman",
-                "designer": "Buffy",
-                "size": "654KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/batman-portrait-character-5k-sm-1080x2280.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/batman-portrait-character-5k-sm-1080x2280-small.png"
-            },
-            {
-                "id": 20,
-                "heroID": "Super Heroes20",
-                "downloads": 0,
-                "name": "Batman",
-                "designer": "Buffy",
-                "size": "1.17KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/bat-man-beyond-4k-hj-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/bat-man-beyond-4k-hj-1080x2160-small.png"
-            },
-            {
-                "id": 19,
-                "heroID": "Super Heroes19",
-                "downloads": 0,
-                "name": "Batman",
-                "designer": "Buffy",
-                "size": "875KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/4k-batman-beyond-2020-ev-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/4k-batman-beyond-2020-ev-1080x2160-small.png"
-            },
-            {
-                "id": 18,
-                "heroID": "Super Heroes18",
-                "downloads": 0,
-                "name": "Joker",
-                "designer": "Buffy",
-                "size": "883KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-joker-always-smile-4k-vr-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-joker-always-smile-4k-vr-1080x2160-small.png"
-            },
-            {
-                "id": 17,
-                "heroID": "Super Heroes17",
-                "downloads": 0,
-                "name": "Batman",
-                "designer": "Buffy",
-                "size": "893KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-batman-beyond-4k-mv-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-batman-beyond-4k-mv-1080x2160-small.png"
-            },
-            {
-                "id": 16,
-                "heroID": "Super Heroes16",
-                "downloads": 0,
-                "name": "Black Widow",
-                "designer": "Buffy",
-                "size": "535KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/black-widow-minimal-movie-poster-5k-jh-1080x2280.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/black-widow-minimal-movie-poster-5k-jh-1080x2280-small.png"
-            },
-            {
-                "compressUrl": "https://dl.dropboxusercontent.com/s/xski41y6apv4p64/Super%20Hero%2015_resize_89.jpg?dl=0",
-                "name": "Super Hero 15",
-                "designer": "Marvel",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/1h1rgpfzubc9arr/1%20%282%29.png?dl=0",
-                "size": "745KB",
-                "heroID": "Super Heroes15",
-                "downloads": 14,
-                "id": 15,
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://dl.dropboxusercontent.com/s/djcg7xrzhvx2o6p/Super%20Hero%2014_resize_44.jpg?dl=0",
-                "id": 14,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/ikn3y9g9k90a8gn/1%20%2820%29.jpg?dl=0",
-                "name": "Super Hero 14",
-                "designer": "Marvel",
-                "downloads": 5,
-                "heroID": "Super Heroes14",
-                "size": "257KB",
-                "__collections__": {}
-            },
-            {
-                "size": "272KB",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/2as67oqqts259g4/Super%20Hero%2013_resize_78.jpg?dl=0",
-                "id": 13,
-                "heroID": "Super Heroes13",
-                "designer": "Marvel",
-                "downloads": 11,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/spr1t49ly7l3qiz/1%20%2823%29.jpg?dl=0",
-                "name": "Super Hero 13",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://dl.dropboxusercontent.com/s/u40w6onilmhdbr0/Super%20Hero%2012_resize_28.jpg?dl=0",
-                "id": 12,
-                "downloads": 26,
-                "designer": "Marvel & DC",
-                "name": "Super Hero 12",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/z5t9447zvmuxd0m/1%20%2824%29.jpg?dl=0",
-                "heroID": "Super Heroes12",
-                "size": "66KB",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://dl.dropboxusercontent.com/s/4e9ydl2ptgz2ptw/Superheroes%20%281%29.jpg?dl=0",
-                "heroID": "Super Heroes11",
-                "name": "Super Hero 11",
-                "downloads": 9,
-                "designer": "DC",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/qkd178geki71739/Super%20Hero%2011_resize_73.jpg?dl=0",
-                "size": "472KB",
-                "id": 11,
-                "__collections__": {}
-            },
-            {
-                "downloads": 24,
-                "id": 10,
-                "compressUrl": "https://dl.dropboxusercontent.com/s/lgqlt6m93162rlo/Super%20Hero%2010_resize_16.jpg?dl=0",
-                "size": "604KB",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/glq2348q8pewex2/Superheroes%20%2810%29.jpg?dl=0",
-                "name": "Super Hero 10",
-                "heroID": "Super Heroes10",
-                "designer": "DC",
-                "__collections__": {}
-            },
-            {
-                "downloads": 14,
-                "name": "Super Hero 09",
-                "size": "424KB",
-                "heroID": "Super Heroes9",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/jggvq97w9rr8dtu/Superheroes%20%282%29.jpg?dl=0",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/0ifytljdhavygea/Super%20Hero%2009_resize_53.jpg?dl=0",
-                "id": 9,
-                "designer": "Marvel",
-                "__collections__": {}
-            },
-            {
-                "name": "Super Hero 08",
-                "heroID": "Super Heroes8",
-                "designer": "Ubisoft",
-                "id": 8,
-                "compressUrl": "https://dl.dropboxusercontent.com/s/5lh5b00z00xmcn0/Super%20Hero%2008_resize_96.jpg?dl=0",
-                "size": "562KB",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/pigrqtx759rxwiz/Superheroes%20%283%29.jpg?dl=0",
-                "downloads": 5,
-                "__collections__": {}
-            },
-            {
-                "id": 7,
-                "size": "581KB",
-                "downloads": 7,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/xwoplqvcymwhq3w/Superheroes%20%284%29.jpg?dl=0",
-                "name": "Super Hero 07",
-                "designer": "DC",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/056vy40azwlijge/Super%20Hero%2007_resize_34.jpg?dl=0",
-                "heroID": "Super Heroes7",
-                "__collections__": {}
-            },
-            {
-                "downloads": 11,
-                "id": 6,
-                "name": "Super Hero 06",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/xnht613f37ohcmf/Superheroes%20%285%29.jpg?dl=0",
-                "size": "512KB",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/iuiqlx2rkd2uwie/Super%20Hero%2006_resize_74.jpg?dl=0",
-                "designer": "Marvel",
-                "heroID": "Super Heroes6",
-                "__collections__": {}
-            },
-            {
-                "name": "Super Hero 05",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/ugy6r7d2ea1k0mw/Super%20Hero%2005_resize_20.jpg?dl=0",
-                "heroID": "Super Heroes5",
-                "id": 5,
-                "size": "414KB",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/ssqnfi2aj9zpj5z/Superheroes%20%286%29.jpg?dl=0",
-                "downloads": 10,
-                "designer": "Marvel",
-                "__collections__": {}
-            },
-            {
-                "designer": "Marvel",
-                "downloads": 15,
-                "compressUrl": "https://dl.dropboxusercontent.com/s/qmtvazophjofk7h/Super%20Hero%2004_resize_58.jpg?dl=0",
-                "heroID": "Super Heroes4",
-                "id": 4,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/9bx09k33d9kzh5y/Superheroes%20%287%29.jpg?dl=0",
-                "size": "467KB",
-                "name": "Super Hero 04",
-                "__collections__": {}
-            },
-            {
-                "downloads": 19,
-                "size": "537KB",
-                "name": "Super Hero 03",
-                "id": 3,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/iqmryh7qg2j76zw/Superheroes%20%288%29.jpg?dl=0",
-                "designer": "Marvel",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/g4af7ppxd78el3w/Super%20Hero%2003_resize_96.jpg?dl=0",
-                "heroID": "Super Heroes3",
-                "__collections__": {}
-            },
-            {
-                "downloads": 32,
-                "heroID": "Super Hero 02",
-                "id": 2,
-                "name": "Super Hero 02",
-                "designer": "DC",
-                "size": "1.1MB",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/ogg3kdy765k9gjo/Super%20Hero%2002_resize_21.jpg?dl=0",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/qjvq0k0w9341n0o/Superheroes%20%289%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "size": "80KB",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/0vd31d9ocdq75mp/1%20%288%29.jpg?dl=0",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/ttt22o1hdjcc7j8/Super%20Hero%2001_resize_68.jpg?dl=0",
-                "id": 1,
-                "downloads": 24,
-                "heroID": "Super Heroes1",
-                "name": "Super Hero 01",
-                "designer": "DC",
-                "__collections__": {}
-            }
-        ]
-    }
+  "Super Heroes": {
+    "Images": [
+      {
+        "id": 26,
+        "heroID": "Super Heroes26",
+        "downloads": 0,
+        "name": "Wonder Woman",
+        "designer": "Buffy",
+        "size": "1.41Mb",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/wonder-woman-justice-league-2020-4k-7e-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/wonder-woman-justice-league-2020-4k-7e-1080x2160-small.png"
+      },
+      {
+        "id": 25,
+        "heroID": "Super Heroes25",
+        "downloads": 0,
+        "name": "SPderAmna",
+        "designer": "Buffy",
+        "size": "1.41MB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/spiderman-2099-neon-lights-4k-gc-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/spiderman-2099-neon-lights-4k-gc-1080x2160-small.png"
+      },
+      {
+        "id": 24,
+        "heroID": "Super Heroes24",
+        "downloads": 0,
+        "name": "Infinity Panther",
+        "designer": "Buffy",
+        "size": "0.99MB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/infinity-panther-d0-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/infinity-panther-d0-1080x2160-small.png"
+      },
+      {
+        "id": 23,
+        "heroID": "Super Heroes23",
+        "downloads": 0,
+        "name": "Halftone",
+        "designer": "Buffy",
+        "size": "1MB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/halftone-heroes-winter-soldier-black-panther-c4-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/halftone-heroes-winter-soldier-black-panther-c4-1080x2160-small.png"
+      },
+      {
+        "id": 22,
+        "heroID": "Super Heroes22",
+        "downloads": 0,
+        "name": "Black Panther",
+        "designer": "Buffy",
+        "size": "272KB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/black-panther-minimal-5k-uz-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/black-panther-minimal-5k-uz-1080x2160-small.png"
+      },
+      {
+        "id": 21,
+        "heroID": "Super Heroes21",
+        "downloads": 0,
+        "name": "Batman",
+        "designer": "Buffy",
+        "size": "654KB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/batman-portrait-character-5k-sm-1080x2280.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/batman-portrait-character-5k-sm-1080x2280-small.png"
+      },
+      {
+        "id": 20,
+        "heroID": "Super Heroes20",
+        "downloads": 0,
+        "name": "Batman",
+        "designer": "Buffy",
+        "size": "1.17KB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/bat-man-beyond-4k-hj-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/bat-man-beyond-4k-hj-1080x2160-small.png"
+      },
+      {
+        "id": 19,
+        "heroID": "Super Heroes19",
+        "downloads": 0,
+        "name": "Batman",
+        "designer": "Buffy",
+        "size": "875KB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/4k-batman-beyond-2020-ev-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/4k-batman-beyond-2020-ev-1080x2160-small.png"
+      },
+      {
+        "id": 18,
+        "heroID": "Super Heroes18",
+        "downloads": 0,
+        "name": "Joker",
+        "designer": "Buffy",
+        "size": "883KB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-joker-always-smile-4k-vr-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-joker-always-smile-4k-vr-1080x2160-small.png"
+      },
+      {
+        "id": 17,
+        "heroID": "Super Heroes17",
+        "downloads": 0,
+        "name": "Batman",
+        "designer": "Buffy",
+        "size": "893KB",
+        "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-batman-beyond-4k-mv-1080x2160.jpg",
+        "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/2020-batman-beyond-4k-mv-1080x2160-small.png"
+      },
+      {
+        "id": 16,
+        "heroID": "Super Heroes16",
+        "downloads": 0,
+        "name": "Black Widow",
+        "designer": "Buffy",
+        "size": "535KB",
+        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/black-widow-minimal-movie-poster-5k-jh-1080x2280.jpg",
+        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Aug%208/black-widow-minimal-movie-poster-5k-jh-1080x2280-small.png"
+      },
+      {
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2015_resize_89.jpg?dl=0",
+        "name": "Super Hero 15",
+        "designer": "Marvel",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/1%20%282%29.png?dl=0",
+        "size": "745KB",
+        "heroID": "Super Heroes15",
+        "downloads": 14,
+        "id": 15,
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2014_resize_44.jpg?dl=0",
+        "id": 14,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/1%20%2820%29.jpg?dl=0",
+        "name": "Super Hero 14",
+        "designer": "Marvel",
+        "downloads": 5,
+        "heroID": "Super Heroes14",
+        "size": "257KB",
+        "__collections__": {}
+      },
+      {
+        "size": "272KB",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2013_resize_78.jpg?dl=0",
+        "id": 13,
+        "heroID": "Super Heroes13",
+        "designer": "Marvel",
+        "downloads": 11,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/1%20%2823%29.jpg?dl=0",
+        "name": "Super Hero 13",
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2012_resize_28.jpg?dl=0",
+        "id": 12,
+        "downloads": 26,
+        "designer": "Marvel & DC",
+        "name": "Super Hero 12",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/1%20%2824%29.jpg?dl=0",
+        "heroID": "Super Heroes12",
+        "size": "66KB",
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%281%29.jpg?dl=0",
+        "heroID": "Super Heroes11",
+        "name": "Super Hero 11",
+        "downloads": 9,
+        "designer": "DC",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2011_resize_73.jpg?dl=0",
+        "size": "472KB",
+        "id": 11,
+        "__collections__": {}
+      },
+      {
+        "downloads": 24,
+        "id": 10,
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2010_resize_16.jpg?dl=0",
+        "size": "604KB",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%2810%29.jpg?dl=0",
+        "name": "Super Hero 10",
+        "heroID": "Super Heroes10",
+        "designer": "DC",
+        "__collections__": {}
+      },
+      {
+        "downloads": 14,
+        "name": "Super Hero 09",
+        "size": "424KB",
+        "heroID": "Super Heroes9",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%282%29.jpg?dl=0",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2009_resize_53.jpg?dl=0",
+        "id": 9,
+        "designer": "Marvel",
+        "__collections__": {}
+      },
+      {
+        "name": "Super Hero 08",
+        "heroID": "Super Heroes8",
+        "designer": "Ubisoft",
+        "id": 8,
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2008_resize_96.jpg?dl=0",
+        "size": "562KB",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%283%29.jpg?dl=0",
+        "downloads": 5,
+        "__collections__": {}
+      },
+      {
+        "id": 7,
+        "size": "581KB",
+        "downloads": 7,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%284%29.jpg?dl=0",
+        "name": "Super Hero 07",
+        "designer": "DC",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2007_resize_34.jpg?dl=0",
+        "heroID": "Super Heroes7",
+        "__collections__": {}
+      },
+      {
+        "downloads": 11,
+        "id": 6,
+        "name": "Super Hero 06",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%285%29.jpg?dl=0",
+        "size": "512KB",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2006_resize_74.jpg?dl=0",
+        "designer": "Marvel",
+        "heroID": "Super Heroes6",
+        "__collections__": {}
+      },
+      {
+        "name": "Super Hero 05",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2005_resize_20.jpg?dl=0",
+        "heroID": "Super Heroes5",
+        "id": 5,
+        "size": "414KB",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%286%29.jpg?dl=0",
+        "downloads": 10,
+        "designer": "Marvel",
+        "__collections__": {}
+      },
+      {
+        "designer": "Marvel",
+        "downloads": 15,
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2004_resize_58.jpg?dl=0",
+        "heroID": "Super Heroes4",
+        "id": 4,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%287%29.jpg?dl=0",
+        "size": "467KB",
+        "name": "Super Hero 04",
+        "__collections__": {}
+      },
+      {
+        "downloads": 19,
+        "size": "537KB",
+        "name": "Super Hero 03",
+        "id": 3,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%288%29.jpg?dl=0",
+        "designer": "Marvel",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2003_resize_96.jpg?dl=0",
+        "heroID": "Super Heroes3",
+        "__collections__": {}
+      },
+      {
+        "downloads": 32,
+        "heroID": "Super Hero 02",
+        "id": 2,
+        "name": "Super Hero 02",
+        "designer": "DC",
+        "size": "1.1MB",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2002_resize_21.jpg?dl=0",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Superheroes%20%289%29.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "size": "80KB",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/1%20%288%29.jpg?dl=0",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Superhero/Dropbox/Super%20Hero%2001_resize_68.jpg?dl=0",
+        "id": 1,
+        "downloads": 24,
+        "heroID": "Super Heroes1",
+        "name": "Super Hero 01",
+        "designer": "DC",
+        "__collections__": {}
+      }
+    ]
+  }
 }
