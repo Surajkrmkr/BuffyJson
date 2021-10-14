@@ -1,0 +1,53 @@
+
+    {
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/sports.jpg",
+      "name": "Sports",
+      "id": 12,
+      "__collections__": {}
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/flower.jpg",
+      "name": "Flower",
+      "__collections__": {}
+    },
+    {
+      "name": "Music",
+      "id": 10,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/music.jpg",
+      "__collections__": {}
+    },
+    {
+      "name": "Horror",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Horror.jpg",
+      "id": 9,
+      "__collections__": {}
+    },
+    
+    {
+      "id": 14,
+      "name": "Love",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/love.jpg",
+      "__collections__": {}
+    },
+    
+    {
+      "name": "Cars & Bike",
+      "id": 18,
+      "imageUrl": "https://dl.dropboxusercontent.com/s/1mff11u2z94u670/lamborghini-countach-retro-4k-bc-320x480.jpg?dl=0",
+      "__collections__": {}
+    },
+    
+    {
+      "name": "Piyush KPV",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/piyush%20kpv.png",
+      "id": 20,
+      "__collections__": {}
+    },
+    
+    {
+      "name": "Series",
+      "id": 19,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Series.jpg",
+      "__collections__": {}
+    },
