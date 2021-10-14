@@ -1,6 +1,28 @@
 {
     "popular": [
         {
+            "id": 474,
+            "heroID": "popular474",
+            "downloads": 0,
+            "name": "Infinity Panther",
+            "designer": "Buffy",
+            "category": "Super Heroes",
+            "size": "0.99MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/infinity-panther-d0-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/infinity-panther-d0-1080x2160-small.png"
+        },
+        {
+            "id": 473,
+            "heroID": "popular473",
+            "downloads": 0,
+            "name": "Black Panther",
+            "designer": "Buffy",
+            "category": "Super Heroes",
+            "size": "272KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/black-panther-minimal-5k-uz-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Superhero/Oct%2014/black-panther-minimal-5k-uz-1080x2160-small.png"
+        },
+        {
             "id": 472,
             "heroID": "popular472",
             "downloads": 0,
