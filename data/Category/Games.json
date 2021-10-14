@@ -2,6 +2,96 @@
     "Games": {
         "Images": [
             {
+                "id": 80,
+                "heroID": "Games80",
+                "downloads": 0,
+                "name": "Warface",
+                "designer": "Buffy",
+                "size": "864KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/warface-breakout-cold-sun-2022-sg-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/warface-breakout-cold-sun-2022-sg-1080x2160-small.png"
+            },
+            {
+                "id": 79,
+                "heroID": "Games79",
+                "downloads": 0,
+                "name": "Spiderman",
+                "designer": "Buffy",
+                "size": "495KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/spiderman-miles-morales-latest-art-vz-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/spiderman-miles-morales-latest-art-vz-1080x2160-small.png"
+            },
+            {
+                "id": 78,
+                "heroID": "Games78",
+                "downloads": 0,
+                "name": "Spiderman",
+                "designer": "Buffy",
+                "size": "850KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/spider-man-2-8k-s0-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/spider-man-2-8k-s0-1080x2160-small.png"
+            },
+            {
+                "id": 77,
+                "heroID": "Games77",
+                "downloads": 0,
+                "name": "Sonic",
+                "designer": "Bufyy",
+                "size": "1.48KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/sonic-wj-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/sonic-wj-1080x2160-small.png"
+            },
+            {
+                "id": 76,
+                "heroID": "Games76",
+                "downloads": 0,
+                "name": "God Of War",
+                "designer": "Buffy",
+                "size": "935KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/god-of-war-ragnarok-46-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/god-of-war-ragnarok-46-1080x2160-small.png"
+            },
+            {
+                "id": 75,
+                "heroID": "Games75",
+                "downloads": 0,
+                "name": "Cyberpunk",
+                "designer": "Buffy",
+                "size": "1.91MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/cyberpunk-2077-pinup-girl-5k-70-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/cyberpunk-2077-pinup-girl-5k-70-1080x2160-small.png"
+            },
+            {
+                "id": 74,
+                "heroID": "Games74",
+                "downloads": 0,
+                "name": "Cod BlackOps",
+                "designer": "Buffy",
+                "size": "1.23MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/call-of-duty-black-ops-cold-war-and-warzone-sk-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/call-of-duty-black-ops-cold-war-and-warzone-sk-1080x2160-small.png"
+            },
+            {
+                "id": 73,
+                "heroID": "Games73",
+                "downloads": 0,
+                "name": "BlackOps",
+                "designer": "Buffy",
+                "size": "1.26Mb",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/black-ops-cold-war-5k-8g-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/black-ops-cold-war-5k-8g-1080x2160-small.png"
+            },
+            {
+                "id": 72,
+                "heroID": "Games72",
+                "downloads": 0,
+                "name": "Aloy and tallneck",
+                "designer": "Buffy",
+                "size": "868KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/aloy-and-tallneck-horizon-zero-dawn-4k-62-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/aloy-and-tallneck-horizon-zero-dawn-4k-62-1080x2280-small.png"
+            },
+            {
                 "id": 71,
                 "heroID": "Games71",
                 "downloads": 0,

@@ -1,6 +1,28 @@
 {
     "popular": [
         {
+            "id": 479,
+            "heroID": "popular479",
+            "downloads": 0,
+            "name": "Spiderman",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "495KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/spiderman-miles-morales-latest-art-vz-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/spiderman-miles-morales-latest-art-vz-1080x2160-small.png"
+        },
+        {
+            "id": 478,
+            "heroID": "popular478",
+            "downloads": 0,
+            "name": "Aloy and tallneck",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "868KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/aloy-and-tallneck-horizon-zero-dawn-4k-62-1080x2280.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2014/aloy-and-tallneck-horizon-zero-dawn-4k-62-1080x2280-small.png"
+        },
+        {
             "id": 477,
             "heroID": "popular477",
             "downloads": 0,
