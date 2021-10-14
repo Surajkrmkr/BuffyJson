@@ -1,190 +1,190 @@
 {
-    "Vivo": {
-        "Images": [
-            {
-                "id": 17,
-                "heroID": "Vivo17",
-                "downloads": 0,
-                "name": "Vivo",
-                "designer": "Vivo",
-                "size": "130KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-003.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-003-small.png"
-            },
-            {
-                "id": 16,
-                "heroID": "Vivo16",
-                "downloads": 0,
-                "name": "Vivo",
-                "designer": "Vivo",
-                "size": "127KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-002.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-002-small.png"
-            },
-            {
-                "id": 15,
-                "heroID": "Vivo15",
-                "downloads": 0,
-                "name": "Vivo",
-                "designer": "Vivo",
-                "size": "127KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-001.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-001-small.png"
-            },
-            {
-                "size": "3.3Mb",
-                "downloads": 12,
-                "id": 14,
-                "designer": "Vivo",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/8yzhmmf7o5a14rp/VIVO%20X50%20Pro44821010100.png?dl=0",
-                "heroID": "Vivo14",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/rpbtlhpd2m8zqsh/VIVO%20X50%20Pro44821010100_resize_56.jpg?dl=0",
-                "name": "Vivo X50 Pro",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://dl.dropboxusercontent.com/s/dzmkkfj7bjoi40r/VIVO%20X50%20Pro44831010100_resize_66.jpg?dl=0",
-                "size": "3.9Mb",
-                "name": "Vivo X50 Pro",
-                "id": 13,
-                "downloads": 13,
-                "heroID": "Vivo13",
-                "designer": "Vivo",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/jmmjt2eqj3n67hh/VIVO%20X50%20Pro44831010100.png?dl=0",
-                "__collections__": {}
-            },
-            {
-                "size": "3.1Mb",
-                "designer": "Vivo",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/bzvdr8vpys4d5tt/VIVO%20X50%20Pro44801010100.png?dl=0",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/dttg4lh5eox8ltl/VIVO%20X50%20Pro44801010100_resize_95.jpg?dl=0",
-                "name": "Vivo X50 Pro",
-                "heroID": "Vivo12",
-                "id": 12,
-                "downloads": 10,
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://dl.dropboxusercontent.com/s/mcess13f3s5n3ad/VIVO%20X50%20Pro44751010100.png?dl=0",
-                "downloads": 11,
-                "id": 11,
-                "compressUrl": "https://dl.dropboxusercontent.com/s/5jxzt3va6phq7d7/VIVO%20X50%20Pro44751010100_resize_20.jpg?dl=0",
-                "designer": "Vivo",
-                "heroID": "Vivo11",
-                "size": "3.0Mb",
-                "name": "Vivo X50 Pro",
-                "__collections__": {}
-            },
-            {
-                "size": "3.1Mb",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/pl5jlm1mmf6y9zv/VIVO%20X50%20Pro44701010100.png?dl=0",
-                "id": 10,
-                "heroID": "Vivo10",
-                "name": "Vivo X50 Pro",
-                "designer": "Vivo",
-                "downloads": 9,
-                "compressUrl": "https://dl.dropboxusercontent.com/s/ckeeshd1m8faqcf/VIVO%20X50%20Pro44701010100_resize_28.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "name": "Vivo X50 Pro",
-                "designer": "Vivo",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/r787shumf3pn08r/VIVO%20X50%20Pro44731010100_resize_38.jpg?dl=0",
-                "size": "3.3Mb",
-                "id": 9,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/nu31dkwouko3j76/VIVO%20X50%20Pro44731010100.png?dl=0",
-                "downloads": 11,
-                "heroID": "Vivo9",
-                "__collections__": {}
-            },
-            {
-                "designer": "Vivo",
-                "size": "2.8Mb",
-                "downloads": 7,
-                "imageUrl": "https://dl.dropboxusercontent.com/s/18t1216928em024/Vivo%20Nex%203S%205G41961010100.png?dl=0",
-                "heroID": "Vivo8",
-                "name": "Vivo Nex 3S 5G",
-                "id": 8,
-                "compressUrl": "https://dl.dropboxusercontent.com/s/k6gtivir43retss/Vivo%20Nex%203S%205G41961010100_resize_35.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "downloads": 11,
-                "size": "3.2Mb",
-                "name": "Vivo Nex 3S 5G",
-                "designer": "Vivo",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/188t3aw9qglptln/Vivo%20Nex%203S%205G41891010100_resize_25.jpg?dl=0",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/ahc1skfy3hlcrf0/Vivo%20Nex%203S%205G41891010100.png?dl=0",
-                "id": 7,
-                "heroID": "Vivo7",
-                "__collections__": {}
-            },
-            {
-                "id": 6,
-                "size": "2.4Mb",
-                "designer": "Vivo",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/tc3bsqkbu7pia3f/Vivo%20Nex%203S%205G41921010100_resize_27.jpg?dl=0",
-                "downloads": 3,
-                "heroID": "Vivo6",
-                "name": "Vivo Nex 3S 5G",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/gqoi3w6mz49vc34/Vivo%20Nex%203S%205G41921010100.png?dl=0",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://dl.dropboxusercontent.com/s/4m7jtax2o6nyato/Vivo%20Nex%203S%205G41951010100.png?dl=0",
-                "heroID": "Vivo5",
-                "size": "1.6Mb",
-                "name": "Vivo Nex 3S 5G",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/bw3ca72wzjdqs4q/Vivo%20Nex%203S%205G41951010100_resize_37.jpg?dl=0",
-                "downloads": 3,
-                "designer": "Vivo",
-                "id": 5,
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://dl.dropboxusercontent.com/s/3jik6w7nujxd9n3/Vivo%20Nex%203S%205G41931010100.png?dl=0",
-                "downloads": 13,
-                "heroID": "Vivo4",
-                "size": "3.2Mb",
-                "designer": "Vivo",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/qdcjvovvz7qlhgf/Vivo%20Nex%203S%205G41931010100_resize_25.jpg?dl=0",
-                "name": "Vivo Nex 3S 5G",
-                "id": 4,
-                "__collections__": {}
-            },
-            {
-                "downloads": 3,
-                "id": 3,
-                "name": "Vivo Nex 3S 5G",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/6japbhuvhhsow6x/Vivo%20Nex%203S%205G41941010100.png?dl=0",
-                "heroID": "Vivo3",
-                "designer": "Vivo",
-                "size": "2.8Mb",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/a3irkw3p9ryhmly/Vivo%20Nex%203S%205G41941010100_resize_17.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://dl.dropboxusercontent.com/s/4giwca3n7ij3nwz/Vivo%20Nex%203S%205G41911010100.png?dl=0",
-                "name": "Vivo Nex 3S 5G",
-                "designer": "Vivo",
-                "downloads": 12,
-                "id": 2,
-                "heroID": "Vivo2",
-                "size": "2.6Mb",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/fu8g1me05i42cme/Vivo%20Nex%203S%205G41911010100_resize_97.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Vivo1",
-                "name": "Vivo Nex 3S 5G",
-                "id": 1,
-                "size": "2.8Mb",
-                "imageUrl": "https://dl.dropboxusercontent.com/s/jzqe2x0ykzuxpsd/Vivo%20Nex%203S%205G41901010100.png?dl=0",
-                "designer": "Vivo",
-                "compressUrl": "https://dl.dropboxusercontent.com/s/gcs8233ympjbwoa/Vivo%20Nex%203S%205G41901010100_resize_73.jpg?dl=0",
-                "downloads": 20,
-                "__collections__": {}
-            }
-        ]
-    }
+  "Vivo": {
+    "Images": [
+      {
+        "id": 17,
+        "heroID": "Vivo17",
+        "downloads": 0,
+        "name": "Vivo",
+        "designer": "Vivo",
+        "size": "130KB",
+        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-003.jpg",
+        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-003-small.png"
+      },
+      {
+        "id": 16,
+        "heroID": "Vivo16",
+        "downloads": 0,
+        "name": "Vivo",
+        "designer": "Vivo",
+        "size": "127KB",
+        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-002.jpg",
+        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-002-small.png"
+      },
+      {
+        "id": 15,
+        "heroID": "Vivo15",
+        "downloads": 0,
+        "name": "Vivo",
+        "designer": "Vivo",
+        "size": "127KB",
+        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-001.jpg",
+        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Vivo/Vivo-S10-Pro-Stock-Wallpaper-001-small.png"
+      },
+      {
+        "size": "3.3Mb",
+        "downloads": 12,
+        "id": 14,
+        "designer": "Vivo",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44821010100.png?dl=0",
+        "heroID": "Vivo14",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44821010100_resize_56.jpg?dl=0",
+        "name": "Vivo X50 Pro",
+        "__collections__": {}
+      },
+      {
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44831010100_resize_66.jpg?dl=0",
+        "size": "3.9Mb",
+        "name": "Vivo X50 Pro",
+        "id": 13,
+        "downloads": 13,
+        "heroID": "Vivo13",
+        "designer": "Vivo",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44831010100.png?dl=0",
+        "__collections__": {}
+      },
+      {
+        "size": "3.1Mb",
+        "designer": "Vivo",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44801010100.png?dl=0",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44801010100_resize_95.jpg?dl=0",
+        "name": "Vivo X50 Pro",
+        "heroID": "Vivo12",
+        "id": 12,
+        "downloads": 10,
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44751010100.png?dl=0",
+        "downloads": 11,
+        "id": 11,
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44751010100_resize_20.jpg?dl=0",
+        "designer": "Vivo",
+        "heroID": "Vivo11",
+        "size": "3.0Mb",
+        "name": "Vivo X50 Pro",
+        "__collections__": {}
+      },
+      {
+        "size": "3.1Mb",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44701010100.png?dl=0",
+        "id": 10,
+        "heroID": "Vivo10",
+        "name": "Vivo X50 Pro",
+        "designer": "Vivo",
+        "downloads": 9,
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44701010100_resize_28.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "name": "Vivo X50 Pro",
+        "designer": "Vivo",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44731010100_resize_38.jpg?dl=0",
+        "size": "3.3Mb",
+        "id": 9,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/VIVO%20X50%20Pro44731010100.png?dl=0",
+        "downloads": 11,
+        "heroID": "Vivo9",
+        "__collections__": {}
+      },
+      {
+        "designer": "Vivo",
+        "size": "2.8Mb",
+        "downloads": 7,
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41961010100.png?dl=0",
+        "heroID": "Vivo8",
+        "name": "Vivo Nex 3S 5G",
+        "id": 8,
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41961010100_resize_35.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "downloads": 11,
+        "size": "3.2Mb",
+        "name": "Vivo Nex 3S 5G",
+        "designer": "Vivo",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41891010100_resize_25.jpg?dl=0",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41891010100.png?dl=0",
+        "id": 7,
+        "heroID": "Vivo7",
+        "__collections__": {}
+      },
+      {
+        "id": 6,
+        "size": "2.4Mb",
+        "designer": "Vivo",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41921010100_resize_27.jpg?dl=0",
+        "downloads": 3,
+        "heroID": "Vivo6",
+        "name": "Vivo Nex 3S 5G",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41921010100.png?dl=0",
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41951010100.png?dl=0",
+        "heroID": "Vivo5",
+        "size": "1.6Mb",
+        "name": "Vivo Nex 3S 5G",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41951010100_resize_37.jpg?dl=0",
+        "downloads": 3,
+        "designer": "Vivo",
+        "id": 5,
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41931010100.png?dl=0",
+        "downloads": 13,
+        "heroID": "Vivo4",
+        "size": "3.2Mb",
+        "designer": "Vivo",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41931010100_resize_25.jpg?dl=0",
+        "name": "Vivo Nex 3S 5G",
+        "id": 4,
+        "__collections__": {}
+      },
+      {
+        "downloads": 3,
+        "id": 3,
+        "name": "Vivo Nex 3S 5G",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41941010100.png?dl=0",
+        "heroID": "Vivo3",
+        "designer": "Vivo",
+        "size": "2.8Mb",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41941010100_resize_17.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41911010100.png?dl=0",
+        "name": "Vivo Nex 3S 5G",
+        "designer": "Vivo",
+        "downloads": 12,
+        "id": 2,
+        "heroID": "Vivo2",
+        "size": "2.6Mb",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41911010100_resize_97.jpg?dl=0",
+        "__collections__": {}
+      },
+      {
+        "heroID": "Vivo1",
+        "name": "Vivo Nex 3S 5G",
+        "id": 1,
+        "size": "2.8Mb",
+        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41901010100.png?dl=0",
+        "designer": "Vivo",
+        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Vivo/Dropbox/Vivo%20Nex%203S%205G41901010100_resize_73.jpg?dl=0",
+        "downloads": 20,
+        "__collections__": {}
+      }
+    ]
+  }
 }
