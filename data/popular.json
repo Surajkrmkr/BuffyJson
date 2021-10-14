@@ -1,6 +1,39 @@
 {
     "popular": [
         {
+            "id": 477,
+            "heroID": "popular477",
+            "downloads": 0,
+            "name": "Synthwave Night",
+            "designer": "Buffy",
+            "category": "Anime",
+            "size": "805KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/synthwave-night-sunset-anime-girl-4k-2j-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/synthwave-night-sunset-anime-girl-4k-2j-1080x2160-small.png"
+        },
+        {
+            "id": 476,
+            "heroID": "popular476",
+            "downloads": 0,
+            "name": "Punishing gray",
+            "designer": "Buffy",
+            "category": "Anime",
+            "size": "904KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/punishing-gray-raven-5k-he-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/punishing-gray-raven-5k-he-1080x2160-small.png"
+        },
+        {
+            "id": 475,
+            "heroID": "popular475",
+            "downloads": 0,
+            "name": "Anime Girl",
+            "designer": "Buffy",
+            "category": "Anime",
+            "size": "518KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-city-night-neon-cyberpunk-4k-kw-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-city-night-neon-cyberpunk-4k-kw-1080x2160-small.png"
+        },
+        {
             "id": 474,
             "heroID": "popular474",
             "downloads": 0,

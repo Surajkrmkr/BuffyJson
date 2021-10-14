@@ -2,6 +2,96 @@
     "Anime": {
         "Images": [
             {
+                "id": 40,
+                "heroID": "Anime40",
+                "downloads": 0,
+                "name": "Synthwave Night",
+                "designer": "Buffy",
+                "size": "805KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/synthwave-night-sunset-anime-girl-4k-2j-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/synthwave-night-sunset-anime-girl-4k-2j-1080x2160-small.png"
+            },
+            {
+                "id": 39,
+                "heroID": "Anime39",
+                "downloads": 0,
+                "name": "Punishing gray",
+                "designer": "Buffy",
+                "size": "904KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/punishing-gray-raven-5k-he-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/punishing-gray-raven-5k-he-1080x2160-small.png"
+            },
+            {
+                "id": 38,
+                "heroID": "Anime38",
+                "downloads": 0,
+                "name": "Princess monononke",
+                "designer": "Buffy",
+                "size": "0.98MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/princess-mononoke-fanart-4k-cd-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/princess-mononoke-fanart-4k-cd-1080x2160-small.png"
+            },
+            {
+                "id": 37,
+                "heroID": "Anime37",
+                "downloads": 0,
+                "name": "Kirara",
+                "designer": "Buffy",
+                "size": "843KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/kirara-magic-neon-dystopia-2j-1080x2160.jpg",
+                "compressUrl": ""
+            },
+            {
+                "id": 36,
+                "heroID": "Anime36",
+                "downloads": 0,
+                "name": "Cyberpunk",
+                "designer": "Buffy",
+                "size": "2.19MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/cyberpunk-2077-anime-x-illustration-4k-uf-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/cyberpunk-2077-anime-x-illustration-4k-uf-1080x2160-small.png"
+            },
+            {
+                "id": 35,
+                "heroID": "Anime35",
+                "downloads": 0,
+                "name": "ANime Girl",
+                "designer": "Buffy",
+                "size": "862KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-walk-in-abondon-city-4k-y5-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-walk-in-abondon-city-4k-y5-1080x2160-small.png"
+            },
+            {
+                "id": 34,
+                "heroID": "Anime34",
+                "downloads": 0,
+                "name": "Mask oFf",
+                "designer": "Buffy",
+                "size": "898KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-mask-off-kw-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-mask-off-kw-1080x2160-small.png"
+            },
+            {
+                "id": 33,
+                "heroID": "Anime33",
+                "downloads": 0,
+                "name": "Anime Girl",
+                "designer": "Buffy",
+                "size": "518KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-city-night-neon-cyberpunk-4k-kw-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-city-night-neon-cyberpunk-4k-kw-1080x2160-small.png"
+            },
+            {
+                "id": 32,
+                "heroID": "Anime32",
+                "downloads": 0,
+                "name": "Anime Girl",
+                "designer": "Buffy",
+                "size": "1.63MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-billboard-neon-city-4k-3d-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Anime/Oct%2014/anime-girl-billboard-neon-city-4k-3d-1080x2160-small.png"
+            },
+            {
                 "id": 31,
                 "heroID": "Anime31",
                 "downloads": 0,
