@@ -2,6 +2,66 @@
     "Asus": {
       "Images": [
         {
+          "id": 69,
+          "heroID": "Asus69",
+          "downloads": 0,
+          "name": "Zenfone Flip 8",
+          "designer": "Asus",
+          "size": "3.36Mb",
+          "imageUrl": "https://github.com/piyushkpv/Asus/raw/main/zenfone%208%20flip%20(4).jpg",
+          "compressUrl": "https://github.com/piyushkpv/Asus/raw/main/85.jpg"
+      },
+      {
+          "id": 68,
+          "heroID": "Asus68",
+          "downloads": 0,
+          "name": "Zenfone Flip 8",
+          "designer": "Asus",
+          "size": "2.21Mb",
+          "imageUrl": "https://github.com/piyushkpv/Asus/raw/main/zenfone%208%20flip%20(5).jpg",
+          "compressUrl": "https://github.com/piyushkpv/Asus/raw/main/85.jpg"
+      },
+      {
+          "id": 67,
+          "heroID": "Asus67",
+          "downloads": 0,
+          "name": "Zenfone Flip 8",
+          "designer": "Asus",
+          "size": "2.29Mb",
+          "imageUrl": "https://github.com/piyushkpv/Asus/raw/main/zenfone%208%20flip%20(6).jpg",
+          "compressUrl": "https://github.com/piyushkpv/Asus/raw/main/86.jpg"
+      },
+      {
+          "id": 66,
+          "heroID": "Asus66",
+          "downloads": 0,
+          "name": "Zenfone Flip 8",
+          "designer": "Asus",
+          "size": "1.83Mb",
+          "imageUrl": "https://github.com/piyushkpv/Asus/raw/main/zenfone%208%20flip%20(7).jpg",
+          "compressUrl": "https://github.com/piyushkpv/Asus/raw/main/87.jpg"
+      },
+      {
+          "id": 65,
+          "heroID": "Asus65",
+          "downloads": 0,
+          "name": "Zenfone Flip 8",
+          "designer": "Asus",
+          "size": "3.54",
+          "imageUrl": "https://github.com/piyushkpv/Asus/raw/main/zenfone%208%20flip%20(8).jpg",
+          "compressUrl": "https://github.com/piyushkpv/Asus/raw/main/88.jpg"
+      },
+      {
+          "id": 63,
+          "heroID": "Asus63",
+          "downloads": 0,
+          "name": "Zenfone Flip 8",
+          "designer": "Asus",
+          "size": "1.33",
+          "imageUrl": "https://github.com/piyushkpv/Asus/raw/main/zenfone%208%20flip%20(9).jpg",
+          "compressUrl": "https://github.com/piyushkpv/Asus/raw/main/89.jpg"
+      },
+        {
           "heroID": "Asus62",
           "name": "ASUS ROG Phone 2",
           "id": 62,
