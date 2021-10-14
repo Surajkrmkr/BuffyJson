@@ -1,6 +1,61 @@
 {
     "popular": [
         {
+            "id": 472,
+            "heroID": "popular472",
+            "downloads": 0,
+            "name": "Summer nights",
+            "designer": "Buffy",
+            "category": "Nature",
+            "size": "568KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/summer-nights-in-northern-norway-4k-fz-1080x2280.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/summer-nights-in-northern-norway-4k-fz-1080x2280-small.png"
+        },
+        {
+            "id": 471,
+            "heroID": "popular471",
+            "downloads": 0,
+            "name": "Pine River",
+            "designer": "Buffy",
+            "category": "Nature",
+            "size": "506KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/pine-river-snow-sunset-rq-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/pine-river-snow-sunset-rq-1080x2160-small.png"
+        },
+        {
+            "id": 470,
+            "heroID": "popular470",
+            "downloads": 0,
+            "name": "Miami",
+            "designer": "Buffy",
+            "category": "Nature",
+            "size": "1.01MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/miami-sunset-artistic-fc-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/miami-sunset-artistic-fc-1080x2160-small.png"
+        },
+        {
+            "id": 469,
+            "heroID": "popular469",
+            "downloads": 0,
+            "name": "Dark Sunset",
+            "designer": "Buffy",
+            "category": "Nature",
+            "size": "324KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/dark-sunset-5k-jg-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/dark-sunset-5k-jg-1080x2160-small.png"
+        },
+        {
+            "id": 468,
+            "heroID": "popular468",
+            "downloads": 0,
+            "name": "Morning",
+            "designer": "Buffy",
+            "category": "Nature",
+            "size": "243KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/beautiful-morning-sunrise-contour-8k-l9-1080x2160.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/beautiful-morning-sunrise-contour-8k-l9-1080x2160-small.png"
+        },
+        {
             "id": 467,
             "heroID": "popular467",
             "downloads": 0,
