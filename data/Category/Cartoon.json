@@ -2,6 +2,76 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 122,
+                "heroID": "Cartoon122",
+                "downloads": 0,
+                "name": "Warrior Cartoon",
+                "designer": "Buffy",
+                "size": "540KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/warrior-cartoon-vs-ghosts-fan-art-j2-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/warrior-cartoon-vs-ghosts-fan-art-j2-1080x2280-small.png"
+            },
+            {
+                "id": 121,
+                "heroID": "Cartoon121",
+                "downloads": 0,
+                "name": "Tom Jerry",
+                "designer": "Buffy",
+                "size": "382KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/tom-and-jerry-movie-5k-1h-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/tom-and-jerry-movie-5k-1h-1080x2160-small.png"
+            },
+            {
+                "id": 120,
+                "heroID": "Cartoon120",
+                "downloads": 0,
+                "name": "Tom Jerry",
+                "designer": "Buffy",
+                "size": "1.34MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/tom-and-jerry-cartoon-movie-10k-4t-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/tom-and-jerry-cartoon-movie-10k-4t-1080x2160-small.png"
+            },
+            {
+                "id": 119,
+                "heroID": "Cartoon119",
+                "downloads": 0,
+                "name": "Iron Man",
+                "designer": "Buffy",
+                "size": "880KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/iron-man-cartoon-digital-art-4k-l3-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/iron-man-cartoon-digital-art-4k-l3-1080x2280-small.png"
+            },
+            {
+                "id": 118,
+                "heroID": "Cartoon118",
+                "downloads": 0,
+                "name": "Batmna",
+                "designer": "Buffy",
+                "size": "881KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/batman-cartoon-art-4k-zn-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/batman-cartoon-art-4k-zn-1080x2280-small.png"
+            },
+            {
+                "id": 117,
+                "heroID": "Cartoon117",
+                "downloads": 0,
+                "name": "Bart Simpson",
+                "designer": "Buffy",
+                "size": "1.11Mb",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/bart-simpson-got-high-5k-l4-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/bart-simpson-got-high-5k-l4-1080x2160-small.png"
+            },
+            {
+                "id": 116,
+                "heroID": "Cartoon116",
+                "downloads": 0,
+                "name": "Alien X",
+                "designer": "Buffy",
+                "size": "1.33MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/alien-x-tinction-ben-10-5k-2o-1080x2160.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/alien-x-tinction-ben-10-5k-2o-1080x2160-small.png"
+            },
+            {
                 "id": 115,
                 "heroID": "Cartoon115",
                 "downloads": 0,

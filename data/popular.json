@@ -1,6 +1,17 @@
 {
     "popular": [
         {
+            "id": 467,
+            "heroID": "popular467",
+            "downloads": 0,
+            "name": "Warrior Cartoon",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "540KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/warrior-cartoon-vs-ghosts-fan-art-j2-1080x2280.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoons/Oct%2014/warrior-cartoon-vs-ghosts-fan-art-j2-1080x2280-small.png"
+        },
+        {
             "id": 466,
             "heroID": "popular466",
             "downloads": 0,
