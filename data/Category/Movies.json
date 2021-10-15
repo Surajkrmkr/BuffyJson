@@ -2,6 +2,96 @@
     "Movies": {
         "Images": [
             {
+                "id": 70,
+                "heroID": "Movies70",
+                "downloads": 0,
+                "name": "Squid Game FanArt",
+                "designer": "Buffy",
+                "size": "2.10MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/squid-game-fanart-4k-7i-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/squid-game-fanart-4k-7i-1080x2280-small.png"
+            },
+            {
+                "id": 69,
+                "heroID": "Movies69",
+                "downloads": 0,
+                "name": "Dark Squid Game",
+                "designer": "Buffy",
+                "size": "436KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/squid-game-5k-30-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/squid-game-5k-30-1080x2280-small.png"
+            },
+            {
+                "id": 68,
+                "heroID": "Movies68",
+                "downloads": 0,
+                "name": "Squid Gang",
+                "designer": "Buffy",
+                "size": "619KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/squid-game-3b-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/squid-game-3b-1080x2280-small.png"
+            },
+            {
+                "id": 67,
+                "heroID": "Movies67",
+                "downloads": 0,
+                "name": "Rectangle Splash",
+                "designer": "Buffy",
+                "size": "1.68MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx-small.png"
+            },
+            {
+                "id": 66,
+                "heroID": "Movies66",
+                "downloads": 0,
+                "name": "Minimal Squid game",
+                "designer": "Buffy",
+                "size": "123KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(4).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(4)-small.png"
+            },
+            {
+                "id": 65,
+                "heroID": "Movies65",
+                "downloads": 0,
+                "name": "Squid Game",
+                "designer": "Buffy",
+                "size": "325KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(3).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(3)-small.png"
+            },
+            {
+                "id": 64,
+                "heroID": "Movies64",
+                "downloads": 0,
+                "name": "Squid Game",
+                "designer": "Buffy",
+                "size": "246KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(2).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(2)-small.png"
+            },
+            {
+                "id": 63,
+                "heroID": "Movies63",
+                "downloads": 0,
+                "name": "Triangle",
+                "designer": "Buffy",
+                "size": "495KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(1).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/peakpx%20(1)-small.png"
+            },
+            {
+                "id": 62,
+                "heroID": "Movies62",
+                "downloads": 0,
+                "name": "Seong",
+                "designer": "Buffy",
+                "size": "691KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/2021-squid-game-5k-is-1080x2280.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Movie/Oct%2015/2021-squid-game-5k-is-1080x2280-small.png"
+            },
+            {
                 "id": 61,
                 "heroID": "Movies61",
                 "downloads": 0,
