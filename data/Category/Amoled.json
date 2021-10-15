@@ -2,8 +2,8 @@
   "Amoled": {
     "Images": [
       {
-        "id": 119,
-        "heroID": "Amoled119",
+        "id": 116,
+        "heroID": "Amoled116",
         "downloads": 0,
         "name": "Road Light",
         "designer": "Buffy",
@@ -12,8 +12,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(1)-small.png"
       },
       {
-        "id": 118,
-        "heroID": "Amoled118",
+        "id": 115,
+        "heroID": "Amoled115",
         "downloads": 0,
         "name": "Biker",
         "designer": "Buffy",
@@ -22,8 +22,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(23)-small.png"
       },
       {
-        "id": 117,
-        "heroID": "Amoled117",
+        "id": 114,
+        "heroID": "Amoled114",
         "downloads": 0,
         "name": "Zig Ziag",
         "designer": "Buffy",
@@ -32,8 +32,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(21)-small.png"
       },
       {
-        "id": 116,
-        "heroID": "Amoled116",
+        "id": 113,
+        "heroID": "Amoled113",
         "downloads": 0,
         "name": "Amoled Abstract",
         "designer": "Buffy",
@@ -42,8 +42,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(20)-small.png"
       },
       {
-        "id": 115,
-        "heroID": "Amoled115",
+        "id": 112,
+        "heroID": "Amoled112",
         "downloads": 0,
         "name": "Shape",
         "designer": "Buffy",
@@ -52,8 +52,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(14)-small.png"
       },
       {
-        "id": 114,
-        "heroID": "Amoled114",
+        "id": 111,
+        "heroID": "Amoled111",
         "downloads": 0,
         "name": "Goku",
         "designer": "Buffy",
@@ -62,8 +62,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(11)-small.png"
       },
       {
-        "id": 113,
-        "heroID": "Amoled113",
+        "id": 110,
+        "heroID": "Amoled110",
         "downloads": 0,
         "name": "Abstract",
         "designer": "Buffy",
@@ -72,8 +72,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(9)-small.png"
       },
       {
-        "id": 112,
-        "heroID": "Amoled112",
+        "id": 109,
+        "heroID": "Amoled109",
         "downloads": 0,
         "name": "Neon",
         "designer": "Buffy",
@@ -82,8 +82,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(7)-small.png"
       },
       {
-        "id": 111,
-        "heroID": "Amoled111",
+        "id": 108,
+        "heroID": "Amoled108",
         "downloads": 0,
         "name": "Orange Flasg",
         "designer": "Buffy",
@@ -92,8 +92,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(5)-small.png"
       },
       {
-        "id": 110,
-        "heroID": "Amoled110",
+        "id": 107,
+        "heroID": "Amoled107",
         "downloads": 0,
         "name": "Red Amoled",
         "designer": "Buffy",
@@ -102,8 +102,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(4)-small.png"
       },
       {
-        "id": 109,
-        "heroID": "Amoled109",
+        "id": 106,
+        "heroID": "Amoled106",
         "downloads": 0,
         "name": "REd & Black",
         "designer": "Buffy",
@@ -112,8 +112,8 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(3)-small.png"
       },
       {
-        "id": 108,
-        "heroID": "Amoled108",
+        "id": 105,
+        "heroID": "Amoled105",
         "downloads": 0,
         "name": "Paint",
         "designer": "Buffy",
@@ -122,44 +122,14 @@
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Category/Amoled/Otc%2013/RA-1%20(2)-small.png"
       },
       {
-        "id": 107,
-        "heroID": "Amoled107",
+        "id": 104,
+        "heroID": "Amoled104",
         "downloads": 0,
         "name": "L Letter",
         "designer": "Buffy",
         "size": "563Kb",
         "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/6.png",
         "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/r%20%20(6).jpg"
-      },
-      {
-        "id": 106,
-        "heroID": "Amoled106",
-        "downloads": 0,
-        "name": "Cube Floater",
-        "designer": "Buffy",
-        "size": "654KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Amoled/Dropbox/cube-floater-5k-g2-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Amoled/Dropbox/cube-floater-5k-g2-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 105,
-        "heroID": "Amoled105",
-        "downloads": 0,
-        "name": "Plane Crossing",
-        "designer": "Buffy",
-        "size": "865KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Amoled/Dropbox/planes-crossing-minimal-5k-fm-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Amoled/Dropbox/planes-crossing-minimal-5k-fm-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 104,
-        "heroID": "Amoled104",
-        "downloads": 0,
-        "name": "Spiderman Homemade",
-        "designer": "Aniket Jatav",
-        "size": "406KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Amoled/Dropbox/spiderman-homemade-suit-neon-5k-um-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Amoled/Dropbox/spiderman-homemade-suit-neon-5k-um-1080x2280-small.png?dl=0"
       },
       {
         "id": 103,
