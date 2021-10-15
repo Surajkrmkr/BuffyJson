@@ -2,6 +2,616 @@
     "MIUI": {
         "Images": [
             {
+                "id": 82,
+                "heroID": "MIUI82",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "57KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5.png",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5_resize_18.jpg"
+            },
+            {
+                "id": 81,
+                "heroID": "MIUI81",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.14MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(25).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(25)_resize_88.jpg"
+            },
+            {
+                "id": 80,
+                "heroID": "MIUI80",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.12MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(24).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(24)_resize_24.jpg"
+            },
+            {
+                "id": 79,
+                "heroID": "MIUI79",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1010KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(23).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(23)_resize_22.jpg"
+            },
+            {
+                "id": 78,
+                "heroID": "MIUI78",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "811KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(22).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(22)_resize_58.jpg"
+            },
+            {
+                "id": 77,
+                "heroID": "MIUI77",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "779KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(21).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(21)_resize_80.jpg"
+            },
+            {
+                "id": 76,
+                "heroID": "MIUI76",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "672KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(20).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(20)_resize_27.jpg"
+            },
+            {
+                "id": 75,
+                "heroID": "MIUI75",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "788KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(19).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(19)_resize_27.jpg"
+            },
+            {
+                "id": 74,
+                "heroID": "MIUI74",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.61MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(18).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(18)_resize_16.jpg"
+            },
+            {
+                "id": 73,
+                "heroID": "MIUI73",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "870 KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(17).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(17)_resize_17.jpg"
+            },
+            {
+                "id": 72,
+                "heroID": "MIUI72",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.52MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(16).png",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(16)_resize_50.jpg"
+            },
+            {
+                "id": 71,
+                "heroID": "MIUI71",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.54MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(15).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(15)_resize_17.jpg"
+            },
+            {
+                "id": 70,
+                "heroID": "MIUI70",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "675KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(14).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(14)_resize_23.jpg"
+            },
+            {
+                "id": 69,
+                "heroID": "MIUI69",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "901KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(13).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(13)_resize_49.jpg"
+            },
+            {
+                "id": 68,
+                "heroID": "MIUI68",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "594KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(12).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(12)_resize_17.jpg"
+            },
+            {
+                "id": 67,
+                "heroID": "MIUI67",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "721KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(11).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(11)_resize_41.jpg"
+            },
+            {
+                "id": 66,
+                "heroID": "MIUI66",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.1",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(10).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(10)_resize_58.jpg"
+            },
+            {
+                "id": 65,
+                "heroID": "MIUI65",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.5MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(9).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(9)_resize_32.jpg"
+            },
+            {
+                "id": 64,
+                "heroID": "MIUI64",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "2.61MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(8)_resize_6.jpg"
+            },
+            {
+                "id": 63,
+                "heroID": "MIUI63",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "903KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(7).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(7)_resize_24.jpg"
+            },
+            {
+                "id": 62,
+                "heroID": "MIUI62",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "830KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(6).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(6)_resize_37.jpg"
+            },
+            {
+                "id": 61,
+                "heroID": "MIUI61",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "536KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(5)_resize_12.jpg"
+            },
+            {
+                "id": 60,
+                "heroID": "MIUI60",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "921KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(4)_resize_88.jpg"
+            },
+            {
+                "id": 59,
+                "heroID": "MIUI59",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "1.14MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(3)_resize_58.jpg"
+            },
+            {
+                "id": 58,
+                "heroID": "MIUI58",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "842KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(2)_resize_18.jpg"
+            },
+            {
+                "id": 57,
+                "heroID": "MIUI57",
+                "downloads": 0,
+                "name": "MIUI 12.5",
+                "designer": "MIUI",
+                "size": "870KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2012.5%20(1)_resize_11.jpg"
+            },
+            {
+                "id": 56,
+                "heroID": "MIUI56",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "911KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12.png",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12_resize_18.jpg"
+            },
+            {
+                "id": 55,
+                "heroID": "MIUI55",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1.52MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(34).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(34)_resize_28.jpg"
+            },
+            {
+                "id": 54,
+                "heroID": "MIUI54",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "605KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(33).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(33)_resize_21.jpg"
+            },
+            {
+                "id": 53,
+                "heroID": "MIUI53",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "260KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(32).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(32)_resize_58.jpg"
+            },
+            {
+                "id": 52,
+                "heroID": "MIUI52",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "203KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(31).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(31)_resize_99.jpg"
+            },
+            {
+                "id": 51,
+                "heroID": "MIUI51",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1.24MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(30).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(30)_resize_16.jpg"
+            },
+            {
+                "id": 50,
+                "heroID": "MIUI50",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "422KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(29).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(29)_resize_45.jpg"
+            },
+            {
+                "id": 49,
+                "heroID": "MIUI49",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "252KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(28).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(28)_resize_87.jpg"
+            },
+            {
+                "id": 48,
+                "heroID": "MIUI48",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(27).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(27)_resize_70.jpg"
+            },
+            {
+                "id": 47,
+                "heroID": "MIUI47",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "525KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(26).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(26)_resize_11.jpg"
+            },
+            {
+                "id": 46,
+                "heroID": "MIUI46",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "422KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(25).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(25)_resize_23.jpg"
+            },
+            {
+                "id": 45,
+                "heroID": "MIUI45",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "176KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(24).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(24)_resize_37.jpg"
+            },
+            {
+                "id": 44,
+                "heroID": "MIUI44",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "291KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(23).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(23)_resize_60.jpg"
+            },
+            {
+                "id": 43,
+                "heroID": "MIUI43",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "465KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(22).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(22)_resize_13.jpg"
+            },
+            {
+                "id": 42,
+                "heroID": "MIUI42",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "452KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(21).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(21)_resize_81.jpg"
+            },
+            {
+                "id": 41,
+                "heroID": "MIUI41",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "889KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(20).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(20)_resize_84.jpg"
+            },
+            {
+                "id": 40,
+                "heroID": "MIUI40",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1.07MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(19).png",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(19)_resize_87.jpg"
+            },
+            {
+                "id": 39,
+                "heroID": "MIUI39",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1.9MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(18).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(18)_resize_8.jpg"
+            },
+            {
+                "id": 38,
+                "heroID": "MIUI38",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "855KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(17).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(17)_resize_83.jpg"
+            },
+            {
+                "id": 37,
+                "heroID": "MIUI37",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "739KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(16).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(16)_resize_83.jpg"
+            },
+            {
+                "id": 36,
+                "heroID": "MIUI36",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "607KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(15).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(15)_resize_15.jpg"
+            },
+            {
+                "id": 35,
+                "heroID": "MIUI35",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "589KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(14).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(14)_resize_96.jpg"
+            },
+            {
+                "id": 34,
+                "heroID": "MIUI34",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "580KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(13).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(13)_resize_47.jpg"
+            },
+            {
+                "id": 33,
+                "heroID": "MIUI33",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "2.3MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(12).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(12)_resize_25.jpg"
+            },
+            {
+                "id": 32,
+                "heroID": "MIUI32",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1.32MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(11).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(11)_resize_61.jpg"
+            },
+            {
+                "id": 31,
+                "heroID": "MIUI31",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "742KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(10).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(10)_resize_59.jpg"
+            },
+            {
+                "id": 30,
+                "heroID": "MIUI30",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "741KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(9).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(9)_resize_15.jpg"
+            },
+            {
+                "id": 29,
+                "heroID": "MIUI29",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "199KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(8)_resize_57.jpg"
+            },
+            {
+                "id": 28,
+                "heroID": "MIUI28",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "811KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(7).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(7)_resize_37.jpg"
+            },
+            {
+                "id": 27,
+                "heroID": "MIUI27",
+                "downloads": 0,
+                "name": "MIUI12",
+                "designer": "MIUI",
+                "size": "776KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(6).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(6)_resize_48.jpg"
+            },
+            {
+                "id": 26,
+                "heroID": "MIUI26",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "933KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(5)_resize_19.jpg"
+            },
+            {
+                "id": 25,
+                "heroID": "MIUI25",
+                "downloads": 0,
+                "name": "MIUI12",
+                "designer": "MIUI",
+                "size": "2.71MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(4)_resize_66.jpg"
+            },
+            {
+                "id": 24,
+                "heroID": "MIUI24",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "422KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(3)_resize_68.jpg"
+            },
+            {
+                "id": 23,
+                "heroID": "MIUI23",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "375KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(2)_resize_62.jpg"
+            },
+            {
+                "id": 22,
+                "heroID": "MIUI22",
+                "downloads": 0,
+                "name": "MIUI 12",
+                "designer": "MIUI",
+                "size": "1.1MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI12%20(1)_resize_64.jpg"
+            },
+            {
                 "id": 21,
                 "heroID": "MIUI21",
                 "downloads": 0,
