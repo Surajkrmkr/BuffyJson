@@ -2,14 +2,214 @@
     "MIUI": {
         "Images": [
             {
+                "id": 21,
+                "heroID": "MIUI21",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "478KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011_resize_88.jpg"
+            },
+            {
+                "id": 20,
+                "heroID": "MIUI20",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "924KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(9).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(9)_resize_97.jpg"
+            },
+            {
+                "id": 19,
+                "heroID": "MIUI19",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "560KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(8)_resize_74.jpg"
+            },
+            {
+                "id": 18,
+                "heroID": "MIUI18",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "899KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(7).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(7)_resize_6.jpg"
+            },
+            {
+                "id": 17,
+                "heroID": "MIUI17",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "585KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(6).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(6)_resize_16.jpg"
+            },
+            {
+                "id": 16,
+                "heroID": "MIUI16",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "963KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(5)_resize_10.jpg"
+            },
+            {
+                "id": 15,
+                "heroID": "MIUI15",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "1.45MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(4)_resize_70.jpg"
+            },
+            {
+                "id": 14,
+                "heroID": "MIUI14",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "845KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(3)_resize_1.jpg"
+            },
+            {
+                "id": 13,
+                "heroID": "MIUI13",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "1.16MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(20).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(20)_resize_49.jpg"
+            },
+            {
+                "id": 12,
+                "heroID": "MIUI12",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "615KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(2)_resize_88.jpg"
+            },
+            {
+                "id": 11,
+                "heroID": "MIUI11",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "2.14MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(19).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(19)_resize_13.jpg"
+            },
+            {
+                "id": 10,
+                "heroID": "MIUI10",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "698KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(18).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(18)_resize_80.jpg"
+            },
+            {
+                "id": 9,
+                "heroID": "MIUI9",
+                "downloads": 0,
+                "name": "MIUI11",
+                "designer": "MIUI",
+                "size": "1.2MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(17).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(17)_resize_63.jpg"
+            },
+            {
+                "id": 8,
+                "heroID": "MIUI8",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "3.4MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(16).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(16)_resize_44.jpg"
+            },
+            {
+                "id": 7,
+                "heroID": "MIUI7",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "934KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(15).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(15)_resize_77.jpg"
+            },
+            {
+                "id": 6,
+                "heroID": "MIUI6",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "875KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(14).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(14)_resize_35.jpg"
+            },
+            {
+                "id": 5,
+                "heroID": "MIUI5",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "305KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(13).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(13)_resize_1.jpg"
+            },
+            {
+                "id": 4,
+                "heroID": "MIUI4",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "1.43MB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(12).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(12)_resize_26.jpg"
+            },
+            {
+                "id": 3,
+                "heroID": "MIUI3",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "590KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(11).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(11)_resize_66.jpg"
+            },
+            {
+                "id": 2,
+                "heroID": "MIUI2",
+                "downloads": 0,
+                "name": "MIUI 11",
+                "designer": "MIUI",
+                "size": "1.26Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(10).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(10)_resize_52.jpg"
+            },
+            {
                 "id": 1,
                 "heroID": "MIUI1",
                 "downloads": 0,
-                "name": "MI MIX 4",
+                "name": "MIUI 11",
                 "designer": "MIUI",
-                "size": "111KB",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-09.jpg",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Miui/Xiaomi-Mi-Mix-4-Stock-Wallpaper-09-small.png"
+                "size": "475KB",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/MIUI%2011%20(1)_resize_74.jpg"
             }
         ]
     }
