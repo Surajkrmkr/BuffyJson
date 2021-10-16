@@ -1,6 +1,61 @@
 {
     "Trending": [
         {
+            "id": 35,
+            "heroID": "Trending35",
+            "downloads": 0,
+            "name": "Minimal Jungle",
+            "designer": "Buffy",
+            "category": "Minimal Illustration",
+            "size": "1.68Mb",
+            "imageUrl": "https://github.com/piyushkpv/october/raw/main/random%20(1).jpg",
+            "compressUrl": "https://github.com/piyushkpv/october/raw/main/random%20(1)_resize_86.jpg"
+        },
+        {
+            "id": 34,
+            "heroID": "Trending34",
+            "downloads": 0,
+            "name": "Flower",
+            "designer": "Buffy",
+            "category": "Flower",
+            "size": "1.71Mb",
+            "imageUrl": "https://github.com/piyushkpv/october/raw/main/random%20(2).jpg",
+            "compressUrl": "https://github.com/piyushkpv/october/raw/main/random%20(2)_resize_11.jpg"
+        },
+        {
+            "id": 33,
+            "heroID": "Trending33",
+            "downloads": 0,
+            "name": "Rainbow Field",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "1.84Mb",
+            "imageUrl": "https://github.com/piyushkpv/october/raw/main/random%20(4).jpg",
+            "compressUrl": "https://github.com/piyushkpv/october/raw/main/random%20(4)_resize_22.jpg"
+        },
+        {
+            "id": 32,
+            "heroID": "Trending32",
+            "downloads": 0,
+            "name": "Creative Night",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "1.78Mb",
+            "imageUrl": "https://github.com/piyushkpv/october/raw/main/random.jpg",
+            "compressUrl": "https://github.com/piyushkpv/october/raw/main/random_resize_78.jpg"
+        },
+        {
+            "id": 31,
+            "heroID": "Trending31",
+            "downloads": 0,
+            "name": "Krishna Minimal",
+            "designer": "Buffy",
+            "category": "Spritual",
+            "size": "1.13Mb",
+            "imageUrl": "https://github.com/piyushkpv/october/raw/main/random%20(3).jpg",
+            "compressUrl": "https://github.com/piyushkpv/october/raw/main/random%20(3)_resize_43.jpg"
+        },
+        {
             "id": 30,
             "heroID": "Trending30",
             "downloads": 0,
