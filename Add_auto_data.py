@@ -1,15 +1,16 @@
 import json
 import os
-# from PIL import Image
+import shutil
 import math
 
 rootPath = r"E:\Buffywalls"
+dstPath = "D:\BuffyJson\BuffyData\Category"
 path0 = "data/"
 path = "data/Category/"
 pickedWallspaths = os.listdir(rootPath)
 
 
-name = 'Minimal'
+name = 'Amoled'
 date = "Oct 19"
 
 # print(" 1 . Abstract      2 . Amoled     3 . Animals                 4 . Anime")
@@ -29,6 +30,9 @@ def convert_size(size_bytes):
    p = math.pow(1024, i)
    s = round(size_bytes / p, 2)
    return "%s %s" % (s, size_name[i])
+
+def copy_images():
+    shutil.copytree(rootPath,dstPath+'\{}\{}'.format(name,date),dirs_exist_ok=True)
 
 
 def addToPopular(imageName,designer,category,size,imageUrl,compressUrl):
@@ -72,8 +76,8 @@ def addData():
     with open(path+name+".json","w") as f:
         json.dump(temp,f,indent=4);  
 
-    print("\n------------------Data added to "+name+"-------------------")
-    add = input("{} add this to popular enter y/n : ".format(img_name)) 
+    # print("\n------------------Data added to "+name+"-------------------")
+    add = input("{} ---- y/n : ".format(img_name)) 
     if add == 'y':
         addToPopular(
             imageName=imageData["name"],
@@ -92,6 +96,7 @@ for i in range(1,len(pickedWallspaths),2):
     img_size = convert_size(os.stat(img_path).st_size)
     
     addData()
+    copy_images()
     
 
 
