@@ -2,6 +2,86 @@
     "Animals": {
         "Images": [
             {
+                "id": 43,
+                "heroID": "Animals43",
+                "downloads": 0,
+                "name": "Reindeer",
+                "designer": "Buffy",
+                "size": "502.34 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer-small.png"
+            },
+            {
+                "id": 42,
+                "heroID": "Animals42",
+                "downloads": 0,
+                "name": "Reindeer purple",
+                "designer": "Buffy",
+                "size": "1.24 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer%20purple.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer%20purple-small.png"
+            },
+            {
+                "id": 41,
+                "heroID": "Animals41",
+                "downloads": 0,
+                "name": "Reindeer dawn",
+                "designer": "Buffy",
+                "size": "746.52 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer%20dawn.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer%20dawn-small.png"
+            },
+            {
+                "id": 40,
+                "heroID": "Animals40",
+                "downloads": 0,
+                "name": "Reindeer blue",
+                "designer": "Buffy",
+                "size": "780.34 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer%20blue.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Reindeer%20blue-small.png"
+            },
+            {
+                "id": 39,
+                "heroID": "Animals39",
+                "downloads": 0,
+                "name": "Magical Reindeer",
+                "designer": "Buffy",
+                "size": "631.28 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Magical%20Reindeer.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Magical%20Reindeer-small.png"
+            },
+            {
+                "id": 38,
+                "heroID": "Animals38",
+                "downloads": 0,
+                "name": "Intruder",
+                "designer": "Buffy",
+                "size": "1.65 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Intruder.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Intruder-small.png"
+            },
+            {
+                "id": 37,
+                "heroID": "Animals37",
+                "downloads": 0,
+                "name": "In Wild",
+                "designer": "Buffy",
+                "size": "1.25 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/In%20Wild.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/In%20Wild-small.png"
+            },
+            {
+                "id": 36,
+                "heroID": "Animals36",
+                "downloads": 0,
+                "name": "Baby Reindeer",
+                "designer": "Buffy",
+                "size": "778.94 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Baby%20Reindeer.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Animals/Oct%2019/Baby%20Reindeer-small.png"
+            },
+            {
                 "id": 35,
                 "heroID": "Animals35",
                 "downloads": 0,
