@@ -2,6 +2,56 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 127,
+                "heroID": "Cartoon127",
+                "downloads": 0,
+                "name": "Spiderman",
+                "designer": "Buffy",
+                "size": "901.25 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/Spiderman.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/Spiderman-small.png"
+            },
+            {
+                "id": 126,
+                "heroID": "Cartoon126",
+                "downloads": 0,
+                "name": "PUBG Girl",
+                "designer": "Buffy",
+                "size": "1.15 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/PUBG%20Girl.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/PUBG%20Girl-small.png"
+            },
+            {
+                "id": 125,
+                "heroID": "Cartoon125",
+                "downloads": 0,
+                "name": "Gotham",
+                "designer": "Buffy",
+                "size": "1.92 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/Gotham.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/Gotham-small.png"
+            },
+            {
+                "id": 124,
+                "heroID": "Cartoon124",
+                "downloads": 0,
+                "name": "2022 PUBG",
+                "designer": "Buffy",
+                "size": "789.05 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/2022%20PUBG.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/2022%20PUBG-small.png"
+            },
+            {
+                "id": 123,
+                "heroID": "Cartoon123",
+                "downloads": 0,
+                "name": "2020 PUBG",
+                "designer": "Buffy",
+                "size": "898.15 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/2020%20PUBG.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/2020%20PUBG-small.png"
+            },
+            {
                 "id": 122,
                 "heroID": "Cartoon122",
                 "downloads": 0,

@@ -1,15 +1,26 @@
 {
     "popular": [
         {
+            "id": 144,
+            "heroID": "popular144",
+            "downloads": 0,
+            "name": "PUBG Girl",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "1.15 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/PUBG%20Girl.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/PUBG%20Girl-small.png"
+        },
+        {
             "id": 143,
             "heroID": "popular143",
             "downloads": 0,
-            "name": "Scenery",
+            "name": "2020 PUBG",
             "designer": "Buffy",
-            "category": "Minimal",
-            "size": "1.82 MB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Scenery.png",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Scenery-small.png"
+            "category": "Cartoon",
+            "size": "898.15 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/2020%20PUBG.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Oct%2019/2020%20PUBG-small.png"
         },
         {
             "id": 142,
