@@ -2,6 +2,66 @@
     "Minimal": {
         "Images": [
             {
+                "id": 130,
+                "heroID": "Minimal130",
+                "downloads": 0,
+                "name": "Scenery",
+                "designer": "Buffy",
+                "size": "1.82 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Scenery.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Scenery-small.png"
+            },
+            {
+                "id": 129,
+                "heroID": "Minimal129",
+                "downloads": 0,
+                "name": "Neon building",
+                "designer": "Buffy",
+                "size": "2.05 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Neon%20building.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Neon%20building-small.png"
+            },
+            {
+                "id": 128,
+                "heroID": "Minimal128",
+                "downloads": 0,
+                "name": "Minimal Sunrise",
+                "designer": "Buffy",
+                "size": "1007.84 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Minimal%20Sunrise.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Minimal%20Sunrise-small.png"
+            },
+            {
+                "id": 127,
+                "heroID": "Minimal127",
+                "downloads": 0,
+                "name": "Desert minimal",
+                "designer": "Buffy",
+                "size": "690.35 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Desert%20minimal.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Desert%20minimal-small.png"
+            },
+            {
+                "id": 126,
+                "heroID": "Minimal126",
+                "downloads": 0,
+                "name": "Cartoon sky",
+                "designer": "Buffy",
+                "size": "3.5 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Cartoon%20sky.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Cartoon%20sky-small.png"
+            },
+            {
+                "id": 125,
+                "heroID": "Minimal125",
+                "downloads": 0,
+                "name": "Bluish sky",
+                "designer": "Buffy",
+                "size": "3.25 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Bluish%20sky.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Oct%2019/Bluish%20sky-small.png"
+            },
+            {
                 "id": 124,
                 "heroID": "Minimal124",
                 "downloads": 0,
