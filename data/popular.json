@@ -1,6 +1,94 @@
 {
     "popular": [
         {
+            "id": 172,
+            "heroID": "popular172",
+            "downloads": 0,
+            "name": "Red Mountain",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "165.72 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Red%20Mountain.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Red%20Mountain-small.png"
+        },
+        {
+            "id": 171,
+            "heroID": "popular171",
+            "downloads": 0,
+            "name": "Devil Boy",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "130.9 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Devil%20Boy.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Devil%20Boy-small.png"
+        },
+        {
+            "id": 170,
+            "heroID": "popular170",
+            "downloads": 0,
+            "name": "Car.",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "63.63 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Car.jpeg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Car-small.png"
+        },
+        {
+            "id": 169,
+            "heroID": "popular169",
+            "downloads": 0,
+            "name": "Bike.",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "286.68 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Bike.jpeg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Bike-small.png"
+        },
+        {
+            "id": 168,
+            "heroID": "popular168",
+            "downloads": 0,
+            "name": "Angry Today",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "650.63 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Angry%20Today.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Angry%20Today-small.png"
+        },
+        {
+            "id": 167,
+            "heroID": "popular167",
+            "downloads": 0,
+            "name": "Angry Bird",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "74.58 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Angry%20Bird.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Angry%20Bird-small.png"
+        },
+        {
+            "id": 166,
+            "heroID": "popular166",
+            "downloads": 0,
+            "name": "Amoled itachi",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "185.06 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Amoled%20itachi.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Amoled%20itachi-small.png"
+        },
+        {
+            "id": 165,
+            "heroID": "popular165",
+            "downloads": 0,
+            "name": "Amoled car.",
+            "designer": "Buffy",
+            "category": "Amoled",
+            "size": "72.91 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Amoled%20car.jpeg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Amoled/Oct%2026/Amoled%20car-small.png"
+        },
+        {
             "id": 164,
             "heroID": "popular164",
             "downloads": 0,

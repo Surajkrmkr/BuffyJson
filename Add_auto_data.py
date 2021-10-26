@@ -10,8 +10,8 @@ path = "data/Category/"
 pickedWallspaths = os.listdir(rootPath)
 
 
-name = 'Abstract'
-date = "Oct 23"
+name = 'Amoled'
+date = "Oct 26"
 
 # print(" 1 . Abstract      2 . Amoled     3 . Animals                 4 . Anime")
 #     print(" 5 . Cars & Bike   6 . Cartoon    7 . Flower                 8 . Games")
