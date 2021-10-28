@@ -2,48 +2,48 @@
   "Category": [
     {
       "name": "Minimal Illustration",
-      "id": 16,
+      "id": 17,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/minimal%20illustration.jpg",
       "__collections__": {}
     },
     {
       "name": "Night Life",
       "imageUrl": "https://dl.dropboxusercontent.com/s/4g3fprlp4qe9pwm/20210101_142753.jpg",
-      "id": 15,
+      "id": 16,
       "__collections__": {}
     },
     {
       "imageUrl": "https://dl.dropboxusercontent.com/s/ijw2hcej0qlsw9k/IMG_20201228_103703.jpg?dl=0",
-      "id": 14,
+      "id": 15,
       "name": "Sunview",
       "__collections__": {}
     },
     {
       "name": "Pathways",
       "imageUrl": "https://dl.dropboxusercontent.com/s/rv6fbovoletnjps/IMG_20201228_095250.jpg?dl=0",
-      "id": 13,
+      "id": 14,
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/games.jpg",
       "name": "Games",
-      "id": 12,
+      "id": 13,
       "__collections__": {}
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Anime",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/anime.jpg",
       "__collections__": {}
     },
     {
-      "id": 10,
+      "id": 11,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/sci-fi.jpg",
       "name": "Sci-Fi",
       "__collections__": {}
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Movies",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/movie.jpg",
       "__collections__": {}
@@ -51,19 +51,25 @@
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/superheroes.jpg",
       "name": "Super Heroes",
-      "id": 8,
+      "id": 9,
       "__collections__": {}
     },
     {
       "name": "Nature",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Nature.jpg",
-      "id": 7,
+      "id": 8,
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Minimal.jpg",
-      "id": 6,
+      "id": 7,
       "name": "Minimal",
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Horror.jpg",
+      "id": 6,
+      "name": "Horror",
       "__collections__": {}
     },
     {
