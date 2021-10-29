@@ -1,6 +1,72 @@
 {
     "Trending": [
         {
+            "id": 61,
+            "heroID": "Trending61",
+            "downloads": 0,
+            "name": "Zzz Halloween",
+            "designer": "Buffy",
+            "category": "Horror",
+            "size": "199KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Zzz%20Dark%20Halloween.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Zzz%20Dark%20Halloween-small.png"
+        },
+        {
+            "id": 60,
+            "heroID": "Trending60",
+            "downloads": 0,
+            "name": "Tree Night",
+            "designer": "Buffy",
+            "category": "Horror",
+            "size": "158KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Tree%20Night.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Tree%20Night-small.png"
+        },
+        {
+            "id": 59,
+            "heroID": "Trending59",
+            "downloads": 0,
+            "name": "Spooky Pumpkin",
+            "designer": "Buffy",
+            "category": "Horror",
+            "size": "158KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Spooky%20Pumpkin.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Spooky%20Pumpkin-small.png"
+        },
+        {
+            "id": 58,
+            "heroID": "Trending58",
+            "downloads": 0,
+            "name": "Spooky House",
+            "designer": "Buffy",
+            "category": "Horror",
+            "size": "136KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Spooky%20House.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Spooky%20House-small.png"
+        },
+        {
+            "id": 57,
+            "heroID": "Trending57",
+            "downloads": 0,
+            "name": "Grunge halloween",
+            "designer": "Buffy",
+            "category": "Horror",
+            "size": "383KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Grunge%20halloween.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Grunge%20halloween-small.png"
+        },
+        {
+            "id": 56,
+            "heroID": "Trending56",
+            "downloads": 0,
+            "name": "Castle Pumpkin",
+            "designer": "Buffy",
+            "category": "Horror",
+            "size": "205KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Castle%20pumpkin.jg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Oct%2029/Castle%20pumpkin-small.png"
+        },
+        {
             "id": 55,
             "heroID": "Trending55",
             "downloads": 0,
