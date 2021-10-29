@@ -1,6 +1,61 @@
 {
     "popular": [
         {
+            "id": 188,
+            "heroID": "popular188",
+            "downloads": 0,
+            "name": "Freefire 8",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "136.27 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%208.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%208-small.png"
+        },
+        {
+            "id": 187,
+            "heroID": "popular187",
+            "downloads": 0,
+            "name": "Freefire 7",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "922.68 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%207.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%207-small.png"
+        },
+        {
+            "id": 186,
+            "heroID": "popular186",
+            "downloads": 0,
+            "name": "Freefire 4",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "403.09 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%204.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%204-small.png"
+        },
+        {
+            "id": 185,
+            "heroID": "popular185",
+            "downloads": 0,
+            "name": "Freefire 3",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "234.63 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%203.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%203-small.png"
+        },
+        {
+            "id": 184,
+            "heroID": "popular184",
+            "downloads": 0,
+            "name": "Freefire 2",
+            "designer": "Buffy",
+            "category": "Games",
+            "size": "219.42 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%202.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Freefire%202-small.png"
+        },
+        {
             "id": 183,
             "heroID": "popular183",
             "downloads": 0,
