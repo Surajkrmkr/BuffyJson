@@ -2,6 +2,216 @@
     "Horror": {
         "Images": [
             {
+                "id": 50,
+                "heroID": "Horror50",
+                "downloads": 0,
+                "name": "Halloween (9)",
+                "designer": "Buffy",
+                "size": "731.78 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(9).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(9)-small.png"
+            },
+            {
+                "id": 49,
+                "heroID": "Horror49",
+                "downloads": 0,
+                "name": "Halloween (8)",
+                "designer": "Buffy",
+                "size": "234.13 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(8).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(8)-small.png"
+            },
+            {
+                "id": 48,
+                "heroID": "Horror48",
+                "downloads": 0,
+                "name": "Halloween (7)",
+                "designer": "Buffy",
+                "size": "1.12 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(7).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(7)-small.png"
+            },
+            {
+                "id": 47,
+                "heroID": "Horror47",
+                "downloads": 0,
+                "name": "Halloween (6)",
+                "designer": "Buffy",
+                "size": "879.36 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(6).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(6)-small.png"
+            },
+            {
+                "id": 46,
+                "heroID": "Horror46",
+                "downloads": 0,
+                "name": "Halloween (5)",
+                "designer": "Buffy",
+                "size": "464.91 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(5).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(5)-small.png"
+            },
+            {
+                "id": 45,
+                "heroID": "Horror45",
+                "downloads": 0,
+                "name": "Halloween (4)",
+                "designer": "Buffy",
+                "size": "1.12 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(4).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(4)-small.png"
+            },
+            {
+                "id": 44,
+                "heroID": "Horror44",
+                "downloads": 0,
+                "name": "Halloween (3)",
+                "designer": "Buffy",
+                "size": "1.32 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(3).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(3)-small.png"
+            },
+            {
+                "id": 43,
+                "heroID": "Horror43",
+                "downloads": 0,
+                "name": "Halloween (21)",
+                "designer": "Buffy",
+                "size": "877.37 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(21).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(21)-small.png"
+            },
+            {
+                "id": 42,
+                "heroID": "Horror42",
+                "downloads": 0,
+                "name": "Halloween (20)",
+                "designer": "Buffy",
+                "size": "1.08 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(20).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(20)-small.png"
+            },
+            {
+                "id": 41,
+                "heroID": "Horror41",
+                "downloads": 0,
+                "name": "Halloween (2)",
+                "designer": "Buffy",
+                "size": "709.28 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(2).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(2)-small.png"
+            },
+            {
+                "id": 40,
+                "heroID": "Horror40",
+                "downloads": 0,
+                "name": "Halloween (19)",
+                "designer": "Buffy",
+                "size": "596.33 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(19).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(19)-small.png"
+            },
+            {
+                "id": 39,
+                "heroID": "Horror39",
+                "downloads": 0,
+                "name": "Halloween (18)",
+                "designer": "Buffy",
+                "size": "709.45 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(18).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(18)-small.png"
+            },
+            {
+                "id": 38,
+                "heroID": "Horror38",
+                "downloads": 0,
+                "name": "Halloween (17)",
+                "designer": "Buffy",
+                "size": "1.08 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(17).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(17)-small.png"
+            },
+            {
+                "id": 37,
+                "heroID": "Horror37",
+                "downloads": 0,
+                "name": "Halloween (16)",
+                "designer": "Buffy",
+                "size": "1.01 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(16).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(16)-small.png"
+            },
+            {
+                "id": 36,
+                "heroID": "Horror36",
+                "downloads": 0,
+                "name": "Halloween (15)",
+                "designer": "Buffy",
+                "size": "360.93 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(15).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(15)-small.png"
+            },
+            {
+                "id": 35,
+                "heroID": "Horror35",
+                "downloads": 0,
+                "name": "Halloween (14)",
+                "designer": "Buffy",
+                "size": "526.89 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(14).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(14)-small.png"
+            },
+            {
+                "id": 34,
+                "heroID": "Horror34",
+                "downloads": 0,
+                "name": "Halloween (13)",
+                "designer": "Buffy",
+                "size": "976.7 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(13).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(13)-small.png"
+            },
+            {
+                "id": 33,
+                "heroID": "Horror33",
+                "downloads": 0,
+                "name": "Halloween (12)",
+                "designer": "Buffy",
+                "size": "812.47 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(12).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(12)-small.png"
+            },
+            {
+                "id": 32,
+                "heroID": "Horror32",
+                "downloads": 0,
+                "name": "Halloween (11)",
+                "designer": "Buffy",
+                "size": "712.75 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(11).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(11)-small.png"
+            },
+            {
+                "id": 31,
+                "heroID": "Horror31",
+                "downloads": 0,
+                "name": "Halloween (10)",
+                "designer": "Buffy",
+                "size": "882.34 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(10).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(10)-small.png"
+            },
+            {
+                "id": 30,
+                "heroID": "Horror30",
+                "downloads": 0,
+                "name": "Halloween (1)",
+                "designer": "Buffy",
+                "size": "593.12 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(1).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Games/Oct%2029/Halloween%20(1)-small.png"
+            },
+            {
                 "id": 29,
                 "heroID": "Horror29",
                 "downloads": 0,
