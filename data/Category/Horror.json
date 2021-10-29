@@ -2,6 +2,86 @@
     "Horror": {
         "Images": [
             {
+                "id": 29,
+                "heroID": "Horror29",
+                "downloads": 0,
+                "name": "Halloween (16)",
+                "designer": "Buffy",
+                "size": "1.01 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(16).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(16)-small.png"
+            },
+            {
+                "id": 28,
+                "heroID": "Horror28",
+                "downloads": 0,
+                "name": "Halloween (15)",
+                "designer": "Buffy",
+                "size": "360.93 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(15).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(15)-small.png"
+            },
+            {
+                "id": 27,
+                "heroID": "Horror27",
+                "downloads": 0,
+                "name": "Halloween (14)",
+                "designer": "Buffy",
+                "size": "526.89 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(14).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(14)-small.png"
+            },
+            {
+                "id": 26,
+                "heroID": "Horror26",
+                "downloads": 0,
+                "name": "Halloween (13)",
+                "designer": "Buffy",
+                "size": "976.7 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(13).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(13)-small.png"
+            },
+            {
+                "id": 25,
+                "heroID": "Horror25",
+                "downloads": 0,
+                "name": "Halloween (12)",
+                "designer": "Buffy",
+                "size": "812.47 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(12).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(12)-small.png"
+            },
+            {
+                "id": 24,
+                "heroID": "Horror24",
+                "downloads": 0,
+                "name": "Halloween (11)",
+                "designer": "Buffy",
+                "size": "712.75 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(11).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(11)-small.png"
+            },
+            {
+                "id": 23,
+                "heroID": "Horror23",
+                "downloads": 0,
+                "name": "Halloween (10)",
+                "designer": "Buffy",
+                "size": "882.34 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(10).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(10)-small.png"
+            },
+            {
+                "id": 22,
+                "heroID": "Horror22",
+                "downloads": 0,
+                "name": "Halloween (1)",
+                "designer": "Buffy",
+                "size": "593.12 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(1).jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Horror/Oct%2029/Halloween%20(1)-small.png"
+            },
+            {
                 "id": 21,
                 "heroID": "Horror21",
                 "downloads": 0,
