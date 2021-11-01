@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 92,
+            "author": "Shanto",
+            "kwgt": "Phoenix Kwgt",
+            "iconpack": "BeeLine Red ",
+            "image": "Wallwrap",
+            "launcher": "Lawnchair 2",
+            "authorLink": "https://bio.link/firelordshanto",
+            "kwgtLink": "https://t.co/M472FQbSmB",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.red.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.basim.wallpaper",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN&gl=US",
+            "name": "\ud835\udd75\ud835\udd9a\ud835\udd97\ud835\udd86\ud835\udd98\ud835\udd98\ud835\udd8e\ud835\udd88 ",
+            "setupImageLink": "https://github.com/Surajkrmkr/BuffyData/raw/main/Setups/Nov%201/image_picker6207118775742699858.jpg"
+        },
+        {
             "id": 91,
             "author": "Ekta khatarkar ",
             "kwgt": "floral kwgt ",
