@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 93,
+            "author": "Shanto",
+            "kwgt": "Andro12 KWGT",
+            "iconpack": "Material You",
+            "image": "Pastel Wallpapers",
+            "launcher": "Lawnchair 2",
+            "authorLink": "https://bio.link/firelordshanto",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.andro12kwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.hexoline.materialyou",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.pastelwall",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN&gl=US",
+            "name": "\ud835\udcdf\ud835\udcea\ud835\udcfc\ud835\udcfd\ud835\udcee\ud835\udcf5 \ud835\udcd8\ud835\udcec\ud835\udcee\ud835\udcec\ud835\udcfb\ud835\udcee\ud835\udcea\ud835\udcf6 ",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/image_picker1525366726700448474.jpg"
+        },
+        {
             "id": 92,
             "author": "Shanto",
             "kwgt": "Phoenix Kwgt",
