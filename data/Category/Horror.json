@@ -2,6 +2,16 @@
     "Horror": {
         "Images": [
             {
+                "id": 51,
+                "heroID": "Horror51",
+                "downloads": 0,
+                "name": "Windows 11 Halloween",
+                "designer": "Buffy",
+                "size": "1.72Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/novori%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trendnov%20(5).jpg"
+            },
+            {
                 "id": 50,
                 "heroID": "Horror50",
                 "downloads": 0,

@@ -1,284 +1,294 @@
 {
-  "Minimal Illustration": {
-    "Images": [
-      {
-        "id": 27,
-        "heroID": "Minimal Illustration27",
-        "downloads": 0,
-        "name": "Tech World",
-        "designer": "Buffy",
-        "size": "3.4MB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
-      },
-      {
-        "id": 26,
-        "heroID": "Minimal Illustration26",
-        "downloads": 0,
-        "name": "Blue Scene",
-        "designer": "Buffy",
-        "size": "147KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjlym7_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjlym7_1080x2340-min.png"
-      },
-      {
-        "id": 25,
-        "heroID": "Minimal Illustration25",
-        "downloads": 0,
-        "name": "Lens",
-        "designer": "Buffy",
-        "size": "521KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjll33_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjll33_1080x2340-min.png"
-      },
-      {
-        "id": 24,
-        "heroID": "Minimal Illustration24",
-        "downloads": 0,
-        "name": "Scene",
-        "designer": "Buffy",
-        "size": "1.0MB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-969kvd_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-969kvd_1080x2340-min.png"
-      },
-      {
-        "id": 23,
-        "heroID": "Minimal Illustration23",
-        "downloads": 0,
-        "name": "Snow Minimal",
-        "designer": "Buffy",
-        "size": "1.0MB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-739woo_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-739woo_1080x2340-min.png"
-      },
-      {
-        "id": 22,
-        "heroID": "Minimal Illustration22",
-        "downloads": 0,
-        "name": "Minimal Day",
-        "designer": "Buffy",
-        "size": "287KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83qdy1_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83qdy1_1080x2340-min.png"
-      },
-      {
-        "id": 21,
-        "heroID": "Minimal Illustration21",
-        "downloads": 0,
-        "name": "Deer Minimal",
-        "designer": "Buffy",
-        "size": "811KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83ow2y_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83ow2y_1080x2340-min.png"
-      },
-      {
-        "id": 20,
-        "heroID": "Minimal Illustration20",
-        "downloads": 0,
-        "name": "Moon Night",
-        "designer": "Buffy",
-        "size": "298KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-5wr3m7_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-5wr3m7_1080x2340-min.png"
-      },
-      {
-        "id": 19,
-        "heroID": "Minimal Illustration19",
-        "downloads": 0,
-        "name": "WallHeaven",
-        "designer": "Buffy",
-        "size": "544KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-3k85w6_1080x2340.png",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-3k85w6_1080x2340-min.png"
-      },
-      {
-        "id": 18,
-        "heroID": "Minimal Illustration18",
-        "downloads": 0,
-        "name": "Beautiful Evening",
-        "designer": "Buffy",
-        "size": "179KB",
-        "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/beautiful-evening-landscape-minimal-8k-ag-1080x2280.jpg",
-        "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/beautiful-evening-landscape-minimal-8k-ag-1080x2280-min.jpg"
-      },
-      {
-        "id": 17,
-        "heroID": "Minimal Illustration17",
-        "downloads": 0,
-        "name": "Night Door Illustration",
-        "designer": "Buffy",
-        "size": "2.2Mb",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Night%20Door%20Illustration.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210619_171428_resize_66.jpg?dl=0"
-      },
-      {
-        "id": 16,
-        "heroID": "Minimal Illustration16",
-        "downloads": 0,
-        "name": "Night Desert",
-        "designer": "Buffy",
-        "size": "1.4Mb",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Night%20Desert.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210619_171258_resize_17.jpg?dl=0"
-      },
-      {
-        "id": 15,
-        "heroID": "Minimal Illustration15",
-        "downloads": 0,
-        "name": "Mountains moon",
-        "designer": "Buffy",
-        "size": "1.08MB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/mountains-moon-lake-birds-4k-er-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/mountains-moon-lake-birds-4k-er-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 14,
-        "heroID": "Minimal Illustration14",
-        "downloads": 0,
-        "name": "Minimal land",
-        "designer": "BUffy",
-        "size": "410KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/minimal-life-landscape-8k-3m-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/minimal-life-landscape-8k-3m-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 13,
-        "heroID": "Minimal Illustration13",
-        "downloads": 0,
-        "name": "Forest",
-        "designer": "Buffy",
-        "size": "1.46MB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/forest-waterfall-minimal-4k-py-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/forest-waterfall-minimal-4k-py-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 12,
-        "heroID": "Minimal Illustration12",
-        "downloads": 0,
-        "name": "Flat minimal",
-        "designer": "Buffy",
-        "size": "388KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/flat-minimal-morning-landscape-lake-5k-cp-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/flat-minimal-morning-landscape-lake-5k-cp-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 11,
-        "heroID": "Minimal Illustration11",
-        "downloads": 0,
-        "name": "camels desert",
-        "designer": "Buffy",
-        "size": "152KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/camels-desert-evening-minimal-8k-o4-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/camels-desert-evening-minimal-8k-o4-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 10,
-        "heroID": "Minimal Illustration10",
-        "downloads": 0,
-        "name": "Building city",
-        "designer": "Buffy",
-        "size": "184KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/buildings-city-silhouette-10k-tk-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/buildings-city-silhouette-10k-tk-1080x2280-small.png?dl=0"
-      },
-      {
-        "id": 9,
-        "heroID": "Minimal Illustration9",
-        "downloads": 0,
-        "name": "Bird Sky",
-        "designer": "Buffy",
-        "size": "496KB",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/birds-sky-minimal-5k-29-1080x2280.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/birds-sky-minimal-5k-29-1080x2280-small.png?dl=0"
-      },
-      {
-        "designer": "Minimalistic Illustration",
-        "size": "1.4Mb",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/desert3.jpg",
-        "id": 8,
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Desert%203.jpg",
-        "heroID": "Minimalistic Illustration8",
-        "downloads": 3,
-        "name": "Desert 3",
-        "__collections__": {}
-      },
-      {
-        "designer": "Minimalistic Illustration",
-        "size": "1.4Mb",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/desert2.jpg",
-        "id": 7,
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Desert%202.jpg",
-        "heroID": "Minimalistic Illustration7",
-        "downloads": 3,
-        "name": "Desert",
-        "__collections__": {}
-      },
-      {
-        "designer": "Minimalistic Illustration",
-        "size": "1.4Mb",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/desert1.jpg",
-        "id": 6,
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Desert%201.jpg",
-        "heroID": "Minimalistic Illustration6",
-        "downloads": 3,
-        "name": "Desert",
-        "__collections__": {}
-      },
-      {
-        "downloads": 5,
-        "designer": "Minimalistic Illustration",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_225938_resize_25.jpg?dl=0",
-        "size": "184.2Kb",
-        "heroID": "Minimalistic Illustration5",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc4672.jpg?dl=0",
-        "id": 5,
-        "name": "Minimalistic Illustration 5",
-        "__collections__": {}
-      },
-      {
-        "size": "223.8Kb",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc4347.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_230107_resize_91.jpg?dl=0",
-        "downloads": 7,
-        "name": "Minimalistic Illustration 4",
-        "id": 4,
-        "designer": "Minimalistic Illustration",
-        "heroID": "Minimalistic Illustration4",
-        "__collections__": {}
-      },
-      {
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_230014_resize_53.jpg?dl=0",
-        "id": 3,
-        "designer": "Minimalistic Illustration",
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_233306.jpg?dl=0",
-        "heroID": "Minimalistic Illustration3",
-        "size": "708Kb",
-        "downloads": 4,
-        "name": "Minimalistic Illustration 3",
-        "__collections__": {}
-      },
-      {
-        "designer": "Minimalistic Illustration",
-        "size": "230Kb",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_230127_resize_31.jpg?dl=0",
-        "id": 2,
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc4264.jpg?dl=0",
-        "heroID": "Minimalistic Illustration2",
-        "downloads": 3,
-        "name": "Minimalistic Illustration 2",
-        "__collections__": {}
-      },
-      {
-        "downloads": 5,
-        "id": 1,
-        "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc5417.jpg?dl=0",
-        "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_225855_resize_86.jpg?dl=0",
-        "name": "Minimalistic Illustration 1",
-        "designer": "Minimalistic Illustration",
-        "heroID": "Minimalistic Illustration1",
-        "size": "143.2Kb",
-        "__collections__": {}
-      }
-    ]
-  }
+    "Minimal Illustration": {
+        "Images": [
+            {
+                "id": 28,
+                "heroID": "Minimal Illustration28",
+                "downloads": 0,
+                "name": "Beach View",
+                "designer": "Buffy",
+                "size": "2.15Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/novori%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trendnov%20(3).jpg"
+            },
+            {
+                "id": 27,
+                "heroID": "Minimal Illustration27",
+                "downloads": 0,
+                "name": "Tech World",
+                "designer": "Buffy",
+                "size": "3.4MB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
+            },
+            {
+                "id": 26,
+                "heroID": "Minimal Illustration26",
+                "downloads": 0,
+                "name": "Blue Scene",
+                "designer": "Buffy",
+                "size": "147KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjlym7_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjlym7_1080x2340-min.png"
+            },
+            {
+                "id": 25,
+                "heroID": "Minimal Illustration25",
+                "downloads": 0,
+                "name": "Lens",
+                "designer": "Buffy",
+                "size": "521KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjll33_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-gjll33_1080x2340-min.png"
+            },
+            {
+                "id": 24,
+                "heroID": "Minimal Illustration24",
+                "downloads": 0,
+                "name": "Scene",
+                "designer": "Buffy",
+                "size": "1.0MB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-969kvd_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-969kvd_1080x2340-min.png"
+            },
+            {
+                "id": 23,
+                "heroID": "Minimal Illustration23",
+                "downloads": 0,
+                "name": "Snow Minimal",
+                "designer": "Buffy",
+                "size": "1.0MB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-739woo_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-739woo_1080x2340-min.png"
+            },
+            {
+                "id": 22,
+                "heroID": "Minimal Illustration22",
+                "downloads": 0,
+                "name": "Minimal Day",
+                "designer": "Buffy",
+                "size": "287KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83qdy1_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83qdy1_1080x2340-min.png"
+            },
+            {
+                "id": 21,
+                "heroID": "Minimal Illustration21",
+                "downloads": 0,
+                "name": "Deer Minimal",
+                "designer": "Buffy",
+                "size": "811KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83ow2y_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-83ow2y_1080x2340-min.png"
+            },
+            {
+                "id": 20,
+                "heroID": "Minimal Illustration20",
+                "downloads": 0,
+                "name": "Moon Night",
+                "designer": "Buffy",
+                "size": "298KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-5wr3m7_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-5wr3m7_1080x2340-min.png"
+            },
+            {
+                "id": 19,
+                "heroID": "Minimal Illustration19",
+                "downloads": 0,
+                "name": "WallHeaven",
+                "designer": "Buffy",
+                "size": "544KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-3k85w6_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-3k85w6_1080x2340-min.png"
+            },
+            {
+                "id": 18,
+                "heroID": "Minimal Illustration18",
+                "downloads": 0,
+                "name": "Beautiful Evening",
+                "designer": "Buffy",
+                "size": "179KB",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/beautiful-evening-landscape-minimal-8k-ag-1080x2280.jpg",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/beautiful-evening-landscape-minimal-8k-ag-1080x2280-min.jpg"
+            },
+            {
+                "id": 17,
+                "heroID": "Minimal Illustration17",
+                "downloads": 0,
+                "name": "Night Door Illustration",
+                "designer": "Buffy",
+                "size": "2.2Mb",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Night%20Door%20Illustration.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210619_171428_resize_66.jpg?dl=0"
+            },
+            {
+                "id": 16,
+                "heroID": "Minimal Illustration16",
+                "downloads": 0,
+                "name": "Night Desert",
+                "designer": "Buffy",
+                "size": "1.4Mb",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Night%20Desert.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210619_171258_resize_17.jpg?dl=0"
+            },
+            {
+                "id": 15,
+                "heroID": "Minimal Illustration15",
+                "downloads": 0,
+                "name": "Mountains moon",
+                "designer": "Buffy",
+                "size": "1.08MB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/mountains-moon-lake-birds-4k-er-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/mountains-moon-lake-birds-4k-er-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 14,
+                "heroID": "Minimal Illustration14",
+                "downloads": 0,
+                "name": "Minimal land",
+                "designer": "BUffy",
+                "size": "410KB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/minimal-life-landscape-8k-3m-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/minimal-life-landscape-8k-3m-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 13,
+                "heroID": "Minimal Illustration13",
+                "downloads": 0,
+                "name": "Forest",
+                "designer": "Buffy",
+                "size": "1.46MB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/forest-waterfall-minimal-4k-py-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/forest-waterfall-minimal-4k-py-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 12,
+                "heroID": "Minimal Illustration12",
+                "downloads": 0,
+                "name": "Flat minimal",
+                "designer": "Buffy",
+                "size": "388KB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/flat-minimal-morning-landscape-lake-5k-cp-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/flat-minimal-morning-landscape-lake-5k-cp-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 11,
+                "heroID": "Minimal Illustration11",
+                "downloads": 0,
+                "name": "camels desert",
+                "designer": "Buffy",
+                "size": "152KB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/camels-desert-evening-minimal-8k-o4-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/camels-desert-evening-minimal-8k-o4-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 10,
+                "heroID": "Minimal Illustration10",
+                "downloads": 0,
+                "name": "Building city",
+                "designer": "Buffy",
+                "size": "184KB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/buildings-city-silhouette-10k-tk-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/buildings-city-silhouette-10k-tk-1080x2280-small.png?dl=0"
+            },
+            {
+                "id": 9,
+                "heroID": "Minimal Illustration9",
+                "downloads": 0,
+                "name": "Bird Sky",
+                "designer": "Buffy",
+                "size": "496KB",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/birds-sky-minimal-5k-29-1080x2280.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/birds-sky-minimal-5k-29-1080x2280-small.png?dl=0"
+            },
+            {
+                "designer": "Minimalistic Illustration",
+                "size": "1.4Mb",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/desert3.jpg",
+                "id": 8,
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Desert%203.jpg",
+                "heroID": "Minimalistic Illustration8",
+                "downloads": 3,
+                "name": "Desert 3",
+                "__collections__": {}
+            },
+            {
+                "designer": "Minimalistic Illustration",
+                "size": "1.4Mb",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/desert2.jpg",
+                "id": 7,
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Desert%202.jpg",
+                "heroID": "Minimalistic Illustration7",
+                "downloads": 3,
+                "name": "Desert",
+                "__collections__": {}
+            },
+            {
+                "designer": "Minimalistic Illustration",
+                "size": "1.4Mb",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/desert1.jpg",
+                "id": 6,
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/Desert%201.jpg",
+                "heroID": "Minimalistic Illustration6",
+                "downloads": 3,
+                "name": "Desert",
+                "__collections__": {}
+            },
+            {
+                "downloads": 5,
+                "designer": "Minimalistic Illustration",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_225938_resize_25.jpg?dl=0",
+                "size": "184.2Kb",
+                "heroID": "Minimalistic Illustration5",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc4672.jpg?dl=0",
+                "id": 5,
+                "name": "Minimalistic Illustration 5",
+                "__collections__": {}
+            },
+            {
+                "size": "223.8Kb",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc4347.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_230107_resize_91.jpg?dl=0",
+                "downloads": 7,
+                "name": "Minimalistic Illustration 4",
+                "id": 4,
+                "designer": "Minimalistic Illustration",
+                "heroID": "Minimalistic Illustration4",
+                "__collections__": {}
+            },
+            {
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_230014_resize_53.jpg?dl=0",
+                "id": 3,
+                "designer": "Minimalistic Illustration",
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_233306.jpg?dl=0",
+                "heroID": "Minimalistic Illustration3",
+                "size": "708Kb",
+                "downloads": 4,
+                "name": "Minimalistic Illustration 3",
+                "__collections__": {}
+            },
+            {
+                "designer": "Minimalistic Illustration",
+                "size": "230Kb",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_230127_resize_31.jpg?dl=0",
+                "id": 2,
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc4264.jpg?dl=0",
+                "heroID": "Minimalistic Illustration2",
+                "downloads": 3,
+                "name": "Minimalistic Illustration 2",
+                "__collections__": {}
+            },
+            {
+                "downloads": 5,
+                "id": 1,
+                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/orsrc5417.jpg?dl=0",
+                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/MIllustration/Dropbox/20210508_225855_resize_86.jpg?dl=0",
+                "name": "Minimalistic Illustration 1",
+                "designer": "Minimalistic Illustration",
+                "heroID": "Minimalistic Illustration1",
+                "size": "143.2Kb",
+                "__collections__": {}
+            }
+        ]
+    }
 }

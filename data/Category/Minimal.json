@@ -2,6 +2,16 @@
     "Minimal": {
         "Images": [
             {
+                "id": 131,
+                "heroID": "Minimal131",
+                "downloads": 0,
+                "name": "Minimal Panda",
+                "designer": "Buffy",
+                "size": "672Kb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/novori%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trendnov%20(8).jpg"
+            },
+            {
                 "id": 130,
                 "heroID": "Minimal130",
                 "downloads": 0,
