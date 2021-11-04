@@ -1,0 +1,46 @@
+{
+    "Pastel": {
+        "Images": [
+            {
+                "id": 4,
+                "heroID": "Pastel4",
+                "downloads": 0,
+                "name": "Pastel",
+                "designer": "Buffy",
+                "size": "1.19 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel-small.png"
+            },
+            {
+                "id": 3,
+                "heroID": "Pastel3",
+                "downloads": 0,
+                "name": "Pastel Soft",
+                "designer": "Buffy",
+                "size": "1.26 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel%20Soft.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel%20Soft-small.png"
+            },
+            {
+                "id": 2,
+                "heroID": "Pastel2",
+                "downloads": 0,
+                "name": "Pastel 3",
+                "designer": "Buffy",
+                "size": "112.79 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel%203.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel%203-small.png"
+            },
+            {
+                "id": 1,
+                "heroID": "Pastel1",
+                "downloads": 0,
+                "name": "Pastel 2",
+                "designer": "Buffy",
+                "size": "135.87 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel%202.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Pastel/Nov%204/Pastel%202-small.png"
+            }
+        ]
+    }
+}

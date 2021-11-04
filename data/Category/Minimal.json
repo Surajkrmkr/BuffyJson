@@ -2,6 +2,36 @@
     "Minimal": {
         "Images": [
             {
+                "id": 134,
+                "heroID": "Minimal134",
+                "downloads": 0,
+                "name": "Home Purple",
+                "designer": "Buffy",
+                "size": "547.76 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%204/Home%20Purple.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%204/Home%20Purple-small.png"
+            },
+            {
+                "id": 133,
+                "heroID": "Minimal133",
+                "downloads": 0,
+                "name": "Home Amber",
+                "designer": "Buffy",
+                "size": "572.87 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%204/Home%20Amber.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%204/Home%20Amber-small.png"
+            },
+            {
+                "id": 132,
+                "heroID": "Minimal132",
+                "downloads": 0,
+                "name": "build",
+                "designer": "Buffy",
+                "size": "699.49 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%204/build.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%204/build-small.png"
+            },
+            {
                 "id": 131,
                 "heroID": "Minimal131",
                 "downloads": 0,
