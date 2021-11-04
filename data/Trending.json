@@ -1,6 +1,61 @@
 {
     "Trending": [
         {
+            "id": 66,
+            "heroID": "Trending66",
+            "downloads": 0,
+            "name": "zLove",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "275.08 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/zLove.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/zLove-small.png"
+        },
+        {
+            "id": 65,
+            "heroID": "Trending65",
+            "downloads": 0,
+            "name": "Pattern",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "81.09 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Pattern.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Pattern-small.png"
+        },
+        {
+            "id": 64,
+            "heroID": "Trending64",
+            "downloads": 0,
+            "name": "Nebula",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "258.51 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Nebula.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Nebula-small.png"
+        },
+        {
+            "id": 63,
+            "heroID": "Trending63",
+            "downloads": 0,
+            "name": "Light Glow",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "523.21 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Light%20Glow.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Light%20Glow-small.png"
+        },
+        {
+            "id": 62,
+            "heroID": "Trending62",
+            "downloads": 0,
+            "name": "Autumn",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "228.97 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Autumn.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Nov%204/Autumn-small.png"
+        },
+        {
             "id": 61,
             "heroID": "Trending61",
             "downloads": 0,
