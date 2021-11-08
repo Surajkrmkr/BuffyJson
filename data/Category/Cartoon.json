@@ -2,6 +2,26 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 129,
+                "heroID": "Cartoon129",
+                "downloads": 0,
+                "name": "Among Us",
+                "designer": "Buffy",
+                "size": "2.03Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(4)_resize_86.jpg"
+            },
+            {
+                "id": 128,
+                "heroID": "Cartoon128",
+                "downloads": 0,
+                "name": "Cool Cartoon",
+                "designer": "Buffy",
+                "size": "227Kb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(1)_resize_30.jpg"
+            },
+            {
                 "id": 127,
                 "heroID": "Cartoon127",
                 "downloads": 0,
