@@ -1,6 +1,17 @@
 {
     "popular": [
         {
+            "id": 234,
+            "heroID": "popular234",
+            "downloads": 0,
+            "name": "Pixel 6",
+            "designer": "Google",
+            "category": "Google",
+            "size": "6.26Mb",
+            "imageUrl": "https://github.com/piyushkpv/Google/raw/main/pixel%206%20(32).png",
+            "compressUrl": "https://github.com/piyushkpv/Google/raw/main/pixel%206%20(32)_resize_21.jpg"
+        },
+        {
             "id": 233,
             "heroID": "popular233",
             "downloads": 0,
