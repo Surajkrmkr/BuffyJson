@@ -1,6 +1,94 @@
 {
     "popular": [
         {
+            "id": 242,
+            "heroID": "popular242",
+            "downloads": 0,
+            "name": "ZIg",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "354.19 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/ZIg.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/ZIg-small.png"
+        },
+        {
+            "id": 241,
+            "heroID": "popular241",
+            "downloads": 0,
+            "name": "Sony",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "1.01 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Sony.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Sony-small.png"
+        },
+        {
+            "id": 240,
+            "heroID": "popular240",
+            "downloads": 0,
+            "name": "Real me",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "2.18 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Real%20me.png",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Real%20me-small.png"
+        },
+        {
+            "id": 239,
+            "heroID": "popular239",
+            "downloads": 0,
+            "name": "Jelly",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "199.87 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Jelly.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Jelly-small.png"
+        },
+        {
+            "id": 238,
+            "heroID": "popular238",
+            "downloads": 0,
+            "name": "Hills",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "584.22 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Hills.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Hills-small.png"
+        },
+        {
+            "id": 237,
+            "heroID": "popular237",
+            "downloads": 0,
+            "name": "Feathers",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "849.8 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Feathers.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Feathers-small.png"
+        },
+        {
+            "id": 236,
+            "heroID": "popular236",
+            "downloads": 0,
+            "name": "Dark Tunnel",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "496.54 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Dark%20Tunnel.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Dark%20Tunnel-small.png"
+        },
+        {
+            "id": 235,
+            "heroID": "popular235",
+            "downloads": 0,
+            "name": "Autumn",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "240.74 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Autumn.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Creative/Nov%2014/Autumn-small.png"
+        },
+        {
             "id": 234,
             "heroID": "popular234",
             "downloads": 0,
