@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 96,
+            "author": "Sagar K",
+            "kwgt": "Android 12 for kwgt",
+            "iconpack": "Pix Material You",
+            "image": "Wallfever",
+            "launcher": "Nova Launcher",
+            "authorLink": "",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=android12forkwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack",
+            "imageLink": "https://t.me/wallfever",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Material you 12",
+            "setupImageLink": "https://github.com/Surajkrmkr/BuffyData/raw/main/Setups/Nov%2014/3.jpg"
+        },
+        {
+            "id": 95,
+            "author": "Shanto",
+            "kwgt": "GlassUi Kwgt",
+            "iconpack": "Glowline Icon pack",
+            "image": "Wallipop",
+            "launcher": "Lawnchair 2",
+            "authorLink": "https://bio.link/firelordshanto",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.glassuikwgt.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.alphaone.glowline.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN&gl=US",
+            "name": "Glass Setup",
+            "setupImageLink": "https://github.com/Surajkrmkr/BuffyData/raw/main/Setups/Nov%2014/2.jpg"
+        },
+        {
+            "id": 94,
+            "author": "parvej Alam",
+            "kwgt": "toy KWGT",
+            "iconpack": "Beeline Green ",
+            "image": "368 ( green)",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://www.instagram.com/jol_foring_/",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=toy.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.green.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=my.walls.app",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "minimal",
+            "setupImageLink": "https://github.com/Surajkrmkr/BuffyData/raw/main/Setups/Nov%2014/1.jpg"
+        },
+        {
             "id": 93,
             "author": "Shanto",
             "kwgt": "Andro12 KWGT",
