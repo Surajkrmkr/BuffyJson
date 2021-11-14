@@ -2,6 +2,26 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 29,
+                "heroID": "Super Heroes29",
+                "downloads": 0,
+                "name": "Boba Fett",
+                "designer": "Buffy",
+                "size": "1.5Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(5)_resize_74.jpg"
+            },
+            {
+                "id": 28,
+                "heroID": "Super Heroes28",
+                "downloads": 0,
+                "name": "Eternals",
+                "designer": "Buffy",
+                "size": "1.75Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/8Nov%20(2)_resize_89.jpg"
+            },
+            {
                 "id": 27,
                 "heroID": "Super Heroes27",
                 "downloads": 0,
