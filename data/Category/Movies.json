@@ -2,6 +2,16 @@
     "Movies": {
         "Images": [
             {
+                "id": 72,
+                "heroID": "Movies72",
+                "downloads": 0,
+                "name": "Luca 2021",
+                "designer": "Buffy",
+                "size": "1.66Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(11).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(11)_resize_31.jpg"
+            },
+            {
                 "id": 71,
                 "heroID": "Movies71",
                 "downloads": 0,

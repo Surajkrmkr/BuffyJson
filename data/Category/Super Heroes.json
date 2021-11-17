@@ -2,6 +2,16 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 30,
+                "heroID": "Super Heroes30",
+                "downloads": 0,
+                "name": "Art Crack",
+                "designer": "Buffy",
+                "size": "1.51Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(7).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(7)_resize_33.jpg"
+            },
+            {
                 "id": 29,
                 "heroID": "Super Heroes29",
                 "downloads": 0,
