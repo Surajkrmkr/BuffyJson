@@ -2,6 +2,26 @@
     "Games": {
         "Images": [
             {
+                "id": 93,
+                "heroID": "Games93",
+                "downloads": 0,
+                "name": "PUBG",
+                "designer": "Buffy",
+                "size": "1.53Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(12).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(12)_resize_94.jpg"
+            },
+            {
+                "id": 92,
+                "heroID": "Games92",
+                "downloads": 0,
+                "name": "God Of War",
+                "designer": "Buffy",
+                "size": "300Kb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(8)_resize_36.jpg"
+            },
+            {
                 "id": 91,
                 "heroID": "Games91",
                 "downloads": 0,

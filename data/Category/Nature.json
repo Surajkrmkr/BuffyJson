@@ -2,6 +2,36 @@
     "Nature": {
         "Images": [
             {
+                "id": 94,
+                "heroID": "Nature94",
+                "downloads": 0,
+                "name": "Greenery",
+                "designer": "Buffy",
+                "size": "1.79Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(5)_resize_64.jpg"
+            },
+            {
+                "id": 93,
+                "heroID": "Nature93",
+                "downloads": 0,
+                "name": "Nature View",
+                "designer": "Buffy",
+                "size": "2.23Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(3)_resize_14.jpg"
+            },
+            {
+                "id": 92,
+                "heroID": "Nature92",
+                "downloads": 0,
+                "name": "Firflies",
+                "designer": "Buffy",
+                "size": "1.19Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(2)_resize_32.jpg"
+            },
+            {
                 "id": 91,
                 "heroID": "Nature91",
                 "downloads": 0,

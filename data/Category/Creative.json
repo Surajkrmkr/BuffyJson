@@ -2,6 +2,26 @@
     "Creative": {
         "Images": [
             {
+                "id": 35,
+                "heroID": "Creative35",
+                "downloads": 0,
+                "name": "Creative Buildo",
+                "designer": "Buffy",
+                "size": "2.43Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new.jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new_resize_68.jpg"
+            },
+            {
+                "id": 34,
+                "heroID": "Creative34",
+                "downloads": 0,
+                "name": "Moon Art",
+                "designer": "Buffy",
+                "size": "1.81Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(4)_resize_70.jpg"
+            },
+            {
                 "id": 33,
                 "heroID": "Creative33",
                 "downloads": 0,
