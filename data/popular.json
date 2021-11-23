@@ -1,6 +1,116 @@
 {
     "popular": [
         {
+            "id": 255,
+            "heroID": "popular255",
+            "downloads": 0,
+            "name": "The Batman forever",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "468.79 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/The%20Batman%20forever.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/The%20Batman%20forever-small.png"
+        },
+        {
+            "id": 254,
+            "heroID": "popular254",
+            "downloads": 0,
+            "name": "Spiderman-miles",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "731.04 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Spiderman-miles.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Spiderman-miles-small.png"
+        },
+        {
+            "id": 253,
+            "heroID": "popular253",
+            "downloads": 0,
+            "name": "Neon Brokeh",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "580.11 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Neon%20Brokeh.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Neon%20Brokeh-small.png"
+        },
+        {
+            "id": 252,
+            "heroID": "popular252",
+            "downloads": 0,
+            "name": "Dune",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "1.38 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Dune.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Dune-small.png"
+        },
+        {
+            "id": 251,
+            "heroID": "popular251",
+            "downloads": 0,
+            "name": "Desert",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "132.57 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Desert.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Desert-small.png"
+        },
+        {
+            "id": 250,
+            "heroID": "popular250",
+            "downloads": 0,
+            "name": "Dark Smile",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "117.09 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Dark%20Smile.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Dark%20Smile-small.png"
+        },
+        {
+            "id": 249,
+            "heroID": "popular249",
+            "downloads": 0,
+            "name": "Circle",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "96.8 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Circle.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Circle-small.png"
+        },
+        {
+            "id": 248,
+            "heroID": "popular248",
+            "downloads": 0,
+            "name": "Cat Paper",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "472.73 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Cat%20Paper.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Cat%20Paper-small.png"
+        },
+        {
+            "id": 247,
+            "heroID": "popular247",
+            "downloads": 0,
+            "name": "Cat Minimal",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "264.1 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Cat%20Minimal.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/Cat%20Minimal-small.png"
+        },
+        {
+            "id": 246,
+            "heroID": "popular246",
+            "downloads": 0,
+            "name": "anger",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "941.26 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/anger.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/anger-small.png"
+        },
+        {
             "id": 245,
             "heroID": "popular245",
             "downloads": 0,
