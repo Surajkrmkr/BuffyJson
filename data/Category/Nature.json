@@ -2,6 +2,26 @@
     "Nature": {
         "Images": [
             {
+                "id": 96,
+                "heroID": "Nature96",
+                "downloads": 0,
+                "name": "Green Leafs",
+                "designer": "Buffy",
+                "size": "1.78Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/28nov%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/28nov%20(3)_resize_43.jpg"
+            },
+            {
+                "id": 95,
+                "heroID": "Nature95",
+                "downloads": 0,
+                "name": "\tGreen Land",
+                "designer": "Buffy",
+                "size": "1.71Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/28nov.jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/28nov_resize_27.jpg"
+            },
+            {
                 "id": 94,
                 "heroID": "Nature94",
                 "downloads": 0,
