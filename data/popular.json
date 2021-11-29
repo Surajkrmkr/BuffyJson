@@ -1,6 +1,171 @@
 {
     "popular": [
         {
+            "id": 270,
+            "heroID": "popular270",
+            "downloads": 0,
+            "name": "Minimal Wolf 9",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "83.5 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%209.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%209-small.png"
+        },
+        {
+            "id": 269,
+            "heroID": "popular269",
+            "downloads": 0,
+            "name": "Minimal Wolf 8",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "234.93 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%208.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%208-small.png"
+        },
+        {
+            "id": 268,
+            "heroID": "popular268",
+            "downloads": 0,
+            "name": "Minimal Wolf 7",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "125.36 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%207.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%207-small.png"
+        },
+        {
+            "id": 267,
+            "heroID": "popular267",
+            "downloads": 0,
+            "name": "Minimal Wolf 6",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "141.67 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%206.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%206-small.png"
+        },
+        {
+            "id": 266,
+            "heroID": "popular266",
+            "downloads": 0,
+            "name": "Minimal Wolf 5",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "131.3 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%205.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%205-small.png"
+        },
+        {
+            "id": 265,
+            "heroID": "popular265",
+            "downloads": 0,
+            "name": "Minimal Wolf 4",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "277.3 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%204.png",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%204-small.png"
+        },
+        {
+            "id": 264,
+            "heroID": "popular264",
+            "downloads": 0,
+            "name": "Minimal Wolf 3",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "161.84 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%203.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%203-small.png"
+        },
+        {
+            "id": 263,
+            "heroID": "popular263",
+            "downloads": 0,
+            "name": "Minimal Wolf 2",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "92.81 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%202.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%202-small.png"
+        },
+        {
+            "id": 262,
+            "heroID": "popular262",
+            "downloads": 0,
+            "name": "Minimal Wolf 10",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "71.48 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%2010.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%2010-small.png"
+        },
+        {
+            "id": 261,
+            "heroID": "popular261",
+            "downloads": 0,
+            "name": "Minimal Wolf 1",
+            "designer": "Buffy",
+            "category": "Minimal",
+            "size": "75.68 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%201.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Minimal/Nov%2029/Minimal%20Wolf%201-small.png"
+        },
+        {
+            "id": 260,
+            "heroID": "popular260",
+            "downloads": 0,
+            "name": "White GOku",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "136.9 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/White%20GOku.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/White%20GOku-small.png"
+        },
+        {
+            "id": 259,
+            "heroID": "popular259",
+            "downloads": 0,
+            "name": "Vegeta",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "470.62 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Vegeta.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Vegeta-small.png"
+        },
+        {
+            "id": 258,
+            "heroID": "popular258",
+            "downloads": 0,
+            "name": "Minimal Ball z",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "286.05 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Minimal%20Ball%20z.png",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Minimal%20Ball%20z-small.png"
+        },
+        {
+            "id": 257,
+            "heroID": "popular257",
+            "downloads": 0,
+            "name": "Dragon Ball z",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "170.21 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Dragon%20Ball%20z.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Dragon%20Ball%20z-small.png"
+        },
+        {
+            "id": 256,
+            "heroID": "popular256",
+            "downloads": 0,
+            "name": "Blue Goku",
+            "designer": "Buffy",
+            "category": "Cartoon",
+            "size": "3.62 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Blue%20Goku.png",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Blue%20Goku-small.png"
+        },
+        {
             "id": 255,
             "heroID": "popular255",
             "downloads": 0,

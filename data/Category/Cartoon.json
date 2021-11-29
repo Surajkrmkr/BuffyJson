@@ -2,6 +2,86 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 138,
+                "heroID": "Cartoon138",
+                "downloads": 0,
+                "name": "White GOku",
+                "designer": "Buffy",
+                "size": "136.9 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/White%20GOku.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/White%20GOku-small.png"
+            },
+            {
+                "id": 137,
+                "heroID": "Cartoon137",
+                "downloads": 0,
+                "name": "Vegeta",
+                "designer": "Buffy",
+                "size": "470.62 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Vegeta.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Vegeta-small.png"
+            },
+            {
+                "id": 136,
+                "heroID": "Cartoon136",
+                "downloads": 0,
+                "name": "Orange GOku",
+                "designer": "Buffy",
+                "size": "160.22 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Orange%20GOku.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Orange%20GOku-small.png"
+            },
+            {
+                "id": 135,
+                "heroID": "Cartoon135",
+                "downloads": 0,
+                "name": "Minimal GOku",
+                "designer": "Buffy",
+                "size": "83.95 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Minimal%20GOku.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Minimal%20GOku-small.png"
+            },
+            {
+                "id": 134,
+                "heroID": "Cartoon134",
+                "downloads": 0,
+                "name": "Minimal Ball z",
+                "designer": "Buffy",
+                "size": "286.05 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Minimal%20Ball%20z.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Minimal%20Ball%20z-small.png"
+            },
+            {
+                "id": 133,
+                "heroID": "Cartoon133",
+                "downloads": 0,
+                "name": "Goku",
+                "designer": "Buffy",
+                "size": "109.38 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Goku.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Goku-small.png"
+            },
+            {
+                "id": 132,
+                "heroID": "Cartoon132",
+                "downloads": 0,
+                "name": "Dragon Ball z",
+                "designer": "Buffy",
+                "size": "170.21 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Dragon%20Ball%20z.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Dragon%20Ball%20z-small.png"
+            },
+            {
+                "id": 131,
+                "heroID": "Cartoon131",
+                "downloads": 0,
+                "name": "Blue Goku",
+                "designer": "Buffy",
+                "size": "3.62 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Blue%20Goku.png",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Cartoon/Nov%2029/Blue%20Goku-small.png"
+            },
+            {
                 "id": 130,
                 "heroID": "Cartoon130",
                 "downloads": 0,
