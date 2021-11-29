@@ -1,6 +1,83 @@
 {
     "Trending": [
         {
+            "id": 73,
+            "heroID": "Trending73",
+            "downloads": 0,
+            "name": "Selena",
+            "designer": "Buffy",
+            "category": "Peoples",
+            "size": "1.5Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(1).jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(1)_resize_23.jpg"
+        },
+        {
+            "id": 72,
+            "heroID": "Trending72",
+            "downloads": 0,
+            "name": "Varrone",
+            "designer": "Buffy",
+            "category": "Cartoons",
+            "size": "539Kb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(3).jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(3)_resize_69.jpg"
+        },
+        {
+            "id": 71,
+            "heroID": "Trending71",
+            "downloads": 0,
+            "name": "Orange Juice",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "1.91Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(5).jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(5)_resize_20.jpg"
+        },
+        {
+            "id": 70,
+            "heroID": "Trending70",
+            "downloads": 0,
+            "name": "Glow Flowering",
+            "designer": "Buffy",
+            "category": "Flowers",
+            "size": "673Kb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(4).jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(4)_resize_82.jpg"
+        },
+        {
+            "id": 69,
+            "heroID": "Trending69",
+            "downloads": 0,
+            "name": "Range Rover AutoBiography 2022",
+            "designer": "Buffy",
+            "category": "Car & Bikes",
+            "size": "1.52Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(2).jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(2)_resize_27.jpg"
+        },
+        {
+            "id": 68,
+            "heroID": "Trending68",
+            "downloads": 0,
+            "name": "Audi R8 Spyder V10 Performance RWD 2021",
+            "designer": "Buffy",
+            "category": "Car & Biks",
+            "size": "1.59Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(6).jpg",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(6)_resize_32.jpg"
+        },
+        {
+            "id": 67,
+            "heroID": "Trending67",
+            "downloads": 0,
+            "name": "Messi",
+            "designer": "Buffy",
+            "category": "Sports",
+            "size": "742Kb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(7).png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/trend%20nov%20(7)_resize_84.jpg"
+        },
+        {
             "id": 66,
             "heroID": "Trending66",
             "downloads": 0,
