@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 97,
+                "heroID": "Nature97",
+                "downloads": 0,
+                "name": "Nature View",
+                "designer": "Buffy",
+                "size": "835Kb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/12%20Dec%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/12%20Dec%20(3)_resize_9.jpg"
+            },
+            {
                 "id": 96,
                 "heroID": "Nature96",
                 "downloads": 0,
