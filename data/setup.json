@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 116,
+            "author": "Parvej Alam",
+            "kwgt": "Outline KWGT",
+            "iconpack": "Lines Dark",
+            "image": "Lines",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://www.instagram.com/jol_foring_/",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=outlinewidget.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.natewren.linesdarkfree",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.hash.prism",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Lined",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/lined.jpg"
+        },
+        {
+            "id": 115,
+            "author": "Ameen Ashraf",
+            "kwgt": "Reev Pro",
+            "iconpack": "Reev Pro Icon Pack",
+            "image": "Reev Pro",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://instagram.com/no.one_editz?utm_medium=copy_link",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Amoled Dark",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/amoled%20dark.jpg"
+        },
+        {
+            "id": 114,
+            "author": "Parvej Alam",
+            "kwgt": "Delirium KWGT",
+            "iconpack": "You Icon Pack",
+            "image": "Minimal",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://www.instagram.com/jol_foring_/",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=deliriumkwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack",
+            "imageLink": "",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Minimal",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/minimal.jpg"
+        },
+        {
             "id": 113,
             "author": "Shanto",
             "kwgt": "Poppins KWGT",
