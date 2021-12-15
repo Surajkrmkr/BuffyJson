@@ -2,6 +2,26 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 33,
+                "heroID": "Super Heroes33",
+                "downloads": 0,
+                "name": "Hailee Steinfeld as Hawkeye",
+                "designer": "Buffy",
+                "size": "1.55Mb",
+                "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new.jpg",
+                "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new_resize_71.jpg"
+            },
+            {
+                "id": 32,
+                "heroID": "Super Heroes32",
+                "downloads": 0,
+                "name": "Chadwick Boseman as Star-Lord",
+                "designer": "Buffy",
+                "size": "2.13Mb",
+                "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(2)_resize_57.jpg"
+            },
+            {
                 "id": 31,
                 "heroID": "Super Heroes31",
                 "downloads": 0,

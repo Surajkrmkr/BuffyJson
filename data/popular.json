@@ -1,6 +1,83 @@
 {
     "popular": [
         {
+            "id": 293,
+            "heroID": "popular293",
+            "downloads": 0,
+            "name": "Giraffe",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "390Kb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(6).jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(6)_resize_22.jpg"
+        },
+        {
+            "id": 292,
+            "heroID": "popular292",
+            "downloads": 0,
+            "name": "Creature Art",
+            "designer": "Buffy",
+            "category": "Creative",
+            "size": "1.06Mb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(3).jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(3)_resize_93.jpg"
+        },
+        {
+            "id": 291,
+            "heroID": "popular291",
+            "downloads": 0,
+            "name": "Pastel Flowers",
+            "designer": "Buffy",
+            "category": "Flower",
+            "size": "1.47Mb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(4).jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(4)_resize_86.jpg"
+        },
+        {
+            "id": 290,
+            "heroID": "popular290",
+            "downloads": 0,
+            "name": "Hailee Steinfeld as Hawkeye",
+            "designer": "Buffy",
+            "category": "Super Heroes",
+            "size": "1.55Mb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new.jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new_resize_71.jpg"
+        },
+        {
+            "id": 289,
+            "heroID": "popular289",
+            "downloads": 0,
+            "name": "Chadwick Boseman as Star-Lord",
+            "designer": "Buffy",
+            "category": "Super Heroes",
+            "size": "2.13Mb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(2).jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(2)_resize_57.jpg"
+        },
+        {
+            "id": 288,
+            "heroID": "popular288",
+            "downloads": 0,
+            "name": "Golden Glow",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "300Kb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(1).jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(1)_resize_47.jpg"
+        },
+        {
+            "id": 287,
+            "heroID": "popular287",
+            "downloads": 0,
+            "name": "Glacior",
+            "designer": "Buffy",
+            "category": "Nature",
+            "size": "1.7Mb",
+            "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(5).jpg",
+            "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(5)_resize_37.jpg"
+        },
+        {
             "id": 286,
             "heroID": "popular286",
             "downloads": 0,

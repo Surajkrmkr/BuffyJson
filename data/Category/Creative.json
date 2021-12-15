@@ -2,6 +2,16 @@
     "Creative": {
         "Images": [
             {
+                "id": 36,
+                "heroID": "Creative36",
+                "downloads": 0,
+                "name": "Creature Art",
+                "designer": "Buffy",
+                "size": "1.06Mb",
+                "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(3)_resize_93.jpg"
+            },
+            {
                 "id": 35,
                 "heroID": "Creative35",
                 "downloads": 0,

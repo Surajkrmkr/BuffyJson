@@ -2,6 +2,16 @@
     "Abstract": {
         "Images": [
             {
+                "id": 135,
+                "heroID": "Abstract135",
+                "downloads": 0,
+                "name": "Golden Glow",
+                "designer": "Buffy",
+                "size": "300Kb",
+                "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(1)_resize_47.jpg"
+            },
+            {
                 "id": 134,
                 "heroID": "Abstract134",
                 "downloads": 0,
