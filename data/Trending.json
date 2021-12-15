@@ -1,6 +1,61 @@
 {
     "Trending": [
         {
+            "id": 84,
+            "heroID": "Trending84",
+            "downloads": 0,
+            "name": "Windows 11",
+            "designer": "Buffy",
+            "category": "Windows",
+            "size": "1.44Mb",
+            "imageUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1%20(1).png",
+            "compressUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1%20(1)_resize_1.jpg"
+        },
+        {
+            "id": 83,
+            "heroID": "Trending83",
+            "downloads": 0,
+            "name": "Windows 11",
+            "designer": "Buffy",
+            "category": "Windows",
+            "size": "1Mb",
+            "imageUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1.png",
+            "compressUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1_resize_23.jpg"
+        },
+        {
+            "id": 82,
+            "heroID": "Trending82",
+            "downloads": 0,
+            "name": "Windows 11",
+            "designer": "Buffy",
+            "category": "Windows",
+            "size": "1.32Mb",
+            "imageUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1%20(3).jpg",
+            "compressUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1%20(3)_resize_98.jpg"
+        },
+        {
+            "id": 81,
+            "heroID": "Trending81",
+            "downloads": 0,
+            "name": "Windows 11",
+            "designer": "Buffy",
+            "category": "Win dows",
+            "size": "1Mb",
+            "imageUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1%20(2).jpg",
+            "compressUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1%20(2)_resize_6.jpg"
+        },
+        {
+            "id": 80,
+            "heroID": "Trending80",
+            "downloads": 0,
+            "name": "Windows 11",
+            "designer": "Buffy",
+            "category": "Windows",
+            "size": "1.03Mb",
+            "imageUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Windowswalls/raw/main/1_resize_98.jpg"
+        },
+        {
             "id": 79,
             "heroID": "Trending79",
             "downloads": 0,
