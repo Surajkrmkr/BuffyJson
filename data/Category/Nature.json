@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 98,
+                "heroID": "Nature98",
+                "downloads": 0,
+                "name": "Glacior",
+                "designer": "Buffy",
+                "size": "1.7Mb",
+                "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(5)_resize_37.jpg"
+            },
+            {
                 "id": 97,
                 "heroID": "Nature97",
                 "downloads": 0,
