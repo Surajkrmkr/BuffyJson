@@ -2,6 +2,146 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 47,
+                "heroID": "Super Heroes47",
+                "downloads": 0,
+                "name": "Spiderman NWH9",
+                "designer": "Buffy",
+                "size": "1.52 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH9.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH9-small.png"
+            },
+            {
+                "id": 46,
+                "heroID": "Super Heroes46",
+                "downloads": 0,
+                "name": "Spiderman NWH8",
+                "designer": "Buffy",
+                "size": "1.29 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH8.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH8-small.png"
+            },
+            {
+                "id": 45,
+                "heroID": "Super Heroes45",
+                "downloads": 0,
+                "name": "Spiderman NWH7",
+                "designer": "Buffy",
+                "size": "1.28 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH7.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH7-small.png"
+            },
+            {
+                "id": 44,
+                "heroID": "Super Heroes44",
+                "downloads": 0,
+                "name": "Spiderman NWH6",
+                "designer": "Buffy",
+                "size": "1.7 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH6.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH6-small.png"
+            },
+            {
+                "id": 43,
+                "heroID": "Super Heroes43",
+                "downloads": 0,
+                "name": "Spiderman NWH5",
+                "designer": "Buffy",
+                "size": "1.65 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH5.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH5-small.png"
+            },
+            {
+                "id": 42,
+                "heroID": "Super Heroes42",
+                "downloads": 0,
+                "name": "Spiderman NWH4",
+                "designer": "Buffy",
+                "size": "1.28 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH4.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH4-small.png"
+            },
+            {
+                "id": 41,
+                "heroID": "Super Heroes41",
+                "downloads": 0,
+                "name": "Spiderman NWH3",
+                "designer": "Buffy",
+                "size": "1.66 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH3.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH3-small.png"
+            },
+            {
+                "id": 40,
+                "heroID": "Super Heroes40",
+                "downloads": 0,
+                "name": "Spiderman NWH2",
+                "designer": "Buffy",
+                "size": "1.66 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH2.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH2-small.png"
+            },
+            {
+                "id": 39,
+                "heroID": "Super Heroes39",
+                "downloads": 0,
+                "name": "Spiderman NWH12",
+                "designer": "Buffy",
+                "size": "1.2 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH12.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH12-small.png"
+            },
+            {
+                "id": 38,
+                "heroID": "Super Heroes38",
+                "downloads": 0,
+                "name": "Spiderman NWH114",
+                "designer": "Buffy",
+                "size": "1.69 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH114.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH114-small.png"
+            },
+            {
+                "id": 37,
+                "heroID": "Super Heroes37",
+                "downloads": 0,
+                "name": "Spiderman NWH113",
+                "designer": "Buffy",
+                "size": "1.57 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH113.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH113-small.png"
+            },
+            {
+                "id": 36,
+                "heroID": "Super Heroes36",
+                "downloads": 0,
+                "name": "Spiderman NWH11",
+                "designer": "Buffy",
+                "size": "1.54 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH11.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH11-small.png"
+            },
+            {
+                "id": 35,
+                "heroID": "Super Heroes35",
+                "downloads": 0,
+                "name": "Spiderman NWH10",
+                "designer": "Buffy",
+                "size": "1.34 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH10.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH10-small.png"
+            },
+            {
+                "id": 34,
+                "heroID": "Super Heroes34",
+                "downloads": 0,
+                "name": "Spiderman NWH1",
+                "designer": "Buffy",
+                "size": "1.61 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH1.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Super%20Heroes/Dec%2023/Spiderman%20NWH1-small.png"
+            },
+            {
                 "id": 33,
                 "heroID": "Super Heroes33",
                 "downloads": 0,
