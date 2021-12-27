@@ -2,6 +2,146 @@
     "Suraj": {
         "Images": [
             {
+                "id": 34,
+                "heroID": "Suraj34",
+                "downloads": 0,
+                "name": "Type 6",
+                "designer": "Buffy",
+                "size": "174.64 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%206.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%206-small.png"
+            },
+            {
+                "id": 33,
+                "heroID": "Suraj33",
+                "downloads": 0,
+                "name": "Type 5",
+                "designer": "Buffy",
+                "size": "143.81 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%205.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%205-small.png"
+            },
+            {
+                "id": 32,
+                "heroID": "Suraj32",
+                "downloads": 0,
+                "name": "Type 4",
+                "designer": "Buffy",
+                "size": "123.92 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%204.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%204-small.png"
+            },
+            {
+                "id": 31,
+                "heroID": "Suraj31",
+                "downloads": 0,
+                "name": "Type 3",
+                "designer": "Buffy",
+                "size": "122.89 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%203.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%203-small.png"
+            },
+            {
+                "id": 30,
+                "heroID": "Suraj30",
+                "downloads": 0,
+                "name": "Type 2",
+                "designer": "Buffy",
+                "size": "108.71 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%202.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%202-small.png"
+            },
+            {
+                "id": 29,
+                "heroID": "Suraj29",
+                "downloads": 0,
+                "name": "Type 1",
+                "designer": "Buffy",
+                "size": "147.74 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%201.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%201-small.png"
+            },
+            {
+                "id": 28,
+                "heroID": "Suraj28",
+                "downloads": 0,
+                "name": "Dark 6",
+                "designer": "Buffy",
+                "size": "153.67 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%206.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%206-small.png"
+            },
+            {
+                "id": 27,
+                "heroID": "Suraj27",
+                "downloads": 0,
+                "name": "Dark 5",
+                "designer": "Buffy",
+                "size": "115.55 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%205.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%205-small.png"
+            },
+            {
+                "id": 26,
+                "heroID": "Suraj26",
+                "downloads": 0,
+                "name": "Dark 4.",
+                "designer": "Buffy",
+                "size": "240.41 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%204.jpeg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%204-small.png"
+            },
+            {
+                "id": 25,
+                "heroID": "Suraj25",
+                "downloads": 0,
+                "name": "Dark 3",
+                "designer": "Buffy",
+                "size": "226.89 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%203.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%203-small.png"
+            },
+            {
+                "id": 24,
+                "heroID": "Suraj24",
+                "downloads": 0,
+                "name": "Dark 2.",
+                "designer": "Buffy",
+                "size": "174.78 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%202.jpeg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%202-small.png"
+            },
+            {
+                "id": 23,
+                "heroID": "Suraj23",
+                "downloads": 0,
+                "name": "Dark 1.",
+                "designer": "Buffy",
+                "size": "243.92 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%201.jpeg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%201-small.png"
+            },
+            {
+                "id": 22,
+                "heroID": "Suraj22",
+                "downloads": 0,
+                "name": "Colored Sea",
+                "designer": "Buffy",
+                "size": "785.75 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Colored%20Sea.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Colored%20Sea-small.png"
+            },
+            {
+                "id": 21,
+                "heroID": "Suraj21",
+                "downloads": 0,
+                "name": "Abst",
+                "designer": "Buffy",
+                "size": "684.33 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Abst.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Abst-small.png"
+            },
+            {
                 "id": 20,
                 "heroID": "Suraj20",
                 "downloads": 0,
