@@ -1,8 +1,8 @@
 {
     "popular": [
         {
-            "id": 321,
-            "heroID": "popular321",
+            "id": 312,
+            "heroID": "popular312",
             "downloads": 0,
             "name": "Type 6",
             "designer": "Buffy",
@@ -12,8 +12,8 @@
             "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%206-small.png"
         },
         {
-            "id": 320,
-            "heroID": "popular320",
+            "id": 311,
+            "heroID": "popular311",
             "downloads": 0,
             "name": "Type 5",
             "designer": "Buffy",
@@ -23,8 +23,8 @@
             "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%205-small.png"
         },
         {
-            "id": 319,
-            "heroID": "popular319",
+            "id": 310,
+            "heroID": "popular310",
             "downloads": 0,
             "name": "Type 4",
             "designer": "Buffy",
@@ -32,105 +32,6 @@
             "size": "123.92 KB",
             "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%204.jpg",
             "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%204-small.png"
-        },
-        {
-            "id": 318,
-            "heroID": "popular318",
-            "downloads": 0,
-            "name": "Type 3",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "122.89 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%203.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%203-small.png"
-        },
-        {
-            "id": 317,
-            "heroID": "popular317",
-            "downloads": 0,
-            "name": "Type 2",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "108.71 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%202.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%202-small.png"
-        },
-        {
-            "id": 316,
-            "heroID": "popular316",
-            "downloads": 0,
-            "name": "Type 1",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "147.74 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%201.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Type%201-small.png"
-        },
-        {
-            "id": 315,
-            "heroID": "popular315",
-            "downloads": 0,
-            "name": "Dark 6",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "153.67 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%206.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%206-small.png"
-        },
-        {
-            "id": 314,
-            "heroID": "popular314",
-            "downloads": 0,
-            "name": "Dark 5",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "115.55 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%205.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%205-small.png"
-        },
-        {
-            "id": 313,
-            "heroID": "popular313",
-            "downloads": 0,
-            "name": "Dark 4.",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "240.41 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%204.jpeg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%204-small.png"
-        },
-        {
-            "id": 312,
-            "heroID": "popular312",
-            "downloads": 0,
-            "name": "Dark 3",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "226.89 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%203.jpg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%203-small.png"
-        },
-        {
-            "id": 311,
-            "heroID": "popular311",
-            "downloads": 0,
-            "name": "Dark 2.",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "174.78 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%202.jpeg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%202-small.png"
-        },
-        {
-            "id": 310,
-            "heroID": "popular310",
-            "downloads": 0,
-            "name": "Dark 1.",
-            "designer": "Buffy",
-            "category": "Suraj",
-            "size": "243.92 KB",
-            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%201.jpeg",
-            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Dec%2027/Dark%201-small.png"
         },
         {
             "id": 309,
