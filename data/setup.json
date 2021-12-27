@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 124,
+            "author": "Parvej Alam",
+            "kwgt": "Ornate KWGT",
+            "iconpack": "Dove Light",
+            "image": "Space",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://www.instagram.com/jol_foring_/",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=ornatekwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.dove.light.iconpack",
+            "imageLink": "https://t.me/androcustomizer/478",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Space",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/space.jpg"
+        },
+        {
+            "id": 123,
+            "author": "Shanto",
+            "kwgt": "Minimal KWGT",
+            "iconpack": "Redline Icon Pack",
+            "image": "Minimalist Wallpaper",
+            "launcher": "Lawnchair 2",
+            "authorLink": "https://bio.link/firelordshanto",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.ao.minimalkwgt",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.redline.linex.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.jndapp.minimalistwallpapers",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN&gl=US",
+            "name": "\ud83c\udde7\ud83c\udde9Victory day \ud83c\udde7\ud83c\udde9",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/%F0%9F%87%A7%F0%9F%87%A9Victory%20day%20%F0%9F%87%A7%F0%9F%87%A9.jpg"
+        },
+        {
+            "id": 122,
+            "author": "8.Bit",
+            "kwgt": "Minimal Niagara Widget",
+            "iconpack": "Aline White Icon Pack",
+            "image": "NothingButWallpapers",
+            "launcher": "Lawnchair 2",
+            "authorLink": "https://t.me/walldepot",
+            "kwgtLink": "https://drive.google.com/file/d/1la_nvy_ppLNXuRKLb8dZCR-C1FpW7bkj/view?usp=drivesdk",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.alinewhite",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.dev.nothingbutwalls.app",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN&gl=US",
+            "name": "Broken Flow",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/Broken%20Flow.png"
+        },
+        {
             "id": 121,
             "author": "Kustom Pro Screens",
             "kwgt": "Desaturate KWGT",
