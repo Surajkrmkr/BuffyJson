@@ -1,37 +1,70 @@
 {
   "FeaturedWalls": [
     {
-      "compressUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/resize%203.jpg",
-      "size": "903KB",
+      "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization06_resize_32.jpg",
+      "size": "616Kb",
       "downloads": 11,
-      "name": "Mi Pad 5 Pro",
+      "name": "MIUI 13",
+      "heroID": "Feature6",
+      "category": "MIUI",
+      "designer": "MIUI",
+      "id": 6,
+      "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization06.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization05_resize_14.jpg",
+      "size": "616Kb",
+      "downloads": 11,
+      "name": "MIUI 13",
+      "heroID": "Feature5",
+      "category": "MIUI",
+      "designer": "MIUI",
+      "id": 5,
+      "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization05.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization04_resize_0.jpg",
+      "size": "684Kb",
+      "downloads": 11,
+      "name": "MIUI 13",
+      "heroID": "Feature4",
+      "category": "MIUI",
+      "designer": "MIUI",
+      "id": 4,
+      "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization04.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization03_resize_6.jpg",
+      "size": "956Kb",
+      "downloads": 11,
+      "name": "MIUI 13",
       "heroID": "Feature3",
-      "category": "Xiaomi",
-      "designer": "Xiaomi",
+      "category": "MIUI",
+      "designer": "MIUI",
       "id": 3,
-      "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/mi%20pad%205%20pro%203.jpg"
+      "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization03.jpg"
     },
     {
-      "compressUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/resize%202.jpg",
-      "size": "930KB",
+      "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization02_resize_84.jpg",
+      "size": "568Kb",
       "downloads": 11,
-      "name": "Mi Pad 5 Pro",
+      "name": "MIUI 13",
       "heroID": "Feature2",
-      "category": "Xiaomi",
-      "designer": "Xiaomi",
+      "category": "MIUI",
+      "designer": "MIUI",
       "id": 2,
-      "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/mi%20pad%205%20pro%202.jpg"
+      "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization02.jpg"
     },
     {
-      "compressUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/resize%201.jpg",
-      "size": "103KB",
+      "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization01_resize_15.jpg",
+      "size": "1.17Mb",
       "downloads": 11,
-      "name": "Mi Pad 5 Pro",
+      "name": "MIUI 13",
       "heroID": "Feature1",
-      "category": "Xiaomi",
-      "designer": "Xiaomi",
+      "category": "MIUI",
+      "designer": "MIUI",
       "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/mi%20pad%205%20pro%201.jpg"
+      "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/Crystallization01.jpg"
     }
   ]
 }
