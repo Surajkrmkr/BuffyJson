@@ -2,6 +2,106 @@
     "MIUI": {
         "Images": [
             {
+                "id": 123,
+                "heroID": "MIUI123",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.55Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze01-Light.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze01-Light_resize_76.jpg"
+            },
+            {
+                "id": 122,
+                "heroID": "MIUI122",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.21Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze01-Dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze01-Dark_resize_62.jpg"
+            },
+            {
+                "id": 121,
+                "heroID": "MIUI121",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.31Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze02-Light.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze02-Light_resize_84.jpg"
+            },
+            {
+                "id": 120,
+                "heroID": "MIUI120",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.06Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze02-Dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze02-Dark_resize_20.jpg"
+            },
+            {
+                "id": 119,
+                "heroID": "MIUI119",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.91Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze03-Light.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze03-Light_resize_6.jpg"
+            },
+            {
+                "id": 118,
+                "heroID": "MIUI118",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.29Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze03-Dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze03-Dark.jpg"
+            },
+            {
+                "id": 117,
+                "heroID": "MIUI117",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.65Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze04-Light.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze04-Light_resize_58.jpg"
+            },
+            {
+                "id": 116,
+                "heroID": "MIUI116",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.82Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze04-Dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze04-Dark_resize_33.jpg"
+            },
+            {
+                "id": 115,
+                "heroID": "MIUI115",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.31Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze05-Light.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze05-Light_resize_20.jpg"
+            },
+            {
+                "id": 114,
+                "heroID": "MIUI114",
+                "downloads": 0,
+                "name": "MIUI 13",
+                "designer": "MIUI",
+                "size": "1.12Mb",
+                "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze05-Dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze05-Dark_resize_94.jpg"
+            },
+            {
                 "id": 113,
                 "heroID": "MIUI113",
                 "downloads": 0,
