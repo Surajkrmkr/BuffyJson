@@ -1,6 +1,105 @@
 {
     "Trending": [
         {
+            "id": 103,
+            "heroID": "Trending103",
+            "downloads": 0,
+            "name": "ZJelly",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "918.85 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/ZJelly.png",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/ZJelly-small.png"
+        },
+        {
+            "id": 102,
+            "heroID": "Trending102",
+            "downloads": 0,
+            "name": "Space",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "529.63 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Space.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Space-small.png"
+        },
+        {
+            "id": 101,
+            "heroID": "Trending101",
+            "downloads": 0,
+            "name": "Smily",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "981.38 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Smily.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Smily-small.png"
+        },
+        {
+            "id": 100,
+            "heroID": "Trending100",
+            "downloads": 0,
+            "name": "Owl",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "1.1 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Owl.png",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Owl-small.png"
+        },
+        {
+            "id": 99,
+            "heroID": "Trending99",
+            "downloads": 0,
+            "name": "Gold Star",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "200.47 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Gold%20Star.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Gold%20Star-small.png"
+        },
+        {
+            "id": 98,
+            "heroID": "Trending98",
+            "downloads": 0,
+            "name": "Faded Deer",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "808.55 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Faded%20Deer.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Faded%20Deer-small.png"
+        },
+        {
+            "id": 97,
+            "heroID": "Trending97",
+            "downloads": 0,
+            "name": "CapAM",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "336.64 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/CapAM.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/CapAM-small.png"
+        },
+        {
+            "id": 96,
+            "heroID": "Trending96",
+            "downloads": 0,
+            "name": "Build",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "388.66 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Build.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Build-small.png"
+        },
+        {
+            "id": 95,
+            "heroID": "Trending95",
+            "downloads": 0,
+            "name": "Abstract",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "279.04 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Abstract.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Jan%201/Abstract-small.png"
+        },
+        {
             "id": 94,
             "heroID": "Trending94",
             "downloads": 0,
