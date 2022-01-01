@@ -1,6 +1,39 @@
 {
     "popular": [
         {
+            "id": 316,
+            "heroID": "popular316",
+            "downloads": 0,
+            "name": "HNY3",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "186.37 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%201/HNY3.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%201/HNY3-small.png"
+        },
+        {
+            "id": 315,
+            "heroID": "popular315",
+            "downloads": 0,
+            "name": "HNY2",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "194.54 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%201/HNY2.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%201/HNY2-small.png"
+        },
+        {
+            "id": 314,
+            "heroID": "popular314",
+            "downloads": 0,
+            "name": "HNY",
+            "designer": "Buffy",
+            "category": "Suraj",
+            "size": "146.74 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%201/HNY.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%201/HNY-small.png"
+        },
+        {
             "id": 313,
             "heroID": "popular313",
             "downloads": 0,
