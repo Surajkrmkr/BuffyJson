@@ -2,6 +2,16 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 48,
+                "heroID": "Super Heroes48",
+                "downloads": 0,
+                "name": "Supergirl",
+                "designer": "Buffy",
+                "size": "1.63Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/JAN%20%20(7).jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/JAN%20%20(7)_resize_30.jpg"
+            },
+            {
                 "id": 47,
                 "heroID": "Super Heroes47",
                 "downloads": 0,
