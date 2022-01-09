@@ -2,6 +2,26 @@
     "Amoled": {
         "Images": [
             {
+                "id": 135,
+                "heroID": "Amoled135",
+                "downloads": 0,
+                "name": "Colour Burst",
+                "designer": "Buffy",
+                "size": "1.74Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/JAN%20%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/JAN%20%20(3)_resize_79.jpg"
+            },
+            {
+                "id": 134,
+                "heroID": "Amoled134",
+                "downloads": 0,
+                "name": "Feather",
+                "designer": "Buffy",
+                "size": "1.68Mb",
+                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/JAN%20.png",
+                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/JAN%20_resize_95.jpg"
+            },
+            {
                 "id": 133,
                 "heroID": "Amoled133",
                 "downloads": 0,
