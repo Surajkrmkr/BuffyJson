@@ -2,6 +2,36 @@
     "Nature": {
         "Images": [
             {
+                "id": 101,
+                "heroID": "Nature101",
+                "downloads": 0,
+                "name": "Winter Fall",
+                "designer": "Buffy",
+                "size": "2.03Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext.jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext_resize_66.jpg"
+            },
+            {
+                "id": 100,
+                "heroID": "Nature100",
+                "downloads": 0,
+                "name": "Ocean View",
+                "designer": "Buffy",
+                "size": "1.78Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(15).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(15)_resize_23.jpg"
+            },
+            {
+                "id": 99,
+                "heroID": "Nature99",
+                "downloads": 0,
+                "name": "City View",
+                "designer": "Buffy",
+                "size": "1.82Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(3).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(3)_resize_98.jpg"
+            },
+            {
                 "id": 98,
                 "heroID": "Nature98",
                 "downloads": 0,

@@ -2,6 +2,26 @@
     "Flower": {
         "Images": [
             {
+                "id": 82,
+                "heroID": "Flower82",
+                "downloads": 0,
+                "name": "Blossom",
+                "designer": "Buffy",
+                "size": "1.49Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(19).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(19)_resize_34.jpg"
+            },
+            {
+                "id": 81,
+                "heroID": "Flower81",
+                "downloads": 0,
+                "name": "Autumn Life",
+                "designer": "Buffy",
+                "size": "1.24Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(8).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(8)_resize_66.jpg"
+            },
+            {
                 "id": 80,
                 "heroID": "Flower80",
                 "downloads": 0,

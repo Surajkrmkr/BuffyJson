@@ -1,26 +1,46 @@
 {
-  "People": {
-    "Images": [
-      {
-        "name": "Mask Man",
-        "heroID": "People2",
-        "id": 2,
-        "size": "888.6Kb",
-        "designer": "People",
-        "downloads": 0,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/s1m0q2d0plagg88/orsrc54352.jpg?dl=0",
-        "__collections__": {}
-      },
-      {
-        "heroID": "People1",
-        "downloads": 0,
-        "imageUrl": "https://dl.dropboxusercontent.com/s/bu6q8y648s3ulwm/orsrc56572.jpg?dl=0",
-        "size": "2.0Mb",
-        "id": 1,
-        "name": "Astronaut",
-        "designer": "People",
-        "__collections__": {}
-      }
-    ]
-  }
+    "People": {
+        "Images": [
+            {
+                "id": 4,
+                "heroID": "People4",
+                "downloads": 0,
+                "name": "Peyton List",
+                "designer": "Buffy",
+                "size": "1.69Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(13).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(13)_resize_85.jpg"
+            },
+            {
+                "id": 3,
+                "heroID": "People3",
+                "downloads": 0,
+                "name": "Forspoken",
+                "designer": "Buffy",
+                "size": "1.39Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(2).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(2)_resize_0.jpg"
+            },
+            {
+                "name": "Mask Man",
+                "heroID": "People2",
+                "id": 2,
+                "size": "888.6Kb",
+                "designer": "People",
+                "downloads": 0,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/s1m0q2d0plagg88/orsrc54352.jpg?dl=0",
+                "__collections__": {}
+            },
+            {
+                "heroID": "People1",
+                "downloads": 0,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/bu6q8y648s3ulwm/orsrc56572.jpg?dl=0",
+                "size": "2.0Mb",
+                "id": 1,
+                "name": "Astronaut",
+                "designer": "People",
+                "__collections__": {}
+            }
+        ]
+    }
 }

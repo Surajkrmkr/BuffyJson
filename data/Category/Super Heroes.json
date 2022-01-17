@@ -2,6 +2,16 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 49,
+                "heroID": "Super Heroes49",
+                "downloads": 0,
+                "name": "Avengers Logo",
+                "designer": "Buffy",
+                "size": "1.43Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(1).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(1)_resize_4.jpg"
+            },
+            {
                 "id": 48,
                 "heroID": "Super Heroes48",
                 "downloads": 0,

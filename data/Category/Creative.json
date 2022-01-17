@@ -2,6 +2,16 @@
     "Creative": {
         "Images": [
             {
+                "id": 37,
+                "heroID": "Creative37",
+                "downloads": 0,
+                "name": "Jungle Life",
+                "designer": "Buffy",
+                "size": "2.47Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(9).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(9)_resize_70.jpg"
+            },
+            {
                 "id": 36,
                 "heroID": "Creative36",
                 "downloads": 0,

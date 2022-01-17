@@ -2,6 +2,26 @@
     "Movies": {
         "Images": [
             {
+                "id": 76,
+                "heroID": "Movies76",
+                "downloads": 0,
+                "name": "HALO TV Series",
+                "designer": "Buffy",
+                "size": "1.59Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(12).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(12)_resize_64.jpg"
+            },
+            {
+                "id": 75,
+                "heroID": "Movies75",
+                "downloads": 0,
+                "name": "The Books of Boba Fett",
+                "designer": "Buffy",
+                "size": "1.66Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(5).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(5)_resize_52.jpg"
+            },
+            {
                 "id": 74,
                 "heroID": "Movies74",
                 "downloads": 0,
