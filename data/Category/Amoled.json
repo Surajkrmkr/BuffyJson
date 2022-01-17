@@ -2,6 +2,46 @@
     "Amoled": {
         "Images": [
             {
+                "id": 139,
+                "heroID": "Amoled139",
+                "downloads": 0,
+                "name": "Curls Rainbo",
+                "designer": "Buffy",
+                "size": "1.19Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(18).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(18)_resize_14.jpg"
+            },
+            {
+                "id": 138,
+                "heroID": "Amoled138",
+                "downloads": 0,
+                "name": "Mask Man",
+                "designer": "Buffy",
+                "size": "1.62Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(17).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(17)_resize_68.jpg"
+            },
+            {
+                "id": 137,
+                "heroID": "Amoled137",
+                "downloads": 0,
+                "name": "OTB",
+                "designer": "Buffy",
+                "size": "415Kb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(14).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(14)_resize_40.jpg"
+            },
+            {
+                "id": 136,
+                "heroID": "Amoled136",
+                "downloads": 0,
+                "name": "Retro Naruto",
+                "designer": "Buffy",
+                "size": "1020Kb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(10).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(10)_resize_9.jpg"
+            },
+            {
                 "id": 135,
                 "heroID": "Amoled135",
                 "downloads": 0,
