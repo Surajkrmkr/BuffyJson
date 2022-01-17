@@ -1,6 +1,36 @@
 {
     "setup": [
         {
+            "id": 131,
+            "author": "Shanto",
+            "kwgt": "Beeline, Pie, Minimal",
+            "iconpack": "Lux Black Icon Pack",
+            "image": "Beeline Black",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://bio.link/firelordshanto",
+            "kwgtLink": "https://t.co/KDiFNf6KL2",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.lux.black.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.black.iconpack",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Black & White",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/black%20white.jpg"
+        },
+        {
+            "id": 130,
+            "author": "Parvej Alam",
+            "kwgt": "Self Made",
+            "iconpack": "Delta",
+            "image": "Dope Walls",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://www.instagram.com/jol_foring_/",
+            "kwgtLink": "https://drive.google.com/file/d/1AsmrQBCByw9dmCEvDYpiht0CcH0ntHfz/view?usp=drivesdk",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=website.leifs.delta",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.androholic.dopewalls",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Minimal",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/minimal.jpg"
+        },
+        {
             "id": 129,
             "author": "Shanto",
             "kwgt": "Beeline Green",
