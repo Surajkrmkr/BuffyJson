@@ -1,6 +1,94 @@
 {
     "popular": [
         {
+            "id": 368,
+            "heroID": "popular368",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "1.18 MB",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/8.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/8_resize_83.jpg"
+        },
+        {
+            "id": 367,
+            "heroID": "popular367",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "613Kb",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/7.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/7_resize_5.jpg"
+        },
+        {
+            "id": 366,
+            "heroID": "popular366",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "1.15 Mb",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/6.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/6_resize_14.jpg"
+        },
+        {
+            "id": 365,
+            "heroID": "365",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "431Kb",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/5.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/5_resize_57.jpg"
+        },
+        {
+            "id": 364,
+            "heroID": "popular364",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "1.04 MB",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/4.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/4_resize_95.jpg"
+        },
+        {
+            "id": 363,
+            "heroID": "popular363",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "449Kb",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/3.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/3_resize_36.jpg"
+        },
+        {
+            "id": 362,
+            "heroID": "popular362",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "1.14 MB",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/2.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/2_resize_13.jpg"
+        },
+        {
+            "id": 361,
+            "heroID": "popular361",
+            "downloads": 0,
+            "name": "Pastel",
+            "designer": "Buffy",
+            "category": "Pastel",
+            "size": "1.35 MB",
+            "imageUrl": "https://github.com/piyushkpv/pastel/raw/main/1.png",
+            "compressUrl": "https://github.com/piyushkpv/pastel/raw/main/1_resize_99.jpg"
+        },
+        {
             "id": 360,
             "heroID": "popular360",
             "downloads": 0,
