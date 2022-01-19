@@ -10,8 +10,8 @@ path = "data/Category/"
 pickedWallspaths = os.listdir(rootPath)
 
 
-name = 'Suraj'
-date = "Jan 1"
+name = 'Pastel'
+date = "Jan 19"
 
 #     print(" 1 . Abstract      2 . Amoled     3 . Animals                4 . Anime")
 #     print(" 5 . Cars & Bike   6 . Cartoon    7 . Flower                 8 . Games")
@@ -19,7 +19,7 @@ date = "Jan 1"
 #     print("13 . Movies       14 . Music     15 . Nature                16 . Night Life")
 #     print("17 . Pathways     18 . People    19 . Suraj                 20 . Sci-Fi")
 #     print("21 . Series       22 . Sports    23 . Sunview               24 . Super Heroes")
-#     print("25 . Creative")
+#     print("25 . Creative     26 . Pastel" )
 
 
 def convert_size(size_bytes):
