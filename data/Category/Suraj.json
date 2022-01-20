@@ -2,6 +2,216 @@
     "Suraj": {
         "Images": [
             {
+                "id": 73,
+                "heroID": "Suraj73",
+                "downloads": 0,
+                "name": "Wave",
+                "designer": "Buffy",
+                "size": "434.04 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Wave.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Wave-small.png"
+            },
+            {
+                "id": 72,
+                "heroID": "Suraj72",
+                "downloads": 0,
+                "name": "Universe Love",
+                "designer": "Buffy",
+                "size": "449.93 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Universe%20Love.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Universe%20Love-small.png"
+            },
+            {
+                "id": 71,
+                "heroID": "Suraj71",
+                "downloads": 0,
+                "name": "Pyra",
+                "designer": "Buffy",
+                "size": "90.69 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Pyra.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Pyra-small.png"
+            },
+            {
+                "id": 70,
+                "heroID": "Suraj70",
+                "downloads": 0,
+                "name": "Night path",
+                "designer": "Buffy",
+                "size": "426.41 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Night%20path.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Night%20path-small.png"
+            },
+            {
+                "id": 69,
+                "heroID": "Suraj69",
+                "downloads": 0,
+                "name": "Mountain",
+                "designer": "Buffy",
+                "size": "405.86 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Mountain.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Mountain-small.png"
+            },
+            {
+                "id": 68,
+                "heroID": "Suraj68",
+                "downloads": 0,
+                "name": "Mountain Snow",
+                "designer": "Buffy",
+                "size": "375.98 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Mountain%20Snow.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Mountain%20Snow-small.png"
+            },
+            {
+                "id": 67,
+                "heroID": "Suraj67",
+                "downloads": 0,
+                "name": "Mountain night",
+                "designer": "Buffy",
+                "size": "286.32 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Mountain%20night.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Mountain%20night-small.png"
+            },
+            {
+                "id": 66,
+                "heroID": "Suraj66",
+                "downloads": 0,
+                "name": "Minimal",
+                "designer": "Buffy",
+                "size": "112.44 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Minimal.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Minimal-small.png"
+            },
+            {
+                "id": 65,
+                "heroID": "Suraj65",
+                "downloads": 0,
+                "name": "Love Sea",
+                "designer": "Buffy",
+                "size": "471.39 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Love%20Sea.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Love%20Sea-small.png"
+            },
+            {
+                "id": 64,
+                "heroID": "Suraj64",
+                "downloads": 0,
+                "name": "Hand Love",
+                "designer": "Buffy",
+                "size": "203.22 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Hand%20Love.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Hand%20Love-small.png"
+            },
+            {
+                "id": 63,
+                "heroID": "Suraj63",
+                "downloads": 0,
+                "name": "Dark Nighter",
+                "designer": "Buffy",
+                "size": "84.31 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Dark%20Nighter.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Dark%20Nighter-small.png"
+            },
+            {
+                "id": 62,
+                "heroID": "Suraj62",
+                "downloads": 0,
+                "name": "Dark Mountain",
+                "designer": "Buffy",
+                "size": "238.95 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Dark%20Mountain.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Dark%20Mountain-small.png"
+            },
+            {
+                "id": 61,
+                "heroID": "Suraj61",
+                "downloads": 0,
+                "name": "Couple",
+                "designer": "Buffy",
+                "size": "440.63 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Couple.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Couple-small.png"
+            },
+            {
+                "id": 60,
+                "heroID": "Suraj60",
+                "downloads": 0,
+                "name": "Building Light",
+                "designer": "Buffy",
+                "size": "486.68 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Building%20Light.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Building%20Light-small.png"
+            },
+            {
+                "id": 59,
+                "heroID": "Suraj59",
+                "downloads": 0,
+                "name": "Beaty Mount",
+                "designer": "Buffy",
+                "size": "208.17 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Beaty%20Mount.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Beaty%20Mount-small.png"
+            },
+            {
+                "id": 58,
+                "heroID": "Suraj58",
+                "downloads": 0,
+                "name": "Angel 6",
+                "designer": "Buffy",
+                "size": "382.05 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%206.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%206-small.png"
+            },
+            {
+                "id": 57,
+                "heroID": "Suraj57",
+                "downloads": 0,
+                "name": "Angel 5",
+                "designer": "Buffy",
+                "size": "158.52 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%205.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%205-small.png"
+            },
+            {
+                "id": 56,
+                "heroID": "Suraj56",
+                "downloads": 0,
+                "name": "Angel 4",
+                "designer": "Buffy",
+                "size": "536.1 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%204.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%204-small.png"
+            },
+            {
+                "id": 55,
+                "heroID": "Suraj55",
+                "downloads": 0,
+                "name": "Angel 3",
+                "designer": "Buffy",
+                "size": "465.25 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%203.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%203-small.png"
+            },
+            {
+                "id": 54,
+                "heroID": "Suraj54",
+                "downloads": 0,
+                "name": "Angel 2",
+                "designer": "Buffy",
+                "size": "260.45 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%202.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%202-small.png"
+            },
+            {
+                "id": 53,
+                "heroID": "Suraj53",
+                "downloads": 0,
+                "name": "Angel 1",
+                "designer": "Buffy",
+                "size": "295.82 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%201.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Jan%2020/Angel%201-small.png"
+            },
+            {
                 "id": 52,
                 "heroID": "Suraj52",
                 "downloads": 0,
