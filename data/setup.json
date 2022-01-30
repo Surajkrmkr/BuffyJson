@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 134,
+            "author": "Zeffi Setups",
+            "kwgt": "Floral KWGT",
+            "iconpack": "Red Line Icon Pack",
+            "image": "BuffyWalls",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://linktr.ee/ZeffiSetups",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=floralkwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.jndapp.redline.linex.iconpack",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "SpiderMan",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/spiderman.png"
+        },
+        {
+            "id": 133,
+            "author": "Aaron",
+            "kwgt": "Future II KLWP",
+            "iconpack": "Interstellar Icons",
+            "image": "Wallique",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://bio.link/im_aaronx",
+            "kwgtLink": "https://drive.google.com/file/d/1AzJi2VW70KkzM8NGZL0m1G7LSuQQHc7s/view?usp=drivesdk",
+            "iconpackLink": "https://drive.google.com/file/d/14hRhJZDEkxrqFqsuDS6BbQjfiTBOpMce/view?usp=drivesdk",
+            "imageLink": "https://play.google.com/store/apps/details?id=dev.introdructor.wallique.app",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Spider Venom Suit",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/spider%20venom%20suit.jpg"
+        },
+        {
+            "id": 132,
+            "author": "Raviraj",
+            "kwgt": "Minimal KWGT",
+            "iconpack": "Fade Salmon",
+            "image": "Fade Salmon",
+            "launcher": "Oneplus Launcher",
+            "authorLink": "https://twitter.com/rrravirajs3/status/1484056787532001280?t=QpdTyHYmnQSD5_zEuTq94w&s=19",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.ao.minimalkwgt",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.sam.fade.salmon",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.sam.fade.salmon",
+            "launcherLink": "https://play.google.com/store/apps/details?id=net.oneplus.launcher&hl=en_IN&gl=US",
+            "name": "Clean Setup",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/clean%20setup.jpg"
+        },
+        {
             "id": 131,
             "author": "Shanto",
             "kwgt": "Beeline, Pie, Minimal",
