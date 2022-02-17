@@ -1,6 +1,61 @@
 {
     "Trending": [
         {
+            "id": 117,
+            "heroID": "Trending117",
+            "downloads": 0,
+            "name": "Doctor Strange5",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "1.29 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange5.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange5-small.png"
+        },
+        {
+            "id": 116,
+            "heroID": "Trending116",
+            "downloads": 0,
+            "name": "Doctor Strange4",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "2.01 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange4.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange4-small.png"
+        },
+        {
+            "id": 115,
+            "heroID": "Trending115",
+            "downloads": 0,
+            "name": "Doctor Strange3",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "1.64 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange3.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange3-small.png"
+        },
+        {
+            "id": 114,
+            "heroID": "Trending114",
+            "downloads": 0,
+            "name": "Doctor Strange2",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "1.51 MB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange2.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange2-small.png"
+        },
+        {
+            "id": 113,
+            "heroID": "Trending113",
+            "downloads": 0,
+            "name": "Doctor Strange1",
+            "designer": "Buffy",
+            "category": "Trending",
+            "size": "551.77 KB",
+            "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange1.jpg",
+            "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Trending/Feb%2017/Doctor%20Strange1-small.png"
+        },
+        {
             "id": 112,
             "heroID": "Trending112",
             "downloads": 0,
