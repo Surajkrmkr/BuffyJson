@@ -11,7 +11,7 @@ pickedWallspaths = os.listdir(rootPath)
 
 
 name = 'Suraj'
-date = "Jan 20"
+date = "Feb 20"
 
 #     print(" 1 . Abstract      2 . Amoled     3 . Animals                4 . Anime")
 #     print(" 5 . Cars & Bike   6 . Cartoon    7 . Flower                 8 . Games")
