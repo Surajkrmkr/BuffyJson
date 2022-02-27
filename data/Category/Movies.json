@@ -2,6 +2,26 @@
     "Movies": {
         "Images": [
             {
+                "id": 87,
+                "heroID": "Movies87",
+                "downloads": 0,
+                "name": "Lightyear (2022)",
+                "designer": "Buffy",
+                "size": "3.45Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/27%20feb%20original%20(1).png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/27feb%20(1).jpg"
+            },
+            {
+                "id": 86,
+                "heroID": "Movies86",
+                "downloads": 0,
+                "name": "Jurassic World: Dominion (2022)",
+                "designer": "Buffy",
+                "size": "3.62Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/27%20feb%20original%20(10).png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/27feb%20(10).jpg"
+            },
+            {
                 "id": 85,
                 "heroID": "Movies85",
                 "downloads": 0,

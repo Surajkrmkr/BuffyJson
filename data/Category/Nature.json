@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 102,
+                "heroID": "Nature102",
+                "downloads": 0,
+                "name": "Dream Night",
+                "designer": "Buffy",
+                "size": "3 mB",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/27%20feb%20original%20(2).png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/27feb%20(2).jpg"
+            },
+            {
                 "id": 101,
                 "heroID": "Nature101",
                 "downloads": 0,

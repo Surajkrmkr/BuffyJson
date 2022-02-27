@@ -2,6 +2,16 @@
     "Sci-Fi": {
         "Images": [
             {
+                "id": 98,
+                "heroID": "Sci-Fi98",
+                "downloads": 0,
+                "name": "Earth in Hand",
+                "designer": "Buffy",
+                "size": "3.65 Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/27%20feb%20original%20(9).png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/27feb%20(9).jpg"
+            },
+            {
                 "id": 97,
                 "heroID": "Sci-Fi97",
                 "downloads": 0,
