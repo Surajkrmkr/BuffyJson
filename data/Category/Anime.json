@@ -2,6 +2,16 @@
     "Anime": {
         "Images": [
             {
+                "id": 41,
+                "heroID": "Anime41",
+                "downloads": 0,
+                "name": "Ninja",
+                "designer": "Buffy",
+                "size": "1.85Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/27%20feb%20original%20(5).png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/27feb%20(5).jpg"
+            },
+            {
                 "id": 40,
                 "heroID": "Anime40",
                 "downloads": 0,
