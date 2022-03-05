@@ -2,6 +2,106 @@
     "Suraj": {
         "Images": [
             {
+                "id": 95,
+                "heroID": "Suraj95",
+                "downloads": 0,
+                "name": "Mnimal Hope",
+                "designer": "Buffy",
+                "size": "166.48 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Mnimal%20Hope.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Mnimal%20Hope-small.png"
+            },
+            {
+                "id": 94,
+                "heroID": "Suraj94",
+                "downloads": 0,
+                "name": "Minimal Water",
+                "designer": "Buffy",
+                "size": "118.88 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20Water.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20Water-small.png"
+            },
+            {
+                "id": 93,
+                "heroID": "Suraj93",
+                "downloads": 0,
+                "name": "Minimal Night",
+                "designer": "Buffy",
+                "size": "326.02 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20Night.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20Night-small.png"
+            },
+            {
+                "id": 92,
+                "heroID": "Suraj92",
+                "downloads": 0,
+                "name": "Minimal Light",
+                "designer": "Buffy",
+                "size": "74.63 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20Light.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20Light-small.png"
+            },
+            {
+                "id": 91,
+                "heroID": "Suraj91",
+                "downloads": 0,
+                "name": "Minimal BF",
+                "designer": "Buffy",
+                "size": "71.33 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20BF.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20BF-small.png"
+            },
+            {
+                "id": 90,
+                "heroID": "Suraj90",
+                "downloads": 0,
+                "name": "Sunset",
+                "designer": "Buffy",
+                "size": "371.04 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Sunset.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Sunset-small.png"
+            },
+            {
+                "id": 89,
+                "heroID": "Suraj89",
+                "downloads": 0,
+                "name": "Pattern",
+                "designer": "Buffy",
+                "size": "104.16 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Pattern.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Pattern-small.png"
+            },
+            {
+                "id": 88,
+                "heroID": "Suraj88",
+                "downloads": 0,
+                "name": "NIght Aky",
+                "designer": "Buffy",
+                "size": "732.08 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/NIght%20Aky.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/NIght%20Aky-small.png"
+            },
+            {
+                "id": 87,
+                "heroID": "Suraj87",
+                "downloads": 0,
+                "name": "Minimal sunset",
+                "designer": "Buffy",
+                "size": "162.48 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20sunset.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20sunset-small.png"
+            },
+            {
+                "id": 86,
+                "heroID": "Suraj86",
+                "downloads": 0,
+                "name": "Minimal illu",
+                "designer": "Buffy",
+                "size": "113.36 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20illu.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/march%205/Minimal%20illu-small.png"
+            },
+            {
                 "id": 85,
                 "heroID": "Suraj85",
                 "downloads": 0,
