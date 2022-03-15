@@ -2,6 +2,166 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 66,
+                "heroID": "Super Heroes66",
+                "downloads": 0,
+                "name": "Spider-Man (2099)",
+                "designer": "Buffy",
+                "size": "1.11Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-8.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-8-small.png"
+            },
+            {
+                "id": 65,
+                "heroID": "Super Heroes65",
+                "downloads": 0,
+                "name": "Captain America",
+                "designer": "Buffy",
+                "size": "3.28Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-7.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-7-small.png"
+            },
+            {
+                "id": 64,
+                "heroID": "Super Heroes64",
+                "downloads": 0,
+                "name": "Iron Man",
+                "designer": "Buffy",
+                "size": "3.05Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-6.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-6-small.png"
+            },
+            {
+                "id": 63,
+                "heroID": "Super Heroes63",
+                "downloads": 0,
+                "name": "Wonder Woman",
+                "designer": "Buffy",
+                "size": "3.79Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-5.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-5-small.png"
+            },
+            {
+                "id": 62,
+                "heroID": "Super Heroes62",
+                "downloads": 0,
+                "name": "Chris Evans as Ben 10",
+                "designer": "Buffy",
+                "size": "3.47Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-4.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-4-small.png"
+            },
+            {
+                "id": 61,
+                "heroID": "Super Heroes61",
+                "downloads": 0,
+                "name": "Batman (2022)",
+                "designer": "Buffy",
+                "size": "2.25Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-3.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-3-small.png"
+            },
+            {
+                "id": 60,
+                "heroID": "Super Heroes60",
+                "downloads": 0,
+                "name": "Batman (2022)",
+                "designer": "Buffy",
+                "size": "1.42Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-2.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-2-small.png"
+            },
+            {
+                "id": 59,
+                "heroID": "Super Heroes59",
+                "downloads": 0,
+                "name": "Batman (2022)",
+                "designer": "Buffy",
+                "size": "2.1Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-17.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-17-small.png"
+            },
+            {
+                "id": 58,
+                "heroID": "Super Heroes58",
+                "downloads": 0,
+                "name": "Batman (2022)",
+                "designer": "Buffy",
+                "size": "2.23Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-16.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-16-small.png"
+            },
+            {
+                "id": 57,
+                "heroID": "Super Heroes57",
+                "downloads": 0,
+                "name": "Mera",
+                "designer": "Buffy",
+                "size": "4.16Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-15.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-15-small.png"
+            },
+            {
+                "id": 56,
+                "heroID": "Super Heroes56",
+                "downloads": 0,
+                "name": "Spider-Man: No Way Home",
+                "designer": "Buffy",
+                "size": "4.19Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-14.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-14-small.png"
+            },
+            {
+                "id": 55,
+                "heroID": "Super Heroes55",
+                "downloads": 0,
+                "name": "Spider-Man",
+                "designer": "Buffy",
+                "size": "2.72Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-13.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-13-small.png"
+            },
+            {
+                "id": 54,
+                "heroID": "Super Heroes54",
+                "downloads": 0,
+                "name": "Aquaman, Mera",
+                "designer": "Buffy",
+                "size": "5.1Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-12.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-12-small.png"
+            },
+            {
+                "id": 53,
+                "heroID": "Super Heroes53",
+                "downloads": 0,
+                "name": "Superman",
+                "designer": "Buffy",
+                "size": "5.11Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-11.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-11-small.png"
+            },
+            {
+                "id": 52,
+                "heroID": "Super Heroes52",
+                "downloads": 0,
+                "name": "Scarlet Witch",
+                "designer": "Buffy",
+                "size": "4.4Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-10.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-10-small.png"
+            },
+            {
+                "id": 51,
+                "heroID": "Super Heroes51",
+                "downloads": 0,
+                "name": "Batman (2022)",
+                "designer": "Buffy",
+                "size": "2.58Mb",
+                "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-1.jpg",
+                "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-1-small.png"
+            },
+            {
                 "id": 50,
                 "heroID": "Super Heroes50",
                 "downloads": 0,
