@@ -2,6 +2,16 @@
     "Animals": {
         "Images": [
             {
+                "id": 46,
+                "heroID": "Animals46",
+                "downloads": 0,
+                "name": "Cute Panda",
+                "designer": "Buffy",
+                "size": "5.28Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(1).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(1)%20small.jpg"
+            },
+            {
                 "id": 45,
                 "heroID": "Animals45",
                 "downloads": 0,

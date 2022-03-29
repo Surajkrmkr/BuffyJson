@@ -2,6 +2,36 @@
     "Games": {
         "Images": [
             {
+                "id": 96,
+                "heroID": "Games96",
+                "downloads": 0,
+                "name": "Jinx in Arcane:League of Legends",
+                "designer": "Buffy",
+                "size": "6.17Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(13).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(13)%20small.jpg"
+            },
+            {
+                "id": 95,
+                "heroID": "Games95",
+                "downloads": 0,
+                "name": "Cyberpunk 2077",
+                "designer": "Buffy",
+                "size": "6.17Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(11).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(11)%20small.jpg"
+            },
+            {
+                "id": 94,
+                "heroID": "Games94",
+                "downloads": 0,
+                "name": "The Card Game",
+                "designer": "Buffy",
+                "size": "3.28Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(5).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(5)%20small.jpg"
+            },
+            {
                 "id": 93,
                 "heroID": "Games93",
                 "downloads": 0,

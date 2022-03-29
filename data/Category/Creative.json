@@ -2,6 +2,26 @@
     "Creative": {
         "Images": [
             {
+                "id": 66,
+                "heroID": "Creative66",
+                "downloads": 0,
+                "name": "The Sky Sea",
+                "designer": "Buffy",
+                "size": "5.34Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(7).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(7)%20small.jpg"
+            },
+            {
+                "id": 65,
+                "heroID": "Creative65",
+                "downloads": 0,
+                "name": "Summer Drink",
+                "designer": "Buffy",
+                "size": "3.30Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(4).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(4)%20small.jpg"
+            },
+            {
                 "id": 64,
                 "heroID": "Creative64",
                 "downloads": 0,

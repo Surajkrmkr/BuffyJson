@@ -2,6 +2,26 @@
     "Movies": {
         "Images": [
             {
+                "id": 89,
+                "heroID": "Movies89",
+                "downloads": 0,
+                "name": "Black Panther",
+                "designer": "Buffy",
+                "size": "2.99Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(22).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(22)%20small.jpg"
+            },
+            {
+                "id": 88,
+                "heroID": "Movies88",
+                "downloads": 0,
+                "name": "Sonic the Hedgehog 2 (2022)",
+                "designer": "Buffy",
+                "size": "6.89Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(18).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(18)%20small.jpg"
+            },
+            {
                 "id": 87,
                 "heroID": "Movies87",
                 "downloads": 0,

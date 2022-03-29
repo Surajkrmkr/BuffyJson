@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 103,
+                "heroID": "Nature103",
+                "downloads": 0,
+                "name": "The Aerial View",
+                "designer": "Buffy",
+                "size": "7.05Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(8).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(8)%20small.jpg"
+            },
+            {
                 "id": 102,
                 "heroID": "Nature102",
                 "downloads": 0,

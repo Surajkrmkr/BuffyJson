@@ -2,6 +2,46 @@
     "Sci-Fi": {
         "Images": [
             {
+                "id": 102,
+                "heroID": "Sci-Fi102",
+                "downloads": 0,
+                "name": "The Galaxy Pattern",
+                "designer": "Buffy",
+                "size": "3.34Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(15).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(15)%20small.jpg"
+            },
+            {
+                "id": 101,
+                "heroID": "Sci-Fi101",
+                "downloads": 0,
+                "name": "Space Man",
+                "designer": "Buffy",
+                "size": "6.31Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(6).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(6)%20small.jpg"
+            },
+            {
+                "id": 100,
+                "heroID": "Sci-Fi100",
+                "downloads": 0,
+                "name": "The Dark Eye",
+                "designer": "Buffy",
+                "size": "9.31Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(3).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(3)%20small.jpg"
+            },
+            {
+                "id": 99,
+                "heroID": "Sci-Fi99",
+                "downloads": 0,
+                "name": "Bird Eye View",
+                "designer": "Buffy",
+                "size": "6.24Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(2).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(2)%20small.jpg"
+            },
+            {
                 "id": 98,
                 "heroID": "Sci-Fi98",
                 "downloads": 0,
