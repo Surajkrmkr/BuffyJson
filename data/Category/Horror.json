@@ -2,6 +2,16 @@
     "Horror": {
         "Images": [
             {
+                "id": 52,
+                "heroID": "Horror52",
+                "downloads": 0,
+                "name": "The Lady Demon",
+                "designer": "Buffy",
+                "size": "5.51Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(14).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(14)%20small.jpg"
+            },
+            {
                 "id": 51,
                 "heroID": "Horror51",
                 "downloads": 0,

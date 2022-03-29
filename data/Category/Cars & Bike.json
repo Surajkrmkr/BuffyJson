@@ -2,6 +2,36 @@
     "Cars & Bike": {
         "Images": [
             {
+                "id": 37,
+                "heroID": "Cars & Bike37",
+                "downloads": 0,
+                "name": "Rolls-Royce Black Badge Ghost 2022",
+                "designer": "Buffy",
+                "size": "5Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(19).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(19)%20small.jpg"
+            },
+            {
+                "id": 36,
+                "heroID": "Cars & Bike36",
+                "downloads": 0,
+                "name": "Ducati Panigale V4 SP2 2023",
+                "designer": "Buffy",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(17).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(17)%20small.jpg"
+            },
+            {
+                "id": 35,
+                "heroID": "Cars & Bike35",
+                "downloads": 0,
+                "name": "Mercedes-AMG F1 W12 E PERFORMANCE",
+                "designer": "Buffy",
+                "size": "2.72Mb",
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(12).png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(12)%20small.jpg"
+            },
+            {
                 "id": 34,
                 "heroID": "Cars & Bike34",
                 "downloads": 0,
