@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 163,
+            "author": "Amirul Eahsan",
+            "kwgt": "",
+            "iconpack": "Fling Gray",
+            "image": "Abstract 80",
+            "launcher": "Nova Launcher",
+            "authorLink": "",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=sigma.cnt.kwgt&hl=bn&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dsigma+kwgt",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.sam.fling.gray",
+            "imageLink": "",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Outline",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/OUTLINE.png"
+        },
+        {
+            "id": 162,
+            "author": "Raviraj",
+            "kwgt": "Alpha KWGT",
+            "iconpack": "Atom Blue",
+            "image": "Piterest",
+            "launcher": "OnePlus Launcher",
+            "authorLink": "https://www.instagram.com/p/Cbh4zeshWSx/?utm_medium=copy_link",
+            "kwgtLink": "",
+            "iconpackLink": "",
+            "imageLink": "",
+            "launcherLink": "https://play.google.com/store/apps/details?id=net.oneplus.launcher&hl=en_IN&gl=US",
+            "name": "Atom Cool Blue",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/ATOM%20COOL%20BLE.png"
+        },
+        {
+            "id": 161,
+            "author": "Aadish",
+            "kwgt": "Xena Kwgt",
+            "iconpack": "Samsung Icon Pack",
+            "image": "Petrichor",
+            "launcher": "Smart Launcher 5",
+            "authorLink": "",
+            "kwgtLink": "",
+            "iconpackLink": "",
+            "imageLink": "",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree&hl=en_IN&gl=US",
+            "name": "Pancake",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/PANCAKE.jpg"
+        },
+        {
             "id": 160,
             "author": "Sleepy Spectre",
             "kwgt": "System default",
