@@ -2,6 +2,16 @@
     "Sports": {
         "Images": [
             {
+                "id": 20,
+                "heroID": "Sports20",
+                "downloads": 0,
+                "name": "Ronaldo",
+                "designer": "Buffy",
+                "size": "3.97Mb",
+                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/1650215061049.png",
+                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/1650215061049-small.png"
+            },
+            {
                 "id": 19,
                 "heroID": "Sports19",
                 "downloads": 0,

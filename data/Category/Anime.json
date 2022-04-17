@@ -2,6 +2,16 @@
     "Anime": {
         "Images": [
             {
+                "id": 42,
+                "heroID": "Anime42",
+                "downloads": 0,
+                "name": "Anime",
+                "designer": "Buffy",
+                "size": "1.27Mb",
+                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/Anime_13543.png",
+                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/Anime_13543-small.png"
+            },
+            {
                 "id": 41,
                 "heroID": "Anime41",
                 "downloads": 0,

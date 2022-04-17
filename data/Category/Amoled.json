@@ -2,6 +2,16 @@
     "Amoled": {
         "Images": [
             {
+                "id": 141,
+                "heroID": "Amoled141",
+                "downloads": 0,
+                "name": "Biker Girl",
+                "designer": "Buffy",
+                "size": "1.95Mb",
+                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/Amoled_13432.png",
+                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/Amoled_13432-small.png"
+            },
+            {
                 "id": 140,
                 "heroID": "Amoled140",
                 "downloads": 0,

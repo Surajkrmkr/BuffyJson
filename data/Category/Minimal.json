@@ -2,6 +2,16 @@
     "Minimal": {
         "Images": [
             {
+                "id": 145,
+                "heroID": "Minimal145",
+                "downloads": 0,
+                "name": "Minimal",
+                "designer": "Buffy",
+                "size": "1.38Mb",
+                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/Minimal_13516.png",
+                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/Minimal_13516-small.png"
+            },
+            {
                 "id": 144,
                 "heroID": "Minimal144",
                 "downloads": 0,
