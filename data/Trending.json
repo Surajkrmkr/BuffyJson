@@ -1,6 +1,83 @@
 {
     "Trending": [
         {
+            "id": 124,
+            "heroID": "Trending117",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "President Loki",
+            "designer": "Buffy",
+            "size": "1.47Mb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-24.jpg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-24-small.png"
+        },
+        {
+            "id": 123,
+            "heroID": "Trending123",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "SpiderMan",
+            "designer": "Buffy",
+            "size": "1.21Mb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-23.jpg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-23-small.png"
+        },
+        {
+            "id": 122,
+            "heroID": "Trending122",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "Superman",
+            "designer": "Buffy",
+            "size": "1.10Mb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-22.jpg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-22-small.png"
+        },
+        {
+            "id": 121,
+            "heroID": "Trending121",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "Cult of Loki",
+            "designer": "Buffy",
+            "size": "2.12Mb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-21.jpg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-21-small.png"
+        },
+        {
+            "id": 120,
+            "heroID": "Trending120",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "Moon Knight",
+            "designer": "Buffy",
+            "size": "1.11Mb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-20.jpg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-20-small.png"
+        },
+        {
+            "id": 119,
+            "heroID": "Trending119",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "Aruthur-Joker",
+            "designer": "Buffy",
+            "size": "925Kb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-19.jpg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-19-small.png"
+        },
+        {
+            "id": 118,
+            "heroID": "Trending118",
+            "downloads": 0,
+            "category": "Trending",
+            "name": "Moon Knight",
+            "designer": "Buffy",
+            "size": "286Kb",
+            "imageUrl": "https://github.com/piyushkpv/SuperHeroes.Buffy/raw/main/Superhero-18.jpeg",
+            "compressUrl": "https://github.com/piyushkpv/SuperHeroes.Thumb.Buffy/raw/main/Superhero-18-small.png"
+        },
+        {
             "id": 117,
             "heroID": "Trending117",
             "downloads": 0,
