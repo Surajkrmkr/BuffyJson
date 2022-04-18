@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 104,
+                "heroID": "Nature104",
+                "downloads": 0,
+                "name": "Leafs",
+                "designer": "Buffy",
+                "size": "3.30Mb",
+                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/Leafs_13483.png",
+                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/Leafs_13483-small.png"
+            },
+            {
                 "id": 103,
                 "heroID": "Nature103",
                 "downloads": 0,

@@ -2,6 +2,16 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 139,
+                "heroID": "Cartoon139",
+                "downloads": 0,
+                "name": "Comic Book",
+                "designer": "Buffy",
+                "size": "5.10Mb",
+                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/Comic_13477.png",
+                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/Comic_13477-small.png"
+            },
+            {
                 "id": 138,
                 "heroID": "Cartoon138",
                 "downloads": 0,
