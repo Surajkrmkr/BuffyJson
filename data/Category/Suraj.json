@@ -2,6 +2,146 @@
     "Suraj": {
         "Images": [
             {
+                "id": 120,
+                "heroID": "Suraj120",
+                "downloads": 0,
+                "name": "Orange Sky",
+                "designer": "Buffy",
+                "size": "392.94 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Orange%20Sky.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Orange%20Sky-small.png"
+            },
+            {
+                "id": 119,
+                "heroID": "Suraj119",
+                "downloads": 0,
+                "name": "Neon Scene",
+                "designer": "Buffy",
+                "size": "725.37 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Neon%20Scene.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Neon%20Scene-small.png"
+            },
+            {
+                "id": 118,
+                "heroID": "Suraj118",
+                "downloads": 0,
+                "name": "Neon Road",
+                "designer": "Buffy",
+                "size": "1.3 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Neon%20Road.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Neon%20Road-small.png"
+            },
+            {
+                "id": 117,
+                "heroID": "Suraj117",
+                "downloads": 0,
+                "name": "Neon Alone",
+                "designer": "Buffy",
+                "size": "1017.5 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Neon%20Alone.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Neon%20Alone-small.png"
+            },
+            {
+                "id": 116,
+                "heroID": "Suraj116",
+                "downloads": 0,
+                "name": "Minimal green",
+                "designer": "Buffy",
+                "size": "506.95 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Minimal%20green.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Minimal%20green-small.png"
+            },
+            {
+                "id": 115,
+                "heroID": "Suraj115",
+                "downloads": 0,
+                "name": "Lake View",
+                "designer": "Buffy",
+                "size": "279.77 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Lake%20View.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Lake%20View-small.png"
+            },
+            {
+                "id": 114,
+                "heroID": "Suraj114",
+                "downloads": 0,
+                "name": "Lake City",
+                "designer": "Buffy",
+                "size": "355.39 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Lake%20City.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Lake%20City-small.png"
+            },
+            {
+                "id": 113,
+                "heroID": "Suraj113",
+                "downloads": 0,
+                "name": "High Tower",
+                "designer": "Buffy",
+                "size": "293.1 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/High%20Tower.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/High%20Tower-small.png"
+            },
+            {
+                "id": 112,
+                "heroID": "Suraj112",
+                "downloads": 0,
+                "name": "High Build",
+                "designer": "Buffy",
+                "size": "813.6 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/High%20Build.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/High%20Build-small.png"
+            },
+            {
+                "id": 111,
+                "heroID": "Suraj111",
+                "downloads": 0,
+                "name": "Dawn",
+                "designer": "Buffy",
+                "size": "255.69 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Dawn.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Dawn-small.png"
+            },
+            {
+                "id": 110,
+                "heroID": "Suraj110",
+                "downloads": 0,
+                "name": "Dawn Red",
+                "designer": "Buffy",
+                "size": "1.82 MB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Dawn%20Red.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Dawn%20Red-small.png"
+            },
+            {
+                "id": 109,
+                "heroID": "Suraj109",
+                "downloads": 0,
+                "name": "Dawn minimal",
+                "designer": "Buffy",
+                "size": "222.66 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Dawn%20minimal.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/Dawn%20minimal-small.png"
+            },
+            {
+                "id": 108,
+                "heroID": "Suraj108",
+                "downloads": 0,
+                "name": "City Tower",
+                "designer": "Buffy",
+                "size": "278.47 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/City%20Tower.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/City%20Tower-small.png"
+            },
+            {
+                "id": 107,
+                "heroID": "Suraj107",
+                "downloads": 0,
+                "name": "City Drone",
+                "designer": "Buffy",
+                "size": "866.23 KB",
+                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/City%20Drone.jpg",
+                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/jun%201/City%20Drone-small.png"
+            },
+            {
                 "id": 106,
                 "heroID": "Suraj106",
                 "downloads": 0,
