@@ -1,6 +1,21 @@
 {
     "setup": [
         {
+            "id": 184,
+            "author": "",
+            "kwgt": "Sigma KWGT",
+            "iconpack": "LineBula Green",
+            "image": "Green Mountain",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://bio.link/setup_boy_sojib",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=sigma.cnt.kwgt",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.panotogomo.lbgreen",
+            "imageLink": "",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Green Mountain",
+            "setupImageLink": "https://github.com/piyushkpv/setups/raw/main/green%20mmountain%20by%20sojib.jpg"
+        },
+        {
             "id": 183,
             "author": "Setup Boy Sojib",
             "kwgt": "Delta KWGT",
