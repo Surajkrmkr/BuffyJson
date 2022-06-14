@@ -1,6 +1,61 @@
 {
   "FeaturedWalls": [
     {
+      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/11-small.png",
+      "size": "100Kb",
+      "downloads": 13,
+      "name": "Winter View",
+      "heroID": "Feature17",
+      "category": "Nature",
+      "designer": "Buffy",
+      "id": 17,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/11.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/10-small.png",
+      "size": "212Kb",
+      "downloads": 13,
+      "name": "Light",
+      "heroID": "Feature16",
+      "category": "Amoled",
+      "designer": "Buffy",
+      "id": 16,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/10.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/9-small.png",
+      "size": "412Kb",
+      "downloads": 13,
+      "name": "The Thought",
+      "heroID": "Feature15",
+      "category": "Abstract",
+      "designer": "Buffy",
+      "id": 15,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/9.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/8-small.png",
+      "size": "180Kb",
+      "downloads": 14,
+      "name": "Glowing Butterfly",
+      "heroID": "Feature14",
+      "category": "Nature",
+      "designer": "Buffy",
+      "id": 14,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/8.jpg"
+    },
+    {
+      "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/7-small.png",
+      "size": "95Kb",
+      "downloads": 13,
+      "name": "The Bat",
+      "heroID": "Feature13",
+      "category": "Superheroes",
+      "designer": "Buffy",
+      "id": 13,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/7.jpg"
+    },
+    {
       "compressUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/6-small.png",
       "size": "675Kb",
       "downloads": 11,
