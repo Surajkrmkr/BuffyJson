@@ -99,19 +99,19 @@
     {
       "id": 3,
       "name": "Animals",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/new%20ANIMALS.png",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Animals.jpg",
       "__collections__": {}
     },
     {
       "id": 2,
       "name": "Abstract",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/new%20ABSTRACT.png",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Abstract.jpg",
       "__collections__": {}
     },
     {
       "name": "Amoled",
       "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/new%20amoled.png",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Amoled.jpg",
       "__collections__": {}
     }
   ]
