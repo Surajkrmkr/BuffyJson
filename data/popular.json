@@ -1,6 +1,50 @@
 {
     "popular": [
         {
+            "id": 548,
+            "heroID": "popular548",
+            "downloads": 0,
+            "name": "Xiaomi 12s Ultra",
+            "designer": "Xiaomi",
+            "category": "Xiaomi",
+            "size": "2Mb",
+            "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/Xiaomi%2012s%20Pro6506.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Xiaomi-Thumb/raw/main/Xiaomi%2012s%20Pro6506%20(2).jpg"
+        },
+        {
+            "id": 547,
+            "heroID": "popular547",
+            "downloads": 0,
+            "name": "Xiaomi 12s Pro",
+            "designer": "Xiaomi",
+            "category": "Xiaomi",
+            "size": "2Mb",
+            "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/Xiaomi%2012s%20Pro6505.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Xiaomi-Thumb/raw/main/Xiaomi%2012s%20Pro6505%20(2).jpg"
+        },
+        {
+            "id": 546,
+            "heroID": "popular546",
+            "downloads": 0,
+            "name": "Xiaomi 12s Pro",
+            "designer": "Xiaomi",
+            "category": "Xiaomi",
+            "size": "2.1Mb",
+            "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/Xiaomi%2012s%20Pro6504.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Xiaomi-Thumb/raw/main/Xiaomi%2012s%20Pro6504%20(2).jpg"
+        },
+        {
+            "id": 545,
+            "heroID": "popular545",
+            "downloads": 0,
+            "name": "Xiaomi 12s Pro",
+            "designer": "Xiaomi",
+            "category": "Xiaomi",
+            "size": "1.81Mb",
+            "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/Xiaomi%2012s%20Pro6503.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Xiaomi-Thumb/raw/main/Xiaomi%2012s%20Pro6503%20(2).jpg"
+        },
+        {
             "id": 544,
             "heroID": "popular544",
             "downloads": 0,
