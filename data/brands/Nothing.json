@@ -1,0 +1,68 @@
+{
+    "Motorola": {
+      "Images": [
+        {
+          "size": "547Kb",
+          "heroID": "Nothing6",
+          "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/63.jpg",
+          "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/63-small.png",
+          "downloads": 1,
+          "id": 6,
+          "name": "Nothing Phone(1)",
+          "designer": "Nothing",
+          "__collections__": {}
+        },
+        {
+            "size": "637Kb",
+            "heroID": "Nothing5",
+            "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/5.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/5-small.png",
+            "downloads": 1,
+            "id": 5,
+            "name": "Nothing Phone(1)",
+            "designer": "Nothing",
+            "__collections__": {}
+          }{
+            "size": "74Kb",
+            "heroID": "Nothing4",
+            "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/4.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/4-small.png",
+            "downloads": 1,
+            "id": 4,
+            "name": "Nothing Phone(1)",
+            "designer": "Nothing",
+            "__collections__": {}
+          }{
+            "size": "353Kb",
+            "heroID": "Nothing3",
+            "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/3.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/3-small.png",
+            "downloads": 1,
+            "id": 3,
+            "name": "Nothing Phone(1)",
+            "designer": "Nothing",
+            "__collections__": {}
+          }{
+            "size": "363Kb",
+            "heroID": "Nothing2",
+            "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/2.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/2-small.png",
+            "downloads": 1,
+            "id": 2,
+            "name": "Nothing Phone(1)",
+            "designer": "Nothing",
+            "__collections__": {}
+          }{
+            "size": "74Kb",
+            "heroID": "Nothing1",
+            "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/1.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/1-small.png",
+            "downloads": 1,
+            "id": 1,
+            "name": "Nothing Phone(1)",
+            "designer": "Nothing",
+            "__collections__": {}
+          }
+    ]
+}
+}
