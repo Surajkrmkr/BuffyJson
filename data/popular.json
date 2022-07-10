@@ -1,6 +1,28 @@
 {
     "popular": [
         {
+            "size": "547Kb",
+            "heroID": "popular550",
+            "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/63.jpg",
+            "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/63-small.png",
+            "downloads": 1,
+            "id": 550,
+            "name": "Nothing Phone(1)",
+            "designer": "Nothing",
+            "category": "Nothing"
+          },
+          {
+              "size": "637Kb",
+              "heroID": "popular549",
+              "imageUrl": "https://github.com/piyushkpv/Nothing/raw/main/5.jpg",
+              "compressUrl": "https://github.com/piyushkpv/Nothing/raw/main/5-small.png",
+              "downloads": 1,
+              "id": 549,
+              "name": "Nothing Phone(1)",
+              "designer": "Nothing",
+              "category":"Nothing"
+            },
+        {
             "id": 548,
             "heroID": "popular548",
             "downloads": 0,
