@@ -9,7 +9,8 @@
             "id": 550,
             "name": "Nothing Phone(1)",
             "designer": "Nothing",
-            "category": "Nothing"
+            "category": "Nothing",
+            "isPremium": true
           },
           {
               "size": "637Kb",
@@ -20,7 +21,8 @@
               "id": 549,
               "name": "Nothing Phone(1)",
               "designer": "Nothing",
-              "category":"Nothing"
+              "category":"Nothing",
+              "isPremium": true
             },
         {
             "id": 548,
@@ -31,7 +33,8 @@
             "category": "Xiaomi",
             "size": "2Mb",
             "imageUrl": "https://github.com/piyushkpv/Xiaomi/raw/main/Xiaomi%2012s%20Pro6506.jpg",
-            "compressUrl": "https://github.com/piyushkpv/Xiaomi-Thumb/raw/main/Xiaomi%2012s%20Pro6506%20(2).jpg"
+            "compressUrl": "https://github.com/piyushkpv/Xiaomi-Thumb/raw/main/Xiaomi%2012s%20Pro6506%20(2).jpg",
+            "isPremium": true
         },
         {
             "id": 547,
