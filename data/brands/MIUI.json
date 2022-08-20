@@ -8,6 +8,7 @@
                 "name": "MIUI 13",
                 "designer": "MIUI",
                 "size": "1.55Mb",
+                "isPremium": true,
                 "imageUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze01-Light.jpg",
                 "compressUrl": "https://github.com/piyushkpv/MIUI/raw/main/ColoredGlaze01-Light_resize_76.jpg"
             },
