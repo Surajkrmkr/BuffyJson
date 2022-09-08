@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 105,
+                "heroID": "Nature105",
+                "downloads": 0,
+                "name": "Winter Red",
+                "designer": "Buffy",
+                "size": "6.66Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/winter%20red.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/winter%20red-small.png"
+            },
+            {
                 "id": 104,
                 "heroID": "Nature104",
                 "downloads": 0,

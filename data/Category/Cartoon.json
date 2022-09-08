@@ -2,6 +2,26 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 141,
+                "heroID": "Cartoon141",
+                "downloads": 0,
+                "name": "Kirby",
+                "designer": "Buffy",
+                "size": "9.11Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/kirby.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/kirby-small.png"
+            },
+            {
+                "id": 140,
+                "heroID": "Cartoon140",
+                "downloads": 0,
+                "name": "Demon Slayer : Kimetsu no Yaiba",
+                "designer": "Buffy",
+                "size": "5.44Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/demon%20slayer.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/demon%20slayer-small.png"
+            },
+            {
                 "id": 139,
                 "heroID": "Cartoon139",
                 "downloads": 0,

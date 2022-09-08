@@ -2,6 +2,16 @@
     "Flower": {
         "Images": [
             {
+                "id": 83,
+                "heroID": "Flower83",
+                "downloads": 0,
+                "name": "Bloom",
+                "designer": "",
+                "size": "2.38Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/bloom.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/bloom-small.png"
+            },
+            {
                 "id": 82,
                 "heroID": "Flower82",
                 "downloads": 0,
