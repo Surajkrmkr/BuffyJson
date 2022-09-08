@@ -1,6 +1,11 @@
 {
   "Featured": [
     {
+      "redirectUrl": "https://bit.ly/StellarWalls",
+      "id": 1,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/PROMO%20BANNER.png"
+    },
+    {
       "redirectUrl": "https://t.me/ShadowCreations",
       "id": 1,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/6.png"
