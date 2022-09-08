@@ -2,6 +2,26 @@
     "Movies": {
         "Images": [
             {
+                "id": 91,
+                "heroID": "Movies91",
+                "downloads": 0,
+                "name": "The Lord of The Rings:The Rings of Power (2022)",
+                "designer": "Buffy",
+                "size": "5.27Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/the%20lord%20of%20the%20rings.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/the%20lord%20of%20the%20rings-small.png"
+            },
+            {
+                "id": 90,
+                "heroID": "Movies90",
+                "downloads": 0,
+                "name": "Neytiri",
+                "designer": "Buffy",
+                "size": "6.76Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/neytiri.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/neytiri-small.png"
+            },
+            {
                 "id": 89,
                 "heroID": "Movies89",
                 "downloads": 0,

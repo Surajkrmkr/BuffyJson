@@ -2,6 +2,16 @@
     "Animals": {
         "Images": [
             {
+                "id": 47,
+                "heroID": "Animals47",
+                "downloads": 0,
+                "name": "Lazy Fox",
+                "designer": "Buffy",
+                "size": "1Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/lazy%20fox.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/lazy%20fox-small.png"
+            },
+            {
                 "id": 46,
                 "heroID": "Animals46",
                 "downloads": 0,

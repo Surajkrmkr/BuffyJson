@@ -2,6 +2,16 @@
     "Creative": {
         "Images": [
             {
+                "id": 67,
+                "heroID": "Creative67",
+                "downloads": 0,
+                "name": "Fantasy Art",
+                "designer": "Buffy",
+                "size": "5.20Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/fantasy.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/fantasy-small.png"
+            },
+            {
                 "id": 66,
                 "heroID": "Creative66",
                 "downloads": 0,
