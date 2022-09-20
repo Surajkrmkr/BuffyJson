@@ -1,6 +1,76 @@
 {
     "Trending": [
         {
+            "id": 137,
+            "heroID": "Trending137",
+            "downloads": 0,
+            "name": "Rainbow Pattern",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "1.29Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/popular06.png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/popular06-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 136,
+            "heroID": "Trending136",
+            "downloads": 0,
+            "name": "Dark Bloom",
+            "designer": "Buffy",
+            "category": "Flowers",
+            "size": "5.63Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/popular01.png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/popular01-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 135,
+            "heroID": "Trending135",
+            "downloads": 0,
+            "name": "Billie",
+            "designer": "Buffy",
+            "category": "Actress",
+            "size": "5.63Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/popular02.png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/popular02-small.png"
+        },
+        {
+            "id": 134,
+            "heroID": "Trending134",
+            "downloads": 0,
+            "name": "SpiderMan",
+            "designer": "Superheroes",
+            "category": "Superheroes",
+            "size": "8.55",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/popular05.png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/popular05-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 133,
+            "heroID": "Trending133",
+            "downloads": 0,
+            "name": "The King",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "8.09Mb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/popular03.png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/popular03-small.png"
+        },
+        {
+            "id": 132,
+            "heroID": "Trending132",
+            "downloads": 0,
+            "name": "Abstract Mountain",
+            "designer": "Buffy",
+            "category": "Abstract",
+            "size": "953Kb",
+            "imageUrl": "https://github.com/piyushkpv/trending/raw/main/popular04.png",
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/popular04-small.png",
+            "isPremium": true
+        },
+        {
             "id": 131,
             "heroID": "Trending131",
             "downloads": 0,
@@ -42,7 +112,8 @@
             "category": "Nature",
             "size": "5.21Mb",
             "imageUrl": "https://github.com/piyushkpv/trending/raw/main/14%20jun%20(2).png",
-            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/14%20jun%20thumb%20(2).jpg"
+            "compressUrl": "https://github.com/piyushkpv/trending/raw/main/14%20jun%20thumb%20(2).jpg",
+            "isPremium": true
         },
         {
             "id": 127,
