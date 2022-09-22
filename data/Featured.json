@@ -1,6 +1,16 @@
 {
   "Featured": [
     {
+      "redirectUrl": "https://play.google.com/store/apps/details?id=beehomie.something.app",
+      "id": 1,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/20220730_161923.png"
+    },
+    {
+      "redirectUrl": "https://play.google.com/store/apps/details?id=beehomie.wigragit.kwgt",
+      "id": 1,
+      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/20220829_091724.png"
+    },
+    {
       "redirectUrl": "https://bit.ly/StellarWalls",
       "id": 1,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/PROMO%20BANNER.png"
