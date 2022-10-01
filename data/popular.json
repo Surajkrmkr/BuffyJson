@@ -9,7 +9,8 @@
             "category": "Abstract",
             "size": "2.13Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Abstract%201.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%201-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%201-small.png",
+            "isPremium": true
         },
         {
             "id": 576,
@@ -42,7 +43,8 @@
             "category": "Amoled",
             "size": "1.37Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%202.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%202-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%202-small.png",
+            "isPremium": true
         },
         {
             "id": 573,
@@ -64,7 +66,8 @@
             "category": "Animals",
             "size": "4.55Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Animal%202.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Animal%202-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Animal%202-small.png",
+            "isPremium": true
         },
         {
             "id": 571,
@@ -86,7 +89,8 @@
             "category": "Cars & Bike",
             "size": "5.5Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Car%203.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Car%203-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Car%203-small.png",
+            "isPremium": true
         },
         {
             "id": 569,
@@ -108,7 +112,8 @@
             "category": "Cars & Bike",
             "size": "5.94Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Car%201.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Car%201-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Car%201-small.png",
+            "isPremium": true
         },
         {
             "id": 567,
@@ -152,7 +157,8 @@
             "category": "Movies",
             "size": "6.11Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Movies%201.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Movies%201-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Movies%201-small.png",
+            "isPremium": true
         },
         {
             "id": 563,
@@ -174,7 +180,8 @@
             "category": "Nature",
             "size": "4.45Mb",
             "imageUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201.png",
-            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201-small.png"
+            "compressUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201-small.png",
+            "isPremium": true
         },
         {
             "id": 561,
