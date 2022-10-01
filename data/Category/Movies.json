@@ -2,6 +2,36 @@
     "Movies": {
         "Images": [
             {
+                "id": 94,
+                "heroID": "Movies94",
+                "downloads": 0,
+                "name": "Stormtrooper",
+                "designer": "Buffy",
+                "size": "7.7Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Movies%203.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Movies%203-small.png"
+            },
+            {
+                "id": 93,
+                "heroID": "Movies93",
+                "downloads": 0,
+                "name": "Avatar",
+                "designer": "Buffy",
+                "size": "7.1Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Movies%202.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Movies%202-small.png"
+            },
+            {
+                "id": 92,
+                "heroID": "Movies92",
+                "downloads": 0,
+                "name": "Assassin's Creed Mirage",
+                "designer": "Buffy",
+                "size": "6.11Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Movies%201.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Movies%201-small.png"
+            },
+            {
                 "id": 91,
                 "heroID": "Movies91",
                 "downloads": 0,

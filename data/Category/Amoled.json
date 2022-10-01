@@ -2,6 +2,46 @@
     "Amoled": {
         "Images": [
             {
+                "id": 145,
+                "heroID": "Amoled145",
+                "downloads": 0,
+                "name": "Dark Life",
+                "designer": "Buffy",
+                "size": "2.09Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%205.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%205-small.png"
+            },
+            {
+                "id": 144,
+                "heroID": "Amoled144",
+                "downloads": 0,
+                "name": "Sleepy Eyes",
+                "designer": "Buffy",
+                "size": "146Kb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%203.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%203-small.png"
+            },
+            {
+                "id": 143,
+                "heroID": "Amoled143",
+                "downloads": 0,
+                "name": "Crystal Heart",
+                "designer": "Buffy",
+                "size": "1.37Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%202.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%202-small.png"
+            },
+            {
+                "id": 142,
+                "heroID": "Amoled142",
+                "downloads": 0,
+                "name": "Work Harder",
+                "designer": "Buffy",
+                "size": "1.51Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%201.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%201-small.png"
+            },
+            {
                 "id": 141,
                 "heroID": "Amoled141",
                 "downloads": 0,
