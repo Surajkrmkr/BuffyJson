@@ -2,6 +2,26 @@
     "Animals": {
         "Images": [
             {
+                "id": 49,
+                "heroID": "Animals49",
+                "downloads": 0,
+                "name": "Cute Kitty",
+                "designer": "Buffy",
+                "size": "4.55Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Animal%202.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Animal%202-small.png"
+            },
+            {
+                "id": 48,
+                "heroID": "Animals48",
+                "downloads": 0,
+                "name": "Speed King",
+                "designer": "Buffy",
+                "size": "5.09Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Animal%201.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Animal%201-small.png"
+            },
+            {
                 "id": 47,
                 "heroID": "Animals47",
                 "downloads": 0,

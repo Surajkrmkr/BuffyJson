@@ -2,6 +2,16 @@
     "Abstract": {
         "Images": [
             {
+                "id": 166,
+                "heroID": "Abstract167",
+                "downloads": 0,
+                "name": "Purple Haze",
+                "designer": "Buffy",
+                "size": "2.13Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Abstract%201.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Amoled%201-small.png"
+            },
+            {
                 "id": 165,
                 "heroID": "Abstract165",
                 "downloads": 0,

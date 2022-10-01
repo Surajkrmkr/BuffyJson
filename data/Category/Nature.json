@@ -2,6 +2,26 @@
     "Nature": {
         "Images": [
             {
+                "id": 107,
+                "heroID": "Nature107",
+                "downloads": 0,
+                "name": "Nature Eve",
+                "designer": "Buffy",
+                "size": "3.65Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Nature%202.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Nature%202-small.png"
+            },
+            {
+                "id": 106,
+                "heroID": "Nature106",
+                "downloads": 0,
+                "name": "Nature Greenery",
+                "designer": "Buffy",
+                "size": "4.45Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201-small.png"
+            },
+            {
                 "id": 105,
                 "heroID": "Nature105",
                 "downloads": 0,

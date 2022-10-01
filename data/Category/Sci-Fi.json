@@ -2,6 +2,26 @@
     "Sci-Fi": {
         "Images": [
             {
+                "id": 104,
+                "heroID": "Sci-Fi104",
+                "downloads": 0,
+                "name": "Fantasy",
+                "designer": "Buffy",
+                "size": "4.83",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Sci-Fi%202.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Sci-Fi%202-small.png"
+            },
+            {
+                "id": 103,
+                "heroID": "Sci-Fi103",
+                "downloads": 0,
+                "name": "Earth",
+                "designer": "Buffy",
+                "size": "7.67Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Sci-Fi%201.png",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Sci-Fi%201-small.png"
+            },
+            {
                 "id": 102,
                 "heroID": "Sci-Fi102",
                 "downloads": 0,
