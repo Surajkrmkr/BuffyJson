@@ -2,6 +2,16 @@
     "Night Life": {
         "Images": [
             {
+                "id": 6,
+                "heroID": "Night Life6",
+                "downloads": 0,
+                "name": "Night Desert",
+                "designer": "Admin",
+                "size": "3.96Mb",
+                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/5.png",
+                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/5-small.png"
+            },
+            {
                 "id": 5,
                 "heroID": "Night Life5",
                 "downloads": 0,
