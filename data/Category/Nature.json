@@ -2,6 +2,16 @@
     "Nature": {
         "Images": [
             {
+                "id": 108,
+                "heroID": "Nature108",
+                "downloads": 0,
+                "name": "Dark Leafs",
+                "designer": "Admin",
+                "size": "8.31Mb",
+                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/4.png",
+                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/4-small.png"
+            },
+            {
                 "id": 107,
                 "heroID": "Nature107",
                 "downloads": 0,

@@ -2,6 +2,26 @@
     "Creative": {
         "Images": [
             {
+                "id": 69,
+                "heroID": "Creative69",
+                "downloads": 0,
+                "name": "Fantasy Garden",
+                "designer": "Admin",
+                "size": "6.71Mb",
+                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/6.png",
+                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/6-small.png"
+            },
+            {
+                "id": 68,
+                "heroID": "Creative68",
+                "downloads": 0,
+                "name": "Fantasy World",
+                "designer": "Admin",
+                "size": "4.99Mb",
+                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/10.png",
+                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/10-small.png"
+            },
+            {
                 "id": 67,
                 "heroID": "Creative67",
                 "downloads": 0,

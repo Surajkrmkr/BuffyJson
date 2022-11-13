@@ -2,6 +2,16 @@
     "Amoled": {
         "Images": [
             {
+                "id": 146,
+                "heroID": "Amoled146",
+                "downloads": 0,
+                "name": "Boss Kitty",
+                "designer": "Admin",
+                "size": "AdminKb",
+                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/2.png",
+                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/2-small.png"
+            },
+            {
                 "id": 145,
                 "heroID": "Amoled145",
                 "downloads": 0,
