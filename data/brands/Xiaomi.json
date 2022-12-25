@@ -2,6 +2,146 @@
     "Xiaomi": {
         "Images": [
             {
+                "id": 154,
+                "heroID": "Xiaomi154",
+                "downloads": 0,
+                "name": "Macaron 7 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron07_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron07_dark-small.png"
+            },
+            {
+                "id": 153,
+                "heroID": "Xiaomi153",
+                "downloads": 0,
+                "name": "Macaron 7 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron0.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron07-small.png"
+            },
+            {
+                "id": 152,
+                "heroID": "Xiaomi152",
+                "downloads": 0,
+                "name": "Macaron 6 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron06_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron06_dark-small.png"
+            },
+            {
+                "id": 151,
+                "heroID": "Xiaomi151",
+                "downloads": 0,
+                "name": "Macaron 6 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron06.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron06-small.png"
+            },
+            {
+                "id": 150,
+                "heroID": "Xiaomi150",
+                "downloads": 0,
+                "name": "Macaron 5 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron05_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron05_dark-small.png"
+            },
+            {
+                "id": 149,
+                "heroID": "Xiaomi149",
+                "downloads": 0,
+                "name": "Macaron 5 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron05.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron05-small.png"
+            },
+            {
+                "id": 148,
+                "heroID": "Xiaomi148",
+                "downloads": 0,
+                "name": "Macaron 4 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron04_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron04_dark-small.png"
+            },
+            {
+                "id": 147,
+                "heroID": "Xiaomi147",
+                "downloads": 0,
+                "name": "Macaron 4 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron04.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron04-small.png"
+            },
+            {
+                "id": 146,
+                "heroID": "Xiaomi146",
+                "downloads": 0,
+                "name": "Macaron 3 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron03_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron03_dark-small.png"
+            },
+            {
+                "id": 145,
+                "heroID": "Xiaomi145",
+                "downloads": 0,
+                "name": "Macaron 3 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron03.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron03-small.png"
+            },
+            {
+                "id": 144,
+                "heroID": "Xiaomi144",
+                "downloads": 0,
+                "name": "Macaron 2 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron02_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron02_dark-small.png"
+            },
+            {
+                "id": 143,
+                "heroID": "Xiaomi143",
+                "downloads": 0,
+                "name": "Macaron 2 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron02.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron02-small.png"
+            },
+            {
+                "id": 142,
+                "heroID": "Xiaomi142",
+                "downloads": 0,
+                "name": "Macaron 1 Dark",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron01_dark.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron01_dark-small.png"
+            },
+            {
+                "id": 141,
+                "heroID": "Xiaomi141",
+                "downloads": 0,
+                "name": "Macaron 1 Light",
+                "designer": "Xiaomi",
+                "size": "750Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Macaron01.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Macaron01-small.png"
+            },
+            {
                 "id": 140,
                 "heroID": "Xiaomi140",
                 "downloads": 0,
