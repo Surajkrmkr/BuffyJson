@@ -2,6 +2,136 @@
     "Xiaomi": {
         "Images": [
             {
+                "id": 167,
+                "heroID": "Xiaomi167",
+                "downloads": 0,
+                "name": "Curves 6",
+                "designer": "Xiaomi",
+                "size": "800Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Curves06.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Curves06-small.png"
+            },
+            {
+                "id": 166,
+                "heroID": "Xiaomi166",
+                "downloads": 0,
+                "name": "Curves 5",
+                "designer": "Xiaomi",
+                "size": "800Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Curves05.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Curves05-small.png"
+            },
+            {
+                "id": 165,
+                "heroID": "Xiaomi165",
+                "downloads": 0,
+                "name": "Curves 4",
+                "designer": "Xiaomi",
+                "size": "800Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Curves04.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Curves04-small.png"
+            },
+            {
+                "id": 164,
+                "heroID": "Xiaomi164",
+                "downloads": 0,
+                "name": "Curves 3",
+                "designer": "Xiaomi",
+                "size": "800Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Curves03.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Curves03-small.png"
+            },
+            {
+                "id": 163,
+                "heroID": "Xiaomi163",
+                "downloads": 0,
+                "name": "Curves 2",
+                "designer": "Xiaomi",
+                "size": "800Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Curves02.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Curves02-small.png"
+            },
+            {
+                "id": 162,
+                "heroID": "Xiaomi162",
+                "downloads": 0,
+                "name": "Curves 1",
+                "designer": "Xiaomi",
+                "size": "800Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Curves01.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/Curves01-small.png"
+            },
+            {
+                "id": 161,
+                "heroID": "Xiaomi161",
+                "downloads": 0,
+                "name": "Natural Texture 7",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture007.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture007-small.png"
+            },
+            {
+                "id": 160,
+                "heroID": "Xiaomi160",
+                "downloads": 0,
+                "name": "Natural Texture 6",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture006.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture006-small.png"
+            },
+            {
+                "id": 159,
+                "heroID": "Xiaomi159",
+                "downloads": 0,
+                "name": "Natural Texture 5",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture005.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture005-small.png"
+            },
+            {
+                "id": 158,
+                "heroID": "Xiaomi158",
+                "downloads": 0,
+                "name": "Natural Texture 4",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture004.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture004-small.png"
+            },
+            {
+                "id": 157,
+                "heroID": "Xiaomi157",
+                "downloads": 0,
+                "name": "Natural Texture 3",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture003.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture003-small.png"
+            },
+            {
+                "id": 156,
+                "heroID": "Xiaomi156",
+                "downloads": 0,
+                "name": "Natural Texture 2",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture002.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture002-small.png"
+            },
+            {
+                "id": 155,
+                "heroID": "Xiaomi155",
+                "downloads": 0,
+                "name": "Natural Texture 1",
+                "designer": "Xiaomi",
+                "size": "2.33Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/NaturalTexture001.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/NaturalTexture001-small.png"
+            },
+            {
                 "id": 154,
                 "heroID": "Xiaomi154",
                 "downloads": 0,
