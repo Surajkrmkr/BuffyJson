@@ -1,6 +1,90 @@
 {
     "popular": [
         {
+            "id": 594,
+            "heroID": "popular594",
+            "downloads": 0,
+            "name": "Christmas 7",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "100Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/7.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/7-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 593,
+            "heroID": "popular593",
+            "downloads": 0,
+            "name": "Christmas 6",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "219.42 KB",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/6.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/6-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 592,
+            "heroID": "popular592",
+            "downloads": 0,
+            "name": "Christmas 5",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "220Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/5.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/5-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 591,
+            "heroID": "popular591",
+            "downloads": 0,
+            "name": "Christmas 4",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "300Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/4.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/4-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 590,
+            "heroID": "popular590",
+            "downloads": 0,
+            "name": "Christmas 3",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "306Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/3.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/3-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 589,
+            "heroID": "popular589",
+            "downloads": 0,
+            "name": "Christmas 2",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "274Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/2.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/2-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 588,
+            "heroID": "popular588",
+            "downloads": 0,
+            "name": "Christmas 1",
+            "designer": "BuffyWalls",
+            "category": "Festivals",
+            "size": "362Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/1.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Festivals/Thumbnails/1-small.png",
+            "isPremium": true
+        },
+        {
             "id": 587,
             "heroID": "popular587",
             "downloads": 0,
