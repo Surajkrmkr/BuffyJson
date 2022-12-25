@@ -2,6 +2,66 @@
     "Xiaomi": {
         "Images": [
             {
+                "id": 173,
+                "heroID": "Xiaomi173",
+                "downloads": 0,
+                "name": "MIUI 14",
+                "designer": "Xiaomi",
+                "size": "931Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/MIUI01.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/MIUI01-small.png"
+            },
+            {
+                "id": 172,
+                "heroID": "Xiaomi172",
+                "downloads": 0,
+                "name": "MIUI 14",
+                "designer": "Xiaomi",
+                "size": "931Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/MIUI02.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/MIUI02-small.png"
+            },
+            {
+                "id": 171,
+                "heroID": "Xiaomi171",
+                "downloads": 0,
+                "name": "MIUI 14",
+                "designer": "Xiaomi",
+                "size": "2.15Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/MIUI03.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/MIUI03-small.png"
+            },
+            {
+                "id": 170,
+                "heroID": "Xiaomi170",
+                "downloads": 0,
+                "name": "MIUI 14",
+                "designer": "Xiaomi",
+                "size": "1.62Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/MIUI04.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/MIUI04-small.png"
+            },
+            {
+                "id": 169,
+                "heroID": "Xiaomi169",
+                "downloads": 0,
+                "name": "MIUI 14",
+                "designer": "Xiaomi",
+                "size": "1.04Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/MIUI05.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/MIUI05-small.png"
+            },
+            {
+                "id": 168,
+                "heroID": "Xiaomi168",
+                "downloads": 0,
+                "name": "MIUI 14",
+                "designer": "Xiaomi",
+                "size": "1.12Mb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/MIUI06.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/MIUI06-small.png"
+            },
+            {
                 "id": 167,
                 "heroID": "Xiaomi167",
                 "downloads": 0,
