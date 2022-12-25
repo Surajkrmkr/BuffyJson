@@ -2,6 +2,96 @@
     "Xiaomi": {
         "Images": [
             {
+                "id": 140,
+                "heroID": "Xiaomi140",
+                "downloads": 0,
+                "name": "Colored Glaze 9",
+                "designer": "Xiaomi",
+                "size": "496Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze09.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze09-small.png"
+            },
+            {
+                "id": 139,
+                "heroID": "Xiaomi139",
+                "downloads": 0,
+                "name": "Colored Glaze 8",
+                "designer": "Xiaomi",
+                "size": "477Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze08.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze08-small.png"
+            },
+            {
+                "id": 138,
+                "heroID": "Xiaomi138",
+                "downloads": 0,
+                "name": "Colored Glaze 7",
+                "designer": "Xiaomi",
+                "size": "494Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze07.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze07-small.png"
+            },
+            {
+                "id": 137,
+                "heroID": "Xiaomi137",
+                "downloads": 0,
+                "name": "Colored Glaze 6",
+                "designer": "Xiaomi",
+                "size": "473Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze06.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze06-small.png"
+            },
+            {
+                "id": 136,
+                "heroID": "Xiaomi136",
+                "downloads": 0,
+                "name": "Colored Glaze 5",
+                "designer": "Xiaomi",
+                "size": "527Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze05.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze05-small.png"
+            },
+            {
+                "id": 135,
+                "heroID": "Xiaomi135",
+                "downloads": 0,
+                "name": "Colored Glaze 4",
+                "designer": "Xiaomi",
+                "size": "478Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze04.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze04-small.png"
+            },
+            {
+                "id": 134,
+                "heroID": "Xiaomi134",
+                "downloads": 0,
+                "name": "Colored Glaze 3",
+                "designer": "Xiaomi",
+                "size": "579Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze03.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze03-small.png"
+            },
+            {
+                "id": 133,
+                "heroID": "Xiaomi133",
+                "downloads": 0,
+                "name": "Colored Glaze 2",
+                "designer": "Xiaomi",
+                "size": "418Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze02.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze02-small.png"
+            },
+            {
+                "id": 132,
+                "heroID": "Xiaomi132",
+                "downloads": 0,
+                "name": "Colored Glaze 1",
+                "designer": "Xiaomi",
+                "size": "488Kb",
+                "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/ColoredGlaze01.jpg",
+                "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Stock/MIUI/Thumbnails/ColoredGlaze01-small.png"
+            },
+            {
                 "id": 131,
                 "heroID": "Xiaomi131",
                 "downloads": 0,
