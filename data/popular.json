@@ -1,6 +1,78 @@
 {
     "popular": [
         {
+            "id": 600,
+            "heroID": "popular600",
+            "downloads": 0,
+            "name": "Wintertide 6",
+            "designer": "BuffyWalls",
+            "category": "Sessions",
+            "size": "806Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Wintertide%206.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Thumbnails/Wintertide%206-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 599,
+            "heroID": "popular599",
+            "downloads": 0,
+            "name": "Wintertide 5",
+            "designer": "BuffyWalls",
+            "category": "Sessions",
+            "size": "639Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Wintertide%205.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Thumbnails/Wintertide%205-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 598,
+            "heroID": "popular598",
+            "downloads": 0,
+            "name": "Wintertide 4",
+            "designer": "BuffyWalls",
+            "category": "Sessions",
+            "size": "812Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Wintertide%204.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Thumbnails/Wintertide%204-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 597,
+            "heroID": "popular597",
+            "downloads": 0,
+            "name": "Wintertide 3",
+            "designer": "BuffyWalls",
+            "category": "Sessions",
+            "size": "743Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Wintertide%203.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Thumbnails/Wintertide%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 596,
+            "heroID": "popular596",
+            "downloads": 0,
+            "name": "Wintertide 2",
+            "designer": "BuffyWalls",
+            "category": "Sessions",
+            "size": "779Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Wintertide%202.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Thumbnails/Wintertide%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 595,
+            "heroID": "popular595",
+            "downloads": 0,
+            "name": "Wintertide 1",
+            "designer": "BuffyWalls",
+            "category": "Sessions",
+            "size": "921Kb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Wintertide%201.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Sessions/Thumbnails/Wintertide%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 594,
             "heroID": "popular594",
             "downloads": 0,
