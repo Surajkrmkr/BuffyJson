@@ -1,6 +1,17 @@
 {
     "popular": [
         {
+            "id": 601,
+            "heroID": "popular601",
+            "downloads": 0,
+            "name": "Grudge Purple",
+            "designer": "BuffyWalls",
+            "category": "Gradient",
+            "size": "6.29Mb",
+            "imageUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Gradient/Gradient%201.png",
+            "compressUrl": "https://github.com/piyushkpv/Buffy_Wall_Data/raw/main/Gradient/Thumbnails/Gradient%201-small.png"
+        },
+        {
             "id": 600,
             "heroID": "popular600",
             "downloads": 0,
