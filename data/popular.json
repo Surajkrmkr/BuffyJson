@@ -1,6 +1,78 @@
 {
     "popular": [
         {
+            "id": 607,
+            "heroID": "popular607",
+            "downloads": 0,
+            "name": "Furr 6",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "2.57Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Furr%206.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Furr%206-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 606,
+            "heroID": "popular606",
+            "downloads": 0,
+            "name": "Furr 5",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "2.18Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Furr%205.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Furr%205-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 605,
+            "heroID": "popular605",
+            "downloads": 0,
+            "name": "Furr 4",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "2.13Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Furr%204.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Furr%204-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 604,
+            "heroID": "popular604",
+            "downloads": 0,
+            "name": "Furr 3",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "2.57Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Furr%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Furr%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 603,
+            "heroID": "popular603",
+            "downloads": 0,
+            "name": "Furr 2",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "2.43Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Furr%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Furr%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 602,
+            "heroID": "popular602",
+            "downloads": 0,
+            "name": "Furr 1",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "2.35Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Furr%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Furr%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 601,
             "heroID": "popular601",
             "downloads": 0,
