@@ -2,6 +2,66 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 79,
+                "heroID": "Super Heroes79",
+                "downloads": 0,
+                "name": "Baby Marvel",
+                "designer": "Buffy",
+                "size": "2.71Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Marvel%206.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Marvel%206-small.png"
+            },
+            {
+                "id": 78,
+                "heroID": "Super Heroes78",
+                "downloads": 0,
+                "name": "Baby Marvel",
+                "designer": "Buffy",
+                "size": "2.32Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Marvel%205.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Marvel%205-small.png"
+            },
+            {
+                "id": 77,
+                "heroID": "Super Heroes77",
+                "downloads": 0,
+                "name": "Baby Marvel",
+                "designer": "Buffy",
+                "size": "2.64Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Marvel%204.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Marvel%204-small.png"
+            },
+            {
+                "id": 76,
+                "heroID": "Super Heroes76",
+                "downloads": 0,
+                "name": "Baby Marvel",
+                "designer": "Buffy",
+                "size": "2.64Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Marvel%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Marvel%203-small.png"
+            },
+            {
+                "id": 75,
+                "heroID": "Super Heroes75",
+                "downloads": 0,
+                "name": "Baby Marvel",
+                "designer": "Buffy",
+                "size": "2.57Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Marvel%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Marvel%202-small.png"
+            },
+            {
+                "id": 74,
+                "heroID": "Super Heroes74",
+                "downloads": 0,
+                "name": "Baby Marvel",
+                "designer": "Buffy",
+                "size": "2.4Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Marvel%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Marvel%201-small.png"
+            },
+            {
                 "id": 73,
                 "heroID": "Super Heroes73",
                 "downloads": 0,
