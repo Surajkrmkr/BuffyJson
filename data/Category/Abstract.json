@@ -2,6 +2,50 @@
     "Abstract": {
         "Images": [
             {
+                "id": 180,
+                "heroID": "Abstract180",
+                "downloads": 0,
+                "name": "Wavy Pattern",
+                "designer": "Piyush KPV",
+                "size": "390Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Wavy%20Pattern%204.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Wavy%20Pattern%204-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 179,
+                "heroID": "Abstract179",
+                "downloads": 0,
+                "name": "Wavy Pattern",
+                "designer": "Piyush KPV",
+                "size": "345Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Wavy%20Pattern%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Wavy%20Pattern%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 178,
+                "heroID": "Abstract178",
+                "downloads": 0,
+                "name": "Wavy Pattern",
+                "designer": "Piyush KPV",
+                "size": "508Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Wavy%20Pattern%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Wavy%20Pattern%201-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 177,
+                "heroID": "Abstract177",
+                "downloads": 0,
+                "name": "Wavy Pattern",
+                "designer": "Piyush KPV",
+                "size": "366Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Wavy%20Pattern%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Wavy%20Pattern%202-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 176,
                 "heroID": "Abstract176",
                 "downloads": 0,
