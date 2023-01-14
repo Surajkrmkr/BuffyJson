@@ -1,29 +1,19 @@
 {
   "Featured": [
     {
-      "redirectUrl": "https://play.google.com/store/apps/details?id=beehomie.something.app",
+      "redirectUrl": "https://t.me/ShadowShowcase",
       "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/20220730_161923.png"
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Buffy%203.png"
     },
     {
-      "redirectUrl": "https://play.google.com/store/apps/details?id=beehomie.wigragit.kwgt",
+      "redirectUrl": "",
       "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Feature-Walls-Brand/raw/main/20220829_091724.png"
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Buffy%202.png"
     },
     {
-      "redirectUrl": "https://bit.ly/StellarWalls",
+      "redirectUrl": "https://twitter.com/BuffyWallss",
       "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/PROMO%20BANNER.png"
-    },
-    {
-      "redirectUrl": "https://t.me/ShadowCreations",
-      "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/6.png"
-    },
-    {
-      "redirectUrl": "https://www.instagram.com/buffywallss/",
-      "id": 1,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/7.png"
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Buffy%201.png"
     }
   ]
 }
