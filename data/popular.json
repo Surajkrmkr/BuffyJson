@@ -1,6 +1,72 @@
 {
     "popular": [
         {
+            "id": 622,
+            "heroID": "popular622",
+            "downloads": 0,
+            "name": "Gradient",
+            "designer": "Piyush KPV",
+            "category": "Gradient",
+            "size": "6.19Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Gradient%20.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Thumbnail/Gradient%206-small.png"
+        },
+        {
+            "id": 621,
+            "heroID": "popular621",
+            "downloads": 0,
+            "name": "Gradient",
+            "designer": "Piyush KPV",
+            "category": "Gradient",
+            "size": "3.24Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Gradient%205.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Thumbnail/Gradient%205-small.png"
+        },
+        {
+            "id": 620,
+            "heroID": "popular620",
+            "downloads": 0,
+            "name": "Gradient",
+            "designer": "Piyush KPV",
+            "category": "Gradient",
+            "size": "3.03Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Gradient%204.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Thumbnail/Gradient%204-small.png"
+        },
+        {
+            "id": 619,
+            "heroID": "popular619",
+            "downloads": 0,
+            "name": "Gradient",
+            "designer": "Piyush KPV",
+            "category": "Gradient",
+            "size": "1.61Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Gradient%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Thumbnail/Gradient%203-small.png"
+        },
+        {
+            "id": 618,
+            "heroID": "popular618",
+            "downloads": 0,
+            "name": "Gradient",
+            "designer": "Piyush KPV",
+            "category": "Gradient",
+            "size": "3.39Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Gradient%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Thumbnail/Gradient%202-small.png"
+        },
+        {
+            "id": 617,
+            "heroID": "popular617",
+            "downloads": 0,
+            "name": "Gradient",
+            "designer": "Piyush KPV",
+            "category": "Gradient",
+            "size": "4.04Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Gradient%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Gradient/Thumbnail/Gradient%201-small.png"
+        },
+        {
             "id": 616,
             "heroID": "popular616",
             "downloads": 0,
