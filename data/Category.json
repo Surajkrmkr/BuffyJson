@@ -31,7 +31,7 @@
       "__collections__": {}
     },
     {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2042.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Gradient.png",
       "name": "Gradient",
       "id": 8,
       "__collections__": {}
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "name": "Anime",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2037.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Anime.png",
       "__collections__": {}
     },
     {
@@ -61,7 +61,7 @@
       "__collections__": {}
     },
     {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2034.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
       "name": "Super Heroes",
       "id": 19,
       "__collections__": {}
@@ -74,7 +74,7 @@
     },
     {
       "name": "Nature",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2031.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Nature.png",
       "id": 13,
       "__collections__": {}
     },
@@ -99,25 +99,25 @@
     {
       "id": 5,
       "name": "Cartoon",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2027.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Cartoon.png",
       "__collections__": {}
     },
     {
       "id": 3,
       "name": "Animals",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2026.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Animals.png",
       "__collections__": {}
     },
     {
       "id": 1,
       "name": "Abstract",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2024.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Abstract.png",
       "__collections__": {}
     },
     {
       "name": "Amoled",
       "id": 2,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2025.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Amoled.png",
       "__collections__": {}
     }
   ]
