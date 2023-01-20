@@ -2,19 +2,19 @@
   "Category": [
     {
       "name": "Minimal Illustration",
-      "id": 19,
+      "id": 10,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
       "__collections__": {}
     },
     {
       "name": "Night Life",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2040.png",
-      "id": 18,
+      "id": 14,
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2039.png",
-      "id": 17,
+      "id": 18,
       "name": "Sunview",
       "__collections__": {}
     },
@@ -27,17 +27,23 @@
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2042.png",
       "name": "Games",
-      "id": 15,
+      "id": 7,
       "__collections__": {}
     },
     {
-      "id": 14,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2042.png",
+      "name": "Gradient",
+      "id": 8,
+      "__collections__": {}
+    },
+    {
+      "id": 4,
       "name": "Anime",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2037.png",
       "__collections__": {}
     },
     {
-      "id": 13,
+      "id": 17,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2036.png",
       "name": "Sci-Fi",
       "__collections__": {}
@@ -51,47 +57,47 @@
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2033.png",
       "name": "Suraj",
-      "id": 11,
+      "id": 20,
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2034.png",
       "name": "Super Heroes",
-      "id": 10,
+      "id": 19,
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2035.png",
       "name": "Pastel",
-      "id": 9,
+      "id": 15,
       "__collections__": {}
     },
     {
       "name": "Nature",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2031.png",
-      "id": 8,
+      "id": 13,
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2030.png",
-      "id": 7,
+      "id": 11,
       "name": "Minimal",
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2029.png",
-      "id": 6,
+      "id": 9,
       "name": "Horror",
       "__collections__": {}
     },
     {
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2028.png",
-      "id": 5,
+      "id": 6,
       "name": "Creative",
       "__collections__": {}
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Cartoon",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2027.png",
       "__collections__": {}
@@ -103,14 +109,14 @@
       "__collections__": {}
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Abstract",
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2024.png",
       "__collections__": {}
     },
     {
       "name": "Amoled",
-      "id": 1,
+      "id": 2,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2025.png",
       "__collections__": {}
     }
