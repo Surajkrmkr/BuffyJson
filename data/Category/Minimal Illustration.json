@@ -2,6 +2,61 @@
     "Minimal Illustration": {
         "Images": [
             {
+                "id": 34,
+                "heroID": "Minimal Illustration34",
+                "downloads": 0,
+                "name": "Pixel Art 05",
+                "designer": "Piyush KPV",
+                "size": "2.44Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%205.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%205-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 33,
+                "heroID": "Minimal Illustration33",
+                "downloads": 0,
+                "name": "Pixel Art 04",
+                "designer": "Piyush KPV",
+                "size": "1.86Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%204.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%204-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 32,
+                "heroID": "Minimal Illustration32",
+                "downloads": 0,
+                "name": "Pixel Art 03",
+                "designer": "Piyush KPV",
+                "size": "1.87Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 31,
+                "heroID": "Minimal Illustration31",
+                "downloads": 0,
+                "name": "Pixel Art 02",
+                "designer": "Piyush KPV",
+                "size": "2.41Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 30,
+                "heroID": "Minimal Illustration30",
+                "downloads": 0,
+                "name": "Pixel Art 01",
+                "designer": "Piyush KPV",
+                "size": "2.17Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 29,
                 "heroID": "Minimal Illustration29",
                 "downloads": 0,
