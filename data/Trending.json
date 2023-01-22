@@ -1,6 +1,66 @@
 {
     "Trending": [
         {
+            "id": 166,
+            "heroID": "Trending166",
+            "downloads": 0,
+            "name": "Pixel Art 05",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "2.44Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%205.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%205-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 165,
+            "heroID": "Trending165",
+            "downloads": 0,
+            "name": "Pixel Art 04",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "1.86Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%204.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%204-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 164,
+            "heroID": "Trending164",
+            "downloads": 0,
+            "name": "Pixel Art 03",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "1.87Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 163,
+            "heroID": "Trending163",
+            "downloads": 0,
+            "name": "Pixel Art 02",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "2.41Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 162,
+            "heroID": "Trending162",
+            "downloads": 0,
+            "name": "Pixel Art 01",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "2.17Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Pixel%20%20Art%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Pixel%20%20Art%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 161,
             "heroID": "Trending161",
             "downloads": 0,
