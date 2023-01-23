@@ -2,6 +2,48 @@
     "Animals": {
         "Images": [
             {
+                "id": 53,
+                "heroID": "Animals53",
+                "downloads": 0,
+                "name": "Cute Bird 04",
+                "designer": "Piyush KPV",
+                "size": "2.14Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%204.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%204-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 52,
+                "heroID": "Animals52",
+                "downloads": 0,
+                "name": "Cute Bird 03",
+                "designer": "Piyush KPV",
+                "size": "2.33Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 51,
+                "heroID": "Animals51",
+                "downloads": 0,
+                "name": "Cute Bird 02",
+                "designer": "Piyush KPV",
+                "size": "1.19Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%202-small.png"
+            },
+            {
+                "id": 50,
+                "heroID": "Animals50",
+                "downloads": 0,
+                "name": "Cute Bird 01",
+                "designer": "Piyush KPV",
+                "size": "2.25Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%201-small.png"
+            },
+            {
                 "id": 49,
                 "heroID": "Animals49",
                 "downloads": 0,

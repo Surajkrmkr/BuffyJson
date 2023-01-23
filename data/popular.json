@@ -1,6 +1,52 @@
 {
     "popular": [
         {
+            "id": 631,
+            "heroID": "popular631",
+            "downloads": 0,
+            "name": "Cute Bird 04",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "2.14Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%204.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%204-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 630,
+            "heroID": "popular630",
+            "downloads": 0,
+            "name": "Cute Bird 03",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "2.33Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 629,
+            "heroID": "popular629",
+            "downloads": 0,
+            "name": "Cute Bird 02",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "1.19Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%202-small.png"
+        },
+        {
+            "id": 628,
+            "heroID": "popular628",
+            "downloads": 0,
+            "name": "Cute Bird 01",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "2.25Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Bird%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Bird%201-small.png"
+        },
+        {
             "id": 627,
             "heroID": "popular627",
             "downloads": 0,
