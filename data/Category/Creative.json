@@ -2,6 +2,72 @@
     "Creative": {
         "Images": [
             {
+                "id": 75,
+                "heroID": "Creative75",
+                "downloads": 0,
+                "name": "MysticLand 06",
+                "designer": "Piyush KPV",
+                "size": "2.14Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mysticland%206.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mysticland%206-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 74,
+                "heroID": "Creative74",
+                "downloads": 0,
+                "name": "MysticLand 05",
+                "designer": "Piyush KPV",
+                "size": "2.42Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mysticland%205.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mysticland%205-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 73,
+                "heroID": "Creative73",
+                "downloads": 0,
+                "name": "MysticLand 04",
+                "designer": "Piyush KPV",
+                "size": "2.59Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mysticland%204.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mysticland%204-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 72,
+                "heroID": "Creative72",
+                "downloads": 0,
+                "name": "MysticLand 03",
+                "designer": "Piyush KPV",
+                "size": "3.91Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mysticland%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mysticland%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 71,
+                "heroID": "Creative71",
+                "downloads": 0,
+                "name": "MysticLand 02",
+                "designer": "Piyush KPV",
+                "size": "2.48Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mysticland%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mysticland%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 70,
+                "heroID": "Creative70",
+                "downloads": 0,
+                "name": "MysticLand 01",
+                "designer": "Piyush KPV",
+                "size": "2.65Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mysticland%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mysticland%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 69,
                 "heroID": "Creative69",
                 "downloads": 0,
