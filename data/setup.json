@@ -1,6 +1,36 @@
 {
     "setup": [
         {
+            "id": 211,
+            "author": "Raghav ",
+            "kwgt": "Minima KWGT",
+            "iconpack": "Lena ",
+            "image": "BuffyWalls",
+            "launcher": "Nova Launcher ",
+            "authorLink": "https://twitter.com/RaghavK39903778?t=lRHyYFh3mlNS27kJfsAFFg&s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.stark.minima",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=one4studio.iconpack.lena",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree&hl=en_IN&gl=US",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree&hl=en_IN&gl=US",
+            "name": "Amoled Abstract",
+            "setupImageLink": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Buffy%20Setups/amoled%20abstract%20by%20raghav.jpg"
+        },
+        {
+            "id": 210,
+            "author": "Raghav ",
+            "kwgt": "Minima KWGT - 543, 575",
+            "iconpack": "Vaness Icon Pack ",
+            "image": "BuffyWalls",
+            "launcher": "Nova Launcher ",
+            "authorLink": "https://twitter.com/RaghavK39903778?t=lRHyYFh3mlNS27kJfsAFFg&s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.stark.minima",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.vaness.iconpack.app",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree&hl=en_IN&gl=US",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree&hl=en_IN&gl=US",
+            "name": "Calm Evening",
+            "setupImageLink": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Buffy%20Setups/calm%20evening%20by%20raghav.jpg"
+        },
+        {
             "id": 209,
             "author": "Adya",
             "kwgt": "Sheer KWGT",
