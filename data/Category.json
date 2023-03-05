@@ -1,6 +1,12 @@
 {
   "Category": [
     {
+      "name": "Celebrations",
+      "id": 21,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
+      "__collections__": {}
+    },
+    {
       "name": "Minimal Illustration",
       "id": 10,
       "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",

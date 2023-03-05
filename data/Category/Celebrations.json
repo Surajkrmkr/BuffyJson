@@ -1,0 +1,57 @@
+{
+    "Gradient": {
+       "Images" : [
+        {
+            "id": 5,
+            "heroID": "Celbrations5",
+            "downloads": 0,
+            "name": "Holi 5",
+            "designer": "Piyush KPV",
+            "size": "2.49Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%205.png.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%205-small.png"
+        },
+        {
+            "id": 4,
+            "heroID": "Celbrations4",
+            "downloads": 0,
+            "name": "Holi 4",
+            "designer": "Piyush KPV",
+            "size": "2.62Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%204.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%204-small.png"
+        },
+        {
+            "id": 3,
+            "heroID": "Celbrations3",
+            "downloads": 0,
+            "name": "Holi 3",
+            "designer": "Piyush KPV",
+            "size": "1.87Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%203-small.png"
+        },
+            {
+                "id": 2,
+                "heroID": "Celbrations2",
+                "downloads": 0,
+                "name": "Holi 2",
+                "designer": "Piyush KPV",
+                "size": "1.48Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%202-small.png"
+            },
+            {
+                "id": 1,
+                "heroID": "Celbrations1",
+                "downloads": 0,
+                "name": "Holi 1",
+                "designer": "Piyush KPV",
+                "size": "1.65Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%201-small.png"
+            }
+        ]
+    }
+    
+    }
