@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 660,
+            "heroID": "popular660",
+            "downloads": 0,
+            "name": "Lighthouse",
+            "designer": "Piyush KPV",
+            "size": "2.44Mb",
+            "category":"Minimal Illustration",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Lighthouse.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Lighthouse-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 659,
+            "heroID": "popular659",
+            "downloads": 0,
+            "name": "Baby Phoenix",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "1.11Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Baby%20Phoenix.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Baby%20Phoenix-small.png",
+            "isPremium": true
+        },
+        {
             "id": 658,
             "heroID": "popular658",
             "downloads": 0,

@@ -2,6 +2,17 @@
     "Minimal Illustration": {
         "Images": [
             {
+                "id": 35,
+                "heroID": "Minimal Illustration35",
+                "downloads": 0,
+                "name": "Lighthouse",
+                "designer": "Piyush KPV",
+                "size": "2.44Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Lighthouse.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Lighthouse-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 34,
                 "heroID": "Minimal Illustration34",
                 "downloads": 0,
