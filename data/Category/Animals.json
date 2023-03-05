@@ -2,6 +2,17 @@
     "Animals": {
         "Images": [
             {
+                "id": 54,
+                "heroID": "Animals54",
+                "downloads": 0,
+                "name": "Baby Phoenix",
+                "designer": "Piyush KPV",
+                "size": "1.11Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Baby%20Phoenix.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Baby%20Phoenix-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 53,
                 "heroID": "Animals53",
                 "downloads": 0,
