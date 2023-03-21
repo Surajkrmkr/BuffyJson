@@ -1,6 +1,51 @@
 {
     "setup": [
         {
+            "id": 214,
+            "author": "Raghav ",
+            "kwgt": "Minima KWGT  - 522,524",
+            "iconpack": "Ares",
+            "image": "Minimal 57",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://twitter.com/RaghavK39903778?t=lRHyYFh3mlNS27kJfsAFFg&s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.stark.minima",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=one4studio.iconpack.ares",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Sweet ",
+            "setupImageLink": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Buffy%20Setups/Sweet.jpg"
+        },
+        {
+            "id": 213,
+            "author": "Raghav ",
+            "kwgt": "Gem - 002",
+            "iconpack": "Reev Dark ",
+            "image": "Minimal 07",
+            "launcher": "Nova Launcher",
+            "authorLink": "https://twitter.com/RaghavK39903778?t=lRHyYFh3mlNS27kJfsAFFg&s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=com.gemkwgtbyahmad.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.reevdark.grabsterstudios",
+            "imageLink": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallsfree",
+            "launcherLink": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_IN&gl=US",
+            "name": "Study Leaves V2",
+            "setupImageLink": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Buffy%20Setups/Study%20Leaves%20V2.jpg"
+        },
+        {
+            "id": 212,
+            "author": "batsy101",
+            "kwgt": "Lhotse Kwgt ",
+            "iconpack": "Maya icon pack ",
+            "image": "Arthea walls",
+            "launcher": "Lawnchair 2",
+            "authorLink": "https://twitter.com/Th3batMANXD?t=au_dieuDnMDih0rGT2Tb2g&s=09",
+            "kwgtLink": "https://play.google.com/store/apps/details?id=lhotsekwgt.kustom.pack",
+            "iconpackLink": "https://play.google.com/store/apps/details?id=com.mayaicons.app",
+            "imageLink": "https://play.google.com/store/apps/details?id=arthea.walls.droidbeauty.pack",
+            "launcherLink": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_IN&gl=US",
+            "name": "\u2728Colors \u2728",
+            "setupImageLink": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Buffy%20Setups/%E2%9C%A8Colors%20%E2%9C%A8.png"
+        },
+        {
             "id": 211,
             "author": "Raghav ",
             "kwgt": "Minima KWGT",
