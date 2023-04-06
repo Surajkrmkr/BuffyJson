@@ -2,6 +2,26 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 81,
+                "heroID": "Super Heroes81",
+                "downloads": 0,
+                "name": "Minnion Spider-man",
+                "designer": "Buffywalls",
+                "size": "1.85Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Minnion%20Spider-man.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Minnion%20Spider-man-small.png"
+            },
+            {
+                "id": 80,
+                "heroID": "Super Heroes80",
+                "downloads": 0,
+                "name": "Black Panther",
+                "designer": "Buffywalls",
+                "size": "2.16Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Black%20Panther.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Black%20Panther-small.png"
+            },
+            {
                 "id": 79,
                 "heroID": "Super Heroes79",
                 "downloads": 0,

@@ -1,13 +1,112 @@
 {
     "popular": [
         {
+            "id": 669,
+            "heroID": "popular669",
+            "downloads": 0,
+            "name": "Minnion Spider-man",
+            "designer": "Buffywalls",
+            "category": "Super Heroes",
+            "size": "1.85Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Minnion%20Spider-man.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Minnion%20Spider-man-small.png"
+        },
+        {
+            "id": 668,
+            "heroID": "popular668",
+            "downloads": 0,
+            "name": "Black Panther",
+            "designer": "Buffywalls",
+            "category": "Super Heroes",
+            "size": "2.16Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Black%20Panther.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Black%20Panther-small.png"
+        },
+        {
+            "id": 667,
+            "heroID": "popular667",
+            "downloads": 0,
+            "name": "Cute Ghost",
+            "designer": "Buffywalls",
+            "category": "Horror",
+            "size": "1.3Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Cute%20Ghst.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Cute%20Ghst-small.png"
+        },
+        {
+            "id": 666,
+            "heroID": "popular666",
+            "downloads": 0,
+            "name": "The Neon Nike",
+            "designer": "Buffywalls",
+            "category": "Creative",
+            "size": "2.57MMb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/The%20Neon%20Nike.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/The%20Neon%20Nike-small.png"
+        },
+        {
+            "id": 665,
+            "heroID": "popular665",
+            "downloads": 0,
+            "name": "Nike Yellow",
+            "designer": "Buffywalls",
+            "category": "Creative",
+            "size": "2.79Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Nike%20Yellow.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Nike%20Yellow-small.png"
+        },
+        {
+            "id": 664,
+            "heroID": "popular664",
+            "downloads": 0,
+            "name": "Mclaren Orange",
+            "designer": "Buffywalls",
+            "category": "Creative",
+            "size": "1.81Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Mclaren%20orange.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Mclaren%20orange-small.png"
+        },
+        {
+            "id": 663,
+            "heroID": "popular663",
+            "downloads": 0,
+            "name": "Glowing Nike",
+            "designer": "Buffywalls",
+            "category": "Creative",
+            "size": "1.63Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Glowing%20Nike.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Glowing%20Nike-small.png"
+        },
+        {
+            "id": 662,
+            "heroID": "popular662",
+            "downloads": 0,
+            "name": "Cyberpunk",
+            "designer": "Bufyywalls",
+            "category": "Creative",
+            "size": "1.48Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Cyberpunk.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Cyberpunk-small.png"
+        },
+        {
+            "id": 661,
+            "heroID": "popular661",
+            "downloads": 0,
+            "name": "Spotlight",
+            "designer": "BuffyWalls",
+            "category": "Abstract",
+            "size": "1.08Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Spotlight.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Spotlight-small.png"
+        },
+        {
             "id": 660,
             "heroID": "popular660",
             "downloads": 0,
             "name": "Lighthouse",
             "designer": "Piyush KPV",
             "size": "2.44Mb",
-            "category":"Minimal Illustration",
+            "category": "Minimal Illustration",
             "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Lighthouse.png",
             "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Lighthouse-small.png",
             "isPremium": true
@@ -57,28 +156,28 @@
             "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%203.png",
             "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%203-small.png"
         },
-            {
-                "id": 655,
-                "heroID": "popular655",
-                "downloads": 0,
-                "name": "Holi 2",
-                "designer": "Piyush KPV",
-                "category": "Celebrations",
-                "size": "1.48Mb",
-                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%202.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%202-small.png"
-            },
-            {
-                "id": 654,
-                "heroID": "popular654",
-                "downloads": 0,
-                "name": "Holi 1",
-                "designer": "Piyush KPV",
-                "category": "Celebrations",
-                "size": "1.65Mb",
-                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%201.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%201-small.png"
-            },
+        {
+            "id": 655,
+            "heroID": "popular655",
+            "downloads": 0,
+            "name": "Holi 2",
+            "designer": "Piyush KPV",
+            "category": "Celebrations",
+            "size": "1.48Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%202-small.png"
+        },
+        {
+            "id": 654,
+            "heroID": "popular654",
+            "downloads": 0,
+            "name": "Holi 1",
+            "designer": "Piyush KPV",
+            "category": "Celebrations",
+            "size": "1.65Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Holi%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Celebrations/Thumbnail/Holi%201-small.png"
+        },
         {
             "id": 653,
             "heroID": "popular653",
