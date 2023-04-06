@@ -2,6 +2,16 @@
     "Horror": {
         "Images": [
             {
+                "id": 53,
+                "heroID": "Horror53",
+                "downloads": 0,
+                "name": "Cute Ghost",
+                "designer": "Buffywalls",
+                "size": "1.3Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Cute%20Ghst.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Cute%20Ghst-small.png"
+            },
+            {
                 "id": 52,
                 "heroID": "Horror52",
                 "downloads": 0,
