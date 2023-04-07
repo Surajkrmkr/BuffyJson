@@ -2,6 +2,26 @@
     "Minimal Illustration": {
         "Images": [
             {
+                "id": 37,
+                "heroID": "Minimal Illustration37",
+                "downloads": 0,
+                "name": "Valley View",
+                "designer": "Buffywalls",
+                "size": "1.81Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Valley%20View.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Valley%20View-small.png"
+            },
+            {
+                "id": 36,
+                "heroID": "Minimal Illustration36",
+                "downloads": 0,
+                "name": "Tokyo Art",
+                "designer": "Buffywalls",
+                "size": "1.37Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Tokyo.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Tokyo-small.png"
+            },
+            {
                 "id": 35,
                 "heroID": "Minimal Illustration35",
                 "downloads": 0,

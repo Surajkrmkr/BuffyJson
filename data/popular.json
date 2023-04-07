@@ -1,6 +1,98 @@
 {
     "popular": [
         {
+            "id": 677,
+            "heroID": "popular677",
+            "downloads": 0,
+            "name": "Valley View",
+            "designer": "Buffywalls",
+            "category": "Minimal Illustration",
+            "size": "1.81Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Valley%20View.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Valley%20View-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 676,
+            "heroID": "popular676",
+            "downloads": 0,
+            "name": "Tokyo Art",
+            "designer": "Buffywalls",
+            "category": "Minimal Illustration",
+            "size": "1.37Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Tokyo.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Tokyo-small.png"
+        },
+        {
+            "id": 675,
+            "heroID": "popular675",
+            "downloads": 0,
+            "name": "Night Glory",
+            "designer": "Buffywalls",
+            "category": "Nature",
+            "size": "1000Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Night%20Glore.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Night%20Glore-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 674,
+            "heroID": "popular674",
+            "downloads": 0,
+            "name": "Nature's Peace",
+            "designer": "Buffywalls",
+            "category": "Nature",
+            "size": "1.24Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Nature's%20Peace.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Nature's%20Peace-small.png"
+        },
+        {
+            "id": 673,
+            "heroID": "popular673",
+            "downloads": 0,
+            "name": "Dahlia",
+            "designer": "Buffywalls",
+            "category": "Nature",
+            "size": "1.99Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dahlia.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dahlia-small.png"
+        },
+        {
+            "id": 672,
+            "heroID": "popular672",
+            "downloads": 0,
+            "name": "Owl on the tree",
+            "designer": "Buffywalls",
+            "category": "Animals",
+            "size": "2mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Owl%20on%20the%20tree.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Owl%20on%20the%20tree-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 671,
+            "heroID": "popular671",
+            "downloads": 0,
+            "name": "Bloomed Eagle",
+            "designer": "Buffywalls",
+            "category": "Animals",
+            "size": "2.60Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Bloomed%20Eagle.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Bloomed%20Eagle-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 670,
+            "heroID": "popular670",
+            "downloads": 0,
+            "name": "Koooooo",
+            "designer": "Buffywalls",
+            "category": "Animals",
+            "size": "1.66Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Koooooo.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Koooooo-small.png"
+        },
+        {
             "id": 669,
             "heroID": "popular669",
             "downloads": 0,
