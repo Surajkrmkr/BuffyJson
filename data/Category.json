@@ -33,7 +33,7 @@
     {
       "name": "Celebrations",
       "id": 6,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Celebrationsng",
       "__collections__": {}
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "Foody",
       "id": 8,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Foody.png",
       "__collections__": {}
     },
     {
@@ -92,18 +92,18 @@
     },
     {
       "name": "Night Life",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2040.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Night%20Life.png",
       "id": 16,
       "__collections__": {}
     },
     {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2035.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Pastel.png",
       "name": "Pastel",
       "id": 17,
       "__collections__": {}
     },
     {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2039.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Sunview.png",
       "id": 18,
       "name": "Sunview",
       "__collections__": {}
@@ -115,7 +115,7 @@
       "__collections__": {}
     },
     {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2033.png",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Suraj.png",
       "name": "Suraj",
       "id": 20,
       "__collections__": {}
