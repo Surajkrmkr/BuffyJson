@@ -2,6 +2,36 @@
     "Nature": {
         "Images": [
             {
+                "id": 124,
+                "heroID": "Nature124",
+                "downloads": 0,
+                "name": "Night Glory",
+                "designer": "Buffywalls",
+                "size": "1000Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Night%20Glore.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Night%20Glore-small.png"
+            },
+            {
+                "id": 123,
+                "heroID": "Nature123",
+                "downloads": 0,
+                "name": "Nature's Peace",
+                "designer": "Buffywalls",
+                "size": "1.24Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Nature's%20Peace.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Nature's%20Peace-small.png"
+            },
+            {
+                "id": 122,
+                "heroID": "Nature122",
+                "downloads": 0,
+                "name": "Dahlia",
+                "designer": "Buffywalls",
+                "size": "1.99Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dahlia.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dahlia-small.png"
+            },
+            {
                 "id": 121,
                 "heroID": "Nature121",
                 "downloads": 0,

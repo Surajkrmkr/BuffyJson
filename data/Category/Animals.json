@@ -2,6 +2,36 @@
     "Animals": {
         "Images": [
             {
+                "id": 57,
+                "heroID": "Animals57",
+                "downloads": 0,
+                "name": "Owl on the tree",
+                "designer": "Buffywalls",
+                "size": "2mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Owl%20on%20the%20tree.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Owl%20on%20the%20tree-small.png"
+            },
+            {
+                "id": 56,
+                "heroID": "Animals56",
+                "downloads": 0,
+                "name": "Bloomed Eagle",
+                "designer": "Buffywalls",
+                "size": "2.60Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Bloomed%20Eagle.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Bloomed%20Eagle-small.png"
+            },
+            {
+                "id": 55,
+                "heroID": "Animals55",
+                "downloads": 0,
+                "name": "Koooooo",
+                "designer": "Buffywalls",
+                "size": "1.66Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Koooooo.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Koooooo-small.png"
+            },
+            {
                 "id": 54,
                 "heroID": "Animals54",
                 "downloads": 0,
