@@ -1,126 +1,6 @@
 {
   "Category": [
     {
-      "name": "Foody",
-      "id": 22,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
-      "__collections__": {}
-    },
-    {
-      "name": "Celebrations",
-      "id": 21,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
-      "__collections__": {}
-    },
-    {
-      "name": "Minimal Illustration",
-      "id": 10,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
-      "__collections__": {}
-    },
-    {
-      "name": "Night Life",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2040.png",
-      "id": 14,
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2039.png",
-      "id": 18,
-      "name": "Sunview",
-      "__collections__": {}
-    },
-    {
-      "name": "Pathways",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2038.png",
-      "id": 16,
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2042.png",
-      "name": "Games",
-      "id": 7,
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Gradient.png",
-      "name": "Gradient",
-      "id": 8,
-      "__collections__": {}
-    },
-    {
-      "id": 4,
-      "name": "Anime",
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Anime.png",
-      "__collections__": {}
-    },
-    {
-      "id": 17,
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2036.png",
-      "name": "Sci-Fi",
-      "__collections__": {}
-    },
-    {
-      "id": 12,
-      "name": "Movies",
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2032.png",
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2033.png",
-      "name": "Suraj",
-      "id": 20,
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
-      "name": "Super Heroes",
-      "id": 19,
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2035.png",
-      "name": "Pastel",
-      "id": 15,
-      "__collections__": {}
-    },
-    {
-      "name": "Nature",
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Nature.png",
-      "id": 13,
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2030.png",
-      "id": 11,
-      "name": "Minimal",
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2029.png",
-      "id": 9,
-      "name": "Horror",
-      "__collections__": {}
-    },
-    {
-      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2028.png",
-      "id": 6,
-      "name": "Creative",
-      "__collections__": {}
-    },
-    {
-      "id": 5,
-      "name": "Cartoon",
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Cartoon.png",
-      "__collections__": {}
-    },
-    {
-      "id": 3,
-      "name": "Animals",
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Animals.png",
-      "__collections__": {}
-    },
-    {
       "id": 1,
       "name": "Abstract",
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Abstract.png",
@@ -130,6 +10,114 @@
       "name": "Amoled",
       "id": 2,
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Amoled.png",
+      "__collections__": {}
+    },
+    {
+      "id": 3,
+      "name": "Animals",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Animals.png",
+      "__collections__": {}
+    },
+    {
+      "id": 4,
+      "name": "Anime",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Anime.png",
+      "__collections__": {}
+    },
+    {
+      "id": 5,
+      "name": "Cartoon",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Cartoon.png",
+      "__collections__": {}
+    },
+    {
+      "name": "Celebrations",
+      "id": 6,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Creative.png",
+      "id": 7,
+      "name": "Creative",
+      "__collections__": {}
+    },
+    {
+      "name": "Foody",
+      "id": 8,
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2041.png",
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Games.png",
+      "name": "Games",
+      "id": 9,
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Gradient.png",
+      "name": "Gradient",
+      "id": 10,
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Horror.png",
+      "id": 11,
+      "name": "Horror",
+      "__collections__": {}
+    },
+    {
+      "name": "Minimal Illustration",
+      "id": 12,
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Minimal%20Illustrations.png",
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Minimal.png",
+      "id": 13,
+      "name": "Minimal",
+      "__collections__": {}
+    },
+    {
+      "id": 14,
+      "name": "Movies & Series",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Movies.png",
+      "__collections__": {}
+    },
+    {
+      "name": "Nature",
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Nature.png",
+      "id": 15,
+      "__collections__": {}
+    },
+    {
+      "name": "Night Life",
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2040.png",
+      "id": 16,
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2035.png",
+      "name": "Pastel",
+      "id": 17,
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2039.png",
+      "id": 18,
+      "name": "Sunview",
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
+      "name": "Super Heroes",
+      "id": 19,
+      "__collections__": {}
+    },
+    {
+      "imageUrl": "https://github.com/piyushkpv/Categorybanners/raw/main/Group%2033.png",
+      "name": "Suraj",
+      "id": 20,
       "__collections__": {}
     }
   ]
