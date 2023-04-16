@@ -9,7 +9,8 @@
                 "designer": "Piyush KPV",
                 "size": "2.16Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2004.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2004-small.png"
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2004-small.png",
+                "isPremium": true
             },
             {
                 "id": 60,
@@ -19,7 +20,8 @@
                 "designer": "Piyush KPV",
                 "size": "1.93Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2003.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2003-small.png"
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2003-small.png",
+                "isPremium": true
             },
             {
                 "id": 59,
@@ -29,7 +31,8 @@
                 "designer": "Piyush KPV",
                 "size": "1.82Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2002.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2002-small.png"
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2002-small.png",
+                "isPremium": true
             },
             {
                 "id": 58,
@@ -39,7 +42,8 @@
                 "designer": "Piyush KPV",
                 "size": "1.61Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2001.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2001-small.png"
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2001-small.png",
+                "isPremium": true
             },
             {
                 "id": 57,
