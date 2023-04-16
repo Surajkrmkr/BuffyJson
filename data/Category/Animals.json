@@ -2,6 +2,46 @@
     "Animals": {
         "Images": [
             {
+                "id": 61,
+                "heroID": "Animals61",
+                "downloads": 0,
+                "name": "Raptor Rage 04",
+                "designer": "Piyush KPV",
+                "size": "2.16Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2004.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2004-small.png"
+            },
+            {
+                "id": 60,
+                "heroID": "Animals60",
+                "downloads": 0,
+                "name": "3",
+                "designer": "Piyush KPV",
+                "size": "1.93Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2003.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2003-small.png"
+            },
+            {
+                "id": 59,
+                "heroID": "Animals59",
+                "downloads": 0,
+                "name": "Raptor Rage 02",
+                "designer": "Piyush KPV",
+                "size": "1.82Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2002.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2002-small.png"
+            },
+            {
+                "id": 58,
+                "heroID": "Animals58",
+                "downloads": 0,
+                "name": "Raptor Rage 01",
+                "designer": "Piyush KPV",
+                "size": "1.61Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Raptor%20Rage%2001.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Raptor%20Rage%2001-small.png"
+            },
+            {
                 "id": 57,
                 "heroID": "Animals57",
                 "downloads": 0,
