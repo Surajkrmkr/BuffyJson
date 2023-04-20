@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 686,
+            "heroID": "popular686",
+            "downloads": 0,
+            "name": "A Leaf",
+            "designer": "Piyush KPV",
+            "category": "Nature",
+            "size": "1.59Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/A%20Leaf.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/A%20Leaf-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 685,
+            "heroID": "popular685",
+            "downloads": 0,
+            "name": "Rainbow Leaf",
+            "designer": "Piyush KPV",
+            "category": "Nature",
+            "size": "1.55Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Rainbow%20Leaf.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Rainbow%20Leaf-small.png",
+            "isPremium": true
+        },
+        {
             "id": 684,
             "heroID": "popular684",
             "downloads": 0,
