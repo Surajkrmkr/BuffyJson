@@ -2,6 +2,28 @@
     "Nature": {
         "Images": [
             {
+                "id": 126,
+                "heroID": "Nature126",
+                "downloads": 0,
+                "name": "A Leaf",
+                "designer": "Piyush KPV",
+                "size": "1.59Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/A%20Leaf.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/A%20Leaf-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 125,
+                "heroID": "Nature125",
+                "downloads": 0,
+                "name": "Rainbow Leaf",
+                "designer": "Piyush KPV",
+                "size": "1.55Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Rainbow%20Leaf.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Rainbow%20Leaf-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 124,
                 "heroID": "Nature124",
                 "downloads": 0,
