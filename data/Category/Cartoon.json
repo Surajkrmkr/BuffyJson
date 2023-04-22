@@ -2,6 +2,39 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 144,
+                "heroID": "Cartoon144",
+                "downloads": 0,
+                "name": "Pixar playtime 03",
+                "designer": "Piyush KPV",
+                "size": "1.62Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Pixar%20Playtime%2003.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Pixar%20Playtime%2003-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 143,
+                "heroID": "Cartoon143",
+                "downloads": 0,
+                "name": "Pixar Playtime 02",
+                "designer": "Piyush KPV",
+                "size": "2.04Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Pixar%20Playtime%2002.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Pixar%20Playtime%2002-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 142,
+                "heroID": "Cartoon142",
+                "downloads": 0,
+                "name": "Pixar Playtime 01",
+                "designer": "Piyush KPV",
+                "size": "1.78Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Pixar%20Playtime%2001.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Pixar%20Playtime%2001-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 141,
                 "heroID": "Cartoon141",
                 "downloads": 0,
