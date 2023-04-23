@@ -2,6 +2,17 @@
     "Nature": {
         "Images": [
             {
+                "id": 127,
+                "heroID": "Nature127",
+                "downloads": 0,
+                "name": "Golden Flower",
+                "designer": "Piyush KPV",
+                "size": "1.98Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Golden%20Flower.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Golden%20Flower-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 126,
                 "heroID": "Nature126",
                 "downloads": 0,
