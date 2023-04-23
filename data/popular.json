@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 691,
+            "heroID": "popular691",
+            "downloads": 0,
+            "name": "Golden Flower",
+            "designer": "Piyush KPV",
+            "category": "Nature",
+            "size": "1.98Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Golden%20Flower.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Golden%20Flower-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 690,
+            "heroID": "popular690",
+            "downloads": 0,
+            "name": "Dark Room",
+            "designer": "Piyush KPV",
+            "category": "Horror",
+            "size": "1.71Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Dark%20Room.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Dark%20Room-small.png",
+            "isPremium": true
+        },
+        {
             "id": 689,
             "heroID": "popular689",
             "downloads": 0,

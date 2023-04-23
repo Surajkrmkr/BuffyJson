@@ -2,6 +2,17 @@
     "Horror": {
         "Images": [
             {
+                "id": 54,
+                "heroID": "Horror54",
+                "downloads": 0,
+                "name": "Dark Room",
+                "designer": "Piyush KPV",
+                "size": "1.71Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Dark%20Room.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Dark%20Room-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 53,
                 "heroID": "Horror53",
                 "downloads": 0,
