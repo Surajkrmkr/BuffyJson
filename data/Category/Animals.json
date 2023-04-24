@@ -2,6 +2,39 @@
     "Animals": {
         "Images": [
             {
+                "id": 64,
+                "heroID": "Animals64",
+                "downloads": 0,
+                "name": "Baby Panda",
+                "designer": "Piyush KPV",
+                "size": "1.88Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Baby%20Panda.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Baby%20Panda-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 63,
+                "heroID": "Animals63",
+                "downloads": 0,
+                "name": "Cute Rabbit",
+                "designer": "Piyush KPV",
+                "size": "2.56Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Rabbit.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Rabbit-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 62,
+                "heroID": "Animals62",
+                "downloads": 0,
+                "name": "Cute Puppy",
+                "designer": "Piyush KPV",
+                "size": "2.23Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Puppy.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Puppy-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 61,
                 "heroID": "Animals61",
                 "downloads": 0,
