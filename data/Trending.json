@@ -1,6 +1,50 @@
 {
     "Trending": [
         {
+            "id": 178,
+            "heroID": "Trending178",
+            "downloads": 0,
+            "name": "Jelly Art",
+            "designer": "Team Shadow",
+            "category": "Animals",
+            "size": "2.45Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Jelly%20art.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Jelly%20art-small.png"
+        },
+        {
+            "id": 177,
+            "heroID": "Trending177",
+            "downloads": 0,
+            "name": "Hummingbird",
+            "designer": "Team Shadow",
+            "category": "Animals",
+            "size": "585Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/hummingbird.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/hummingbird-small.png"
+        },
+        {
+            "id": 176,
+            "heroID": "Trending176",
+            "downloads": 0,
+            "name": "Chhetah Pattern",
+            "designer": "Team Shadow",
+            "category": "Abstract",
+            "size": "1.98Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Cheetah%20Pattern.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Cheetah%20Pattern-small.png"
+        },
+        {
+            "id": 175,
+            "heroID": "Trending175",
+            "downloads": 0,
+            "name": "Amoled Leafs",
+            "designer": "Team Shadow",
+            "category": "Amoled",
+            "size": "885Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Amoled%20Leafs.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Amoled%20Leafs-small.png"
+        },
+        {
             "id": 174,
             "heroID": "Trending174",
             "downloads": 0,
@@ -24,30 +68,30 @@
             "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Burgerrr%203-small.png",
             "isPremium": true
         },
-            {
-                "id": 172,
-                "heroID": "Trending172",
-                "downloads": 0,
-                "name": "Burgerrr 2",
-                "designer": "Piyush KPV",
-                "category": "Foody",
-                "size": "1.85Mb",
-                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Burgerrr%202.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Burgerrr%202-small.png",
-                "isPremium": true
-            },
-            {
-                "id": 171,
-                "heroID": "Trending171",
-                "downloads": 0,
-                "name": "Burgerrr 1",
-                "designer": "Piyush KPV",
-                "category": "Foody",
-                "size": "1.84Mb",
-                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Burgerrr%201.png",
-                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Burgerrr%201-small.png",
-                "isPremium": true
-            },
+        {
+            "id": 172,
+            "heroID": "Trending172",
+            "downloads": 0,
+            "name": "Burgerrr 2",
+            "designer": "Piyush KPV",
+            "category": "Foody",
+            "size": "1.85Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Burgerrr%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Burgerrr%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 171,
+            "heroID": "Trending171",
+            "downloads": 0,
+            "name": "Burgerrr 1",
+            "designer": "Piyush KPV",
+            "category": "Foody",
+            "size": "1.84Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Burgerrr%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Burgerrr%201-small.png",
+            "isPremium": true
+        },
         {
             "id": 170,
             "heroID": "Trending170",
