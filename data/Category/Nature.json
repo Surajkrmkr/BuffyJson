@@ -2,6 +2,28 @@
     "Nature": {
         "Images": [
             {
+                "id": 129,
+                "heroID": "Nature129",
+                "downloads": 0,
+                "name": "Soothing Art 1",
+                "designer": "Piyush KPV",
+                "size": "1.13Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Soothing%20Art%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Soothing%20Art%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 128,
+                "heroID": "Nature128",
+                "downloads": 0,
+                "name": "Soothing Art",
+                "designer": "Piyush KPV",
+                "size": "1.43Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Soothing%20Art%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Soothing%20Art%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 127,
                 "heroID": "Nature127",
                 "downloads": 0,
