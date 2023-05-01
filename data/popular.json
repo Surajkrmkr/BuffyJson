@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 699,
+            "heroID": "popular699",
+            "downloads": 0,
+            "name": "Mystic Marvels",
+            "designer": "Piyush KPV",
+            "category": "Super Heroes 03",
+            "size": "2.69Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Mystic%20Marvels%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Mystic%20Marvels%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 698,
+            "heroID": "popular698",
+            "downloads": 0,
+            "name": "Mystic Marvels",
+            "designer": "Piyush KPV",
+            "category": "Super Heroes 02",
+            "size": "2.62Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Mystic%20Marvels%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Mystic%20Marvels%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 697,
+            "heroID": "popular697",
+            "downloads": 0,
+            "name": "Mystic Marvels",
+            "designer": "Piyush KPV",
+            "category": "Super Heroes 01",
+            "size": "2.20Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Mystic%20Marvels%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Mystic%20Marvels%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 696,
             "heroID": "popular696",
             "downloads": 0,
@@ -11,7 +47,6 @@
             "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Soothing%20Art%202.png",
             "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Soothing%20Art%202-small.png",
             "isPremium": true
-
         },
         {
             "id": 695,

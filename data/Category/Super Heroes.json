@@ -2,6 +2,39 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 84,
+                "heroID": "Super Heroes84",
+                "downloads": 0,
+                "name": "Mystic Marvels 03",
+                "designer": "Piyush KPV",
+                "size": "2.69Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Mystic%20Marvels%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Mystic%20Marvels%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 83,
+                "heroID": "Super Heroes83",
+                "downloads": 0,
+                "name": "Mystic Marvels 02",
+                "designer": "Piyush KPV",
+                "size": "2.62Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Mystic%20Marvels%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Mystic%20Marvels%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 82,
+                "heroID": "Super Heroes82",
+                "downloads": 0,
+                "name": "Mystic Marvels 01",
+                "designer": "Piyush KPV",
+                "size": "2.20Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Mystic%20Marvels%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Mystic%20Marvels%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 81,
                 "heroID": "Super Heroes81",
                 "downloads": 0,
