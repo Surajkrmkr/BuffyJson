@@ -1,6 +1,18 @@
 {
     "popular": [
         {
+            "id": 703,
+            "heroID": "popular703",
+            "downloads": 0,
+            "name": "Running Gizgo",
+            "designer": "Piyush KPV",
+            "category": "Cartoon",
+            "size": "2.68Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Running%20Gizgo.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Running%20Gizgo-small.png",
+            "isPremium": true
+        },
+        {
             "id": 702,
             "heroID": "popular702",
             "downloads": 0,
