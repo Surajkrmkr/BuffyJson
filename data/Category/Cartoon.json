@@ -2,6 +2,17 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 145,
+                "heroID": "Cartoon145",
+                "downloads": 0,
+                "name": "Running Gizgo",
+                "designer": "Piyush KPV",
+                "size": "2.68Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Running%20Gizgo.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Running%20Gizgo-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 144,
                 "heroID": "Cartoon144",
                 "downloads": 0,
