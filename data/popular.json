@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 705,
+            "heroID": "popular705",
+            "downloads": 0,
+            "name": "Soft Bear 2",
+            "designer": "Piyush KPV",
+            "category": "Minimal",
+            "size": "1.11Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Soft%20Bears%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Soft%20Bears%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 704,
+            "heroID": "popular704",
+            "downloads": 0,
+            "name": "Soft Bear 1",
+            "designer": "Piyush KPV",
+            "category": "Minimal",
+            "size": "1.05Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Soft%20Bears%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Soft%20Bears%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 703,
             "heroID": "popular703",
             "downloads": 0,
