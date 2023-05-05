@@ -2,6 +2,17 @@
     "Animals": {
         "Images": [
             {
+                "id": 65,
+                "heroID": "Animals65",
+                "downloads": 0,
+                "name": "Vibrant Kitty",
+                "designer": "Piyush KPV",
+                "size": "2.18Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Vibrant%20Kitty.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Vibrant%20Kitty-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 64,
                 "heroID": "Animals64",
                 "downloads": 0,
