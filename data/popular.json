@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 708,
+            "heroID": "popular708",
+            "downloads": 0,
+            "name": "Neon Aquatic 02",
+            "designer": "Piyush KPV",
+            "category": "Creative",
+            "size": "2.91Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Neon%20Aquatic%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Neon%20Aquatic%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 707,
+            "heroID": "popular707",
+            "downloads": 0,
+            "name": "Neon Aquatic 01",
+            "designer": "Piyush KPV",
+            "category": "Creative",
+            "size": "2.56Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Neon%20Aquatic%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Neon%20Aquatic%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 706,
             "heroID": "popular706",
             "downloads": 0,
