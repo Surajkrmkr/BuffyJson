@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 711,
+            "heroID": "popular711",
+            "downloads": 0,
+            "name": "Pattern 03",
+            "designer": "Sumit",
+            "category": "Abstract",
+            "size": "227Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Pattern%2003.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Pattern%2003-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 710,
+            "heroID": "popular710",
+            "downloads": 0,
+            "name": "Pattern 02",
+            "designer": "Sumit",
+            "category": "Abstract",
+            "size": "434Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Pattern%2002.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Pattern%2002-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 709,
+            "heroID": "popular709",
+            "downloads": 0,
+            "name": "Pattern 01",
+            "category": "Abstract",
+            "designer": "Sumit",
+            "size": "179Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Pattern%2001.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Pattern%2001-small.png",
+            "isPremium": true
+        },
+        {
             "id": 708,
             "heroID": "popular708",
             "downloads": 0,
