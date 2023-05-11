@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 714,
+            "heroID": "popular714",
+            "downloads": 0,
+            "name": "InkPunk Minimalism 03",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "2.38Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Inkpunk%20Minimalism%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Inkpunk%20Minimalism%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 713,
+            "heroID": "popular713",
+            "downloads": 0,
+            "name": "InkPunk Minimalism 02",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "2.31Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Inkpunk%20Minimalism%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Inkpunk%20Minimalism%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 712,
+            "heroID": "popular712",
+            "downloads": 0,
+            "name": "InkPunk Minimalism 01",
+            "designer": "Piyush KPV",
+            "category": "Minimal Illustration",
+            "size": "2.20Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Inkpunk%20Minimalism%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Inkpunk%20Minimalism%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 711,
             "heroID": "popular711",
             "downloads": 0,
