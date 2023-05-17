@@ -2,6 +2,39 @@
     "Night Life": {
         "Images": [
             {
+                "id": 9,
+                "heroID": "Night Life3",
+                "downloads": 0,
+                "name": "Dark Night 03",
+                "designer": "Piyush KPV",
+                "size": "608Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Dark%20Night%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Thumbnails/Dark%20Night%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 8,
+                "heroID": "Night Life8",
+                "downloads": 0,
+                "name": "Dark Night 02",
+                "designer": "Piyush KPV",
+                "size": "1.67Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Dark%20Night%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Thumbnails/Dark%20Night%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 7,
+                "heroID": "Night Life7",
+                "downloads": 0,
+                "name": "Dark Night 01",
+                "designer": "Piyush KPV",
+                "size": "1.60Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Dark%20Night%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Thumbnails/Dark%20Night%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 6,
                 "heroID": "Night Life6",
                 "downloads": 0,
