@@ -2,6 +2,16 @@
     "Minimal": {
         "Images": [
             {
+                "id": 148,
+                "heroID": "Minimal148",
+                "downloads": 0,
+                "name": "Pixel 1",
+                "designer": "Piyush KPV",
+                "size": "32.9Kb",
+                "imageUrl": "https://storage.googleapis.com/buffywalls.appspot.com/BuffyTest/Pixel/Pixel%201.png",
+                "compressUrl": "https://storage.googleapis.com/buffywalls.appspot.com/BuffyTest/Pixel/Thumbnail/Pixel%201-small.png"
+            },
+            {
                 "id": 147,
                 "heroID": "Minimal147",
                 "downloads": 0,
