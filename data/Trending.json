@@ -1,6 +1,160 @@
 {
     "Trending": [
         {
+            "id": 196,
+            "heroID": "Trending196",
+            "downloads": 0,
+            "name": "Summer Monkey",
+            "designer": "Team Shadow",
+            "category": "Animals",
+            "size": "1.63Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Summer%20Monkey.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Summer%20Monkey-small.png"
+        },
+        {
+            "id": 195,
+            "heroID": "Trending195",
+            "downloads": 0,
+            "name": "Cute Rabbit 02",
+            "designer": "Team Shadow",
+            "category": "Animals",
+            "size": "2.13Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cute%20Rabbit%2002.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cute%20Rabbit%2002-small.png"
+        },
+        {
+            "id": 194,
+            "heroID": "Trending194",
+            "downloads": 0,
+            "name": "Color Wow",
+            "designer": "Team Shadow",
+            "category": "Nature",
+            "size": "2.42Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Color%20Wow.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Color%20Wow-small.png"
+        },
+        {
+            "id": 193,
+            "heroID": "Trending193",
+            "downloads": 0,
+            "name": "Colorful Cow",
+            "designer": "Team Shadow",
+            "category": "Animals",
+            "size": "2.05Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Colorful%20cow.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Colorful%20cow-small.png"
+        },
+        {
+            "id": 192,
+            "heroID": "Trending192",
+            "downloads": 0,
+            "name": "Lovely Vibes",
+            "designer": "Team Shadow",
+            "category": "Love",
+            "size": "1.98Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/First%20Love/Lovely%20Vibes.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/First%20Love/Thumbnail/Lovely%20Vibes-small.png"
+        },
+        {
+            "id": 191,
+            "heroID": "Trending191",
+            "downloads": 0,
+            "name": "Inkbot 2",
+            "designer": "Team Shadow",
+            "category": "Minimal",
+            "size": "1.72Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Inkbot%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Inkbot%202-small.png"
+        },
+        {
+            "id": 190,
+            "heroID": "Trending190",
+            "downloads": 0,
+            "name": "Inkbot 1",
+            "designer": "Team Shadow",
+            "category": "Minimal",
+            "size": "1.34Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Inkbot%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Inkbot%201-small.png"
+        },
+        {
+            "id": 189,
+            "heroID": "Trending189",
+            "downloads": 0,
+            "name": "Dragon Roar",
+            "designer": "Team Shadow",
+            "category": "Creative",
+            "size": "2.27Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Dragon%20Roar.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Dragon%20Roar-small.png"
+        },
+        {
+            "id": 188,
+            "heroID": "Trending188",
+            "downloads": 0,
+            "name": "Princess",
+            "designer": "Team Shadow",
+            "category": "Love",
+            "size": "1.68Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/First%20Love/Princess.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/First%20Love/Thumbnail/Princess-small.png"
+        },
+        {
+            "id": 187,
+            "heroID": "Trending187",
+            "downloads": 0,
+            "name": "Dark Dragon",
+            "designer": "Team Shadow",
+            "category": "Creative",
+            "size": "2.50Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Dark%20Dragon.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Creative/Thumbnails/Dark%20Dragon-small.png"
+        },
+        {
+            "id": 186,
+            "heroID": "Trending186",
+            "downloads": 0,
+            "name": "The Glaze Beauty",
+            "designer": "Team Shadow",
+            "category": "Nature",
+            "size": "2.06Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/The%20Glaze%20Beauty.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/The%20Glaze%20Beauty-small.png"
+        },
+        {
+            "id": 185,
+            "heroID": "Trending185",
+            "downloads": 0,
+            "name": "The Nature",
+            "designer": "Team Shadow",
+            "category": "Nature",
+            "size": "2.20Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/The%20Nature.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/The%20Nature-small.png"
+        },
+        {
+            "id": 184,
+            "heroID": "Trending184",
+            "downloads": 0,
+            "name": "The Ant",
+            "designer": "Team Shadow",
+            "category": "Animals",
+            "size": "1.21Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/The%20Ant.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/The%20Ant-small.png"
+        },
+        {
+            "id": 183,
+            "heroID": "Trending183",
+            "downloads": 0,
+            "name": "Soul Connect",
+            "designer": "Team Shadow",
+            "category": "Love",
+            "size": "1.57Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/First%20Love/Soul%20Connect.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/First%20Love/Thumbnail/Soul%20Connect-small.png"
+        },
+        {
             "id": 182,
             "heroID": "Trending182",
             "downloads": 0,
