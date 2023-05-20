@@ -2,6 +2,39 @@
     "Animals": {
         "Images": [
             {
+                "id": 68,
+                "heroID": "Animals68",
+                "downloads": 0,
+                "name": "Dream of Tortoise 03",
+                "designer": "Piyush KPV",
+                "size": "3.08Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Dream%20of%20Tortoise%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Dream%20of%20Tortoise%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 67,
+                "heroID": "Animals67",
+                "downloads": 0,
+                "name": "Dream of Tortoise 02",
+                "designer": "Piyush KPV",
+                "size": "2.85Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Dream%20of%20Tortoise%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Dream%20of%20Tortoise%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 66,
+                "heroID": "Animals66",
+                "downloads": 0,
+                "name": "Dream of Tortoise 01",
+                "designer": "Piyush KPV",
+                "size": "2.76Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Dream%20of%20Tortoise%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Dream%20of%20Tortoise%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 65,
                 "heroID": "Animals65",
                 "downloads": 0,
