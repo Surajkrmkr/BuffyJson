@@ -2,6 +2,39 @@
     "Nature": {
         "Images": [
             {
+                "id": 132,
+                "heroID": "Nature132",
+                "downloads": 0,
+                "name": "Nature Vista 3",
+                "designer": "Piyush KPV",
+                "size": "2.27Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Nature_Vistas_3.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Nature_Vistas_3-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 131,
+                "heroID": "Nature131",
+                "downloads": 0,
+                "name": "Nature Vista 2",
+                "designer": "Piyush KPV",
+                "size": "2.31Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Nature_Vistas_2.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Nature_Vistas_2-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 130,
+                "heroID": "Nature130",
+                "downloads": 0,
+                "name": "Nature Vista 1",
+                "designer": "Piyush KPV",
+                "size": "2.07Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Nature_Vistas_1.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Nature_Vistas_1-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 129,
                 "heroID": "Nature129",
                 "downloads": 0,
