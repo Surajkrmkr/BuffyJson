@@ -2,6 +2,39 @@
     "Horror": {
         "Images": [
             {
+                "id": 57,
+                "heroID": "Horror57",
+                "downloads": 0,
+                "name": "Grooving Bones 3",
+                "designer": "Piyush KPV",
+                "size": "1.84Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Grooving_Bones_3.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Grooving_Bones_3-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 56,
+                "heroID": "Horror56",
+                "downloads": 0,
+                "name": "Grooving Bones 2",
+                "designer": "Piyush KPV",
+                "size": "1.90Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Grooving_Bones_2.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Grooving_Bones_2-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 55,
+                "heroID": "Horror55",
+                "downloads": 0,
+                "name": "Grooving Bones 1",
+                "designer": "Piyush KPV",
+                "size": "1.91Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Grooving_Bones_1.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Grooving_Bones_1-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 54,
                 "heroID": "Horror54",
                 "downloads": 0,
