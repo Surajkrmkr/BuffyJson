@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 729,
+            "heroID": "popular729",
+            "downloads": 0,
+            "name": "Playful Pup 3",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "1.97Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Playful%20Pups%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Playful%20Pups%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 728,
+            "heroID": "popular728",
+            "downloads": 0,
+            "name": "Playful Pup 2",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "2.11Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Playful%20Pups%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Playful%20Pups%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 727,
+            "heroID": "popular727",
+            "downloads": 0,
+            "name": "Playful Pup 1",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "1.78Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Playful%20Pups%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Playful%20Pups%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 726,
             "heroID": "popular726",
             "downloads": 0,
