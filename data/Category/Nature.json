@@ -2,6 +2,39 @@
     "Nature": {
         "Images": [
             {
+                "id": 135,
+                "heroID": "Nature135",
+                "downloads": 0,
+                "name": "Vibrant Falls 3",
+                "designer": "Piyush KPV",
+                "size": "2.00Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Falls%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Falls%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 134,
+                "heroID": "Nature134",
+                "downloads": 0,
+                "name": "Vibrant Falls 2",
+                "designer": "Piyush KPV",
+                "size": "1.98Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Falls%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Falls%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 133,
+                "heroID": "Nature133",
+                "downloads": 0,
+                "name": "Vibrant Falls 1",
+                "designer": "Piyush KPV",
+                "size": "2.35Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Falls%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Falls%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 132,
                 "heroID": "Nature132",
                 "downloads": 0,
