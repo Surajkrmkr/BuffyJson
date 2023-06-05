@@ -2,6 +2,39 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 90,
+                "heroID": "Super Heroes90",
+                "downloads": 0,
+                "name": "Dark Mistress 03",
+                "designer": "Piyush KPV",
+                "size": "1.55Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Dark%20Mistress%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Dark%20Mistress%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 89,
+                "heroID": "Super Heroes89",
+                "downloads": 0,
+                "name": "Dark Mistress 02",
+                "designer": "Piyush KPV",
+                "size": "1.56Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Dark%20Mistress%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Dark%20Mistress%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 88,
+                "heroID": "Super Heroes88",
+                "downloads": 0,
+                "name": "Dark Mistress 01",
+                "designer": "Piyush KPV",
+                "size": "1.54Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Dark%20Mistress%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Dark%20Mistress%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 87,
                 "heroID": "Super Heroes87",
                 "downloads": 0,
