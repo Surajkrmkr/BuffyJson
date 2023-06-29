@@ -91,27 +91,21 @@
       "__collections__": {}
     },
     {
-      "name": "Night Life",
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Night%20Life.png",
-      "id": 16,
-      "__collections__": {}
-    },
-    {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Pastel.png",
       "name": "Pastel",
-      "id": 17,
+      "id": 16,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
       "name": "Super Heroes",
-      "id": 18,
+      "id": 17,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Suraj.png",
       "name": "Suraj",
-      "id": 19,
+      "id": 18,
       "__collections__": {}
     }
   ]
