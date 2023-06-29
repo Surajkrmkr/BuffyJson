@@ -2,8 +2,128 @@
     "Nature": {
         "Images": [
             {
-                "id": 135,
-                "heroID": "Nature135",
+                "heroID": "Nature40",
+                "designer": "Sunview",
+                "id": 40,
+                "size": "430.2Kb",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/ki4zsim82ko8l5m/IMG_20201228_101514_926_resize_97.jpg?dl=0",
+                "downloads": 4,
+                "name": "Sunview 12",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/yzr844gupwrn03r/IMG_20201228_101514_926.jpg?dl=0"
+              },
+              {
+                "name": "Sunview 11",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/ltz1pawgh74l5sc/IMG_20201228_101508_881.jpg?dl=0",
+                "size": "326.3Kb",
+                "downloads": 5,
+                "id": 39,
+                "designer": "Sunview",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/f1nws92sjo1iur0/IMG_20201228_101508_881_resize_0.jpg?dl=0",
+                "heroID": "Nature39"
+              },
+              {
+                "heroID": "Nature38",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/yu87d51z0iflm5q/IMG_20201228_101520_920_resize_41.jpg?dl=0",
+                "name": "Sunview 10",
+                "downloads": 3,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/2hs78isph28ebne/IMG_20201228_101520_920.jpg?dl=0",
+                "id": 38,
+                "designer": "Sunview",
+                "size": "251.8Kb"
+              },
+              {
+                "id": 37,
+                "name": "Sunview 9",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/vioqadsng6oo7r9/IMG_20201228_101519_316.jpg?dl=0",
+                "size": "292.3Kb",
+                "designer": "Sunview",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/8idviopfhg9ctlb/IMG_20201228_101519_316_resize_77.jpg?dl=0",
+                "heroID": "Nature37",
+                "downloads": 5
+              },
+              {
+                "size": "298.5Kb",
+                "id": 36,
+                "downloads": 3,
+                "name": "Sunview 8",
+                "designer": "Sunview",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/795wrq4d484j37m/IMG_20201228_101512_689_resize_33.jpg?dl=0",
+                "heroID": "Nature36",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/myb2r4x2eie5e69/IMG_20201228_101512_689.jpg?dl=0"
+              },
+              {
+                "imageUrl": "https://dl.dropboxusercontent.com/s/oa0z1buupolj84t/IMG_20201228_101551_764.jpg?dl=0",
+                "name": "Sunview 7",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/vuqq2txc992nalj/IMG_20201228_101551_764_resize_92.jpg?dl=0",
+                "downloads": 8,
+                "id": 35,
+                "size": "638.7Kb",
+                "heroID": "Nature35",
+                "designer": "Sunview"
+              },
+              {
+                "id": 34,
+                "name": "Sunview 6",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/bwvmzn4y8habmg1/IMG_20201228_101511_142.jpg?dl=0",
+                "downloads": 14,
+                "designer": "Sunview",
+                "heroID": "Nature34",
+                "size": "299.6Kb",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/wrhau507i8wree2/IMG_20201228_101511_142_resize_73.jpg?dl=0"
+              },
+              {
+                "downloads": 10,
+                "heroID": "Nature33",
+                "id": 33,
+                "designer": "Sunview",
+                "size": "514.5Kb",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/cczfg09qzzhjxil/IMG_20201228_101556_235_resize_52.jpg?dl=0",
+                "name": "Sunview 5",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/xo85hw7ppzelb6l/IMG_20201228_101556_235.jpg?dl=0"
+              },
+              {
+                "name": "Sunview 4",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/qtqq7h3e9t9f2yu/IMG_20201228_101541_814.jpg?dl=0",
+                "designer": "Sunview",
+                "heroID": "Nature32",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/ktciqmq6s9jfa1k/IMG_20201228_101541_814_resize_2.jpg?dl=0",
+                "downloads": 2,
+                "id": 32,
+                "size": "306.1Kb"
+              },
+              {
+                "downloads": 5,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/ofx1mso2nxfljhy/IMG_20201228_101544_434.jpg?dl=0",
+                "size": "454.2Kb",
+                "name": "Sunview 3",
+                "id": 31,
+                "heroID": "Nature31",
+                "designer": "Sunview",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/gg28329xjc5gn3j/IMG_20201228_101544_434_resize_37.jpg?dl=0"
+              },
+              {
+                "heroID": "Nature30",
+                "name": "Sunview 2",
+                "size": "555.9Kb",
+                "downloads": 6,
+                "compressUrl": "https://dl.dropboxusercontent.com/s/72dhu2cmvaq7moe/IMG_20201228_101539_306_resize_3.jpg?dl=0",
+                "id": 30,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/zmcqxh981xgorra/IMG_20201228_101539_306.jpg?dl=0",
+                "designer": "Sunview"
+              },
+              {
+                "designer": "Sumit",
+                "heroID": "Nature29",
+                "downloads": 8,
+                "id": 29,
+                "compressUrl": "https://dl.dropboxusercontent.com/s/x2yslyr7m8aw7d3/IMG_20201228_101540_273_resize_67.jpg?dl=0",
+                "size": "154.5Kb",
+                "name": "Sunview 1",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/7j0fsp2b3kosmxe/IMG_20201228_101540_273.jpg?dl=0"
+              },
+            {
+                "id": 28,
+                "heroID": "Nature28",
                 "downloads": 0,
                 "name": "Vibrant Falls 3",
                 "designer": "Piyush KPV",
@@ -13,8 +133,8 @@
                 "isPremium": true
             },
             {
-                "id": 134,
-                "heroID": "Nature134",
+                "id": 27,
+                "heroID": "Nature27",
                 "downloads": 0,
                 "name": "Vibrant Falls 2",
                 "designer": "Piyush KPV",
@@ -24,8 +144,8 @@
                 "isPremium": true
             },
             {
-                "id": 133,
-                "heroID": "Nature133",
+                "id": 26,
+                "heroID": "Nature26",
                 "downloads": 0,
                 "name": "Vibrant Falls 1",
                 "designer": "Piyush KPV",
@@ -35,8 +155,8 @@
                 "isPremium": true
             },
             {
-                "id": 132,
-                "heroID": "Nature132",
+                "id": 25,
+                "heroID": "Nature25",
                 "downloads": 0,
                 "name": "Nature Vista 3",
                 "designer": "Piyush KPV",
@@ -46,8 +166,8 @@
                 "isPremium": true
             },
             {
-                "id": 131,
-                "heroID": "Nature131",
+                "id": 24,
+                "heroID": "Nature24",
                 "downloads": 0,
                 "name": "Nature Vista 2",
                 "designer": "Piyush KPV",
@@ -57,8 +177,8 @@
                 "isPremium": true
             },
             {
-                "id": 130,
-                "heroID": "Nature130",
+                "id": 23,
+                "heroID": "Nature23",
                 "downloads": 0,
                 "name": "Nature Vista 1",
                 "designer": "Piyush KPV",
@@ -68,8 +188,8 @@
                 "isPremium": true
             },
             {
-                "id": 129,
-                "heroID": "Nature129",
+                "id": 22,
+                "heroID": "Nature22",
                 "downloads": 0,
                 "name": "Soothing Art 1",
                 "designer": "Piyush KPV",
@@ -79,8 +199,8 @@
                 "isPremium": true
             },
             {
-                "id": 128,
-                "heroID": "Nature128",
+                "id": 21,
+                "heroID": "Nature21",
                 "downloads": 0,
                 "name": "Soothing Art",
                 "designer": "Piyush KPV",
@@ -90,8 +210,8 @@
                 "isPremium": true
             },
             {
-                "id": 127,
-                "heroID": "Nature127",
+                "id": 20,
+                "heroID": "Nature20",
                 "downloads": 0,
                 "name": "Golden Flower",
                 "designer": "Piyush KPV",
@@ -101,8 +221,8 @@
                 "isPremium": true
             },
             {
-                "id": 126,
-                "heroID": "Nature126",
+                "id": 19,
+                "heroID": "Nature19",
                 "downloads": 0,
                 "name": "A Leaf",
                 "designer": "Piyush KPV",
@@ -112,8 +232,18 @@
                 "isPremium": true
             },
             {
-                "id": 125,
-                "heroID": "Nature125",
+                "id": 18,
+                "compressUrl": "https://dl.dropboxusercontent.com/s/r8ft1zomckl2201/IMG_20201228_101554_428_resize_88.jpg?dl=0",
+                "designer": "Sunview",
+                "name": "Sunview 13",
+                "heroID": "Nature18",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/zh0eefkn9ezwe9l/IMG_20201228_101554_428.jpg?dl=0",
+                "size": "1.1Mb",
+                "downloads": 9
+              },
+            {
+                "id": 17,
+                "heroID": "Nature17",
                 "downloads": 0,
                 "name": "Rainbow Leaf",
                 "designer": "Piyush KPV",
@@ -123,8 +253,8 @@
                 "isPremium": true
             },
             {
-                "id": 124,
-                "heroID": "Nature124",
+                "id": 16,
+                "heroID": "Nature16",
                 "downloads": 0,
                 "name": "Night Glory",
                 "designer": "Buffywalls",
@@ -133,8 +263,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Night%20Glore-small.png"
             },
             {
-                "id": 123,
-                "heroID": "Nature123",
+                "id": 15,
+                "heroID": "Nature15",
                 "downloads": 0,
                 "name": "Nature's Peace",
                 "designer": "Buffywalls",
@@ -143,8 +273,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal%20Illustrations/Thumbnails/Nature's%20Peace-small.png"
             },
             {
-                "id": 122,
-                "heroID": "Nature122",
+                "id": 14,
+                "heroID": "Nature14",
                 "downloads": 0,
                 "name": "Dahlia",
                 "designer": "Buffywalls",
@@ -153,8 +283,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dahlia-small.png"
             },
             {
-                "id": 121,
-                "heroID": "Nature121",
+                "id": 13,
+                "heroID": "Nature13",
                 "downloads": 0,
                 "name": "WnterLand 04",
                 "designer": "Piyush KPV",
@@ -163,8 +293,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Winterland%204-small.png"
             },
             {
-                "id": 120,
-                "heroID": "Nature120",
+                "id": 12,
+                "heroID": "Nature12",
                 "downloads": 0,
                 "name": "WnterLand 03",
                 "designer": "Piyush KPV",
@@ -173,8 +303,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Winterland%203-small.png"
             },
             {
-                "id": 119,
-                "heroID": "Nature119",
+                "id": 11,
+                "heroID": "Nature11",
                 "downloads": 0,
                 "name": "WnterLand 02",
                 "designer": "Piyush KPV",
@@ -183,8 +313,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Winterland%202-small.png"
             },
             {
-                "id": 118,
-                "heroID": "Nature118",
+                "id": 10,
+                "heroID": "Nature10",
                 "downloads": 0,
                 "name": "WnterLand 01",
                 "designer": "Piyush KPV",
@@ -193,8 +323,8 @@
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Winterland%201-small.png"
             },
             {
-                "id": 117,
-                "heroID": "Nature117",
+                "id": 9,
+                "heroID": "Nature9",
                 "downloads": 0,
                 "name": "3D Flower 05",
                 "designer": "Piyush KPV",
@@ -204,8 +334,8 @@
                 "isPremium": true
             },
             {
-                "id": 116,
-                "heroID": "Nature116",
+                "id": 8,
+                "heroID": "Nature8",
                 "downloads": 0,
                 "name": "3D Flower 04",
                 "designer": "Piyush KPV",
@@ -215,8 +345,8 @@
                 "isPremium": true
             },
             {
-                "id": 115,
-                "heroID": "Nature115",
+                "id": 7,
+                "heroID": "Nature7",
                 "downloads": 0,
                 "name": "3D Flower 03",
                 "designer": "Piyush KPV",
@@ -226,8 +356,8 @@
                 "isPremium": true
             },
             {
-                "id": 114,
-                "heroID": "Nature114",
+                "id": 6,
+                "heroID": "Nature6",
                 "downloads": 0,
                 "name": "3D Flower 02",
                 "designer": "Piyush KPV",
@@ -237,8 +367,8 @@
                 "isPremium": true
             },
             {
-                "id": 113,
-                "heroID": "Nature113",
+                "id": 5,
+                "heroID": "Nature5",
                 "downloads": 0,
                 "name": "3D Flower 01",
                 "designer": "Piyush KPV",
@@ -248,1204 +378,44 @@
                 "isPremium": true
             },
             {
-                "id": 112,
-                "heroID": "Nature112",
+                "id": 4,
+                "heroID": "Nature4",
                 "downloads": 0,
-                "name": "Scenery",
+                "name": "Scenery 4",
                 "designer": "Piyush",
                 "size": "2.59Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/scenery%204.png",
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/scenery%204-small.png"
             },
             {
-                "id": 111,
-                "heroID": "Nature111",
+                "id": 3,
+                "heroID": "Nature3",
                 "downloads": 0,
-                "name": "Scenery",
+                "name": "Scenery 3",
                 "designer": "Piyush",
                 "size": "2.92Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/scenery%203.png",
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/scenery%203-small.png"
             },
             {
-                "id": 110,
-                "heroID": "Nature110",
+                "id": 2,
+                "heroID": "Nature2",
                 "downloads": 0,
-                "name": "Scenery",
+                "name": "Scenery 2",
                 "designer": "Piyush",
                 "size": "2.42Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/scenery%202.png",
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/scenery%202-small.png"
             },
             {
-                "id": 109,
-                "heroID": "Nature109",
+                "id": 1,
+                "heroID": "Nature1",
                 "downloads": 0,
-                "name": "Scenery",
+                "name": "Scenery 1",
                 "designer": "Piyush",
                 "size": "2.76Mb",
                 "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/scenery%201.png",
                 "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/scenery%201-small.png"
-            },
-            {
-                "id": 108,
-                "heroID": "Nature108",
-                "downloads": 0,
-                "name": "Dark Leafs",
-                "designer": "Admin",
-                "size": "8.31Mb",
-                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/4.png",
-                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/4-small.png"
-            },
-            {
-                "id": 107,
-                "heroID": "Nature107",
-                "downloads": 0,
-                "name": "Nature Eve",
-                "designer": "Buffy",
-                "size": "3.65Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Nature%202.png",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Nature%202-small.png"
-            },
-            {
-                "id": 106,
-                "heroID": "Nature106",
-                "downloads": 0,
-                "name": "Nature Greenery",
-                "designer": "Buffy",
-                "size": "4.45Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201.png",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/Nature%201-small.png"
-            },
-            {
-                "id": 105,
-                "heroID": "Nature105",
-                "downloads": 0,
-                "name": "Winter Red",
-                "designer": "Buffy",
-                "size": "6.66Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/winter%20red.png",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/winter%20red-small.png"
-            },
-            {
-                "id": 104,
-                "heroID": "Nature104",
-                "downloads": 0,
-                "name": "Leafs",
-                "designer": "Buffy",
-                "size": "3.30Mb",
-                "imageUrl": "https://github.com/piyushkpv/18thapril/raw/main/Leafs_13483.png",
-                "compressUrl": "https://github.com/piyushkpv/18thapril/raw/main/Leafs_13483-small.png"
-            },
-            {
-                "id": 103,
-                "heroID": "Nature103",
-                "downloads": 0,
-                "name": "The Aerial View",
-                "designer": "Buffy",
-                "size": "7.05Mb",
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(8).png",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/29%20nov%20(8)%20small.jpg"
-            },
-            {
-                "id": 102,
-                "heroID": "Nature102",
-                "downloads": 0,
-                "name": "Dream Night",
-                "designer": "Buffy",
-                "size": "3 mB",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/27%20feb%20original%20(2).png",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/27feb%20(2).jpg"
-            },
-            {
-                "id": 101,
-                "heroID": "Nature101",
-                "downloads": 0,
-                "name": "Winter Fall",
-                "designer": "Buffy",
-                "size": "2.03Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext.jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext_resize_66.jpg"
-            },
-            {
-                "id": 100,
-                "heroID": "Nature100",
-                "downloads": 0,
-                "name": "Ocean View",
-                "designer": "Buffy",
-                "size": "1.78Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(15).jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(15)_resize_23.jpg"
-            },
-            {
-                "id": 99,
-                "heroID": "Nature99",
-                "downloads": 0,
-                "name": "City View",
-                "designer": "Buffy",
-                "size": "1.82Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(3).jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(3)_resize_98.jpg"
-            },
-            {
-                "id": 98,
-                "heroID": "Nature98",
-                "downloads": 0,
-                "name": "Glacior",
-                "designer": "Buffy",
-                "size": "1.7Mb",
-                "imageUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(5).jpg",
-                "compressUrl": "https://github.com/piyushkpv/dec-new/raw/main/new%20(5)_resize_37.jpg"
-            },
-            {
-                "id": 97,
-                "heroID": "Nature97",
-                "downloads": 0,
-                "name": "Nature View",
-                "designer": "Buffy",
-                "size": "835Kb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/12%20Dec%20(3).jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/12%20Dec%20(3)_resize_9.jpg"
-            },
-            {
-                "id": 96,
-                "heroID": "Nature96",
-                "downloads": 0,
-                "name": "Green Leafs",
-                "designer": "Buffy",
-                "size": "1.78Mb",
-                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/28nov%20(3).jpg",
-                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/28nov%20(3)_resize_43.jpg"
-            },
-            {
-                "id": 95,
-                "heroID": "Nature95",
-                "downloads": 0,
-                "name": "\tGreen Land",
-                "designer": "Buffy",
-                "size": "1.71Mb",
-                "imageUrl": "https://github.com/piyushkpv/trending/raw/main/28nov.jpg",
-                "compressUrl": "https://github.com/piyushkpv/trending/raw/main/28nov_resize_27.jpg"
-            },
-            {
-                "id": 94,
-                "heroID": "Nature94",
-                "downloads": 0,
-                "name": "Greenery",
-                "designer": "Buffy",
-                "size": "1.79Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(5).jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(5)_resize_64.jpg"
-            },
-            {
-                "id": 93,
-                "heroID": "Nature93",
-                "downloads": 0,
-                "name": "Nature View",
-                "designer": "Buffy",
-                "size": "2.23Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(3).jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(3)_resize_14.jpg"
-            },
-            {
-                "id": 92,
-                "heroID": "Nature92",
-                "downloads": 0,
-                "name": "Firflies",
-                "designer": "Buffy",
-                "size": "1.19Mb",
-                "imageUrl": "https://github.com/piyushkpv/new/raw/main/new%20(2).jpg",
-                "compressUrl": "https://github.com/piyushkpv/new/raw/main/new%20(2)_resize_32.jpg"
-            },
-            {
-                "id": 91,
-                "heroID": "Nature91",
-                "downloads": 0,
-                "name": "Summer nights",
-                "designer": "Buffy",
-                "size": "568KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/summer-nights-in-northern-norway-4k-fz-1080x2280.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/summer-nights-in-northern-norway-4k-fz-1080x2280-small.png"
-            },
-            {
-                "id": 90,
-                "heroID": "Nature90",
-                "downloads": 0,
-                "name": "Pine River",
-                "designer": "Buffy",
-                "size": "506KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/pine-river-snow-sunset-rq-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/pine-river-snow-sunset-rq-1080x2160-small.png"
-            },
-            {
-                "id": 89,
-                "heroID": "Nature89",
-                "downloads": 0,
-                "name": "Palm Trees",
-                "designer": "Buffy",
-                "size": "532KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/palm-trees-sunset-digital-nature-4k-ho-1080x2280.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/palm-trees-sunset-digital-nature-4k-ho-1080x2280-small.png"
-            },
-            {
-                "id": 88,
-                "heroID": "Nature88",
-                "downloads": 0,
-                "name": "Nature",
-                "designer": "Buffy",
-                "size": "523KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/nature-outdoors-sunset-4k-om-1080x2280.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/nature-outdoors-sunset-4k-om-1080x2280-small.png"
-            },
-            {
-                "id": 87,
-                "heroID": "Nature87",
-                "downloads": 0,
-                "name": "Miami",
-                "designer": "Buffy",
-                "size": "1.01MB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/miami-sunset-artistic-fc-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/miami-sunset-artistic-fc-1080x2160-small.png"
-            },
-            {
-                "id": 86,
-                "heroID": "Nature86",
-                "downloads": 0,
-                "name": "Dark Sunset",
-                "designer": "Buffy",
-                "size": "324KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/dark-sunset-5k-jg-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/dark-sunset-5k-jg-1080x2160-small.png"
-            },
-            {
-                "id": 85,
-                "heroID": "Nature85",
-                "downloads": 0,
-                "name": "Blue Sky",
-                "designer": "Buffy",
-                "size": "413KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/blue-sky-dark-sunset-g2-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/blue-sky-dark-sunset-g2-1080x2160-small.png"
-            },
-            {
-                "id": 84,
-                "heroID": "Nature84",
-                "downloads": 0,
-                "name": "Morning",
-                "designer": "Buffy",
-                "size": "243KB",
-                "imageUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/beautiful-morning-sunrise-contour-8k-l9-1080x2160.jpg",
-                "compressUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Nature/Oct%2014/beautiful-morning-sunrise-contour-8k-l9-1080x2160-small.png"
-            },
-            {
-                "downloads": 23,
-                "size": "1.1MB",
-                "heroID": "Nature83",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174757.jpg",
-                "id": 83,
-                "designer": "Nature",
-                "name": "Nature 8",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174757_resize_6.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "1.2MB",
-                "heroID": "Nature82",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174822.jpg",
-                "id": 82,
-                "designer": "Nature",
-                "name": "Nature 7",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174822_resize_4.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "2.4MB",
-                "heroID": "Nature81",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174735.jpg",
-                "id": 81,
-                "designer": "Nature",
-                "name": "Nature 6",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174735_resize_10.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "1.9MB",
-                "heroID": "Nature80",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174727.jpg",
-                "id": 80,
-                "designer": "Nature",
-                "name": "Nature 5",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174727_resize_44.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "1.9MB",
-                "heroID": "Nature79",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174549.jpg",
-                "id": 79,
-                "designer": "Nature",
-                "name": "Nature 4",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174549_resize_37.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "2.2MB",
-                "heroID": "Nature78",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174542.jpg",
-                "id": 78,
-                "designer": "Nature",
-                "name": "Nature 3",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174542_resize_68.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "1.6MB",
-                "heroID": "Nature77",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174701.jpg?dl=0",
-                "id": 77,
-                "designer": "Nature",
-                "name": "Nature 2",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174701_resize_91.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "1.6MB",
-                "heroID": "Nature76",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174528.jpg",
-                "id": 76,
-                "designer": "Nature",
-                "name": "Nature 1",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/20210617_174528_resize_27.jpg",
-                "__collections__": {}
-            },
-            {
-                "downloads": 23,
-                "size": "1.6MB",
-                "heroID": "Nature75",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2003.jpg?dl=0",
-                "id": 75,
-                "designer": "Nature",
-                "name": "Natural 75",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2075_resize_67.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "downloads": 10,
-                "size": "1.7MB",
-                "heroID": "Nature74",
-                "id": 74,
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2074_resize_80.jpg?dl=0",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2002.jpg?dl=0",
-                "name": "Natural 74",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2073_resize_13.jpg?dl=0",
-                "heroID": "Nature73",
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2001.jpg?dl=0",
-                "downloads": 4,
-                "name": "Natural 73",
-                "size": "807KB",
-                "id": 73,
-                "__collections__": {}
-            },
-            {
-                "designer": "Natural",
-                "downloads": 9,
-                "name": "Natural 72",
-                "id": 72,
-                "heroID": "Nature72",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2072_resize_49.jpg?dl=0",
-                "size": "1.1MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2008.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2071_resize_68.jpg?dl=0",
-                "size": "1.6MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2009.jpg?dl=0",
-                "name": "Natural 71",
-                "downloads": 13,
-                "id": 71,
-                "heroID": "Nature71",
-                "designer": "Nature",
-                "__collections__": {}
-            },
-            {
-                "size": "2.1MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2010.jpg?dl=0",
-                "id": 70,
-                "name": "Natural 70",
-                "designer": "Nature",
-                "heroID": "Nature70",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2070_resize_81.jpg?dl=0",
-                "downloads": 6,
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature69",
-                "id": 69,
-                "name": "Natural 69",
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2011.jpg?dl=0",
-                "downloads": 16,
-                "size": "1.9MB",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2069_resize_73.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "downloads": 17,
-                "size": "1.6MB",
-                "heroID": "Nature68",
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2012.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2068_resize_94.jpg?dl=0",
-                "name": "Natural 68",
-                "id": 68,
-                "__collections__": {}
-            },
-            {
-                "downloads": 5,
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2013.jpg?dl=0",
-                "size": "1.2MB",
-                "name": "Natural 67",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2067_resize_28.jpg?dl=0",
-                "heroID": "Nature67",
-                "id": 67,
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 66",
-                "id": 66,
-                "downloads": 15,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2066_resize_50%20%281%29.jpg?dl=0",
-                "size": "1.6MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2014.jpg?dl=0",
-                "heroID": "Nature66",
-                "designer": "Nature",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature65",
-                "size": "1.4MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2015.jpg?dl=0",
-                "id": 65,
-                "downloads": 7,
-                "designer": "Nature",
-                "name": "Natural 65",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2065_resize_80%20%281%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "downloads": 14,
-                "name": "Natural 64",
-                "designer": "Nature",
-                "id": 64,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2064_resize_78%20%281%29.jpg?dl=0",
-                "heroID": "Nature64",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2016.jpg?dl=0",
-                "size": "1.8MB",
-                "__collections__": {}
-            },
-            {
-                "designer": "Nature",
-                "name": "Natural 63",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2017.jpg?dl=0",
-                "heroID": "Nature63",
-                "id": 63,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2063_resize_82.jpg?dl=0",
-                "downloads": 4,
-                "size": "1.7MB",
-                "__collections__": {}
-            },
-            {
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2062_resize_99.jpg?dl=0",
-                "id": 62,
-                "name": "Natural 62",
-                "heroID": "Nature62",
-                "size": "1.6MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2018.jpg?dl=0",
-                "downloads": 7,
-                "__collections__": {}
-            },
-            {
-                "size": "943KB",
-                "name": "Natural 61",
-                "heroID": "Nature61",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2061_resize_36.jpg?dl=0",
-                "id": 61,
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2019.jpg?dl=0",
-                "downloads": 4,
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 60",
-                "downloads": 3,
-                "size": "2.0MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2020.jpg?dl=0",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2060_resize_58.jpg?dl=0",
-                "heroID": "Nature60",
-                "id": 60,
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2021.jpg?dl=0",
-                "heroID": "Nature59",
-                "id": 59,
-                "downloads": 6,
-                "size": "2.1MB",
-                "name": "Natural 59",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2059_resize_68.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "downloads": 8,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2058_resize_63.jpg?dl=0",
-                "id": 58,
-                "name": "Natural 58",
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2022.jpg?dl=0",
-                "heroID": "Nature58",
-                "size": "2.4MB",
-                "__collections__": {}
-            },
-            {
-                "size": "1.1MB",
-                "downloads": 7,
-                "id": 57,
-                "heroID": "Nature57",
-                "name": "Natural 57",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2057_resize_88.jpg?dl=0",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2023.jpg?dl=0",
-                "designer": "Nature",
-                "__collections__": {}
-            },
-            {
-                "designer": "Nature",
-                "name": "Nature 56",
-                "downloads": 9,
-                "id": 56,
-                "heroID": "Nature56",
-                "size": "2.7MB",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2024.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature55",
-                "size": "964KB",
-                "name": "Nature 55",
-                "designer": "Nature",
-                "id": 55,
-                "downloads": 8,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Beach%2025.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature54",
-                "name": "Natural 54",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2054_resize_37.jpg?dl=0",
-                "id": 54,
-                "size": "1.6Mb",
-                "downloads": 11,
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc30605.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "id": 53,
-                "name": "Natural 53",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc44862.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2053_resize_77.jpg?dl=0",
-                "size": "2.1Mb",
-                "downloads": 9,
-                "designer": "Nature",
-                "heroID": "Nature53",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2052_resize_22.jpg?dl=0",
-                "heroID": "Nature52",
-                "downloads": 13,
-                "id": 52,
-                "name": "Natural 52",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc49941.jpg?dl=0",
-                "size": "1.8Mb",
-                "designer": "Nature",
-                "__collections__": {}
-            },
-            {
-                "id": 51,
-                "name": "Natural 51",
-                "heroID": "Nature51",
-                "size": "835.6Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc46602.jpg?dl=0",
-                "designer": "Nature",
-                "downloads": 13,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2051_resize_44.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2050_resize_41.jpg?dl=0",
-                "downloads": 10,
-                "designer": "Nature",
-                "size": "2.4Mb",
-                "heroID": "Nature50",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc31404.jpg?dl=0",
-                "name": "Natural 50",
-                "id": 50,
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2049_resize_8.jpg?dl=0",
-                "name": "Natural 49",
-                "id": 49,
-                "downloads": 22,
-                "heroID": "Nature49",
-                "designer": "Nature",
-                "size": "1.6Mb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc55973.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "id": 48,
-                "designer": "Nature",
-                "name": "Natural 48",
-                "heroID": "Nature48",
-                "size": "2.4Mb",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2048_resize_2.jpg?dl=0",
-                "downloads": 24,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc32466.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "size": "1.5Mb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc55869.jpg?dl=0",
-                "name": "Natural 47",
-                "downloads": 15,
-                "heroID": "Nature47",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2047_resize_77.jpg?dl=0",
-                "id": 47,
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 46",
-                "size": "2.4Mb",
-                "heroID": "Nature46",
-                "id": 46,
-                "designer": "Nature",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc16833.jpg?dl=0",
-                "downloads": 20,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2046_resize_64.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc51536.jpg?dl=0",
-                "designer": "Nature",
-                "id": 45,
-                "size": "1.7Mb",
-                "name": "Natural 45",
-                "downloads": 8,
-                "heroID": "Nature45",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2045_resize_75.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc53384.jpg?dl=0",
-                "name": "Natural 44",
-                "id": 44,
-                "downloads": 12,
-                "size": "1.8Mb",
-                "designer": "Nature",
-                "heroID": "Nature44",
-                "__collections__": {}
-            },
-            {
-                "id": 43,
-                "downloads": 11,
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2043_resize_80.jpg?dl=0",
-                "size": "2.4Mb",
-                "name": "Natural 43",
-                "heroID": "Nature43",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc53493.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 42",
-                "designer": "Nature",
-                "downloads": 14,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2042_resize_24.jpg?dl=0",
-                "id": 42,
-                "size": "2.1Mb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/orsrc56674.jpg?dl=0",
-                "heroID": "Nature42",
-                "__collections__": {}
-            },
-            {
-                "downloads": 17,
-                "heroID": "Nature41",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%289%29.jpg?dl=0",
-                "name": "Natural 41",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2041_resize_99.jpg?dl=0",
-                "id": 41,
-                "size": "606Kb",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2040_resize_77.jpg?dl=0",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%285%29.jpg?dl=0",
-                "id": 40,
-                "heroID": "Nature40",
-                "name": "Natural 40",
-                "designer": "Nature",
-                "downloads": 5,
-                "size": "1.2Mb",
-                "__collections__": {}
-            },
-            {
-                "id": 39,
-                "size": "146Kb",
-                "heroID": "Nature39",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2039_resize_4.jpg?dl=0",
-                "name": "Natural 39",
-                "downloads": 8,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%284%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2038_resize_5.jpg?dl=0",
-                "id": 38,
-                "designer": "Nature",
-                "size": "961.4Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%283%29.jpg?dl=0",
-                "downloads": 5,
-                "heroID": "Nature38",
-                "name": "Natural 38",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%2814%29.jpg?dl=0",
-                "size": "895Kb",
-                "name": "Natural 37",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2037_resize_6.jpg?dl=0",
-                "designer": "Nature",
-                "id": 37,
-                "downloads": 5,
-                "heroID": "Nature37",
-                "__collections__": {}
-            },
-            {
-                "downloads": 5,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2036_resize_94.jpg?dl=0",
-                "size": "1.1Mb",
-                "heroID": "Nature36",
-                "name": "Natural 36",
-                "designer": "Nature",
-                "id": 36,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%2813%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2035_resize_59.jpg?dl=0",
-                "designer": "Nature",
-                "size": "1.6Mb",
-                "id": 35,
-                "heroID": "Nature35",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%2815%29.jpg?dl=0",
-                "downloads": 4,
-                "name": "Natural 35",
-                "__collections__": {}
-            },
-            {
-                "downloads": 8,
-                "id": 34,
-                "designer": "Nature",
-                "size": "730Kb",
-                "name": "Natural 34",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%2812%29.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2034_resize_89.jpg?dl=0",
-                "heroID": "Nature34",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature33",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2033_resize_68.jpg?dl=0",
-                "name": "Natural 33",
-                "size": "506Kb",
-                "id": 33,
-                "downloads": 15,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%2811%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "id": 32,
-                "designer": "Nature",
-                "size": "718Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%2810%29.jpg?dl=0",
-                "name": "Natural 32",
-                "downloads": 22,
-                "heroID": "Nature32",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2032_resize_80.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "id": 31,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%288%29.jpg?dl=0",
-                "downloads": 11,
-                "heroID": "Nature31",
-                "name": "Natural 31",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2031_resize_59.jpg?dl=0",
-                "size": "581Kb",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature30",
-                "size": "465Kb",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2030_resize_27%20%281%29.jpg?dl=0",
-                "downloads": 7,
-                "id": 30,
-                "designer": "Nature",
-                "name": "Natural 30",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%287%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 29",
-                "heroID": "Nature29",
-                "designer": "Nature",
-                "size": "500Kb",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2029_resize_2.jpg?dl=0",
-                "id": 29,
-                "downloads": 6,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%286%29.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%282%29.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2028_resize_92.jpg?dl=0",
-                "name": "Natural 28",
-                "heroID": "Nature28",
-                "id": 28,
-                "size": "320Kb",
-                "designer": "Nature",
-                "downloads": 1,
-                "__collections__": {}
-            },
-            {
-                "downloads": 12,
-                "heroID": "Nature27",
-                "id": 27,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature%20%281%29.jpg?dl=0",
-                "size": "850Kb",
-                "name": "Natural 27",
-                "designer": "Nature",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2027_resize_68.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature26",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Sky-Lilac-Shades-Field-Trees-Grass-Flowers-Summer-Wallpaper-1080x1920.jpg?dl=0",
-                "downloads": 10,
-                "id": 26,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2026_resize_81.jpg?dl=0",
-                "designer": "Natural",
-                "name": "Natural 26",
-                "size": "1Mb",
-                "__collections__": {}
-            },
-            {
-                "downloads": 6,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Silhouette-Sunset-Alone-Wallpaper-1080x1920.jpg?dl=0",
-                "name": "Natural 25",
-                "heroID": "Nature25",
-                "designer": "Natural",
-                "id": 25,
-                "size": "1Mb",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2025_resize_63.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2024_resize_64.jpg?dl=0",
-                "size": "1Mb",
-                "name": "Natural 24",
-                "downloads": 8,
-                "id": 24,
-                "heroID": "Nature24",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Road-Trees-Marking-Wallpaper-1080x1920.jpg?dl=0",
-                "designer": "Natural",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2023_resize_68.jpg?dl=0",
-                "name": "Natural 23",
-                "id": 23,
-                "heroID": "Nature23",
-                "size": "403Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Palm-Tree-Night-Sky-Branches-Wallpaper-1080x1920.jpg?dl=0",
-                "designer": "Natural",
-                "downloads": 8,
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Nature-Forest-Dawn-Winter-Mountains-Wallpaper-1080x1920.jpg?dl=0",
-                "size": "994Kb",
-                "heroID": "Nature22",
-                "id": 22,
-                "downloads": 4,
-                "designer": "Natural",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2022_resize_30.jpg?dl=0",
-                "name": "Natural 22",
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 21",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2021_resize_97.jpg?dl=0",
-                "designer": "Natural",
-                "downloads": 8,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Mountains-Lake-Sunset-Wallpaper-1080x1920.jpg?dl=0",
-                "id": 21,
-                "size": "408Kb",
-                "heroID": "Nature21",
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 20",
-                "heroID": "Nature20",
-                "id": 20,
-                "downloads": 10,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2020_resize_30.jpg?dl=0",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Mountains-Fog-Landscape-Wallpaper-1080x1920.jpg?dl=0",
-                "designer": "Natural",
-                "size": "998Kb",
-                "__collections__": {}
-            },
-            {
-                "size": "996Kb",
-                "downloads": 8,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Mountain-Top-Snow-Wallpaper-1080x1920.jpg?dl=0",
-                "heroID": "Nature19",
-                "id": 19,
-                "designer": "Natural",
-                "name": "Natural 19",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2019_resize_79.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "downloads": 8,
-                "heroID": "Nature18",
-                "designer": "Natural",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2018_resize_38.jpg?dl=0",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157258.jpg?dl=0",
-                "name": "Natural 18",
-                "id": 18,
-                "size": "267Kb",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature17",
-                "designer": "Natural",
-                "size": "202Kb",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2017_resize_9.jpg?dl=0",
-                "downloads": 7,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157244.jpg?dl=0",
-                "id": 17,
-                "name": "Natural 17",
-                "__collections__": {}
-            },
-            {
-                "downloads": 5,
-                "name": "Natural 16",
-                "heroID": "Nature16",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2016_resize_49.jpg?dl=0",
-                "id": 16,
-                "designer": "Natural",
-                "size": "269Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157242.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157221.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2015_resize_51.jpg?dl=0",
-                "heroID": "Nature15",
-                "size": "106Kb",
-                "name": "Natural 15",
-                "downloads": 13,
-                "designer": "Natural",
-                "id": 15,
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2014_resize_26.jpg?dl=0",
-                "downloads": 14,
-                "designer": "Natural",
-                "heroID": "Nature14",
-                "size": "377Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157219.jpg?dl=0",
-                "name": "Natural 14",
-                "id": 14,
-                "__collections__": {}
-            },
-            {
-                "downloads": 6,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157171.jpg?dl=0",
-                "name": "Natural 13",
-                "id": 13,
-                "size": "198Kb",
-                "designer": "Natural",
-                "heroID": "Nature13",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2013_resize_27.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "size": "172Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157126.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2012_resize_52.jpg?dl=0",
-                "heroID": "Nature12",
-                "designer": "Natural",
-                "id": 12,
-                "name": "Natural 12",
-                "downloads": 11,
-                "__collections__": {}
-            },
-            {
-                "downloads": 13,
-                "size": "464Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157124.jpg?dl=0",
-                "designer": "Natural",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2011_resize_70.jpg?dl=0",
-                "id": 11,
-                "heroID": "Nature11",
-                "name": "Natural 11",
-                "__collections__": {}
-            },
-            {
-                "id": 10,
-                "designer": "Natural",
-                "size": "132Kb",
-                "name": "Natural 10",
-                "downloads": 2,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157113.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%2010_resize_88.jpg?dl=0",
-                "heroID": "Nature10",
-                "__collections__": {}
-            },
-            {
-                "size": "333Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157096.jpg?dl=0",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%209_resize_3.jpg?dl=0",
-                "id": 9,
-                "name": "Natural 9",
-                "downloads": 9,
-                "designer": "Natural",
-                "heroID": "Nature9",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157079.jpg?dl=0",
-                "downloads": 5,
-                "id": 8,
-                "designer": "Natural",
-                "size": "380Kb",
-                "heroID": "Nature8",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%208_resize_27.jpg?dl=0",
-                "name": "Natural 8",
-                "__collections__": {}
-            },
-            {
-                "name": "Natural 7",
-                "downloads": 8,
-                "id": 7,
-                "designer": "Natural",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%207_resize_42.jpg?dl=0",
-                "heroID": "Nature7",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157068.jpg?dl=0",
-                "size": "287Kb",
-                "__collections__": {}
-            },
-            {
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157064.jpg?dl=0",
-                "downloads": 2,
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%206_resize_13.jpg?dl=0",
-                "id": 6,
-                "size": "390Kb",
-                "designer": "Natural",
-                "heroID": "Nature6",
-                "name": "Natural 6",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature5",
-                "id": 5,
-                "size": "179Kb",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%205_resize_0.jpg?dl=0",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157060.jpg?dl=0",
-                "name": "Natural 5",
-                "downloads": 4,
-                "designer": "Natural",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%204_resize_21.jpg?dl=0",
-                "size": "299Kb",
-                "downloads": 6,
-                "designer": "Natural",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157058.jpg?dl=0",
-                "id": 4,
-                "name": "Natural 4",
-                "heroID": "Nature4",
-                "__collections__": {}
-            },
-            {
-                "heroID": "Nature3",
-                "downloads": 1,
-                "designer": "Natural",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%203_resize_55.jpg?dl=0",
-                "name": "Natural 3",
-                "id": 3,
-                "size": "230Kb",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157055.jpg?dl=0",
-                "__collections__": {}
-            },
-            {
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%202_resize_24.jpg?dl=0",
-                "size": "138Kb",
-                "downloads": 4,
-                "id": 2,
-                "designer": "Natural",
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/157053.jpg?dl=0",
-                "name": "Natural 2",
-                "heroID": "Nature2",
-                "__collections__": {}
-            },
-            {
-                "id": 1,
-                "imageUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/95154.jpg?dl=0",
-                "name": "Natural 1",
-                "designer": "Natural",
-                "compressUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Category/Nature/Dropbox/Natural%201_resize_27.jpg?dl=0",
-                "downloads": 6,
-                "heroID": "Nature1",
-                "size": "504Kb",
-                "__collections__": {}
             }
         ]
     }

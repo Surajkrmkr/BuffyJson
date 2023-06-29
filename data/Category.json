@@ -103,21 +103,15 @@
       "__collections__": {}
     },
     {
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Sunview.png",
-      "id": 18,
-      "name": "Sunview",
-      "__collections__": {}
-    },
-    {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
       "name": "Super Heroes",
-      "id": 19,
+      "id": 18,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Suraj.png",
       "name": "Suraj",
-      "id": 20,
+      "id": 19,
       "__collections__": {}
     }
   ]
