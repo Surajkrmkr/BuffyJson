@@ -61,39 +61,33 @@
       "__collections__": {}
     },
     {
-      "name": "Minimal Illustration",
-      "id": 11,
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Minimal%20Illustrations.png",
-      "__collections__": {}
-    },
-    {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Minimal.png",
-      "id": 12,
+      "id": 11,
       "name": "Minimal",
       "__collections__": {}
     },
     {
       "name": "Nature",
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Nature.png",
-      "id": 13,
+      "id": 12,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Pastel.png",
       "name": "Pastel",
-      "id": 14,
+      "id": 13,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
       "name": "Super Heroes",
-      "id": 15,
+      "id": 14,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Suraj.png",
       "name": "Suraj",
-      "id": 16,
+      "id": 15,
       "__collections__": {}
     }
   ]
