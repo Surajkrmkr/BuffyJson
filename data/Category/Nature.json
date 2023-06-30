@@ -2,6 +2,39 @@
     "Nature": {
         "Images": [
             {
+                "id": 43,
+                "heroID": "Nature43",
+                "downloads": 0,
+                "name": "Sunview 15",
+                "designer": "Sumit",
+                "size": "146Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2016.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2016-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 42,
+                "heroID": "Nature42",
+                "downloads": 0,
+                "name": "Sunview 14",
+                "designer": "Sumit",
+                "size": "85.1Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2015.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2015-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 41,
+                "heroID": "Nature41",
+                "downloads": 0,
+                "name": "Sunview 13",
+                "designer": "Sumit",
+                "size": "85.1Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2014.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2014-small.png",
+                "isPremium": true
+            },
+            {
                 "heroID": "Nature40",
                 "designer": "Sunview",
                 "id": 40,
@@ -10,8 +43,8 @@
                 "downloads": 4,
                 "name": "Sunview 12",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/yzr844gupwrn03r/IMG_20201228_101514_926.jpg?dl=0"
-              },
-              {
+            },
+            {
                 "name": "Sunview 11",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/ltz1pawgh74l5sc/IMG_20201228_101508_881.jpg?dl=0",
                 "size": "326.3Kb",
@@ -20,8 +53,8 @@
                 "designer": "Sunview",
                 "compressUrl": "https://dl.dropboxusercontent.com/s/f1nws92sjo1iur0/IMG_20201228_101508_881_resize_0.jpg?dl=0",
                 "heroID": "Nature39"
-              },
-              {
+            },
+            {
                 "heroID": "Nature38",
                 "compressUrl": "https://dl.dropboxusercontent.com/s/yu87d51z0iflm5q/IMG_20201228_101520_920_resize_41.jpg?dl=0",
                 "name": "Sunview 10",
@@ -30,8 +63,8 @@
                 "id": 38,
                 "designer": "Sunview",
                 "size": "251.8Kb"
-              },
-              {
+            },
+            {
                 "id": 37,
                 "name": "Sunview 9",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/vioqadsng6oo7r9/IMG_20201228_101519_316.jpg?dl=0",
@@ -40,8 +73,8 @@
                 "compressUrl": "https://dl.dropboxusercontent.com/s/8idviopfhg9ctlb/IMG_20201228_101519_316_resize_77.jpg?dl=0",
                 "heroID": "Nature37",
                 "downloads": 5
-              },
-              {
+            },
+            {
                 "size": "298.5Kb",
                 "id": 36,
                 "downloads": 3,
@@ -50,8 +83,8 @@
                 "compressUrl": "https://dl.dropboxusercontent.com/s/795wrq4d484j37m/IMG_20201228_101512_689_resize_33.jpg?dl=0",
                 "heroID": "Nature36",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/myb2r4x2eie5e69/IMG_20201228_101512_689.jpg?dl=0"
-              },
-              {
+            },
+            {
                 "imageUrl": "https://dl.dropboxusercontent.com/s/oa0z1buupolj84t/IMG_20201228_101551_764.jpg?dl=0",
                 "name": "Sunview 7",
                 "compressUrl": "https://dl.dropboxusercontent.com/s/vuqq2txc992nalj/IMG_20201228_101551_764_resize_92.jpg?dl=0",
@@ -60,8 +93,8 @@
                 "size": "638.7Kb",
                 "heroID": "Nature35",
                 "designer": "Sunview"
-              },
-              {
+            },
+            {
                 "id": 34,
                 "name": "Sunview 6",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/bwvmzn4y8habmg1/IMG_20201228_101511_142.jpg?dl=0",
@@ -70,8 +103,8 @@
                 "heroID": "Nature34",
                 "size": "299.6Kb",
                 "compressUrl": "https://dl.dropboxusercontent.com/s/wrhau507i8wree2/IMG_20201228_101511_142_resize_73.jpg?dl=0"
-              },
-              {
+            },
+            {
                 "downloads": 10,
                 "heroID": "Nature33",
                 "id": 33,
@@ -80,8 +113,8 @@
                 "compressUrl": "https://dl.dropboxusercontent.com/s/cczfg09qzzhjxil/IMG_20201228_101556_235_resize_52.jpg?dl=0",
                 "name": "Sunview 5",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/xo85hw7ppzelb6l/IMG_20201228_101556_235.jpg?dl=0"
-              },
-              {
+            },
+            {
                 "name": "Sunview 4",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/qtqq7h3e9t9f2yu/IMG_20201228_101541_814.jpg?dl=0",
                 "designer": "Sunview",
@@ -90,8 +123,8 @@
                 "downloads": 2,
                 "id": 32,
                 "size": "306.1Kb"
-              },
-              {
+            },
+            {
                 "downloads": 5,
                 "imageUrl": "https://dl.dropboxusercontent.com/s/ofx1mso2nxfljhy/IMG_20201228_101544_434.jpg?dl=0",
                 "size": "454.2Kb",
@@ -100,8 +133,8 @@
                 "heroID": "Nature31",
                 "designer": "Sunview",
                 "compressUrl": "https://dl.dropboxusercontent.com/s/gg28329xjc5gn3j/IMG_20201228_101544_434_resize_37.jpg?dl=0"
-              },
-              {
+            },
+            {
                 "heroID": "Nature30",
                 "name": "Sunview 2",
                 "size": "555.9Kb",
@@ -110,8 +143,8 @@
                 "id": 30,
                 "imageUrl": "https://dl.dropboxusercontent.com/s/zmcqxh981xgorra/IMG_20201228_101539_306.jpg?dl=0",
                 "designer": "Sunview"
-              },
-              {
+            },
+            {
                 "designer": "Sumit",
                 "heroID": "Nature29",
                 "downloads": 8,
@@ -120,7 +153,7 @@
                 "size": "154.5Kb",
                 "name": "Sunview 1",
                 "imageUrl": "https://dl.dropboxusercontent.com/s/7j0fsp2b3kosmxe/IMG_20201228_101540_273.jpg?dl=0"
-              },
+            },
             {
                 "id": 28,
                 "heroID": "Nature28",
@@ -240,7 +273,7 @@
                 "imageUrl": "https://dl.dropboxusercontent.com/s/zh0eefkn9ezwe9l/IMG_20201228_101554_428.jpg?dl=0",
                 "size": "1.1Mb",
                 "downloads": 9
-              },
+            },
             {
                 "id": 17,
                 "heroID": "Nature17",

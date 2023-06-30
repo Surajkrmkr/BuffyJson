@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 754,
+            "heroID": "popular754",
+            "downloads": 0,
+            "name": "Sunview 15",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "85.1Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2016.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2016-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 753,
+            "heroID": "popular753",
+            "downloads": 0,
+            "name": "Sunview 14",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "85.1Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2015.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2015-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 752,
+            "heroID": "popular752",
+            "downloads": 0,
+            "name": "Sunview 13",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "85.1Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2014.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2014-small.png",
+            "isPremium": true
+        },
+        {
             "id": 751,
             "heroID": "popular751",
             "downloads": 0,
