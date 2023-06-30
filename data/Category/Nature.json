@@ -2,6 +2,99 @@
     "Nature": {
         "Images": [
             {
+                "id": 52,
+                "heroID": "Nature52",
+                "downloads": 0,
+                "name": "Dark Night 03",
+                "designer": "Piyush KPV",
+                "size": "608Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Dark%20Night%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Thumbnails/Dark%20Night%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 51,
+                "heroID": "Nature51",
+                "downloads": 0,
+                "name": "Dark Night 02",
+                "designer": "Piyush KPV",
+                "size": "1.67Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Dark%20Night%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Thumbnails/Dark%20Night%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 50,
+                "heroID": "Nature50",
+                "downloads": 0,
+                "name": "Dark Night 01",
+                "designer": "Piyush KPV",
+                "size": "1.60Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Dark%20Night%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Night%20Life/Thumbnails/Dark%20Night%201-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 49,
+                "heroID": "Nature49",
+                "downloads": 0,
+                "name": "Night Desert",
+                "designer": "Admin",
+                "size": "3.96Mb",
+                "imageUrl": "https://github.com/piyush-kpv/Newest/raw/main/5.png",
+                "compressUrl": "https://github.com/piyush-kpv/Newest/raw/main/5-small.png"
+            },
+            {
+                "id": 48,
+                "heroID": "Nature48",
+                "downloads": 0,
+                "name": "The Night Life",
+                "designer": "Buffy",
+                "size": "1.56Mb",
+                "imageUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(4).jpg",
+                "compressUrl": "https://github.com/piyushkpv/new/raw/main/jannext%20(4)_resize_3.jpg"
+            },
+            {
+                "id": 47,
+                "heroID": "Nature47",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/yaeuzyqr0wj3fj1/IMG_20210101_142638_097_resize_46.jpg?dl=0",
+                "downloads": 2,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/zimnrwbn3acr7bv/IMG_20210101_142638_097.jpg?dl=0",
+                "designer": "BuffyWalls",
+                "size": "346.4Kb",
+                "name": "Night Camp 1"
+            },
+            {
+                "id": 46,
+                "name": "Night Camp 2",
+                "downloads": 5,
+                "designer": "BuffyWalls",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/w7cgb2evl0z7tpr/IMG_20210101_142627_975_resize_75.jpg?dl=0",
+                "size": "430.7Kb",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/7anpq1r23nn3fgv/IMG_20210101_142627_975.jpg?dl=0",
+                "heroID": "Nature46"
+            },
+            {
+                "designer": "BuffyWalls",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/j3ypvar8ufidhhq/IMG_20210101_142641_406_resize_15.jpg?dl=0",
+                "id": 45,
+                "name": "Night Camp 3",
+                "heroID": "Nature45",
+                "downloads": 3,
+                "size": "346.1Kb",
+                "imageUrl": "https://dl.dropboxusercontent.com/s/pld66kdfqtji5p9/IMG_20210101_142641_406.jpg?dl=0"
+            },
+            {
+                "name": "Night Camp 4",
+                "heroID": "Nature44",
+                "compressUrl": "https://dl.dropboxusercontent.com/s/gmepmdv4hbwgoeh/IMG_20210101_142646_087_resize_81.jpg?dl=0",
+                "id": 44,
+                "imageUrl": "https://dl.dropboxusercontent.com/s/j7ulwqgenas9j4j/IMG_20210101_142646_087.jpg?dl=0",
+                "size": "348.1Kb",
+                "downloads": 3,
+                "designer": "BuffyWalls"
+            },
+            {
                 "id": 43,
                 "heroID": "Nature43",
                 "downloads": 0,
