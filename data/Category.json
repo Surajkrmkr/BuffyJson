@@ -31,81 +31,69 @@
       "__collections__": {}
     },
     {
-      "name": "Celebrations",
-      "id": 6,
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Celebrations.png",
-      "__collections__": {}
-    },
-    {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Creative.png",
-      "id": 7,
+      "id": 6,
       "name": "Creative",
       "__collections__": {}
     },
     {
       "name": "Foody",
-      "id": 8,
+      "id": 7,
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Foody.png",
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Games.png",
       "name": "Games",
-      "id": 9,
+      "id": 8,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Gradient.png",
       "name": "Gradient",
-      "id": 10,
+      "id": 9,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Horror.png",
-      "id": 11,
+      "id": 10,
       "name": "Horror",
       "__collections__": {}
     },
     {
       "name": "Minimal Illustration",
-      "id": 12,
+      "id": 11,
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Minimal%20Illustrations.png",
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Minimal.png",
-      "id": 13,
+      "id": 12,
       "name": "Minimal",
-      "__collections__": {}
-    },
-    {
-      "id": 14,
-      "name": "Movies & Series",
-      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Movies.png",
       "__collections__": {}
     },
     {
       "name": "Nature",
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Nature.png",
-      "id": 15,
+      "id": 13,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Pastel.png",
       "name": "Pastel",
-      "id": 16,
+      "id": 14,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Superheroes.png",
       "name": "Super Heroes",
-      "id": 17,
+      "id": 15,
       "__collections__": {}
     },
     {
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Suraj.png",
       "name": "Suraj",
-      "id": 18,
+      "id": 16,
       "__collections__": {}
     }
   ]
