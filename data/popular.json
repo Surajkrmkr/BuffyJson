@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 757,
+            "heroID": "popular757",
+            "downloads": 0,
+            "name": "Dark Night 06",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "36Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dark%20Night%2006.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dark%20Night%2006-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 756,
+            "heroID": "popular756",
+            "downloads": 0,
+            "name": "Dark Night 05",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "36Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dark%20Night%2005.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dark%20Night%2005-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 755,
+            "heroID": "popular755",
+            "downloads": 0,
+            "name": "Dark Night 04",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "36Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dark%20Night%2004.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dark%20Night%2004-small.png",
+            "isPremium": true
+        },
+        {
             "id": 754,
             "heroID": "popular754",
             "downloads": 0,
