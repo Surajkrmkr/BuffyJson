@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 766,
+            "heroID": "popular766",
+            "downloads": 0,
+            "name": "Dark Night 08",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "36Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dark%20Night%2008.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dark%20Night%2008-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 765,
+            "heroID": "popular765",
+            "downloads": 0,
+            "name": "Dark Night 07",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "36Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Dark%20Night%2007.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Dark%20Night%2007-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 764,
+            "heroID": "popular764",
+            "downloads": 0,
+            "name": "Sunview 19",
+            "designer": "Sumit",
+            "category": "Nature",
+            "size": "85.1Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Sunview%2020.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Sunview%2020-small.png",
+            "isPremium": true
+        },
+        {
             "id": 763,
             "heroID": "popular763",
             "downloads": 0,
