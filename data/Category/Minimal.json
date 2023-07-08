@@ -2,6 +2,39 @@
     "Minimal": {
         "Images": [
             {
+                "id": 156,
+                "heroID": "Minimal156",
+                "downloads": 0,
+                "name": "Minimal 9",
+                "designer": "Piyush KPV",
+                "size": "500Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Minimal%209.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Minimal%209-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 155,
+                "heroID": "Minimal155",
+                "downloads": 0,
+                "name": "Minimal 8",
+                "designer": "Piyush KPV",
+                "size": "500Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Minimal%208.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Minimal%208-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 154,
+                "heroID": "Minimal154",
+                "downloads": 0,
+                "name": "Minimal 7",
+                "designer": "Piyush KPV",
+                "size": "500Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Minimal%207.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Minimal%207-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 153,
                 "heroID": "Minimal153",
                 "downloads": 0,
