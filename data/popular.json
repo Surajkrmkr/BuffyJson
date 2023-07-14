@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 781,
+            "heroID": "popular781",
+            "downloads": 0,
+            "name": "Abstract 07",
+            "designer": "Sumit",
+            "category": "Abstract",
+            "size": "1.23Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Abstract%207.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Abstract%207-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 780,
+            "heroID": "popular780",
+            "downloads": 0,
+            "name": "Abstract 06",
+            "designer": "Sumit",
+            "category": "Abstract",
+            "size": "1.23Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Abstract%206.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Abstract%206-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 779,
+            "heroID": "popular779",
+            "downloads": 0,
+            "name": "Abstract 05",
+            "designer": "Sumit",
+            "size": "1.23Mb",
+            "category": "Abstract",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Abstract%205.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Abstract%205-small.png",
+            "isPremium": true
+        },
+        {
             "id": 778,
             "heroID": "popular778",
             "downloads": 0,
