@@ -2,6 +2,86 @@
     "Nature": {
         "Images": [
             {
+                "id": 75,
+                "heroID": "Nature75",
+                "downloads": 0,
+                "name": "Vibrant Flower 8",
+                "designer": "Piyush KPV",
+                "size": "3.07Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%208.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%208-small.png"
+            },
+            {
+                "id": 74,
+                "heroID": "Nature74",
+                "downloads": 0,
+                "name": "Vibrant Flower 7",
+                "designer": "Piyush KPV",
+                "size": "2.62Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%207.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%207-small.png"
+            },
+            {
+                "id": 73,
+                "heroID": "Nature73",
+                "downloads": 0,
+                "name": "Vibrant Flower 6",
+                "designer": "Piyush KPV",
+                "size": "2.68Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%206.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%206-small.png"
+            },
+            {
+                "id": 72,
+                "heroID": "Nature72",
+                "downloads": 0,
+                "name": "Vibrant Flower 5",
+                "designer": "Piyush KPV",
+                "size": "3.74Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%205.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%205-small.png"
+            },
+            {
+                "id": 71,
+                "heroID": "Nature71",
+                "downloads": 0,
+                "name": "Vibrant Flower 4",
+                "designer": "Piyush KPV",
+                "size": "2.75Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%204.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%204-small.png"
+            },
+            {
+                "id": 70,
+                "heroID": "Nature70",
+                "downloads": 0,
+                "name": "Vibrant Flower 3",
+                "designer": "Piyush KPV",
+                "size": "2.45Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%203-small.png"
+            },
+            {
+                "id": 69,
+                "heroID": "Nature69",
+                "downloads": 0,
+                "name": "Vibrant Flower 2",
+                "designer": "Piyush KPV",
+                "size": "2.77Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%202-small.png"
+            },
+            {
+                "id": 68,
+                "heroID": "Nature68",
+                "downloads": 0,
+                "name": "Vibrant Flower 1",
+                "designer": "Piyush KPV",
+                "size": "2.65Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Vibrant%20Flowers%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Vibrant%20Flowers%201-small.png"
+            },
+            {
                 "id": 67,
                 "heroID": "Nature67",
                 "downloads": 0,
