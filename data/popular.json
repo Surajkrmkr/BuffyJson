@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 784,
+            "heroID": "popular784",
+            "downloads": 0,
+            "name": "Lays Chips",
+            "category": "Foody",
+            "designer": "Sumit",
+            "size": "2.04Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Lays%20Chip.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Lays%20Chip-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 783,
+            "heroID": "popular783",
+            "downloads": 0,
+            "name": "French Fries",
+            "category": "Foody",
+            "designer": "Sumit",
+            "size": "2.04Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/French%20Fries.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/French%20Fries-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 782,
+            "heroID": "popular782",
+            "downloads": 0,
+            "name": "Cadbury",
+            "designer": "Sumit",
+            "category": "Foody",
+            "size": "2.04Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Cadbury.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Foody/Thumbnail/Cadbury-small.png",
+            "isPremium": true
+        },
+        {
             "id": 781,
             "heroID": "popular781",
             "downloads": 0,
