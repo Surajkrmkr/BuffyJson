@@ -2,6 +2,39 @@
     "Nature": {
         "Images": [
             {
+                "id": 78,
+                "heroID": "Nature78",
+                "downloads": 0,
+                "name": "Majestic Tree 3",
+                "designer": "Piyush KPV",
+                "size": "3.95mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Majestic%20Tree%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Majestic%20Tree%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 77,
+                "heroID": "Nature77",
+                "downloads": 0,
+                "name": "Majestic Tree 2",
+                "designer": "Piyush KPV",
+                "size": "3.62mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Majestic%20Tree%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Majestic%20Tree%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 76,
+                "heroID": "Nature76",
+                "downloads": 0,
+                "name": "Majestic Tree 1",
+                "designer": "Piyush KPV",
+                "size": "3.74mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Majestic%20Tree%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Majestic%20Tree%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 75,
                 "heroID": "Nature75",
                 "downloads": 0,
