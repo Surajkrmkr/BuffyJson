@@ -1,6 +1,39 @@
 {
     "Trending": [
         {
+            "id": 214,
+            "heroID": "Trending214",
+            "downloads": 0,
+            "name": "Foggy Mountains 3",
+            "category": "Nature",
+            "designer": "Piyush KPV",
+            "size": "1.39Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Foggy%20Mountains%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Foggy%20Mountains%203-small.png"
+        },
+        {
+            "id": 213,
+            "heroID": "Trending213",
+            "downloads": 0,
+            "name": "Foggy Mountains 2",
+            "category": "Nature",
+            "designer": "Piyush KPV",
+            "size": "1.33Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Foggy%20Mountains%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Foggy%20Mountains%202-small.png"
+        },
+        {
+            "id": 212,
+            "heroID": "Trending212",
+            "downloads": 0,
+            "name": "Foggy Mountains 1",
+            "category": "Nature",
+            "designer": "Piyush KPV",
+            "size": "1.30Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Foggy%20Mountains%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Foggy%20Mountains%201-small.png"
+        },
+        {
             "id": 211,
             "heroID": "Trending211",
             "downloads": 0,

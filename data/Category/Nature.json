@@ -2,6 +2,36 @@
     "Nature": {
         "Images": [
             {
+                "id": 83,
+                "heroID": "Nature83",
+                "downloads": 0,
+                "name": "Foggy Mountains 3",
+                "designer": "Piyush KPV",
+                "size": "1.39Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Foggy%20Mountains%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Foggy%20Mountains%203-small.png"
+            },
+            {
+                "id": 82,
+                "heroID": "Nature82",
+                "downloads": 0,
+                "name": "Foggy Mountains 2",
+                "designer": "Piyush KPV",
+                "size": "1.33Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Foggy%20Mountains%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Foggy%20Mountains%202-small.png"
+            },
+            {
+                "id": 81,
+                "heroID": "Nature81",
+                "downloads": 0,
+                "name": "Foggy Mountains 1",
+                "designer": "Piyush KPV",
+                "size": "1.30Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Foggy%20Mountains%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Foggy%20Mountains%201-small.png"
+            },
+            {
                 "id": 80,
                 "heroID": "Nature80",
                 "downloads": 0,
