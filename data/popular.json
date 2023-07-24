@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 789,
+            "heroID": "popular789",
+            "downloads": 0,
+            "name": "Ocean Sunset 2",
+            "designer": "Piyush KPV",
+            "category": "Nature",
+            "size": "2.12Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Ocean%20Sunset%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Ocean%20Sunset%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 788,
+            "heroID": "popular788",
+            "downloads": 0,
+            "name": "Ocean Sunset 1",
+            "designer": "Piyush KPV",
+            "category": "Nature",
+            "size": "2.61Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Ocean%20Sunset%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Nature/Thumbnail/Ocean%20Sunset%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 787,
             "heroID": "popular787",
             "downloads": 0,
