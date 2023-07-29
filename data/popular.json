@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 795,
+            "heroID": "popular795",
+            "downloads": 0,
+            "name": "Majestic Pheonix 3",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "1.98Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Majestic%20Pheonix%203.png?ref_type=heads",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Majestic%20Pheonix%203-small.png?ref_type=heads",
+            "isPremium": true
+        },
+        {
+            "id": 794,
+            "heroID": "popular794",
+            "downloads": 0,
+            "name": "Majestic Pheonix 2",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "2.10Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Majestic%20Pheonix%202.png?ref_type=heads",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Majestic%20Pheonix%202-small.png?ref_type=heads",
+            "isPremium": true
+        },
+        {
+            "id": 793,
+            "heroID": "popular793",
+            "downloads": 0,
+            "name": "Majestic Pheonix 1",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "2.29Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Majestic%20Pheonix%201.png?ref_type=heads",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Majestic%20Pheonix%201-small.png?ref_type=heads",
+            "isPremium": true
+        },
+        {
             "id": 792,
             "heroID": "popular792",
             "downloads": 0,
