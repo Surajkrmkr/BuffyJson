@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 802,
+            "heroID": "popular802",
+            "downloads": 0,
+            "name": "Retro Style",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "3.04Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Retro%20Style.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Retro%20Style-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 801,
+            "heroID": "popular801",
+            "downloads": 0,
+            "name": "Naruto",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "3.07Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Naruto.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Naruto-small.png",
+            "isPremium": true
+        },
+        {
             "id": 800,
             "heroID": "popular800",
             "downloads": 0,
