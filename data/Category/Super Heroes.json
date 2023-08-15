@@ -2,6 +2,28 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 92,
+                "heroID": "Super Heroes92",
+                "downloads": 0,
+                "name": "The Flash",
+                "designer": "Piyush KPV",
+                "size": "3.09Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/The%20Flash.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/The%20Flash-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 91,
+                "heroID": "Super Heroes91",
+                "downloads": 0,
+                "name": "Superman",
+                "designer": "Piyush KPV",
+                "size": "2.80Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Superman.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Superman-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 90,
                 "heroID": "Super Heroes90",
                 "downloads": 0,
