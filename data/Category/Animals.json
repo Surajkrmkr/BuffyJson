@@ -2,6 +2,39 @@
     "Animals": {
         "Images": [
             {
+                "id": 76,
+                "heroID": "Animals76",
+                "downloads": 0,
+                "name": "Shark 3",
+                "designer": "Piyush KPV",
+                "size": "1.74Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Shark%203.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Shark%203-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 75,
+                "heroID": "Animals75",
+                "downloads": 0,
+                "name": "Shark 2",
+                "designer": "Piyush KPV",
+                "size": "1.74Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Shark%202.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Shark%202-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 75,
+                "heroID": "Animals75",
+                "downloads": 0,
+                "name": "Shark 1",
+                "designer": "Piyush KPV",
+                "size": "1.74Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Shark%201.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Shark%201-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 74,
                 "heroID": "Animals74",
                 "downloads": 0,
