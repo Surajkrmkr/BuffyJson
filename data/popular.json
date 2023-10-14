@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 810,
+            "heroID": "popular810",
+            "downloads": 0,
+            "name": "Cooby Dog 3",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "2.63Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cooby%20Dog%203.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cooby%20Dog%203-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 809,
+            "heroID": "popular809",
+            "downloads": 0,
+            "name": "Cooby Dog 2",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "2.26Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cooby%20Dog%202.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cooby%20Dog%202-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 808,
+            "heroID": "popular808",
+            "downloads": 0,
+            "name": "Cooby Dog 1",
+            "designer": "Buffy",
+            "category": "Animals",
+            "size": "2.58Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Cooby%20Dog%201.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Cooby%20Dog%201-small.png",
+            "isPremium": true
+        },
+        {
             "id": 807,
             "heroID": "popular807",
             "downloads": 0,
