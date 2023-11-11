@@ -1,6 +1,11 @@
 {
   "Featured": [
     {
+      "redirectUrl": "http://s.mi.com/YfMtNhVD",
+      "id": 1,
+      "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Buffy%204.png"
+    },
+    {
       "redirectUrl": "https://t.me/TeamShadow_Studio",
       "id": 1,
       "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Banners/Buffy%203.png"
