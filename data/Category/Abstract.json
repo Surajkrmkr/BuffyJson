@@ -2,6 +2,17 @@
     "Abstract": {
         "Images": [
             {
+                "id": 219,
+                "heroID": "Abstract219",
+                "downloads": 0,
+                "name": "Golden Elegance",
+                "designer": "Piyush KPV",
+                "size": "5.69Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Golden%20Elegance.png?",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Golden%20Elegance-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 218,
                 "heroID": "Abstract218",
                 "downloads": 0,

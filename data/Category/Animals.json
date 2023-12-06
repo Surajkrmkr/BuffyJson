@@ -2,6 +2,17 @@
     "Animals": {
         "Images": [
             {
+                "id": 81,
+                "heroID": "Animals81",
+                "downloads": 0,
+                "name": "Midnight Raven",
+                "designer": "Piyush KPV",
+                "size": "6.06Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Midnight%20Raven.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Midnight%20Raven-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 80,
                 "heroID": "Animals80",
                 "downloads": 0,

@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 812,
+            "heroID": "popular812",
+            "downloads": 0,
+            "name": "Golden Elegance",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "5.69Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Golden%20Elegance.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Golden%20Elegance-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 811,
+            "heroID": "popular811",
+            "downloads": 0,
+            "name": "Midnight Raven",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "6.06Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Midnight%20Raven.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Midnight%20Raven-small.png",
+            "isPremium": true
+        },
+        {
             "id": 810,
             "heroID": "popular810",
             "downloads": 0,
