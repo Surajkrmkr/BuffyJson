@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 814,
+            "heroID": "popular814",
+            "downloads": 0,
+            "name": "Puppy in Love",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "7.81Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Puppy%20in%20Love.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Puppy%20in%20Love-small.png?",
+            "isPremium": true
+        },
+        {
+            "id": 813,
+            "heroID": "popular813",
+            "downloads": 0,
+            "name": "Dark Dreams",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "4.15Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Dark%20Dreams.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Dark%20Dreams-small.png?",
+            "isPremium": true
+        },
+        {
             "id": 812,
             "heroID": "popular812",
             "downloads": 0,

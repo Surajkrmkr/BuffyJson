@@ -2,6 +2,17 @@
     "Animals": {
         "Images": [
             {
+                "id": 82,
+                "heroID": "Animals82",
+                "downloads": 0,
+                "name": "Puppy in Love",
+                "designer": "Piyush KPV",
+                "size": "7.81Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Puppy%20in%20Love.png?",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Puppy%20in%20Love-small.png?",
+                "isPremium": true
+            },
+            {
                 "id": 81,
                 "heroID": "Animals81",
                 "downloads": 0,
