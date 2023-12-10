@@ -2,6 +2,17 @@
     "Cartoon": {
         "Images": [
             {
+                "id": 146,
+                "heroID": "Cartoon146",
+                "downloads": 0,
+                "name": "Chibi Master",
+                "designer": "Piyush KPV",
+                "size": "5.07Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Chibi%20Master.png?",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Chibi%20Master-small.png?",
+                "isPremium": true
+            },
+            {
                 "id": 145,
                 "heroID": "Cartoon145",
                 "downloads": 0,

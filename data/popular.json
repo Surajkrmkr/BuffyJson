@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 818,
+            "heroID": "popular818",
+            "downloads": 0,
+            "name": "Detective Spiderman",
+            "designer": "Piyush KPV",
+            "category": "Super Heroes",
+            "size": "4.98Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Detective%20Spiderman.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Detective%20Spiderman-small.png?",
+            "isPremium": true
+        },
+        {
+            "id": 817,
+            "heroID": "popular817",
+            "downloads": 0,
+            "name": "Chibi Master",
+            "designer": "Piyush KPV",
+            "category": "Cartoon",
+            "size": "5.07Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Chibi%20Master.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Cartoon/Thumbnails/Chibi%20Master-small.png?",
+            "isPremium": true
+        },
+        {
             "id": 816,
             "heroID": "popular816",
             "downloads": 0,
