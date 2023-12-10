@@ -2,6 +2,17 @@
     "Animals": {
         "Images": [
             {
+                "id": 83,
+                "heroID": "Animals83",
+                "downloads": 0,
+                "name": "Vibrant Chaos",
+                "designer": "Piyush KPV",
+                "size": "7.25Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Vibrant%20Chaos.png?",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Vibrant%20Chaos-small.png?",
+                "isPremium": true
+            },
+            {
                 "id": 82,
                 "heroID": "Animals82",
                 "downloads": 0,

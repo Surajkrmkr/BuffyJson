@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 816,
+            "heroID": "popular816",
+            "downloads": 0,
+            "name": "Vibrant Chaos",
+            "designer": "Piyush KPV",
+            "category": "Animals",
+            "size": "7.25Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Vibrant%20Chaos.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Animals/Thumbnails/Vibrant%20Chaos-small.png?",
+            "isPremium": true
+        },
+        {
+            "id": 815,
+            "heroID": "popular815",
+            "downloads": 0,
+            "name": "Dreamland",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "4.15Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Dreamland.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Dreamland-small.png",
+            "isPremium": true
+        },
+        {
             "id": 814,
             "heroID": "popular814",
             "downloads": 0,
