@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 820,
+            "heroID": "popular820",
+            "downloads": 0,
+            "name": "Vibrant Chaos",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "5.85Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Vibrant%20Chaos.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Vibrant%20Chaos-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 819,
+            "heroID": "popular819",
+            "downloads": 0,
+            "name": "Dreams",
+            "designer": "Piyush KPV",
+            "category": "Abstract",
+            "size": "5.13Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Dreams.png?",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Abstract/Thumbnails/Dreams-small.png",
+            "isPremium": true
+        },
+        {
             "id": 818,
             "heroID": "popular818",
             "downloads": 0,
