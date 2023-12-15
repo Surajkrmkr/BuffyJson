@@ -1,6 +1,30 @@
 {
     "popular": [
         {
+            "id": 822,
+            "heroID": "popular822",
+            "downloads": 0,
+            "name": "Amber Night",
+            "designer": "Piyush KPV",
+            "category": "Horror",
+            "size": "6.28Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Amber%20Night.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Amber%20Night-small.png",
+            "isPremium": true
+        },
+        {
+            "id": 821,
+            "heroID": "popular821",
+            "downloads": 0,
+            "name": "Purple Nightmare",
+            "designer": "Piyush KPV",
+            "category": "Horror",
+            "size": "5.51Mb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Purple%20Nightmare.png",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Horror/Thumbnail/Purple%20Nightmare-small.png",
+            "isPremium": true
+        },
+        {
             "id": 820,
             "heroID": "popular820",
             "downloads": 0,
