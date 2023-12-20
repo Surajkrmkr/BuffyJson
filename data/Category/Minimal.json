@@ -2,6 +2,36 @@
     "Minimal": {
         "Images": [
             {
+                "id": 165,
+                "heroID": "Minimal165",
+                "downloads": 0,
+                "name": "Minimal 18",
+                "designer": "Piyush KPV",
+                "size": "1.22Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Minimal%2018.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Minimal%2018-small.png"
+            },
+            {
+                "id": 164,
+                "heroID": "Minimal164",
+                "downloads": 0,
+                "name": "Minimal 17",
+                "designer": "Piyush KPV",
+                "size": "1.19Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Minimal%2017.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Minimal%2017-small.png"
+            },
+            {
+                "id": 163,
+                "heroID": "Minimal163",
+                "downloads": 0,
+                "name": "Minimal 16",
+                "designer": "Piyush KPV",
+                "size": "1.23Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Minimal%2016.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Minimal/Thumbnails/Minimal%2016-small.png"
+            },
+            {
                 "id": 162,
                 "heroID": "Minimal162",
                 "downloads": 0,
