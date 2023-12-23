@@ -2,6 +2,39 @@
     "Pastel": {
         "Images": [
             {
+                "id": 23,
+                "heroID": "Pastel23",
+                "downloads": 0,
+                "name": "Pastel 19",
+                "designer": "Sumit",
+                "size": "539Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Pastel%2019.jpg",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Thumbnails/Pastel%2019-small.png?",
+                "isPremium": true
+            },
+            {
+                "id": 22,
+                "heroID": "Pastel22",
+                "downloads": 0,
+                "name": "Pastel 18",
+                "designer": "Sumit",
+                "size": "512Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Pastel%2018.jpg",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Thumbnails/Pastel%2018-small.png?",
+                "isPremium": true
+            },
+            {
+                "id": 21,
+                "heroID": "Pastel21",
+                "downloads": 0,
+                "name": "Pastel 17",
+                "designer": "Sumit",
+                "size": "443Kb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Pastel%2017.jpg",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Thumbnails/Pastel%2017-small.png?",
+                "isPremium": true
+            },
+            {
                 "id": 20,
                 "heroID": "Pastel20",
                 "downloads": 0,

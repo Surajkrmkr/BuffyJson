@@ -1,6 +1,42 @@
 {
     "popular": [
         {
+            "id": 828,
+            "heroID": "popular828",
+            "downloads": 0,
+            "name": "Pastel 19",
+            "designer": "Sumit",
+            "category": "Pastel",
+            "size": "539Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Pastel%2019.jpg",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Thumbnails/Pastel%2019-small.png?",
+            "isPremium": true
+        },
+        {
+            "id": 827,
+            "heroID": "popular827",
+            "downloads": 0,
+            "name": "Pastel 18",
+            "designer": "Sumit",
+            "category": "Pastel",
+            "size": "512Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Pastel%2018.jpg",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Thumbnails/Pastel%2018-small.png?",
+            "isPremium": true
+        },
+        {
+            "id": 826,
+            "heroID": "popular826",
+            "downloads": 0,
+            "name": "Pastel 17",
+            "designer": "Sumit",
+            "category": "Pastel",
+            "size": "443Kb",
+            "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Pastel%2017.jpg",
+            "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Pastel/Thumbnails/Pastel%2017-small.png?",
+            "isPremium": true
+        },
+        {
             "id": 825,
             "heroID": "popular825",
             "downloads": 0,
