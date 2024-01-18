@@ -2,6 +2,39 @@
     "Super Heroes": {
         "Images": [
             {
+                "id": 96,
+                "heroID": "Super Heroes96",
+                "downloads": 0,
+                "name": "Spiderman",
+                "designer": "Team Shadow",
+                "size": "2.54Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Spiderman.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Spiderman-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 95,
+                "heroID": "Super Heroes95",
+                "downloads": 0,
+                "name": "Joker",
+                "designer": "Team Shadow",
+                "size": "2.67Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Joker.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Joker-small.png",
+                "isPremium": true
+            },
+            {
+                "id": 94,
+                "heroID": "Super Heroes94",
+                "downloads": 0,
+                "name": "Venom",
+                "designer": "Team Shadow",
+                "size": "2.53Mb",
+                "imageUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Venom.png",
+                "compressUrl": "https://gitlab.com/piyushkpv/buffy_wall_data/-/raw/main/Superheroes/Thumbnails/Venom-small.png",
+                "isPremium": true
+            },
+            {
                 "id": 93,
                 "heroID": "Super Heroes93",
                 "downloads": 0,
